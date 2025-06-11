@@ -1,0 +1,353 @@
+/* ============================================= */
+/*               THEME VARIABLES                 */
+/* ============================================= */
+:root {
+  /* Brand colors */
+  --md-primary-fg-color: #0066DD;      /* Primary brand color */
+  --md-accent-fg-color: #0066FF;       /* Accent color for interactive elements */
+
+  /* Dark theme colors */
+  --md-default-bg-color: #222;         /* Default background color */
+  --md-header-bg-color: #111111;       /* Header background */
+  --md-default-fg-color: #e6e6e6;      /* Default text color */
+}
+
+:root > * {
+  /* Link colors */
+  --md-typeset-a-color: var(--md-primary-fg-color);
+}
+
+/* ============================================= */
+/*               GLOBAL STYLES                   */
+/* ============================================= */
+body {
+    background-color: #121212 !important;
+    color: var(--md-default-fg-color) !important;
+}
+
+/* ============================================= */
+/*               LAYOUT COMPONENTS               */
+/* ============================================= */
+
+/* Main content area */
+.md-main {
+    background-color: #121212 !important;
+}
+
+.md-content {
+  background-color: white !important;
+  color: #333; /* Dark text for better contrast on white */
+}
+
+/* Header section */
+.md-header {
+  background-color: var(--md-header-bg-color) !important;
+}
+
+.md-header__title {
+  font-weight: bold !important;
+  opacity: 1 !important;
+  transform: none !important;
+  transition: none !important;
+}
+
+.md-header__title > .md-ellipsis {
+  font-weight: inherit !important;
+}
+
+/* ============================================= */
+/*               NAVIGATION STYLES               */
+/* ============================================= */
+
+/* Sidebar container */
+.md-sidebar {
+  color: var(--md-default-fg-color);
+}
+
+/* Navigation container */
+.md-nav {
+    background-color: #121212 !important;
+}
+
+/* Navigation items */
+.md-nav__item {
+    background-color: #121212 !important;
+}
+
+.md-nav__list {
+    background-color: #121212 !important;
+}
+
+/* Navigation links */
+.md-nav__link {
+  color: #e6e6e6;
+}
+
+.md-nav__link--active {
+  color: var(--md-accent-fg-color);
+}
+
+.md-nav__link:hover,
+.md-nav__link--active {
+    background-color: #1e1e1e !important;
+    color: #ffffff !important;
+}
+
+/* Remove decorative elements */
+.md-nav__title,
+.md-nav__link,
+.md-nav__item {
+    background-color: #121212 !important;
+    box-shadow: none !important;
+    border: none !important;
+}
+
+/* Sidebar scrollbar (optional) */
+.md-nav__scrollwrap::-webkit-scrollbar-thumb {
+    background-color: #333 !important;
+}
+
+/* Secondary sidebar */
+.md-sidebar--secondary {
+  border-left: 1px solid #444;
+}
+
+
+/* ============================================= */
+/*               CONTENT ELEMENTS                */
+/* ============================================= */
+
+/* Headers */
+.md-content h1,
+.md-content h2 {
+  color: var(--md-primary-fg-color);
+  border-bottom: 1px solid #eee;
+}
+
+
+/* ============================================= */
+/*               TABLE ROW FIXES                 */
+/* ============================================= */
+.md-typeset {
+  /* Base table styles */
+  table {
+    background-color: #fff !important;
+    color: #333 !important;
+    border: 1px solid #e1e1e1 !important;
+  }
+
+  /* Table headers */
+  table th {
+    background-color: #f5f5f5 !important;
+    color: #121212 !important;
+    border-bottom: 2px solid #ddd !important;
+  }
+
+  /* Default row (odd) */
+  table .row-odd {
+    background-color: #fff !important;
+  }
+
+  /* Alternate row (even) */
+  table .row-even {
+    background-color: #f9f9f9 !important;
+  }
+
+  /* All cells */
+  table td {
+    border-top: 1px solid #eee !important;
+    padding: 0.5em 1em !important;
+  }
+}
+
+/* Code Blocks */
+.md-typeset pre > code {
+  background-color: #f8f8f8;
+  color: #333 !important;
+  border-radius: 4px;
+}
+
+.md-content pre {
+  background-color: #f5f5f5;
+}
+
+/* Admonitions (notes/warnings) */
+.md-typeset .admonition {
+  background-color: rgba(0, 102, 221, 0.1);
+  border-left: 4px solid var(--md-primary-fg-color);
+}
+
+.md-typeset .admonition-title {
+  background-color: rgba(0, 102, 221, 0.2);
+}
+
+/* ============================================= */
+/*               SEARCH COMPONENT                */
+/* ============================================= */
+.md-search__input {
+  background-color: rgba(255, 255, 255, 0.1);
+  color: white;
+}
+
+/* ============================================= */
+/*         UNIVERSAL DARK CODE BLOCK STYLING     */
+/* ============================================= */
+
+/* Target ALL pre-formatted blocks regardless of class */
+pre,
+pre[class*="language-"],
+pre[class*="text"],
+pre.text,
+div.highlight pre {
+  background-color: #2d2d2d !important;
+  color: #f0f0f0 !important;
+  border-radius: 6px;
+  padding: 1.2em;
+  margin: 1.5em 0;
+  overflow-x: auto;
+  font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+  font-size: 0.8em;
+  line-height: 1.5;
+  border-left: 4px solid #6f42c1 !important;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.3) !important;
+
+  /* Critical formatting preservation */
+  white-space: pre !important;
+  tab-size: 4 !important;
+  word-break: normal !important;
+}
+
+/* Target ALL code elements inside pre blocks */
+pre code,
+pre[class*="language-"] code,
+pre[class*="text"] code,
+pre.text code,
+div.highlight pre code {
+  background: transparent !important;
+  color: inherit !important;
+  padding: 0 !important;
+  border: none !important;
+  font-size: inherit !important;
+  font-family: inherit !important;
+  white-space: pre !important;
+}
+
+/* Plain text blocks specific styling */
+pre.text,
+pre[class*="text"] {
+  color: #e8e8e8 !important; /* Slightly brighter for plain text */
+  font-family: inherit;
+}
+
+/* Inline code (single backticks) */
+:not(pre) > code {
+  background-color: #3a3a3a !important;
+  color: #f0f0f0 !important;
+  padding: 0.2em 0.4em;
+  border-radius: 3px;
+  font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+  font-size: 0.8em;
+  border: 1px solid #444 !important;
+  white-space: normal;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  pre {
+    border-radius: 0 !important;
+    margin-left: -1rem;
+    margin-right: -1rem;
+    padding: 1rem !important;
+  }
+}
+
+/* ============================================= */
+/*               IMAGE CENTERING                 */
+/* ============================================= */
+.md-content img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+}
+
+/* For images with captions (common in markdown) */
+.md-content figure {
+  text-align: center;
+  margin: 1.5em auto;
+}
+
+.md-content figcaption {
+  font-style: italic;
+  margin-top: 0.5em;
+}
+
+/* FOOTER */
+/* Reduce footer navigation text size */
+.md-footer-nav__link {
+    font-size: 1.4em !important;
+}
+
+.md-footer__title,
+.md-footer__direction {
+    font-size: 1.4em !important;
+}
+
+/* Remove ONLY the copyright line (keep navigation and Sphinx credits) */
+.md-footer-copyright__highlight {
+    display: none !important;
+}
+
+/* ============================================= */
+/*         CUSTOM INLINE TOP NAV LINKS           */
+/* ============================================= */
+
+/* Make the links inline and remove bullet points */
+.md-header__links .md-nav {
+    display: flex;              /* Use flexbox to align the items horizontally */
+    list-style: none;           /* Remove bullet points from the list */
+    margin: 0;                  /* Remove any default margin */
+    padding: 0;                 /* Remove any default padding */
+}
+
+/* Style for each individual link */
+.md-header__links .md-nav li {
+    margin-right: 20px;         /* Space out the list items */
+}
+
+/* Style for the anchor tags to adjust their appearance */
+.md-header__links .md-nav a {
+    display: inline-block;      /* Ensure the links are inline */
+    text-decoration: none;      /* Remove underline */
+    padding: 8px 15px;          /* Add padding for clickable area */
+    font-size: 16px;            /* Default font size, adjust this value to change the link size */
+    font-weight: 500;           /* Slightly bold text */
+    border-radius: 4px;         /* Optional: Rounded corners */
+    transition: background-color 0.3s, color 0.3s; /* Smooth hover effect */
+}
+
+/* Optional: Hover effect for the links */
+.md-header__links .md-nav a:hover {
+    background-color: blue;  /* Hover background color */
+    color: white;               /* Text color on hover */
+}
+
+/* Language switcher */
+
+.language-switcher {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+    margin-left: 2rem;
+}
+
+.language-switcher a {
+    color: var(--md-primary-fg-color);
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 0.875rem;
+}
+
+.language-switcher a:hover {
+    text-decoration: underline;
+}

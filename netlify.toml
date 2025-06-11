@@ -1,0 +1,46 @@
+[build]
+  publish = "build/html"
+  command = "make all"
+
+[[redirects]]
+  from = "/"
+  to = "/en/"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/en"
+  to = "/en/"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/de"
+  to = "/de/"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/fr"
+  to = "/fr/"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/es"
+  to = "/es/"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/nl"
+  to = "/nl/"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/tr"
+  to = "/tr/"
+  status = 200
+  force = true
+
