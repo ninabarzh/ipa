@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://poweron.tymyrddin.dev"
 languageCode = "en-us"
 title = "Power On"
 defaultContentLanguage = "en"
