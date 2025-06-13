@@ -1,0 +1,83 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Power On"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+
+[build]
+  render = 'always'  # New in v0.146.0
+  writeStats = true  # Helps with debugging
+
+[module]
+  [[module.imports]]
+    path = "github.com/google/docsy"
+    disable = false
+  [[module.imports]]
+    path = "github.com/twbs/bootstrap"
+  [[module.imports]]
+    path = "github.com/FortAwesome/Font-Awesome"
+
+[params]
+  css_style = "bootstrap"
+  disableThemeToggle = false
+  ShowLanguageSwitcher = true
+  menu_primary = ["main"]  # Required for Docsy navigation
+  copyright = "Power On. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+
+  # New performance optimizations
+  enableGitInfo = false
+  enableInlineShortcodes = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = "tango"
+
+# Per-language config
+[languages.en]
+  title = "Power On"
+  languageName = "English"
+  weight = 1
+  contentDir = "content/en"  # Explicit content directories
+  description = "Workshops, labs, and tools to take back control of your devices."
+
+[languages.fr]
+  title = "Power On"
+  languageName = "Français"
+  weight = 2
+  contentDir = "content/fr"
+  description = "Ateliers, laboratoires et outils pour reprendre le contrôle de vos appareils."
+
+[languages.es]
+  title = "Power On"
+  languageName = "Español"
+  weight = 3
+  contentDir = "content/es"
+  description = "Talleres, laboratorios y herramientas para recuperar el control de tus dispositivos."
+
+[languages.de]
+  title = "Power On"
+  languageName = "Deutsch"
+  weight = 4
+  contentDir = "content/de"
+  description = "Workshops, Labore und Tools, um die Kontrolle über deine Geräte zurückzugewinnen."
+
+[languages.nl]
+  title = "Power On"
+  languageName = "Nederlands"
+  weight = 5
+  contentDir = "content/nl"
+  description = "Workshops, labs en tools om weer controle over je apparaten te krijgen."
+
+[languages.tr]
+  title = "Power On"
+  languageName = "Türkçe"
+  weight = 6
+  contentDir = "content/tr"
+  description = "Cihazlarınızın kontrolünü yeniden kazanmak için atölyeler, laboratuvarlar ve araçlar."
+
+[services]
+  [services.googleAnalytics]
+    disable = true  # Disable if not used for better performance
