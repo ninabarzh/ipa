@@ -1,12 +1,17 @@
-[build]
-  publish = "public"
-  command = "hugo --minify"
+# Use this file to configure Netlify's build environment and behaviour
 
 [build.environment]
   HUGO_VERSION = "0.147.3"
+  GO_VERSION = "1.22.2"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
-  GO_VERSION = "1.22.2"
+
+[build]
+  publish = "public"
+  command = "hugo"
+
+#[build]  # Uncomment this when you're ready to minify
+#  command = "hugo --minify"
 
 [context.production.environment]
   HUGO_ENV = "production"
