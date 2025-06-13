@@ -27,6 +27,7 @@ customCSS = ["css/custom.css"]
   menu_primary = ["main"]  # Required for Docsy navigation
   copyright = "Power On. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
   offlineSearch = true
+  site_logo = "images/logo.png"
 
   # New performance optimizations
   enableGitInfo = false
