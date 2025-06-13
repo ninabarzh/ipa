@@ -26,6 +26,7 @@ customCSS = ["css/custom.css"]
   ShowLanguageSwitcher = true
   menu_primary = ["main"]  # Required for Docsy navigation
   copyright = "Power On. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+  offlineSearch = true
 
   # New performance optimizations
   enableGitInfo = false

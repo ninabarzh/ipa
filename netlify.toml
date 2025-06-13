@@ -11,3 +11,8 @@
 
 [context.production.environment]
   HUGO_ENV = "production"
+
+[[headers]]
+  for = "/index.json"
+  [headers.values]
+    Cache-Control = "no-cache"
