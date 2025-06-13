@@ -1,0 +1,14 @@
+.td-footer {
+  min-height: 10px !important;
+  padding-top: 0.1rem !important;
+  background-color: #fff;
+  color: #222;
+}
+
+.td-footer a {
+  color: #333
+}
+
+.td-footer a:hover {
+  color: #444
+}

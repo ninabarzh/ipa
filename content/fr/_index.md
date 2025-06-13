@@ -7,6 +7,6 @@ description: Ateliers, outils et guides pour sécuriser vos appareils, échapper
 {{% param description %}}
 
 <a class="btn btn-lg btn-secondary" href="docs/guides/">Commencer</a>
-<a class="btn btn-lg btn-primary me-3" href="a-propos/">En savoir plus</a>
+<a class="btn btn-lg btn-success me-3" href="a-propos/">En savoir plus</a>
 
 {{% /blocks/cover %}}

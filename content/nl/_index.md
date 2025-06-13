@@ -7,6 +7,6 @@ description: Workshops, tools en handleidingen om apparaten te beveiligen, surve
 {{% param description %}}
 
 <a class="btn btn-lg btn-secondary" href="docs/handleidingen/">Aan de slag</a>
-<a class="btn btn-lg btn-primary me-3" href="over-ons/">Meer leren</a>
+<a class="btn btn-lg btn-success me-3" href="over-ons/">Meer leren</a>
 
 {{% /blocks/cover %}}

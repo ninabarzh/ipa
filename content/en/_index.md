@@ -7,6 +7,6 @@ description: Workshops, tools, and guides to secure devices, evade surveillance,
 {{% param description %}}
 
 <a class="btn btn-lg btn-secondary" href="docs/guides/">Get started</a>
-<a class="btn btn-lg btn-primary me-3" href="about/">Learn More</a>
+<a class="btn btn-lg btn-success me-3" href="about/">Learn More</a>
 
 {{% /blocks/cover %}}

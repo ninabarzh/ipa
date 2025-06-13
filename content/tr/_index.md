@@ -7,6 +7,6 @@ description: Cihazları güvence altına almak, gözetimden kaçınmak ve özerk
 {{% param description %}}
 
 <a class="btn btn-lg btn-secondary" href="docs/rehberler/">Başlarken</a>
-<a class="btn btn-lg btn-primary me-3" href="hakkinda/">Daha fazla bilgi</a>
+<a class="btn btn-lg btn-success me-3" href="hakkinda/">Daha fazla bilgi</a>
 
 {{% /blocks/cover %}}

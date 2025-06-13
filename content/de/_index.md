@@ -7,6 +7,6 @@ description: Workshops, Tools und Anleitungen zum Sichern von Geräten, Umgehen 
 {{% param description %}}
 
 <a class="btn btn-lg btn-secondary" href="docs/anleitungen/">Erste Schritte</a>
-<a class="btn btn-lg btn-primary me-3" href="uber-uns/">Mehr erfahren</a>
+<a class="btn btn-lg btn-success me-3" href="uber-uns/">Mehr erfahren</a>
 
 {{% /blocks/cover %}}

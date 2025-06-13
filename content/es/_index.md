@@ -7,6 +7,6 @@ description: Talleres, herramientas y guías para proteger dispositivos, evadir 
 {{% param description %}}
 
 <a class="btn btn-lg btn-secondary" href="docs/guias/">Commencer</a>
-<a class="btn btn-lg btn-primary me-3" href="acerca-de/">Empezar</a>
+<a class="btn btn-lg btn-success me-3" href="acerca-de/">Empezar</a>
 
 {{% /blocks/cover %}}
