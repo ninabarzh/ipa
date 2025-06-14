@@ -12,13 +12,13 @@
 [context.production.environment]
   HUGO_ENV = "production"
 
-# Your existing header for index.json
+# Prevent caching index.json (used by Lunr.js)
 [[headers]]
   for = "/index.json"
   [headers.values]
     Cache-Control = "no-cache"
 
-# Security headers for all routes
+# Global security headers
 [[headers]]
   for = "/*"
   [headers.values]
@@ -27,4 +27,10 @@
     Referrer-Policy = "strict-origin-when-cross-origin"
     Permissions-Policy = "camera=(), microphone=(), geolocation=()"
     Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"
-    Content-Security-Policy = "default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; object-src 'none'; base-uri 'self';"
+    Content-Security-Policy = '''
+      default-src 'self';
+      script-src 'self' 'unsafe-inline';
+      style-src 'self' 'unsafe-inline';
+      object-src 'none';
+      base-uri 'self';
+    '''
