@@ -1,92 +1,82 @@
-document.addEventListener("DOMContentLoaded", function () {
-  let lang = document.documentElement.lang || "en";
+// public/js/search.js
+(function () {
+  const lang = document.documentElement.lang || 'en';
+  const indexPath = `/${lang}/index.json`;
+  const searchInput = document.getElementById("search-input");
+  const resultsList = document.getElementById("search-results");
 
-  // Fallback to 'en' if language plugin is missing
-  if (lang !== "en" && !lunr[lang]) {
-    console.warn(`Lunr plugin for '${lang}' not found. Falling back to English.`);
-    lang = "en";
-  }
+  if (!searchInput) return;
 
-  const searchInput = document.getElementById("searchbox");
-  const searchResults = document.getElementById("searchresults");
+  // Map of supported language codes to Lunr plugins
+  const langSupport = {
+    en: null,
+    fr: lunr.fr,
+    de: lunr.de,
+    es: lunr.es,
+    nl: lunr.nl,
+    tr: lunr.tr,
+  };
 
-  if (!searchInput || !searchResults) {
-    console.warn("Search input or result container not found.");
-    return;
-  }
+  // If language isn't supported, fallback to English
+  const normalisedLang = langSupport[lang] ? lang : 'en';
 
-  let index = null;
-  let documents = [];
-
-  // Load the search index JSON
-  fetch(`/${lang}/index.json`)
-    .then(response => {
+  fetch(indexPath)
+    .then((response) => {
       if (!response.ok) {
-        throw new Error(`Could not load search index for language: ${lang}`);
+        throw new Error(`Failed to fetch search index for ${lang}: ${response.status}`);
       }
       return response.json();
     })
-    .then(data => {
-      documents = data;
+    .then((data) => {
+      // Initialise Lunr with the correct language pipeline
+      let idx;
 
-      // Initialise the language plugin if needed
-      if (lang !== "en" && lunr[lang]) {
-        lunr[lang].call(lunr);
+      if (normalisedLang === 'en') {
+        idx = lunr(function () {
+          this.ref("permalink");
+          this.field("title");
+          this.field("content");
+          data.forEach((doc) => this.add(doc));
+        });
+      } else {
+        idx = lunr(function () {
+          this.use(langSupport[normalisedLang]);
+          this.ref("permalink");
+          this.field("title");
+          this.field("content");
+          data.forEach((doc) => this.add(doc));
+        });
       }
 
-      // Build the index
-      index = lunr(function () {
-        if (lang !== "en" && this.use) {
-          this.use(lunr[lang]);
+      console.log(`Search index for '${normalisedLang}' loaded.`);
+
+      searchInput.addEventListener("input", function () {
+        const query = this.value.trim();
+        resultsList.innerHTML = "";
+
+        if (!query) return;
+
+        const results = idx.search(query);
+
+        if (results.length === 0) {
+          resultsList.innerHTML = "<li>No results found</li>";
+          return;
         }
 
-        this.ref("permalink");
-        this.field("title");
-        this.field("summary");
-        this.field("content");
-
-        data.forEach(doc => this.add(doc));
+        results.forEach((result) => {
+          const match = data.find((d) => d.permalink === result.ref);
+          if (match) {
+            const li = document.createElement("li");
+            const a = document.createElement("a");
+            a.href = match.permalink;
+            a.textContent = match.title || match.permalink;
+            li.appendChild(a);
+            resultsList.appendChild(li);
+          }
+        });
       });
-
-      console.log(`Search index for '${lang}' loaded.`);
     })
-    .catch(err => {
-      console.error("Search index load failed:", err);
+    .catch((err) => {
+      console.error("Search initialisation failed:", err);
     });
-
-  // Handle search input
-  searchInput.addEventListener("input", function () {
-    const query = this.value.trim();
-
-    if (!index || !query) {
-      searchResults.innerHTML = "";
-      return;
-    }
-
-    const results = index.search(query);
-    displayResults(results);
-  });
-
-  function displayResults(results) {
-    if (results.length === 0) {
-      searchResults.innerHTML = "<p>No results found</p>";
-      return;
-    }
-
-    const output = results
-      .map(result => {
-        const doc = documents.find(d => d.permalink === result.ref);
-        if (!doc) return "";
-
-        return `
-          <div class="search-result">
-            <a href="${doc.permalink}"><strong>${doc.title}</strong></a><br/>
-            <small>${doc.summary || doc.content.slice(0, 100)}...</small>
-          </div>
-        `;
-      })
-      .join("");
-
-    searchResults.innerHTML = output;
-  }
-});
+})();

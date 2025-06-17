@@ -12,9 +12,19 @@
 [context.production.environment]
   HUGO_ENV = "production"
 
-# Prevent caching index.json (used by Lunr.js)
+# Prevent caching any search indexes
 [[headers]]
   for = "/index.json"
+  [headers.values]
+    Cache-Control = "no-cache"
+
+[[headers]]
+  for = "/en/index.json"
+  [headers.values]
+    Cache-Control = "no-cache"
+
+[[headers]]
+  for = "/de/index.json"
   [headers.values]
     Cache-Control = "no-cache"
 
@@ -29,8 +39,11 @@
     Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"
     Content-Security-Policy = '''
       default-src 'self';
-      script-src 'self' 'unsafe-inline';
-      style-src 'self' 'unsafe-inline';
+      script-src 'self';
+      style-src 'self';
+      font-src 'self';
+      img-src 'self' data:;
+      connect-src 'self';
       object-src 'none';
       base-uri 'self';
     '''
