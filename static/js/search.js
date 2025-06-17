@@ -1,5 +1,12 @@
 document.addEventListener("DOMContentLoaded", function () {
-  const lang = document.documentElement.lang || "en";
+  let lang = document.documentElement.lang || "en";
+
+  // Fallback to 'en' if language plugin is missing
+  if (lang !== "en" && !lunr[lang]) {
+    console.warn(`Lunr plugin for '${lang}' not found. Falling back to English.`);
+    lang = "en";
+  }
+
   const searchInput = document.getElementById("searchbox");
   const searchResults = document.getElementById("searchresults");
 
@@ -11,7 +18,7 @@ document.addEventListener("DOMContentLoaded", function () {
   let index = null;
   let documents = [];
 
-  // Load the JSON index for the current language
+  // Load the search index JSON
   fetch(`/${lang}/index.json`)
     .then(response => {
       if (!response.ok) {
@@ -22,7 +29,17 @@ document.addEventListener("DOMContentLoaded", function () {
     .then(data => {
       documents = data;
 
+      // Initialise the language plugin if needed
+      if (lang !== "en" && lunr[lang]) {
+        lunr[lang].call(lunr);
+      }
+
+      // Build the index
       index = lunr(function () {
+        if (lang !== "en" && this.use) {
+          this.use(lunr[lang]);
+        }
+
         this.ref("permalink");
         this.field("title");
         this.field("summary");
@@ -31,13 +48,13 @@ document.addEventListener("DOMContentLoaded", function () {
         data.forEach(doc => this.add(doc));
       });
 
-      console.log(`Search index for ${lang} loaded.`);
+      console.log(`Search index for '${lang}' loaded.`);
     })
     .catch(err => {
       console.error("Search index load failed:", err);
     });
 
-  // Search on input
+  // Handle search input
   searchInput.addEventListener("input", function () {
     const query = this.value.trim();
 
@@ -59,10 +76,14 @@ document.addEventListener("DOMContentLoaded", function () {
     const output = results
       .map(result => {
         const doc = documents.find(d => d.permalink === result.ref);
-        return `<div class="search-result">
-                  <a href="${doc.permalink}"><strong>${doc.title}</strong></a><br/>
-                  <small>${doc.summary || doc.content.slice(0, 100)}...</small>
-                </div>`;
+        if (!doc) return "";
+
+        return `
+          <div class="search-result">
+            <a href="${doc.permalink}"><strong>${doc.title}</strong></a><br/>
+            <small>${doc.summary || doc.content.slice(0, 100)}...</small>
+          </div>
+        `;
       })
       .join("");
 

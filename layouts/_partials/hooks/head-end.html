@@ -1,6 +1,16 @@
 <link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
 
 {{- /* Injected custom scripts */ -}}
-<script src="{{ "js/lunr.js" | relURL }}"></script>
-<script src="{{ "js/search.js" | relURL }}"></script>
 
+<!-- Core -->
+<script src="{{ "js/lunr.js" | relURL }}"></script>
+<!-- stemmer -->
+<script src="{{ "js/lunr.stemmer.support.js" | relURL }}"></script>
+<!-- Languages as needed -->
+<script src="{{ "js/lunr.fr.js" | relURL }}"></script>
+<script src="{{ "js/lunr.de.js" | relURL }}"></script>
+<script src="{{ "js/lunr.es.js" | relURL }}"></script>
+<script src="{{ "js/lunr.nl.js" | relURL }}"></script>
+<script src="{{ "js/lunr.tr.js" | relURL }}"></script>
+<!-- search -->
+<script src="{{ "js/search.js" | relURL }}"></script>
