@@ -87,7 +87,7 @@ This will output to the `public/` directory.
 
 ## License
 
-Content and code are open source. See [LICENSE](LICENSE) for details.
+Content and code are open source. See [LICENSE](https://creativecommons.org/licenses/by/4.0/) for details.
 
 ## Notes
 

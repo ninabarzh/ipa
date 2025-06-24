@@ -8,5 +8,6 @@ menu:
     weight: 10
     identifier: "en-lab"
     parent: "en-docs"
+translationKey: "lab"
 ---
 Tools and tactics for shelters.

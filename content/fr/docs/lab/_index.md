@@ -8,5 +8,6 @@ menu:
     weight: 10
     identifier: "fr-lab"
     parent: "fr-docs"
+translationKey: "lab"
 ---
 Outils et tactiques pour les refuges.

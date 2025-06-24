@@ -8,5 +8,6 @@ menu:
     weight: 10
     identifier: "tr-lab"
     parent: "tr-docs"
+translationKey: "lab"
 ---
 Sığınaklar için araçlar ve taktikler.
