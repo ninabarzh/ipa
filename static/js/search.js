@@ -45,13 +45,53 @@ document.addEventListener('DOMContentLoaded', function() {
         validDocs.forEach(doc => this.add(doc));
       });
 
+      // Helper function to escape regex special characters
+      function escapeRegExp(string) {
+        return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+      }
+
+      // Helper function to highlight search terms
+      function highlightMatches(text, query) {
+        if (!text || !query) return text || '';
+        const terms = query.trim().split(/\s+/).filter(term => term.length > 2);
+        if (!terms.length) return text;
+
+        return terms.reduce((result, term) => {
+          const regex = new RegExp(`(${escapeRegExp(term)})`, 'gi');
+          return result.replace(regex, '<span class="search-highlight">$1</span>');
+        }, text);
+      }
+
+      // Helper function to get content preview with context
+      function getContentPreview(content, query) {
+        if (!content) return '';
+        const terms = query.trim().split(/\s+/).filter(term => term.length > 2);
+        if (!terms.length) return content.substring(0, 150) + '...';
+
+        // Find position of first matching term
+        const firstMatchPos = terms.reduce((pos, term) => {
+          const termPos = content.toLowerCase().indexOf(term.toLowerCase());
+          return termPos > -1 && (pos === -1 || termPos < pos) ? termPos : pos;
+        }, -1);
+
+        if (firstMatchPos > -1) {
+          const start = Math.max(0, firstMatchPos - 50);
+          const end = Math.min(content.length, firstMatchPos + terms[0].length + 50);
+          let preview = content.slice(start, end);
+          if (start > 0) preview = '...' + preview;
+          if (end < content.length) preview += '...';
+          return highlightMatches(preview, query);
+        }
+        return highlightMatches(content.substring(0, 150) + '...', query);
+      }
+
       // Perform search function
       const doSearch = (query) => {
         query = query.trim();
         resultsContainer.innerHTML = '';
 
         if (query.length < 2) {
-          resultsContainer.innerHTML = `<div class="px-3">${t('minimumChars')}</div>`;
+          resultsContainer.innerHTML = `<div class="px-3 py-2">${t('minimumChars')}</div>`;
           return;
         }
 
@@ -61,7 +101,10 @@ document.addEventListener('DOMContentLoaded', function() {
           const results = idx.search(normalizedQuery);
 
           if (!results.length) {
-            resultsContainer.innerHTML = `<div class="px-3">${t('noResults')} "${query}"</div>`;
+            resultsContainer.innerHTML = `
+              <div class="px-3 py-2">
+                ${t('noResults')} "<span class="search-highlight">${query}</span>"
+              </div>`;
             return;
           }
 
@@ -70,19 +113,27 @@ document.addEventListener('DOMContentLoaded', function() {
             if (!doc) return;
 
             const item = document.createElement('div');
-            item.className = 'mb-3 px-3 border-bottom';
+            item.className = 'search-result p-3 border-bottom';
             item.innerHTML = `
-              <a href="${doc.permalink}" class="d-block h5 mb-1">
-                ${doc.title || t('untitled')}
+              <a href="${doc.permalink}" class="d-block h5 mb-1 text-primary">
+                ${highlightMatches(doc.title || t('untitled'), query)}
               </a>
-              ${doc.description ? `<p class="mb-1 text-muted">${doc.description}</p>` : ''}
-              <div class="text-truncate small">${(doc.content || '').substring(0, 150)}...</div>
+              ${doc.description ? `
+                <p class="mb-1 text-muted">
+                  ${highlightMatches(doc.description, query)}
+                </p>` : ''}
+              <div class="search-content small">
+                ${getContentPreview(doc.content, query)}
+              </div>
             `;
             resultsContainer.appendChild(item);
           });
         } catch (err) {
           console.error('Search error:', err);
-          resultsContainer.innerHTML = `<div class="px-3 text-danger">${t('searchError')}</div>`;
+          resultsContainer.innerHTML = `
+            <div class="px-3 py-2 text-danger">
+              ${t('searchError')}
+            </div>`;
         }
       };
 
@@ -110,6 +161,9 @@ document.addEventListener('DOMContentLoaded', function() {
     })
     .catch(err => {
       console.error('Search init failed:', err);
-      resultsContainer.innerHTML = `<div class="px-3 text-danger">${t('searchError')}</div>`;
+      resultsContainer.innerHTML = `
+        <div class="px-3 py-2 text-danger">
+          ${t('searchError')}
+        </div>`;
     });
 });

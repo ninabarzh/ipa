@@ -7,13 +7,6 @@
     {{- $description := .Params.description | default "" -}}
     {{- $content := .Plain | default "" -}}
 
-    {{- /* Normalize case for Turkish and Dutch */ -}}
-    {{- if in (slice "tr" "nl") $lang -}}
-      {{- $title = $title | lower -}}
-      {{- $description = $description | lower -}}
-      {{- $content = $content | lower -}}
-    {{- end -}}
-
     {{- $index = $index | append (dict
       "title" $title
       "description" $description

@@ -12,3 +12,51 @@
 .td-footer a:hover {
   color: #444
 }
+
+/* Search Results Styling */
+.search-result {
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  border-bottom: 1px solid #eee;
+  transition: all 0.2s ease;
+}
+
+.search-result:hover {
+  background-color: #f9f9f9;
+}
+
+.search-result-title {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  color: #2c3e50;
+}
+
+.search-result-description {
+  color: #7f8c8d;
+  margin-bottom: 0.5rem;
+}
+
+.search-result-content {
+  color: #34495e;
+  line-height: 1.6;
+}
+
+.search-highlight {
+  background-color: #fffde7;
+  padding: 0 2px;
+  border-radius: 3px;
+  font-weight: bold;
+  color: #e65100;
+}
+
+.search-no-results {
+  padding: 1rem;
+  color: #7f8c8d;
+  font-style: italic;
+}
+
+.search-error {
+  padding: 1rem;
+  color: #c0392b;
+}
