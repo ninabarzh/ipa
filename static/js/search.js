@@ -34,7 +34,8 @@
       if (normalisedLang === 'en') {
         idx = lunr(function () {
           this.ref("permalink");
-          this.field("title");
+          this.field("title", { boost: 10 });
+          this.field("description", { boost: 5 });
           this.field("content");
           data.forEach((doc) => this.add(doc));
         });
@@ -42,7 +43,8 @@
         idx = lunr(function () {
           this.use(langSupport[normalisedLang]);
           this.ref("permalink");
-          this.field("title");
+          this.field("title", { boost: 10 });
+          this.field("description", { boost: 5 });
           this.field("content");
           data.forEach((doc) => this.add(doc));
         });
@@ -67,10 +69,18 @@
           const match = data.find((d) => d.permalink === result.ref);
           if (match) {
             const li = document.createElement("li");
+
             const a = document.createElement("a");
             a.href = match.permalink;
             a.textContent = match.title || match.permalink;
             li.appendChild(a);
+
+            if (match.description) {
+              const p = document.createElement("p");
+              p.textContent = match.description;
+              li.appendChild(p);
+            }
+
             resultsList.appendChild(li);
           }
         });
