@@ -1,0 +1,12 @@
+{{- $.Scratch.Add "index" slice -}}
+{{- range where .Site.RegularPages "Lang" $.Site.Language.Lang -}}
+  {{- if ne .Params.excludeFromSearch true -}}
+    {{- $.Scratch.Add "index" (dict
+      "title" .Title
+      "description" .Params.description
+      "content" .Plain
+      "permalink" .Permalink
+    ) -}}
+  {{- end -}}
+{{- end -}}
+{{- $.Scratch.Get "index" | jsonify -}}
