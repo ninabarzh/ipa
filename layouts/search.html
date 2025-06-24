@@ -2,18 +2,15 @@
 <section class="row td-search-result">
   <div class="col-12 col-md-8 offset-md-2">
     <h2 class="ms-4">{{ .Title }}</h2>
-
-    <!-- Results container only -->
     <div id="search-results" class="col-12 mt-4">
       {{ if .Params.q }}
-        <div class="px-3">Loading results for "{{ .Params.q }}"...</div>
+        <div class="px-3">{{ i18n "loading_results" }} "{{ .Params.q }}"...</div>
       {{ else }}
-        <div class="px-3">Please use the search box in the navigation bar</div>
+        <div class="px-3">{{ i18n "search_prompt" }}</div>
       {{ end }}
     </div>
   </div>
 </section>
-
-<!-- Load only the search page handler -->
+<script src="/js/search-i18n.js"></script>
 <script src="/js/search-page.js"></script>
 {{ end }}
