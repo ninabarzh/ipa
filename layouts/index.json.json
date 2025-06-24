@@ -1,12 +1,13 @@
-{{- $.Scratch.Add "index" slice -}}
-{{- range where .Site.RegularPages "Lang" $.Site.Language.Lang -}}
-  {{- if ne .Params.excludeFromSearch true -}}
-    {{- $.Scratch.Add "index" (dict
-      "title" .Title
-      "description" .Params.description
-      "content" .Plain
-      "permalink" .Permalink
+{{- $index := slice -}}
+{{- range where .Site.RegularPages "Lang" .Site.Language.Lang -}}
+  {{- $isSearch := or (eq .Type "search") (eq .Layout "search") -}}
+  {{- if and (not .Params.excludeFromSearch) (not $isSearch) -}}
+    {{- $index = $index | append (dict
+      "title" (.Title | default "")
+      "description" (.Params.description | default "")
+      "content" (.Plain | default "")
+      "permalink" (.Permalink | default "")
     ) -}}
   {{- end -}}
 {{- end -}}
-{{- $.Scratch.Get "index" | jsonify -}}
+{{- $index | jsonify -}}
