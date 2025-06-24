@@ -1,92 +1,95 @@
-// public/js/search.js
-(function () {
-  const lang = document.documentElement.lang || 'en';
-  const indexPath = `/${lang}/index.json`;
+(function() {
+  console.log("Initializing search...");
+
+  const currentLang = window.location.pathname.split('/')[1] || 'en';
+  const indexPath = `/${currentLang}/index.json`;
+  console.log(`Loading index from: ${indexPath}`);
+
   const searchInput = document.getElementById("search-input");
-  const resultsList = document.getElementById("search-results");
+  const resultsContainer = document.querySelector(".td-search-result .col-12");
 
-  if (!searchInput) return;
+  if (!searchInput || !resultsContainer) {
+    console.error("Missing required elements");
+    return;
+  }
 
-  // Map of supported language codes to Lunr plugins
-  const langSupport = {
-    en: null,
-    fr: lunr.fr,
-    de: lunr.de,
-    es: lunr.es,
-    nl: lunr.nl,
-    tr: lunr.tr,
-  };
-
-  // If language isn't supported, fallback to English
-  const normalisedLang = langSupport[lang] ? lang : 'en';
+  const resultsList = document.createElement("div");
+  resultsList.id = "search-results";
+  resultsList.className = "mt-3";
+  resultsContainer.appendChild(resultsList);
 
   fetch(indexPath)
-    .then((response) => {
-      if (!response.ok) {
-        throw new Error(`Failed to fetch search index for ${lang}: ${response.status}`);
-      }
+    .then(response => {
+      if (!response.ok) throw new Error(`HTTP ${response.status}`);
       return response.json();
     })
-    .then((data) => {
-      // Initialise Lunr with the correct language pipeline
-      let idx;
+    .then(data => {
+      // Convert object to array if needed
+      const documents = Array.isArray(data) ? data : Object.values(data);
+      console.log(`Loaded ${documents.length} documents`, documents);
 
-      if (normalisedLang === 'en') {
-        idx = lunr(function () {
-          this.ref("permalink");
-          this.field("title", { boost: 10 });
-          this.field("description", { boost: 5 });
-          this.field("content");
-          data.forEach((doc) => this.add(doc));
-        });
-      } else {
-        idx = lunr(function () {
-          this.use(langSupport[normalisedLang]);
-          this.ref("permalink");
-          this.field("title", { boost: 10 });
-          this.field("description", { boost: 5 });
-          this.field("content");
-          data.forEach((doc) => this.add(doc));
-        });
-      }
+      // Filter out empty/invalid documents
+      const validDocs = documents.filter(doc =>
+        doc.permalink &&
+        (doc.title || doc.content) &&
+        !doc.permalink.includes('/search/') // Exclude search page itself
+      );
 
-      console.log(`Search index for '${normalisedLang}' loaded.`);
+      console.log(`Using ${validDocs.length} valid documents`);
 
-      searchInput.addEventListener("input", function () {
+      const idx = lunr(function() {
+        this.ref("permalink");
+        this.field("title", { boost: 10 });
+        this.field("description", { boost: 5 });
+        this.field("content");
+        validDocs.forEach(doc => this.add(doc));
+      });
+
+      searchInput.addEventListener("input", function() {
         const query = this.value.trim();
         resultsList.innerHTML = "";
 
-        if (!query) return;
-
-        const results = idx.search(query);
-
-        if (results.length === 0) {
-          resultsList.innerHTML = "<li>No results found</li>";
+        if (query.length < 2) {
+          resultsList.innerHTML = `<div class="px-3">Enter at least 2 characters</div>`;
           return;
         }
 
-        results.forEach((result) => {
-          const match = data.find((d) => d.permalink === result.ref);
-          if (match) {
-            const li = document.createElement("li");
+        try {
+          const results = idx.search(query);
+          console.log(`Found ${results.length} results for "${query}"`, results);
 
-            const a = document.createElement("a");
-            a.href = match.permalink;
-            a.textContent = match.title || match.permalink;
-            li.appendChild(a);
-
-            if (match.description) {
-              const p = document.createElement("p");
-              p.textContent = match.description;
-              li.appendChild(p);
-            }
-
-            resultsList.appendChild(li);
+          if (!results.length) {
+            resultsList.innerHTML = `<div class="px-3">No results for "${query}"</div>`;
+            return;
           }
-        });
+
+          results.forEach(result => {
+            const doc = validDocs.find(d => d.permalink === result.ref);
+            if (!doc) return;
+
+            const item = document.createElement("div");
+            item.className = "mb-3 px-3 border-bottom";
+            item.innerHTML = `
+              <a href="${doc.permalink}" class="d-block h5 mb-1">
+                ${doc.title || "Untitled"}
+              </a>
+              ${doc.description ? `<p class="mb-1 text-muted">${doc.description}</p>` : ''}
+              <div class="text-truncate small">${doc.content.substring(0, 150)}...</div>
+            `;
+            resultsList.appendChild(item);
+          });
+        } catch (err) {
+          console.error("Search error:", err);
+          resultsList.innerHTML = `<div class="px-3 text-danger">Search error occurred</div>`;
+        }
       });
     })
-    .catch((err) => {
-      console.error("Search initialisation failed:", err);
+    .catch(err => {
+      console.error("Search init failed:", err);
+      resultsList.innerHTML = `
+        <div class="px-3 text-danger">
+          Search unavailable: ${err.message}
+        </div>
+      `;
     });
 })();
