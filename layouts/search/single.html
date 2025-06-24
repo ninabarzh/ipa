@@ -1,0 +1,10 @@
+{{ define "main" }}
+<main id="main-content" class="container py-4">
+  <h1>{{ .Title }}</h1>
+
+  <input id="search-input" class="form-control mb-4" type="search" placeholder="{{ i18n "search_placeholder" | default "Search…" }}" />
+
+  <ul id="search-results" class="list-unstyled"></ul>
+
+</main>
+{{ end }}
