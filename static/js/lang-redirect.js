@@ -22,26 +22,37 @@
     RS: 'de', ME: 'de', MK: 'de', MD: 'de', UA: 'de'
   };
 
-  // Only redirect if user lands on homepage "/"
-  if (window.location.pathname !== '/') return;
+  // Get current language from path
+  const pathParts = window.location.pathname.split('/');
+  const pathLang = pathParts[1];
 
-  const navLang = (navigator.languages && navigator.languages.length)
-    ? navigator.languages[0]
-    : navigator.language || defaultLang;
+  // Only redirect if:
+  // 1. We're on the root path AND
+  // 2. The path doesn't already contain a supported language
+  if (window.location.pathname === '/' ||
+      (pathLang && !supportedLangs.includes(pathLang))) {
 
-  const langCode = navLang.toLowerCase().split('-')[0];
-  const countryCode = navLang.toUpperCase().split('-')[1] || '';
+    const navLang = (navigator.languages && navigator.languages.length)
+      ? navigator.languages[0]
+      : navigator.language || defaultLang;
 
-  let finalLang = defaultLang;
+    const langCode = navLang.toLowerCase().split('-')[0];
+    const countryCode = navLang.toUpperCase().split('-')[1] || '';
 
-  if (supportedLangs.includes(langCode)) {
-    finalLang = langCode;
-  } else if (countryCode && fallbackLanguageByCountry[countryCode]) {
-    const fallback = fallbackLanguageByCountry[countryCode];
-    if (supportedLangs.includes(fallback)) {
-      finalLang = fallback;
+    let finalLang = defaultLang;
+
+    if (supportedLangs.includes(langCode)) {
+      finalLang = langCode;
+    } else if (countryCode && fallbackLanguageByCountry[countryCode]) {
+      const fallback = fallbackLanguageByCountry[countryCode];
+      if (supportedLangs.includes(fallback)) {
+        finalLang = fallback;
+      }
+    }
+
+    // Only redirect if we're not already on the correct language
+    if (pathLang !== finalLang) {
+      window.location.replace(`/${finalLang}/`);
     }
   }
-
-  window.location.replace(`/${finalLang}/`);
 })();
