@@ -22,8 +22,8 @@
     RS: 'de', ME: 'de', MK: 'de', MD: 'de', UA: 'de'
   };
 
-  const pathLang = window.location.pathname.split('/')[1];
-  if (supportedLangs.includes(pathLang)) return;
+  // Only redirect if user lands on homepage "/"
+  if (window.location.pathname !== '/') return;
 
   const navLang = (navigator.languages && navigator.languages.length)
     ? navigator.languages[0]
@@ -43,7 +43,5 @@
     }
   }
 
-  if (finalLang !== pathLang) {
-    window.location.replace(`/${finalLang}/`);
-  }
+  window.location.replace(`/${finalLang}/`);
 })();
