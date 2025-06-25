@@ -3,7 +3,7 @@ title: Power On
 description: Ateliers, outils et guides pour sécuriser vos appareils, échapper à la surveillance et retrouver votre autonomie — spécialement pour les survivants d'abus technologiques. Open-source. Multilingue. Construit par la communauté.
 ---
 
-{{% blocks/cover title="Reprenez le contrôle de votre vie numérique !" image_anchor="top" height="full" %}}
+{{% blocks/cover image="featured_background.jpg" title="Reprenez le contrôle de votre vie numérique !" image_anchor="top" height="full" %}}
 {{% param description %}}
 
 <a class="btn btn-lg btn-secondary" href="docs/guides/">Commencer</a>
