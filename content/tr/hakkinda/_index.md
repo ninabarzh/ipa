@@ -10,7 +10,6 @@ menu:
 translationKey: "about"
 ---
 
-
 {{% blocks/cover title="Hakkında Power On" image_anchor="bottom" height="auto" %}}
 
 **Power On**, insanların dijital hayatları üzerindeki kontrolü yeniden 
@@ -19,17 +18,16 @@ kazanmalarına yardımcı olan bir kolektif girişimdir - özellikle bu
 
 kontrol istismar, gözetim veya zorlama yoluyla ellerinden alındığında
 
+----
+
+Yazar ve aktivist [Meltem Arikan](https://www.meltemarikan.com/) ile yakın partner şiddetinden kurtulanlarla çalışan bir dijital güvenlik ekibinin işbirliğiyle başladı. Proje, 2007'de kurulan ve çevik yazılım geliştirme, felsefi sorgulama ve dijital/felsefi öğrenme alanlarında uzmanlaşmış Paris merkezli bir kooperatif (SCOP) olan 
+[/ut7](https://ut7.fr/) tarafından desteklenmektedir.
+
+----
+
 {{% /blocks/cover %}}
 
-{{% blocks/lead color="white" %}}
-
-Yazar ve aktivist [Meltem Arikan](https://www.meltemarikan.com/) ile yakın partner şiddetinden kurtulanlarla çalışan bir dijital güvenlik ekibinin işbirliğiyle başladı. Proje, 2007'de kurulan ve çevik yazılım geliştirme, felsefi sorgulama ve dijital/felsefi öğrenme alanlarında uzmanlaşmış Paris merkezli bir kooperatif (SCOP) olan [/ut7](https://ut7.fr/) tarafından desteklenmektedir.    
-
-{{% /blocks/lead %}}
-
-{{% blocks/section color="primary" %}}
-
-## Power On
+{{% blocks/section color="white" %}}
 
 Birlikte, herkesin kullanabileceği, uyarlayabileceği ve geliştirebileceği **atölyeler, araçlar, laboratuvarlar ve rehberler** oluşturduk:  
 
@@ -41,11 +39,7 @@ Birlikte, herkesin kullanabileceği, uyarlayabileceği ve geliştirebileceği **
 
 Platformlara, şirketlere veya kurumlara güvenmenizi beklemiyoruz. Paranızın, ileri düzey becerilerinizin veya profesyonel yardıma erişiminizin olduğunu varsaymıyoruz. Güvenliği bir kontrol listesi olarak görmüyoruz.  
 
-Bu bir **güç** meselesidir - dijital, fiziksel, sosyal - ve bir kısmını nasıl geri alabileceğinizle ilgilidir.  
-
-{{% /blocks/section %}}
-
-{{% blocks/section color="white" %}}
+Bu bir **güç** meselesidir - dijital, fiziksel, sosyal - ve bir kısmını nasıl geri alabileceğinizle ilgilidir.
 
 ## Bunun önemi  
 
@@ -71,10 +65,10 @@ Size uygun olan yerden başlayın. Çevirin. Uyarlayın. Bozun ve daha iyisini y
 
 {{% /blocks/section %}}
 
-{{% blocks/section color="dark" %}}
+{{% blocks/cover image_anchor="top" height="auto" %}}
 
 Power On, inatçı bir iyimserlik, kuru bir mizah anlayışı ve dijital alanı terk etmeyi reddetme kararlılığıyla inşa edilmiştir.  
 
 Yardım mı lazım? Katkıda mı bulunmak istiyorsunuz? İletişime geçin.
 
-{{% /blocks/section %}}
+{{% /blocks/cover %}}

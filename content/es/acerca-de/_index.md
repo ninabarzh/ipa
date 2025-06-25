@@ -19,16 +19,15 @@ sus vidas digitales — especialmente cuando ese control ha sido arrebatado por
 
 abuso, vigilancia o coerción.  
 
+----
+
+Comenzó como una colaboración entre la escritora y activista [Meltem Arikan](https://www.meltemarikan.com/) y un grupo de facilitadores de privacidad y seguridad que trabajan con sobrevivientes de violencia de pareja. El proyecto cuenta con el apoyo de [/ut7](https://ut7.fr/), una cooperativa (SCOP) con sede en París fundada en 2007, especializada en desarrollo ágil de software, investigación filosófica y espacios de aprendizaje digital/filosófico.
+
+----
 
 {{% /blocks/cover %}}
 
-{{% blocks/lead color="white" %}}
-
-Comenzó como una colaboración entre la escritora y activista [Meltem Arikan](https://www.meltemarikan.com/) y un grupo de facilitadores de privacidad y seguridad que trabajan con sobrevivientes de violencia de pareja. El proyecto cuenta con el apoyo de [/ut7](https://ut7.fr/), una cooperativa (SCOP) con sede en París fundada en 2007, especializada en desarrollo ágil de software, investigación filosófica y espacios de aprendizaje digital/filosófico.  
-
-{{% /blocks/lead %}}
-
-{{% blocks/section color="primary" %}}
+{{% blocks/section color="white" %}}
 
 ## Power On
 
@@ -42,12 +41,7 @@ Juntos hemos creado **talleres, herramientas, laboratorios y guías** que cualqu
 
 No asumimos confianza en plataformas, empresas o instituciones. No esperamos que tengas dinero, habilidades avanzadas o acceso a ayuda profesional. Y no tratamos la seguridad como una lista de verificación.  
 
-Esto es sobre **poder** — digital, físico, social — y cómo recuperar parte de él. 
-
-
-{{% /blocks/section %}}
-
-{{% blocks/section color="white" %}}
+Esto es sobre **poder** — digital, físico, social — y cómo recuperar parte de él.
 
 ## Por qué esto importa  
 
@@ -73,10 +67,10 @@ Confiamos en que sabes lo que necesitas.
 
 {{% /blocks/section %}}
 
-{{% blocks/section color="dark" %}}
+{{% blocks/cover image_anchor="top" height="auto" %}}
 
 Power On se construye con optimismo obstinado, humor seco y una negativa a renunciar al espacio digital.  
 
 ¿Necesitas ayuda? ¿Quieres contribuir? Ponte en contacto.  
 
-{{% /blocks/section %}}
+{{% /blocks/cover %}}

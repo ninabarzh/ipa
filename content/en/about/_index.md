@@ -10,7 +10,6 @@ menu:
 translationKey: "about"
 ---
 
-
 {{% blocks/cover title="About Power On" image_anchor="bottom" height="auto" %}}
 
 **Power On** is a collective initiative to help people reclaim control over their digital lives 
@@ -19,22 +18,20 @@ translationKey: "about"
 
 abuse, surveillance, or coercion.
 
-{{% /blocks/cover %}}
-
-{{% blocks/lead color="white" %}}
+----
 
 It began as a collaboration between writer and activist [Meltem Arikan](https://www.meltemarikan.com/) and a group 
 of privacy and security facilitators working with survivors of intimate partner abuse. The project is supported by 
 [/ut7](https://ut7.fr/), a Paris-based cooperative (SCOP) founded in 2007, specializing in agile software development, 
 philosophical inquiry, and digital/philosophical learning spaces.
 
-{{% /blocks/lead %}}
+----
 
-{{% blocks/section color="primary" %}}
+{{% /blocks/cover %}}
 
-## Power On
+{{% blocks/section color="white" %}}
 
-Together, we've built **workshops, tools, labs and guides** that anyone can use, remix, and adapt to:
+Together, we've built **workshops, tools, labs and guides** that anyone can use, remix, and adapt, to:
 
 - Clean a compromised device (or better yet, spot the signs early)
 - Set up a secure phone or laptop from scratch
@@ -45,10 +42,6 @@ Together, we've built **workshops, tools, labs and guides** that anyone can use,
 We don't assume trust in platforms, companies, or institutions. We don't expect you to have money, advanced skills, or access to professional help. And we don't treat safety as a checklist.
 
 This is about **power** — digital, physical, social — and how to take some of it back.
-
-{{% /blocks/section %}}
-
-{{% blocks/section color="white" %}}
 
 ## Why this matters
 
@@ -74,10 +67,10 @@ We trust you to know what you need.
 
 {{% /blocks/section %}}
 
-{{% blocks/section color="dark" %}}
+{{% blocks/cover image_anchor="top" height="auto" %}}
 
 Power On is built with stubborn optimism, dry humour, and a refusal to give up the digital space.
 
 Need help? Want to contribute? Get in touch.
 
-{{% /blocks/section %}}
+{{% /blocks/cover %}}

@@ -10,7 +10,6 @@ menu:
 translationKey: "about"
 ---
 
-
 {{% blocks/cover title="Over Power On" image_anchor="bottom" height="auto" %}}
 
 **Power On** is een collectief initiatief om mensen te helpen de controle over hun 
@@ -18,19 +17,16 @@ translationKey: "about"
 digitale leven terug te winnen - vooral wanneer die controle is afgenomen door 
 
 misbruik, surveillance of dwang.
- 
+
+----
+
+Het begon als een samenwerking tussen schrijver en activist [Meltem Arikan](https://www.meltemarikan.com/) en een groep privacy- en beveiligingsbegeleiders die werken met overlevenden van partnergeweld. Het project wordt ondersteund door [/ut7](https://ut7.fr/), een in Parijs gevestigd coöperatief (SCOP) opgericht in 2007, gespecialiseerd in agile softwareontwikkeling, filosofisch onderzoek en digitale/filosofische leerruimtes.
+
+----
 
 {{% /blocks/cover %}}
 
-{{% blocks/lead color="white" %}}
-
-Het begon als een samenwerking tussen schrijver en activist [Meltem Arikan](https://www.meltemarikan.com/) en een groep privacy- en beveiligingsbegeleiders die werken met overlevenden van partnergeweld. Het project wordt ondersteund door [/ut7](https://ut7.fr/), een in Parijs gevestigd coöperatief (SCOP) opgericht in 2007, gespecialiseerd in agile softwareontwikkeling, filosofisch onderzoek en digitale/filosofische leerruimtes.   
-
-{{% /blocks/lead %}}
-
-{{% blocks/section color="primary" %}}
-
-## Power On
+{{% blocks/section color="white" %}}
 
 Samen hebben we **workshops, tools, labs en handleidingen** ontwikkeld die iedereen kan gebruiken, remixen en aanpassen om:
 
@@ -42,11 +38,7 @@ Samen hebben we **workshops, tools, labs en handleidingen** ontwikkeld die ieder
 
 We gaan niet uit van vertrouwen in platforms, bedrijven of instituten. We verwachten niet dat je geld, geavanceerde vaardigheden of toegang tot professionele hulp hebt. En we behandelen veiligheid niet als een checklist.
 
-Dit gaat over **macht** - digitaal, fysiek, sociaal - en hoe je een deel ervan terug kunt nemen.  
-
-{{% /blocks/section %}}
-
-{{% blocks/section color="white" %}}
+Dit gaat over **macht** - digitaal, fysiek, sociaal - en hoe je een deel ervan terug kunt nemen.
 
 ## Waarom dit belangrijk is
 
@@ -72,10 +64,10 @@ We vertrouwen erop dat je weet wat je nodig hebt.
 
 {{% /blocks/section %}}
 
-{{% blocks/section color="dark" %}}
+{{% blocks/cover image_anchor="top" height="auto" %}}
 
 Power On is gebouwd met koppig optimisme, droge humor en een weigering om de digitale ruimte op te geven.
 
 Hulp nodig? Wil je bijdragen? Neem contact op.
 
-{{% /blocks/section %}}
+{{% /blocks/cover %}}
