@@ -32,6 +32,9 @@ customCSS = ["css/custom.css"]
   offlineSearch = true
   site_logo = "images/logo.png"
 
+[params.ui]
+  sidebar_search_disable = true
+
   # New performance optimizations
   enableGitInfo = false
   enableInlineShortcodes = true
