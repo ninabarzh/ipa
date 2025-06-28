@@ -1,0 +1,19 @@
+/* Fix scrolling in mobile nav without trapping dropdowns */
+.td-navbar-nav-scroll {
+  overflow-x: auto;
+  overflow-y: visible; /* allow dropdowns to overflow downward */
+  white-space: nowrap;
+}
+
+.td-navbar-nav-scroll .dropdown-menu {
+  position: absolute;
+  z-index: 1000;
+}
+
+@media (max-width: 991.98px) {
+  .td-navbar-nav-scroll .dropdown-menu {
+    top: 100%;
+    left: auto;
+    right: 0;
+  }
+}

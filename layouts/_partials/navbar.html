@@ -53,7 +53,7 @@
       </li>
       {{ end -}}
       {{ if (gt (len .Site.Home.Translations) 0) -}}
-      <li class="nav-item dropdown d-none d-lg-block">
+      <li class="nav-item dropdown">
         {{ partial "navbar-lang-selector.html" . -}}
       </li>
       {{ end -}}
@@ -65,7 +65,7 @@
     </ul>
   </div>
   <div>
-    {{ partial "searchbox.html" . }}
+    {{- partial "searchbox.html" . -}}
   </div>
 </div>
 </nav>

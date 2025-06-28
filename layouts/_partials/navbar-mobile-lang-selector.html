@@ -1,0 +1,14 @@
+{{- if gt (len .Site.Home.AllTranslations) 1 }}
+<li class="nav-item py-2 ps-3 mobile-lang-section">
+  <div class="lang-label">{{ T "language" }}:</div>
+  <div class="lang-options">
+    {{ range .Site.Home.AllTranslations }}
+      <a href="{{ .RelPermalink }}"
+         class="lang-option{{ if eq .Lang $.Site.Language.Lang }} active{{ end }}"
+         lang="{{ .Lang }}">
+        {{ .Language.LanguageName }}
+      </a>
+    {{ end }}
+  </div>
+</li>
+{{- end }}

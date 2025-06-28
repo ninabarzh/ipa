@@ -60,3 +60,13 @@
   padding: 1rem;
   color: #c0392b;
 }
+
+/* Ensure no extra scrolling happens */
+.navbar-nav {
+  white-space: normal;
+}
+
+/* Style always-visible top nav */
+.navbar .dropdown-menu {
+  z-index: 2000;
+}
