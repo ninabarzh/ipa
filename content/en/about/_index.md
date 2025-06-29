@@ -31,39 +31,19 @@ philosophical inquiry, and digital/philosophical learning spaces.
 
 {{% blocks/section color="white" %}}
 
-Together, we've built **workshops, tools, labs and guides** that anyone can use, remix, and adapt, to:
+Certainly — here’s a slightly longer version that flows naturally, keeps it punchy, and folds the bullets into readable paragraphs:
 
-- Clean a compromised device (or better yet, spot the signs early)
-- Set up a secure phone or laptop from scratch
-- Build a DIY tech lab in a shelter or community space
-- Spot deepfakes, manipulated images and digital traps
-- Run peer-led workshops in your own language, culture, and context
+---
 
-We don't assume trust in platforms, companies, or institutions. We don't expect you to have money, advanced skills, or access to professional help. And we don't treat safety as a checklist.
+**PowerOn is a growing toolkit for taking back tech.**
 
-This is about **power** — digital, physical, social — and how to take some of it back.
+We create hands-on workshops, simple guides, and DIY tools anyone can use to clean or set up a safer device, build a tech lab in a shelter, or run peer-led trainings in their own language and context. Whether it’s spotting digital traps, blocking stalkerware, or helping someone secure their phone without making things worse — PowerOn is built to support that work.
 
-## Why this matters
+We don’t assume trust in platforms. We don’t expect money, tech skills, or access to experts. And we don’t treat safety like a checklist.
 
-Survivors often face the same three problems:
+**Because survivors deserve tools that work for them — not against them.**
 
-1. **Their devices aren't safe.**
-2. **The tech support around them doesn't get it.**
-3. **The tools that could help feel overwhelming or inaccessible.**
-
-This site tries to change that. We offer practical, language-accessible, open-source tools to *make it easier to start* — whether you're supporting someone else or figuring things out for yourself.
-
-## How to use this site
-
-Everything here is modular, localisable, remixable, and available under permissive open licences. You'll find:
-
-- **The Lab:** DIY security infrastructure, from clean computers to local backups.
-- **The Guides:** Bite-sized instructions for common problems like securing comms or disabling spyware.
-- **The Workshops:** Hands-on, group-based materials to help communities skill up together.
-
-Start wherever makes sense. Translate. Adapt. Break things and make them better.
-
-We trust you to know what you need.
+Start where it makes sense. Translate it. Break it. Make it yours.
 
 {{% /blocks/section %}}
 
@@ -71,6 +51,6 @@ We trust you to know what you need.
 
 Power On is built with stubborn optimism, dry humour, and a refusal to give up the digital space.
 
-Need help? Want to contribute? Get in touch.
+[Need help? Want to contribute? Get in touch.](../contact.md)
 
 {{% /blocks/cover %}}
