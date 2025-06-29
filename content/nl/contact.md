@@ -13,8 +13,8 @@ menu:
 
 <p>Wil je ons bereiken? Of je nu een workshop organiseert, ondersteuning nodig hebt of gewoon nieuwsgierig bent – stuur ons gerust een bericht hieronder.</p>
 
-<form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/nl/bedankt" netlify>
-  <input type="hidden" name="form-name" value="contact" />
+<form name="contact-nl" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/nl/bedankt" netlify>
+  <input type="hidden" name="form-name" value="contact-nl" />
   <p class="d-none">
     <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
   </p>

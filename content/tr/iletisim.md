@@ -13,8 +13,8 @@ menu:
 
 <p>Bize ulaşmak mı istiyorsunuz? Bir atölye düzenliyor, destek arıyor ya da sadece merak ediyor olun – bize aşağıdan bir mesaj bırakın.</p>
 
-<form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/tr/tesekkurler" netlify>
-  <input type="hidden" name="form-name" value="contact" />
+<form name="contact-tr" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/tr/tesekkurler" netlify>
+  <input type="hidden" name="form-name" value="contact-tr" />
   <p class="d-none">
     <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
   </p>

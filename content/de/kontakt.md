@@ -14,8 +14,8 @@ menu:
 
 <p>Sie möchten uns erreichen? Egal, ob Sie einen Workshop organisieren, Unterstützung benötigen oder einfach nur neugierig sind – schreiben Sie uns einfach eine Nachricht unten.</p>
 
-<form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field"  action="/de/danke" netlify>
-  <input type="hidden" name="form-name" value="contact" />
+<form name="contact-de" method="POST" data-netlify="true" netlify-honeypot="bot-field"  action="/de/danke" netlify>
+  <input type="hidden" name="form-name" value="contact-de" />
   <p class="d-none">
     <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
   </p>
