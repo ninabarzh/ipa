@@ -4,6 +4,7 @@ description: "Mesajınız alınmıştır."
 type: "page"
 layout: "single"
 url: "/tr/tesekkurler/"
+translationKey: "thank-you"
 ---
 
 <div class="container" style="padding-top: 120px; max-width: 800px;">

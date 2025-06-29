@@ -4,6 +4,7 @@ description: "Your message has been received."
 type: "page"
 layout: "single"
 url: "/en/thank-you/"
+translationKey: "thank-you"
 ---
 
 <div class="container" style="padding-top: 120px; max-width: 800px;">

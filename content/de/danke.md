@@ -4,6 +4,7 @@ description: "Ihre Nachricht ist bei uns eingegangen."
 type: "page"
 layout: "single"
 url: "/de/danke/"
+translationKey: "thank-you"
 ---
 
 <div class="container" style="padding-top: 120px; max-width: 800px;">

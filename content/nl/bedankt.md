@@ -4,6 +4,7 @@ description: "Je bericht is bij ons aangekomen."
 type: "page"
 layout: "single"
 url: "/nl/bedankt/"
+translationKey: "thank-you"
 ---
 
 <div class="container" style="padding-top: 120px; max-width: 800px;">
