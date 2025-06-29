@@ -10,4 +10,4 @@ menu:
 linkTitle: "Documentación"  # Short menu title
 ---
 
-Bienvenido a la documentación de Power On.
+Recuperar el control empieza aquí. Sin presión, solo poder.

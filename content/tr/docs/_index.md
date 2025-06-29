@@ -10,4 +10,4 @@ menu:
 linkTitle: "Dokümantasyon"  # Short menu title
 ---
 
-Power On dökümantasyonuna hoş geldiniz.
+Kontrolü geri almak burada başlar. Baskı yok, sadece güç.

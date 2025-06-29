@@ -10,4 +10,4 @@ menu:
 linkTitle: "Documentatie"  # Short menu title
 ---
 
-Welkom bij de Power On documentatie.
+De controle terugkrijgen begint hier. Geen druk, alleen maar kracht.

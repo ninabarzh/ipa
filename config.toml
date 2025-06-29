@@ -34,6 +34,8 @@ customCSS = ["css/custom.css"]
 
 [params.ui]
   sidebar_search_disable = true
+  sidebar_menu_compact = true
+  ul_show = 1
 
   # New performance optimizations
   enableGitInfo = false

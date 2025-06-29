@@ -10,4 +10,4 @@ menu:
 linkTitle: "Documentation"  # Short menu title
 ---
 
-Welcome to the Power On documentation.
+Taking back control starts here. No pressure, just power.

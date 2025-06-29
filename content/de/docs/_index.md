@@ -10,4 +10,4 @@ menu:
 linkTitle: "Dokumentation"  # Short menu title
 ---
 
-Willkommen zur Power-On-Dokumentation.
+Die Kontrolle zurückgewinnen beginnt hier. Kein Druck, nur Macht.
