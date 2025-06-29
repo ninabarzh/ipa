@@ -29,46 +29,21 @@ Yazar ve aktivist [Meltem Arikan](https://www.meltemarikan.com/) ile yakın part
 
 {{% blocks/section color="white" %}}
 
-Birlikte, herkesin kullanabileceği, uyarlayabileceği ve geliştirebileceği **atölyeler, araçlar, laboratuvarlar ve rehberler** oluşturduk:  
+**PowerOn, teknolojiyi geri almak için büyüyen bir araç setidir.**  
 
-- Ele geçirilmiş bir cihazı temizlemek (veya daha iyisi, erken uyarı işaretlerini fark etmek)  
-- Sıfırdan güvenli bir telefon veya bilgisayar kurmak  
-- Bir sığınma evinde veya toplum merkezinde kendin yap teknoloji laboratuvarı oluşturmak  
-- Deepfake'leri, manipüle edilmiş görüntüleri ve dijital tuzakları tespit etmek  
-- Kendi dilinizde, kültürünüzde ve bağlamınızda akran liderliğindeki atölyeler düzenlemek  
+Daha güvenli bir cihazı temizlemek veya kurmak, bir sığınakta teknoloji laboratuvarı oluşturmak ya da kendi dilinde ve bağlamında akran liderliğinde eğitimler düzenlemek isteyen herkes için uygulamalı atölyeler, basit rehberler ve DIY araçlar üretiyoruz. Dijital tuzakları fark etmek, stalkerware’i engellemek veya birinin telefonunu işleri kötüleştirmeden güvence altına almasına yardım etmek olsun – PowerOn bu işi desteklemek için tasarlandı.  
 
-Platformlara, şirketlere veya kurumlara güvenmenizi beklemiyoruz. Paranızın, ileri düzey becerilerinizin veya profesyonel yardıma erişiminizin olduğunu varsaymıyoruz. Güvenliği bir kontrol listesi olarak görmüyoruz.  
+Platformlara körü körüne güvenmiyoruz. Para, teknik beceri veya uzmanlara erişim beklemiyoruz. Ve güvenliği bir kontrol listesi gibi ele almıyoruz.  
 
-Bu bir **güç** meselesidir - dijital, fiziksel, sosyal - ve bir kısmını nasıl geri alabileceğinizle ilgilidir.
+**Çünkü hayatta kalanlar, kendileri için – kendilerine karşı değil – çalışan araçları hak ediyor.**  
 
-## Bunun önemi  
-
-Mağdurlar genellikle aynı üç sorunla karşılaşır:  
-
-1. **Cihazları güvende değildir.**  
-2. **Etraflarındaki teknik destek bunu anlamaz.**  
-3. **Yardımcı olabilecek araçlar bunaltıcı veya erişilemez görünür.**  
-
-Bu site bunu değiştirmeye çalışıyor. Başlamayı kolaylaştırmak için pratik, yerelleştirilebilir, açık kaynaklı araçlar sunuyoruz - ister başkasına destek olun, ister kendi başınıza öğrenin.  
-
-## Bu siteyi nasıl kullanabilirsiniz?  
-
-Buradaki her şey modüler, yerelleştirilebilir, uyarlanabilir ve özgür lisanslarla sunulmaktadır. Şunları bulacaksınız:  
-
-- **Laboratuvar:** Temiz bilgisayarlardan yerel yedeklemelere DIY güvenlik altyapısı  
-- **Rehberler:** Güvenli iletişim kurma veya casus yazılımları devre dışı bırakma gibi yaygın sorunlar için adım adım talimatlar  
-- **Atölyeler:** Toplulukların birlikte beceri geliştirmesine yardımcı olacak uygulamalı grup çalışmaları  
-
-Size uygun olan yerden başlayın. Çevirin. Uyarlayın. Bozun ve daha iyisini yapın.  
-
-İhtiyacınız olanı bileceğinize güveniyoruz.  
-
+Mantıklı olduğu yerden başla. Çevir. Parçala. Kendine ait kıl.
 {{% /blocks/section %}}
 
 {{% blocks/cover image_anchor="top" height="auto" %}}
 
 Power On, inatçı bir iyimserlik, kuru bir mizah anlayışı ve dijital alanı terk etmeyi reddetme kararlılığıyla inşa edilmiştir.  
 
-Yardım mı lazım? Katkıda mı bulunmak istiyorsunuz? İletişime geçin.
+[Yardım mı lazım? Katkıda mı bulunmak istiyorsunuz? İletişime geçin.](../iletisim.md)
 
 {{% /blocks/cover %}}

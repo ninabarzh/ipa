@@ -6,11 +6,11 @@
 }
 
 .td-footer a {
-  color: #333
+  color: #333 !important;
 }
 
 .td-footer a:hover {
-  color: #444
+  color: #444 !important;
 }
 
 /* Search Results Styling */

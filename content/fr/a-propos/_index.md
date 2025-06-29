@@ -28,39 +28,15 @@ Ce projet est né d'une collaboration entre l'autrice et militante [Meltem Arika
 
 {{% blocks/section color="white" %}}
 
-Ensemble, nous avons créé **des ateliers, outils, labs et guides** que chacun·e peut utiliser, remixer et adapter pour :  
+**PowerOn est une boîte à outils en expansion pour reprendre le contrôle de la technologie.**  
 
-- Nettoyer un appareil compromis (ou mieux, détecter les signes avant-coureurs)  
-- Configurer un téléphone ou ordinateur sécurisé dès le départ  
-- Construire un lab tech DIY dans un refuge ou espace communautaire  
-- Repérer les deepfakes, images manipulées et pièges numériques  
-- Animer des ateliers entre pairs dans votre langue, culture et contexte  
+Nous créons des ateliers pratiques, des guides simples et des outils DIY que tout le monde peut utiliser pour nettoyer ou configurer un appareil plus sûr, monter un lab tech dans un refuge ou animer des formations entre pairs dans sa propre langue et son contexte. Qu’il s’agisse de repérer des pièges numériques, bloquer un *stalkerware* ou aider quelqu’un à sécuriser son téléphone sans aggraver la situation, PowerOn est conçu pour soutenir ce travail.  
 
-Nous ne présumons pas de votre confiance envers les plateformes, entreprises ou institutions. Nous ne supposons pas que vous ayez de l'argent, des compétences avancées ou accès à une aide professionnelle. Et nous ne réduisons pas la sécurité à une simple checklist.  
+Nous ne faisons pas confiance aux plateformes par défaut. Nous n’exigeons pas d’argent, de compétences tech ou d’accès à des expert·e·s. Et nous ne traitons pas la sécurité comme une checklist.  
 
-Il s'agit de **pouvoir** — numérique, physique, social — et de la manière d'en reprendre une partie.
+**Parce que les survivant·e·s méritent des outils qui fonctionnent pour eux – pas contre eux.**  
 
-## Pourquoi c'est important ?  
-
-Les survivant·es font souvent face aux mêmes trois problèmes :  
-
-1. **Leurs appareils ne sont pas sûrs.**  
-2. **Le support technique autour d'eux ne comprend pas.**  
-3. **Les outils qui pourraient aider semblent insurmontables ou inaccessibles.**  
-
-Ce site cherche à changer cela. Nous proposons des outils pratiques, ouverts et adaptés linguistiquement pour *faciliter les premiers pas* — que vous aidiez quelqu'un d'autre ou que vous appreniez par vous-même.  
-
-## Comment utiliser ce site  
-
-Tout ici est modulaire, localisable, remixable et disponible sous licences libres. Vous y trouverez :  
-
-- **Le Lab :** Des infrastructures de sécurité DIY, des ordinateurs propres aux sauvegardes locales.  
-- **Les Guides :** Des instructions ciblées pour des problèmes courants (sécuriser ses communications, désactiver des logiciels espions...).  
-- **Les Ateliers :** Des activités pratiques pour développer des compétences en groupe.  
-
-Commencez où vous voulez. Traduisez. Adaptez. Cassez des choses et améliorez-les.  
-
-Nous vous faisons confiance pour savoir ce dont vous avez besoin.  
+Commencez où cela a du sens. Traduisez-le. Détournez-le. Faites-le vôtre.  
 
 {{% /blocks/section %}}
 
@@ -68,6 +44,6 @@ Nous vous faisons confiance pour savoir ce dont vous avez besoin.
 
 Power On est construit avec un optimisme obstiné, un humour sec et un refus d'abandonner l'espace numérique.  
 
-Besoin d'aide ? Envie de contribuer ? Contactez-nous. 
+[Besoin d'aide ? Envie de contribuer ? Contactez-nous.](../contact.md)
 
 {{% /blocks/cover %}}

@@ -28,39 +28,15 @@ Es begann als Zusammenarbeit zwischen der Autorin und Aktivistin [Meltem Arikan]
 
 {{% blocks/section color="white" %}}
 
-Gemeinsam haben wir **Workshops, Tools, Labs und Anleitungen** entwickelt, die jeder nutzen, remixen und anpassen kann, um:
+**PowerOn ist ein wachsendes Toolkit, um die Kontrolle über Technologie zurückzugewinnen.**  
 
-- Kompromittierte Geräte zu bereinigen (oder besser noch, frühzeitig Warnzeichen zu erkennen)
-- Ein sicheres Telefon oder Laptop von Grund auf einzurichten
-- Ein DIY-Tech-Lab in einem Schutzraum oder Gemeindezentrum aufzubauen
-- Deepfakes, manipulierte Bilder und digitale Fallen zu erkennen
-- Peer-geführte Workshops in der eigenen Sprache, Kultur und im eigenen Kontext durchzuführen
+Wir entwickeln praxisnahe Workshops, einfache Anleitungen und DIY-Tools, mit denen jede:r ein sichereres Gerät einrichten oder bereinigen, ein Tech-Lab in einem Schutzraum aufbauen oder peer-geleitete Schulungen in der eigenen Sprache und im eigenen Kontext durchführen kann. Ob es darum geht, digitale Fallen zu erkennen, Stalkerware zu blockieren oder jemandem zu helfen, sein Telefon zu sichern, ohne die Situation zu verschlimmern – PowerOn unterstützt genau diese Arbeit.  
 
-Wir setzen kein Vertrauen in Plattformen, Unternehmen oder Institutionen voraus. Wir erwarten nicht, dass Sie Geld, fortgeschrittene Fähigkeiten oder Zugang zu professioneller Hilfe haben. Und wir behandeln Sicherheit nicht als Checkliste.
+Wir vertrauen Plattformen nicht blind. Wir erwarten kein Geld, keine Tech-Kenntnisse oder Zugang zu Expert:innen. Und wir behandeln Sicherheit nicht wie eine Checkliste.  
 
-Hier geht es um **Macht** – digital, physisch, sozial – und darum, wie man einen Teil davon zurückgewinnen kann.
+**Denn Überlebende verdienen Tools, die für sie – nicht gegen sie – arbeiten.**  
 
-## Warum das wichtig ist
-
-Überlebende stehen oft vor denselben drei Problemen:
-
-1. **Ihre Geräte sind nicht sicher.**
-2. **Die technische Unterstützung um sie herum versteht das Problem nicht.**
-3. **Die Hilfsmittel, die helfen könnten, wirken überwältigend oder unzugänglich.**
-
-Diese Seite versucht das zu ändern. Wir bieten praktische, sprachlich zugängliche, Open-Source-Tools an, um *den Einstieg zu erleichtern* – egal, ob Sie jemand anderen unterstützen oder selbst Lösungen finden wollen.
-
-## Wie Sie diese Seite nutzen können
-
-Alles hier ist modular, lokalisierbar, anpassbar und unter freizügigen Open-Source-Lizenzen verfügbar. Sie finden:
-
-- **Das Lab:** DIY-Sicherheitsinfrastruktur, von sauberen Computern bis zu lokalen Backups
-- **Die Anleitungen:** Kompakte Schritt-für-Schritt-Anleitungen für häufige Probleme wie sichere Kommunikation oder Deaktivierung von Spyware
-- **Die Workshops:** Praktische, gruppenbasierte Materialien, um gemeinsam Fähigkeiten aufzubauen
-
-Beginnen Sie dort, wo es für Sie Sinn ergibt. Übersetzen Sie. Passen Sie an. Machen Sie kaputt und verbessern Sie.
-
-Wir vertrauen darauf, dass Sie wissen, was Sie brauchen.
+Beginne dort, wo es sinnvoll ist. Übersetze es. Zerlege es. Mach es zu deinem Eigenen. 
 
 {{% /blocks/section %}}
 
@@ -68,6 +44,6 @@ Wir vertrauen darauf, dass Sie wissen, was Sie brauchen.
 
 Power On ist gebaut auf beharrlichem Optimismus, trockenem Humor und der Weigerung, den digitalen Raum aufzugeben.
 
-Brauchen Sie Hilfe? Möchten Sie mitwirken? Melden Sie sich bei uns.
+[Brauchen Sie Hilfe? Möchten Sie mitwirken? Melden Sie sich bei uns.](../kontakt.md)
 
 {{% /blocks/cover %}}

@@ -31,10 +31,6 @@ philosophical inquiry, and digital/philosophical learning spaces.
 
 {{% blocks/section color="white" %}}
 
-Certainly — here’s a slightly longer version that flows naturally, keeps it punchy, and folds the bullets into readable paragraphs:
-
----
-
 **PowerOn is a growing toolkit for taking back tech.**
 
 We create hands-on workshops, simple guides, and DIY tools anyone can use to clean or set up a safer device, build a tech lab in a shelter, or run peer-led trainings in their own language and context. Whether it’s spotting digital traps, blocking stalkerware, or helping someone secure their phone without making things worse — PowerOn is built to support that work.

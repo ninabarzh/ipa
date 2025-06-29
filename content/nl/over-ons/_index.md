@@ -28,39 +28,15 @@ Het begon als een samenwerking tussen schrijver en activist [Meltem Arikan](http
 
 {{% blocks/section color="white" %}}
 
-Samen hebben we **workshops, tools, labs en handleidingen** ontwikkeld die iedereen kan gebruiken, remixen en aanpassen om:
+**PowerOn is een groeiende toolkit om technologie terug te eisen.**  
 
-- Een gehackt apparaat schoon te maken (of liever nog, de vroege signalen te herkennen)
-- Een veilige telefoon of laptop vanaf nul op te zetten
-- Een DIY-techlab op te bouwen in een opvangcentrum of gemeenschapsruimte
-- Deepfakes, gemanipuleerde beelden en digitale valkuilen te herkennen
-- Peergeleide workshops te organiseren in je eigen taal, cultuur en context
+We ontwikkelen praktische workshops, eenvoudige handleidingen en DIY-tools waarmee iedereen een veiliger apparaat kan opschonen of instellen, een techlab in een opvang kan opzetten of peer-to-peertrainingen kan geven in hun eigen taal en context. Of het nu gaat om digitale valkuilen herkennen, stalkerware blokkeren of iemand helpen hun telefoon te beveiligen zonder het erger te maken – PowerOn ondersteunt dat werk.  
 
-We gaan niet uit van vertrouwen in platforms, bedrijven of instituten. We verwachten niet dat je geld, geavanceerde vaardigheden of toegang tot professionele hulp hebt. En we behandelen veiligheid niet als een checklist.
+We gaan niet uit van blind vertrouwen in platforms. We verwachten geen geld, techvaardigheden of toegang tot experts. En we behandelen veiligheid niet als een afvinklijst.  
 
-Dit gaat over **macht** - digitaal, fysiek, sociaal - en hoe je een deel ervan terug kunt nemen.
+**Omdat overlevenden tools verdienen die vóór hen werken – niet tegen hen.**  
 
-## Waarom dit belangrijk is
-
-Overlevenden krijgen vaak met dezelfde drie problemen te maken:
-
-1. **Hun apparaten zijn niet veilig.**
-2. **De technische ondersteuning om hen heen begrijpt het niet.**
-3. **De tools die zouden kunnen helpen voelen overweldigend of ontoegankelijk.**
-
-Deze site probeert dat te veranderen. We bieden praktische, taalvriendelijke, open-source tools aan om *het makkelijker te maken om te beginnen* - of je nu iemand anders ondersteunt of dingen voor jezelf uitzoekt.
-
-## Hoe deze site te gebruiken
-
-Alles hier is modulair, lokaliseerbaar, aanpasbaar en beschikbaar onder permissieve open licenties. Je vindt:
-
-- **Het Lab:** DIY-beveiligingsinfrastructuur, van schone computers tot lokale back-ups
-- **De Handleidingen:** Beknopte instructies voor veelvoorkomende problemen zoals beveiligde communicatie of het uitschakelen van spyware
-- **De Workshops:** Praktische, groepsgebaseerde materialen om gemeenschappen te helpen samen vaardigheden op te bouwen
-
-Begin waar het voor jou logisch is. Vertaal. Pas aan. Breek dingen en maak ze beter.
-
-We vertrouwen erop dat je weet wat je nodig hebt.
+Begin waar het logisch is. Vertaal het. Breek het af. Maak het van jou.  
 
 {{% /blocks/section %}}
 
@@ -68,6 +44,6 @@ We vertrouwen erop dat je weet wat je nodig hebt.
 
 Power On is gebouwd met koppig optimisme, droge humor en een weigering om de digitale ruimte op te geven.
 
-Hulp nodig? Wil je bijdragen? Neem contact op.
+[Hulp nodig? Wil je bijdragen? Neem contact op.](../contact.md)
 
 {{% /blocks/cover %}}
