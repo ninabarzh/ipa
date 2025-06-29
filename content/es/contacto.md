@@ -13,7 +13,7 @@ menu:
 
 <p>¿Necesitas comunicarte con nosotros? Ya sea que estés organizando un taller, buscando soporte o simplemente tengas curiosidad, escríbenos un mensaje a continuación.</p>
 
-<form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field"  action="/gracias" netlify>
+<form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field"  action="/es/gracias" netlify>
   <input type="hidden" name="form-name" value="contact" />
   <p class="d-none">
     <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
