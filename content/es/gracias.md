@@ -3,7 +3,7 @@ title: "¡Gracias!"
 description: "Hemos recibido tu mensaje."
 type: "page"
 layout: "single"
-url: "/gracias/"
+url: "/es/gracias/"
 ---
 
 ## ¡Gracias!

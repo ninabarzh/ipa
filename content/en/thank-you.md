@@ -3,7 +3,7 @@ title: "Thank You"
 description: "Your message has been received."
 type: "page"
 layout: "single"
-url: "/thank-you/"
+url: "/en/thank-you/"
 ---
 
 ## Thank you!

@@ -3,7 +3,7 @@ title: "Teşekkürler"
 description: "Mesajınız alınmıştır."
 type: "page"
 layout: "single"
-url: "/tesekkurler/"
+url: "/tr/tesekkurler/"
 ---
 
 ## Teşekkürler!

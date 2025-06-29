@@ -3,7 +3,7 @@ title: "Danke"
 description: "Ihre Nachricht ist bei uns eingegangen."
 type: "page"
 layout: "single"
-url: "/danke/"
+url: "/de/danke/"
 ---
 
 ## Vielen Dank!

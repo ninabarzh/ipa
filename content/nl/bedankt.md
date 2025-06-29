@@ -3,7 +3,7 @@ title: "Bedankt"
 description: "Je bericht is bij ons aangekomen."
 type: "page"
 layout: "single"
-url: "/bedankt/"
+url: "/nl/bedankt/"
 ---
 
 ## Bedankt!

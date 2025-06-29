@@ -3,7 +3,7 @@ title: "Merci"
 description: "Votre message a bien été reçu."
 type: "page"
 layout: "single"
-url: "/merci/"
+url: "/fr/merci/"
 ---
 
 ## Merci !
