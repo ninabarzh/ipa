@@ -33,6 +33,7 @@ customCSS = ["css/custom.css"]
   site_logo = "images/logo.png"
 
 [params.ui]
+  navbar_logo = false
   sidebar_search_disable = true
   sidebar_menu_compact = true
   ul_show = 1

@@ -10,23 +10,26 @@ menu:
 translationKey: "about"
 ---
 
-{{% blocks/cover title="Über Power On" image_anchor="bottom" height="auto" %}}
+{{% blocks/cover image_anchor="bottom" height="med" %}}
 
-**Power On** ist eine gemeinsame Initiative, die Menschen dabei helfen soll, die Kontrolle über
+<h1 class="reactive-font">Über PowerOn</h1>
 
-ihr digitales Leben zurückzugewinnen – besonders wenn diese Kontrolle durch 
+<p><br></p>
 
-Missbrauch, Überwachung oder Zwang entrissen wurde.
-
-----
-
-Es begann als Zusammenarbeit zwischen der Autorin und Aktivistin [Meltem Arikan](https://www.meltemarikan.com/) und einer Gruppe von Datenschutz- und Sicherheitsexperten, die mit Überlebenden von Partnerschaftsgewalt arbeiten. Das Projekt wird unterstützt von [/ut7](https://ut7.fr/), einer 2007 gegründeten Pariser Genossenschaft (SCOP), die sich auf agile Softwareentwicklung, philosophische Forschung und digitale/philosophische Lernräume spezialisiert hat.
-
-----
+<p class="punishment-font">
+Power On ist eine gemeinsame Initiative, die Menschen dabei helfen soll, die Kontrolle über ihr digitales Leben zurückzugewinnen – besonders wenn diese Kontrolle durch Missbrauch, Überwachung oder Zwang entrissen wurde.
+</p>
 
 {{% /blocks/cover %}}
 
 {{% blocks/section color="white" %}}
+
+Es begann als Zusammenarbeit zwischen der Autorin und Aktivistin [Meltem Arikan](https://www.meltemarikan.com/) und einer Gruppe von 
+Datenschutz- und Sicherheitsexperten, die mit Überlebenden von Partnerschaftsgewalt arbeiten. Das Projekt wird 
+unterstützt von [/ut7](https://ut7.fr/), einer 2007 gegründeten Pariser Genossenschaft (SCOP), die sich auf agile 
+Softwareentwicklung, philosophische Forschung und digitale/philosophische Lernräume spezialisiert hat.
+
+----
 
 **PowerOn ist ein wachsendes Toolkit, um die Kontrolle über Technologie zurückzugewinnen.**  
 
@@ -42,8 +45,12 @@ Beginne dort, wo es sinnvoll ist. Übersetze es. Zerlege es. Mach es zu deinem E
 
 {{% blocks/cover image_anchor="top" height="auto" %}}
 
-Power On ist gebaut auf beharrlichem Optimismus, trockenem Humor und der Weigerung, den digitalen Raum aufzugeben.
+<p class="punishment2-font">
+  Power On ist gebaut auf beharrlichem Optimismus, trockenem Humor und der Weigerung, den digitalen Raum aufzugeben.
+</p>
 
-[Brauchen Sie Hilfe? Möchten Sie mitwirken? Melden Sie sich bei uns.](../kontakt.md)
+<p class="punishment2-font">
+  <a href="../kontakt">Brauchen Sie Hilfe? Möchten Sie mitwirken? Melden Sie sich bei uns.</a>
+</p>
 
 {{% /blocks/cover %}}

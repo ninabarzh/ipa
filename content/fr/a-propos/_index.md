@@ -10,23 +10,26 @@ menu:
 translationKey: "about"
 ---
 
-{{% blocks/cover title="À propos de Power On" image_anchor="bottom" height="auto" %}}
+{{% blocks/cover image_anchor="bottom" height="med" %}}
 
-**Power On** est une initiative collective visant à aider les gens à reprendre le contrôle de leur vie numérique — 
+<h1 class="reactive-font">À propos de PowerOn</h1>
 
-en particulier lorsque ce contrôle leur a été arraché par 
+<p><br></p>
 
-des abus, une surveillance ou une coercition.  
-
-----
-
-Ce projet est né d'une collaboration entre l'autrice et militante [Meltem Arikan](https://www.meltemarikan.com/) et un groupe de facilitateurs en protection numérique travaillant avec des survivant·es de violences conjugales. Le projet est soutenu par [/ut7](https://ut7.fr/), une coopérative parisienne (SCOP) fondée en 2007, spécialisée dans le développement logiciel agile, la philosophie et les espaces d'apprentissage numériques/philosophiques.
-
-----
+<p class="punishment-font">
+Power On est une initiative collective visant à aider les gens à reprendre le contrôle de leur vie numérique — en particulier lorsque ce contrôle leur a été arraché par des abus, une surveillance ou une coercition.  
+</p>
 
 {{% /blocks/cover %}}
 
 {{% blocks/section color="white" %}}
+
+Ce projet est né d'une collaboration entre l'autrice et militante [Meltem Arikan](https://www.meltemarikan.com/) et un groupe de facilitateurs 
+en protection numérique travaillant avec des survivant·es de violences conjugales. Le projet est soutenu par 
+[/ut7](https://ut7.fr/), une coopérative parisienne (SCOP) fondée en 2007, spécialisée dans le développement logiciel agile, 
+la philosophie et les espaces d'apprentissage numériques/philosophiques.
+
+----
 
 **PowerOn est une boîte à outils en expansion pour reprendre le contrôle de la technologie.**  
 
@@ -42,8 +45,12 @@ Commencez où cela a du sens. Traduisez-le. Détournez-le. Faites-le vôtre.
 
 {{% blocks/cover image_anchor="top" height="auto" %}}
 
-Power On est construit avec un optimisme obstiné, un humour sec et un refus d'abandonner l'espace numérique.  
+<p class="punishment2-font">
+  Power On est construit avec un optimisme obstiné, un humour sec et un refus d'abandonner l'espace numérique.
+</p>
 
-[Besoin d'aide ? Envie de contribuer ? Contactez-nous.](../contact.md)
+<p class="punishment2-font">
+  <a href="../contact">Besoin d'aide ? Envie de contribuer ? Contactez-nous.</a>
+</p>
 
 {{% /blocks/cover %}}

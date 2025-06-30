@@ -12,13 +12,17 @@ translationKey: "about"
 
 {{% blocks/cover image_anchor="bottom" height="med" %}}
 
+<h1 class="reactive-font">About PowerOn</h1>
+
+<p><br></p>
+
+<p class="punishment-font">
+Power On is a collective initiative to help people reclaim control over their digital lives — especially when that control has been stripped away by abuse, surveillance, or coercion.
+</p>
+
 {{% /blocks/cover %}}
 
 {{% blocks/section color="white" %}}
-
-**Power On** is a collective initiative to help people reclaim control over their digital lives — especially when that control has been stripped away by abuse, surveillance, or coercion.
-
-----
 
 It began as a collaboration between writer and activist [Meltem Arikan](https://www.meltemarikan.com/) and a group 
 of privacy and security facilitators working with survivors of intimate partner abuse. The project is supported by 
@@ -35,14 +39,18 @@ We don’t assume trust in platforms. We don’t expect money, tech skills, or a
 
 **Because survivors deserve tools that work for them — not against them.**
 
-Start where it makes sense. Translate it. Break it. Make it yours.
+Start where it makes sense. Translate it. Break it. Make it yours. 
 
 {{% /blocks/section %}}
 
 {{% blocks/cover image_anchor="top" height="auto" %}}
 
-Power On is built with stubborn optimism, dry humour, and a refusal to give up the digital space.
+<p class="punishment2-font">
+  Power On is built with stubborn optimism, dry humour, and a refusal to give up the digital space.
+</p>
 
-[Need help? Want to contribute? Get in touch.](../contact.md)
+<p class="punishment2-font">
+  <a href="../contact">Need help? Want to contribute? Get in touch.</a>
+</p>
 
 {{% /blocks/cover %}}

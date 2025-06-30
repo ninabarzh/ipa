@@ -10,23 +10,24 @@ menu:
 translationKey: "about"
 ---
 
-{{% blocks/cover title="Over Power On" image_anchor="bottom" height="auto" %}}
 
-**Power On** is een collectief initiatief om mensen te helpen de controle over hun 
+{{% blocks/cover image_anchor="bottom" height="med" %}}
 
-digitale leven terug te winnen - vooral wanneer die controle is afgenomen door 
+<h1 class="reactive-font">Over PowerOn</h1>
 
-misbruik, surveillance of dwang.
+<p><br></p>
 
-----
-
-Het begon als een samenwerking tussen schrijver en activist [Meltem Arikan](https://www.meltemarikan.com/) en een groep privacy- en beveiligingsbegeleiders die werken met overlevenden van partnergeweld. Het project wordt ondersteund door [/ut7](https://ut7.fr/), een in Parijs gevestigd coöperatief (SCOP) opgericht in 2007, gespecialiseerd in agile softwareontwikkeling, filosofisch onderzoek en digitale/filosofische leerruimtes.
-
-----
+<p class="punishment-font">
+Power On is een collectief initiatief om mensen te helpen de controle over hun digitale leven terug te winnen - vooral wanneer die controle is afgenomen door misbruik, surveillance of dwang.
+</p>
 
 {{% /blocks/cover %}}
 
 {{% blocks/section color="white" %}}
+
+Het begon als een samenwerking tussen schrijver en activist [Meltem Arikan](https://www.meltemarikan.com/) en een groep privacy- en beveiligingsbegeleiders die werken met overlevenden van partnergeweld. Het project wordt ondersteund door [/ut7](https://ut7.fr/), een in Parijs gevestigd coöperatief (SCOP) opgericht in 2007, gespecialiseerd in agile softwareontwikkeling, filosofisch onderzoek en digitale/filosofische leerruimtes.
+
+----
 
 **PowerOn is een groeiende toolkit om technologie terug te eisen.**  
 
@@ -36,14 +37,19 @@ We gaan niet uit van blind vertrouwen in platforms. We verwachten geen geld, tec
 
 **Omdat overlevenden tools verdienen die vóór hen werken – niet tegen hen.**  
 
-Begin waar het logisch is. Vertaal het. Breek het af. Maak het van jou.  
+Begin waar het logisch is. Vertaal het. Breek het af. Maak het je eigen. 
 
 {{% /blocks/section %}}
 
 {{% blocks/cover image_anchor="top" height="auto" %}}
 
-Power On is gebouwd met koppig optimisme, droge humor en een weigering om de digitale ruimte op te geven.
+<p class="punishment2-font">
+  Power On is gebouwd met koppig optimisme, droge humor en een weigering om de digitale ruimte op te geven.
+</p>
 
-[Hulp nodig? Wil je bijdragen? Neem contact op.](../contact.md)
+<p class="punishment2-font">
+  <a href="../contact">Hulp nodig? Wil je bijdragen? Neem contact op.</a>
+</p>
 
 {{% /blocks/cover %}}
+

@@ -1,3 +1,99 @@
+@font-face {
+  font-family: 'Punishment';
+  src: url('/fonts/Punishment.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Misdemeanor';
+  src: url('/fonts/Misdemeanor.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Reactive';
+  src: url('/fonts/Reactive.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Custom style for Punishment font */
+.punishment-font {
+  font-family: 'Punishment', sans-serif;
+  font-size: 3rem;
+  line-height: 1.3;
+  letter-spacing: 0.02em;
+  color: #111; /* Nearly black, easy on the eyes */
+}
+
+/* Medium screens (e.g. tablets) */
+@media (max-width: 992px) {
+  .punishment-font {
+    font-size: 2.5rem;
+  }
+}
+
+/* Small screens (e.g. mobile) */
+@media (max-width: 576px) {
+  .punishment-font {
+    font-size: 1.2rem;
+  }
+}
+
+.punishment2-font {
+  font-family: 'Punishment', sans-serif;
+  font-size: 2rem;
+  line-height: 1.0;
+  letter-spacing: 0.02em;
+  color: #111; /* Nearly black, easy on the eyes */
+}
+
+/* Medium screens (e.g. tablets) */
+@media (max-width: 992px) {
+  .punishment2-font {
+    font-size: 1.5rem;
+  }
+}
+
+/* Small screens (e.g. mobile) */
+@media (max-width: 576px) {
+  .punishment2-font {
+    font-size: 0.8rem;
+  }
+}
+
+.misdemeanor-font {
+  font-family: 'Misdemeanor', sans-serif;
+  font-size: 3rem;
+  line-height: 1.3;
+  letter-spacing: 0.02em;
+  color: #111; /* Nearly black, easy on the eyes */
+}
+
+.reactive-font {
+  font-family: 'Reactive', sans-serif;
+  font-size: 7rem;
+  line-height: 1.3;
+  letter-spacing: 0.02em;
+  color: #111; /* Nearly black, easy on the eyes */
+}
+
+/* Medium screens (e.g. tablets) */
+@media (max-width: 992px) {
+  .reactive-font {
+    font-size: 4rem;
+  }
+}
+
+/* Small screens (e.g. mobile) */
+@media (max-width: 576px) {
+  .reactive-font {
+    font-size: 2.5rem;
+  }
+}
+
 .td-footer {
   min-height: 10px !important;
   padding-top: 0.1rem !important;
@@ -80,4 +176,5 @@
   background-color: #cc0000;  /* Darker red on hover/focus */
   border-color: #cc0000;
 }
+
 
