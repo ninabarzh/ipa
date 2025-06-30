@@ -1,6 +1,8 @@
+<script>
 (function () {
   const supportedLangs = ['en', 'es', 'fr', 'de', 'nl', 'tr'];
   const defaultLang = 'en';
+  const storageKey = 'poweron-lang-pref';
 
   const fallbackLanguageByCountry = {
     // French-speaking African countries
@@ -22,16 +24,25 @@
     RS: 'de', ME: 'de', MK: 'de', MD: 'de', UA: 'de'
   };
 
-  // Get current language from path
   const pathParts = window.location.pathname.split('/');
-  const pathLang = pathParts[1];
+  const currentLang = pathParts[1];
+  const isAtRoot = (
+    window.location.pathname === '/' ||
+    window.location.pathname === '' ||
+    window.location.pathname === '/index.html'
+  );
 
-  // Only redirect if:
-  // 1. We're on the root path AND
-  // 2. The path doesn't already contain a supported language
-  if (window.location.pathname === '/' ||
-      (pathLang && !supportedLangs.includes(pathLang))) {
+  // 1. Use stored language if available
+  const storedLang = localStorage.getItem(storageKey);
+  if (isAtRoot && storedLang && supportedLangs.includes(storedLang)) {
+    if (currentLang !== storedLang) {
+      window.location.replace(`/${storedLang}/`);
+    }
+    return;
+  }
 
+  // 2. Otherwise, use browser or fallback
+  if (isAtRoot || !supportedLangs.includes(currentLang)) {
     const navLang = (navigator.languages && navigator.languages.length)
       ? navigator.languages[0]
       : navigator.language || defaultLang;
@@ -40,7 +51,6 @@
     const countryCode = navLang.toUpperCase().split('-')[1] || '';
 
     let finalLang = defaultLang;
-
     if (supportedLangs.includes(langCode)) {
       finalLang = langCode;
     } else if (countryCode && fallbackLanguageByCountry[countryCode]) {
@@ -50,9 +60,26 @@
       }
     }
 
-    // Only redirect if we're not already on the correct language
-    if (pathLang !== finalLang) {
+    if (currentLang !== finalLang) {
+      localStorage.setItem(storageKey, finalLang);
       window.location.replace(`/${finalLang}/`);
     }
   }
 })();
+</script>
+
+<script>
+  // Optional: remember user-chosen language from navbar links
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('a[href^="/"]').forEach(link => {
+      link.addEventListener('click', function () {
+        const href = this.getAttribute('href');
+        const langMatch = href.match(/^\/(en|es|fr|de|nl|tr)\//);
+        if (langMatch) {
+          localStorage.setItem('poweron-lang-pref', langMatch[1]);
+        }
+      });
+    });
+  });
+</script>
+

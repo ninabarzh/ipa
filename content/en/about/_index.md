@@ -10,13 +10,13 @@ menu:
 translationKey: "about"
 ---
 
-{{% blocks/cover title="About Power On" image_anchor="bottom" height="auto" %}}
+{{% blocks/cover image_anchor="bottom" height="med" %}}
 
-**Power On** is a collective initiative to help people reclaim control over their digital lives 
+{{% /blocks/cover %}}
 
-— especially when that control has been stripped away by 
+{{% blocks/section color="white" %}}
 
-abuse, surveillance, or coercion.
+**Power On** is a collective initiative to help people reclaim control over their digital lives — especially when that control has been stripped away by abuse, surveillance, or coercion.
 
 ----
 
@@ -26,10 +26,6 @@ of privacy and security facilitators working with survivors of intimate partner 
 philosophical inquiry, and digital/philosophical learning spaces.
 
 ----
-
-{{% /blocks/cover %}}
-
-{{% blocks/section color="white" %}}
 
 **PowerOn is a growing toolkit for taking back tech.**
 

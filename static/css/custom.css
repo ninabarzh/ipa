@@ -71,3 +71,13 @@
   z-index: 2000;
 }
 
+.btn-danger {
+  background-color: #ff0000;  /* Pure red */
+  border-color: #ff0000;
+}
+.btn-danger:hover,
+.btn-danger:focus {
+  background-color: #cc0000;  /* Darker red on hover/focus */
+  border-color: #cc0000;
+}
+
