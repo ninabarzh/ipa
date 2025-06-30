@@ -39,7 +39,7 @@ These aren’t just glitches. They're red flags.
 * Erase any hidden schedules or routines
 * Allow you to set it up fresh
 
-5. Reconnect it using your own account
+5. Reconnect it using your own account.
 
 * Create new accounts for services like Nest, Alexa, or Apple Home
 * Use a private email address

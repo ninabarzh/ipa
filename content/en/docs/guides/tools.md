@@ -1,7 +1,7 @@
 ---
 title: "Small tools that make a big difference"
 weight: 9
-translationKey: "allies"
+translationKey: "tools"
 _build:
   render: always
 menu:
@@ -124,8 +124,6 @@ Simple Mobile Tools (Android)
 * Lightweight and discreet
 
 ---
-
-## Discreet tools for emergencies
 
 ### Anonymous browsing & research
 
