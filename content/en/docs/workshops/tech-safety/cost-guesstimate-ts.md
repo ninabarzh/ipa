@@ -12,18 +12,18 @@ description: "A cost guesstimate for running the Tech safety for survivors choos
 
 ## Summary table
 
-| Item                                | Low-budget (€)       | Full-cost (€)    |
-|-------------------------------------|----------------------|------------------|
-| Venue (if not in-shelter)           | 0 (shelter-provided) | 150–300          |
-| Facilitators (2–3 people)           | 0 (volunteers)       | 600–900          |
-| Tech kit (Pirogue + demo phones)    | 200                  | 400–600          |
-| Food & drinks (20 people)           | 100                  | 250              |
-| Printing (zines, signage, handouts) | 50                   | 100              |
-| Giveaways (USBs, stickers, badges)  | 60                   | 120              |
-| Creative supplies (journaling/art)  | 30                   | 60               |
-| Travel/transport                    | 0–50                 | 100              |
-| Contingency (10%)                   | \~45                 | \~250            |
-| **Total estimate**                  | **€485–540**         | **€1,880–2,680** |
+| Item                                |       Low-budget (€) |    Full-cost (€) |
+|-------------------------------------|---------------------:|-----------------:|
+| Venue (if not in-shelter)           | 0 (shelter-provided) |          150–300 |
+| Facilitators (2–3 people)           |       0 (volunteers) |          600–900 |
+| Tech kit (Pirogue + demo phones)    |                  200 |          400–600 |
+| Food & drinks (20 people)           |                  100 |              250 |
+| Printing (zines, signage, handouts) |                   50 |              100 |
+| Giveaways (USBs, stickers, badges)  |                   60 |              120 |
+| Creative supplies (journaling/art)  |                   30 |               60 |
+| Travel/transport                    |                 0–50 |              100 |
+| Contingency (10%)                   |                 \~45 |            \~250 |
+| **Total estimate**                  |         **€485–540** | **€1,880–2,680** |
 
 ---
 

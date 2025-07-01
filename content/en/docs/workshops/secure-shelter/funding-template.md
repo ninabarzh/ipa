@@ -1,7 +1,7 @@
 ---
 title: "Funding template for the secure the shelter build-a-thon"
 weight: 5
-translationKey: "funding-template-tech-safety"
+translationKey: "funding-template-secure-shelter"
 _build:
   render: always
 menu:

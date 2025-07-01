@@ -32,7 +32,7 @@ translationKey: "secure-shelter"
 ## Pre-workshop checklist
 
 | What                    | Notes                                                                 |
-| ----------------------- | --------------------------------------------------------------------- |
+|-------------------------|-----------------------------------------------------------------------|
 | USB sticks (at least 3) | Preloaded with setup.sh, config files, tools                          |
 | A host laptop or server | For the Wazuh install – cloud VM, local mini server, or strong laptop |
 | Internet access         | For setup and package downloads                                       |

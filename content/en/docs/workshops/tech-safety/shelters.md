@@ -1,7 +1,7 @@
 ---
 title: "Workshop planning & getting funding for shelters"
 weight: 2
-translationKey: "what"
+translationKey: "planning"
 _build:
   render: always
 menu:
@@ -119,5 +119,5 @@ The PowerOn project offers:
 * Tech setup templates (Pirogue, SIEM stack, safe toolkits)
 * Advice on facilitators, running roleplay zones, or adapting to your shelter setup
 
-Want help for a grant or internal pitch? Let me know your country, funder, or format and I’ll help tailor it.
+Want help for a grant or internal pitch? Let us know your country, funder, or format and we’ll help tailor it.
 

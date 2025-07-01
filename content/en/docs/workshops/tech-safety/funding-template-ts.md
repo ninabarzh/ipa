@@ -59,7 +59,7 @@ The atmosphere is relaxed, flexible, and survivor-led. Food, drinks, and calm br
 ### 6. Timeline
 
 | Phase                          | Date         |
-| ------------------------------ | ------------ |
+|--------------------------------|--------------|
 | Planning & facilitator prep    | Month 1      |
 | Outreach & participant invites | Month 2      |
 | Workshop delivery              | Month 2 or 3 |
