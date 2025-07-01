@@ -1,7 +1,7 @@
 ---
 title: "Where to apply for budget for a lab (2025)"
 weight: 8
-translationKey: "cloud-costs"
+translationKey: "funding"
 _build:
   render: always
 menu:

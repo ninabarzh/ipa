@@ -1,7 +1,7 @@
 ---
 title: "Grant application summary for a lab"
 weight: 9
-translationKey: "cloud-costs"
+translationKey: "funding-lab-template"
 _build:
   render: always
 menu:

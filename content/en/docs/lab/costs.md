@@ -57,22 +57,22 @@ Subtotal PiRogue: €120
 ## Summary for year 1
 
 | Category             | Low (Volunteer) | High (Paid + Extras) |
-|----------------------|-----------------|----------------------|
-| Server hardware      | €350            | €715                 |
-| Networking & storage | €120            | €120                 |
-| PiRogue (optional)   | €0              | €330                 |
-| Software             | €0              | €0                   |
-| Setup labour         | €0              | €540                 |
-| Maintenance & buffer | €120            | €160                 |
-| **Total (approx)**   | **€590**        | **€1,865**           |
+|----------------------|----------------:|---------------------:|
+| Server hardware      |            €350 |                 €715 |
+| Networking & storage |            €120 |                 €120 |
+| PiRogue (optional)   |              €0 |                 €330 |
+| Software             |              €0 |                   €0 |
+| Setup labour         |              €0 |                 €540 |
+| Maintenance & buffer |            €120 |                 €160 |
+| **Total (approx)**   |        **€590** |           **€1,865** |
 
 ## Year 2+ running costs (estimated)
 
 | Item               | Annual cost |
-|--------------------|-------------|
-| Hardware buffer    | €120        |
-| Paid support time  | €450        |
-| **Total per year** | **€570**    |
+|--------------------|------------:|
+| Hardware buffer    |        €120 |
+| Paid support time  |        €450 |
+| **Total per year** |    **€570** |
 
 ## Notes
 

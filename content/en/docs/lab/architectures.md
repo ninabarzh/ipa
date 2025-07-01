@@ -196,7 +196,7 @@ Pros: Combines best of both worlds—centralised security with local action; Con
 
 ## Design considerations
 
-* Data Privacy: Use full-disk encryption on all nodes. Logs should be anonymised by default unless explicit consent is obtained.
-* Audit Trails: All forensic actions should generate immutable logs to support legal admissibility.
-* Updates: Script-based updates (e.g., via Git or USB sync) should be regularly pushed to maintain detection accuracy.
-* Threat Signatures: Shared, updated rulepacks specific to IPA surveillance patterns (e.g., “Calculator+” malware, SIM spoofing logs).
+* **Data Privacy**: Use full-disk encryption on all nodes. Logs should be anonymised by default unless explicit consent is obtained.
+* **Audit Trails**: All forensic actions should generate immutable logs to support legal admissibility.
+* **Updates**: Script-based updates (e.g., via Git or USB sync) should be regularly pushed to maintain detection accuracy.
+* **Threat Signatures**: Shared, updated rulepacks specific to IPA surveillance patterns (e.g., “Calculator+” malware, SIM spoofing logs).

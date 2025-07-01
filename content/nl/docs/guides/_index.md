@@ -1,6 +1,6 @@
 ---
 title: "Handleidingen"
-weight: 30
+weight: 10
 _build:
   render: always
 menu:

@@ -1,6 +1,6 @@
 ---
 title: "Anleitungen"
-weight: 30
+weight: 10
 _build:
   render: always
 menu:

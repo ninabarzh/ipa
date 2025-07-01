@@ -36,7 +36,7 @@ We assume you have basic admin access to your cloud server, or a friendly nerd w
 
 ### Survivor devices
 
-As in the [on-prem setup](on-prem.md) version: Windows, macOS, Android (rooted preferred), iOS (jailbroken or backups)
+As in the in-shelter version: Windows, macOS, Android (rooted preferred), iOS (jailbroken or backups)
 
 ### Optional: PiRogue toolkit
 
