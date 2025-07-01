@@ -1,5 +1,5 @@
 ---
-title: "Dijital güvenlik rehberleri"
+title: "Nasıl Yapılır Kılavuzları"
 weight: 30
 _build:
   render: always

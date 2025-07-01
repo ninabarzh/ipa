@@ -1,5 +1,5 @@
 ---
-title: "Guías de seguridad digital"
+title: "Guías prácticas"
 weight: 30
 _build:
   render: always

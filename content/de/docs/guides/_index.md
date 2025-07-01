@@ -1,5 +1,5 @@
 ---
-title: "Leitfäden zur digitalen Sicherheit"
+title: "Anleitungen"
 weight: 30
 _build:
   render: always

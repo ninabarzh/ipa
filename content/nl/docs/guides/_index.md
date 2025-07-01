@@ -1,5 +1,5 @@
 ---
-title: "Digitale veiligheidsgidsen"
+title: "Handleidingen"
 weight: 30
 _build:
   render: always
