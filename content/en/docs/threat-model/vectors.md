@@ -10,10 +10,6 @@ menu:
 description: "Through physical access (“I just needed to check your texts”), sneaky features like cloud syncing, or techy tricks like spying on your Wi-Fi. Some methods are digital. Others are emotional."
 ---
 
-Absolutely. Here's the expanded Attack Vectors section, rewritten for readability, clarity, and calm empowerment. It keeps the tone measured and informative—British English, with just a touch of dry wit where useful, but without making light of the seriousness.
-
----
-
 So how does the digital mischief actually begin? Not through black-hooded hackers and Hollywood code storms, but through everyday doors left ajar—some of them kindly labelled “family features.”
 
 Attack vectors are simply the ways someone gains access to your devices, accounts, or information. It’s not always obvious. Sometimes it doesn’t even look like “abuse.” But the outcome is the same: control through visibility.
@@ -97,4 +93,5 @@ become subtle surveillance tools—quiet, persistent, and hard to explain to cus
 None of these vectors are sci-fi. They’re common, often invisible, and sometimes even look like kindness at first. But when viewed together—with intent—they form the skeleton of a surveillance system most businesses would envy.
 
 The good news?
+
 Once you recognise the doorways, you can start closing them. One at a time.
