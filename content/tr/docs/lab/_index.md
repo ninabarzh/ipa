@@ -9,6 +9,7 @@ menu:
     identifier: "tr-lab"
     parent: "tr-docs"
 translationKey: "lab"
+description: "Sığınaklarda veya toplum alanlarında özel, dayanıklı araçlar kurmak için pratik rehberler."
 ---
 
 Bu laboratuvar, destek hizmetlerinin ön saflarında çalışan kişiler için tasarlanmıştır. Buna, müvekkillerinin dijital güvenliğini sağlamaya yardımcı olan sığınma evleri ve güvenli konutlar, dava dosyaları hazırlayan hukuk danışmanları ve dijital destek sunan teknik bilgili savunucular dahildir. Doğrudan hayatta kalanlar tarafından da kullanılabilir - teknik kurulum için yardım alabilecekleri birine erişimleri varsa.

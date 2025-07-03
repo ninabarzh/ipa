@@ -9,6 +9,7 @@ menu:
     identifier: "es-lab"
     parent: "es-docs"
 translationKey: "lab"
+description: "Guías prácticas para configurar herramientas privadas y resilientes en refugios o espacios comunitarios."
 ---
 
 Este laboratorio está diseñado para personas que trabajan en primera línea de apoyo. Esto incluye refugios y casas de acogida que ayudan a clientes a mantenerse digitalmente seguros, trabajadores de asistencia legal que construyen casos, y defensores con conocimientos técnicos que ofrecen apoyo digital. También puede ser usado directamente por sobrevivientes - si tienen acceso a alguien que pueda ayudar con la configuración técnica.

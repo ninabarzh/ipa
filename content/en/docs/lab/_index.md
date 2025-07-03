@@ -9,6 +9,7 @@ menu:
     identifier: "en-lab"
     parent: "en-docs"
 translationKey: "lab"
+description: "Practical guides for setting up private, resilient tools in shelters or community spaces."
 ---
 
 This lab is designed for people working on the front lines of support. That includes shelters and safe houses helping clients stay digitally safe, legal aid workers building cases, and technically minded advocates offering digital support. It can also be used by survivors directly—if they have access to someone who can help with the technical setup.

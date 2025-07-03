@@ -9,6 +9,7 @@ menu:
     identifier: "fr-lab"
     parent: "fr-docs"
 translationKey: "lab"
+description: "Guides pratiques pour mettre en place des outils privés et résilients dans les refuges ou espaces communautaires."
 ---
 
 Ce laboratoire est conçu pour les personnes en première ligne du soutien. Cela inclut les refuges et maisons sûres aidant les clients à rester en sécurité numérique, les travailleurs de l'aide juridique constituant des dossiers, et les défenseurs techniquement compétents offrant un soutien numérique. Il peut également être utilisé directement par les survivants - s'ils ont accès à quelqu'un pouvant aider avec la configuration technique.

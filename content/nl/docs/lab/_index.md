@@ -9,6 +9,7 @@ menu:
     identifier: "nl-lab"
     parent: "nl-docs"
 translationKey: "lab"
+description: "Praktische handleidingen voor het opzetten van private, resilient tools in opvangcentra of gemeenschapsruimtes."
 ---
 
 Dit lab is ontworpen voor mensen in de frontlinie van ondersteuning. Dat omvat opvanghuizen en safehuizen die cliënten helpen digitaal veilig te blijven, juridisch hulpverleners die zaken opbouwen, en technisch onderlegde advocaten die digitale ondersteuning bieden. Het kan ook direct door overlevenden worden gebruikt - mits ze toegang hebben tot iemand die kan helpen met de technische setup.

@@ -9,6 +9,7 @@ menu:
     identifier: "de-lab"
     parent: "de-docs"
 translationKey: "lab"
+description: "Praktische Anleitungen zum Aufbau privater, widerstandsfähiger Tools in Unterkünften oder Gemeinschaftsräumen."
 ---
 
 Dieses Labor ist für Personen konzipiert, die in der direkten Unterstützungsarbeit tätig sind. Dazu gehören Frauenhäuser und Schutzunterkünfte, die Klientinnen bei digitaler Sicherheit helfen, Rechtsberater*innen, die Fälle aufbauen, sowie technisch versierte Unterstützer*innen, die digitale Hilfe anbieten. Es kann auch direkt von Überlebenden genutzt werden - sofern sie Zugang zu jemandem haben, der bei der technischen Einrichtung helfen kann.
