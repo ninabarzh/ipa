@@ -9,7 +9,7 @@
     "postcss": "^8.4.31",
     "postcss-cli": "^10.1.0"
   },
-  "description": "Digital safety and empowerment for survivors of Intimate Partner Abuse (IPA)",
+  "description": "Digital safety and empowerment for survivors of Partner Abuse (IPA)",
   "main": "postcss.config.js",
   "keywords": [],
   "author": "",

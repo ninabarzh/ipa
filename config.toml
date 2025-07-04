@@ -9,7 +9,7 @@ defaultContentLanguageInSubdir = true
   writeStats = true  # Helps with debugging
 
 [outputs]
-  home = ["HTML", "JSON"]
+  home = ["HTML", "JSON", "print", "RSS"]
 
 [module]
   [[module.imports]]
