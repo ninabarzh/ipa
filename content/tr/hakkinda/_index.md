@@ -25,23 +25,27 @@ Power On, insanların dijital hayatları üzerindeki kontrolü yeniden kazanmala
 
 {{% blocks/section color="white" %}}
 
-Yazar ve aktivist [Meltem Arikan](https://www.meltemarikan.com/) ile yakın partner şiddetinden kurtulanlarla çalışan 
-bir dijital güvenlik ekibinin işbirliğiyle başladı. Proje, 2007'de kurulan ve çevik yazılım geliştirme, felsefi 
-sorgulama ve dijital/felsefi öğrenme alanlarında uzmanlaşmış Paris merkezli bir kooperatif (SCOP) olan 
-[/ut7](https://ut7.fr/) tarafından desteklenmektedir.
+Bu proje, yazar ve aktivist [Meltem Arikan](https://www.meltemarikan.com/) ile partner şiddeti mağdurlarıyla çalışan 
+gizlilik ve güvenlik kolaylaştırıcılarından oluşan bir grubun iş birliğiyle başlamıştır  ve   2007 yılında kurulan 
+ve agile software geliştirme, felsefi araştırmalar ile dijital/felsefi öğrenme alanlarında uzmanlaşmış Paris merkezli 
+bir kooperatif (SCOP) olan [/ut7](https://ut7.fr/) tarafından desteklenmektedir.
 
 ----
 
-**PowerOn, teknolojiyi geri almak için büyüyen bir araç setidir.**  
+**PowerOn, teknolojiyi geri almak için büyüyen bir araçlar setidir.**
 
-Daha güvenli bir cihazı temizlemek veya kurmak, bir sığınakta teknoloji laboratuvarı oluşturmak ya da kendi dilinde ve bağlamında akran liderliğinde eğitimler düzenlemek isteyen herkes için uygulamalı atölyeler, basit rehberler ve DIY araçlar üretiyoruz. Dijital tuzakları fark etmek, stalkerware’i engellemek veya birinin telefonunu işleri kötüleştirmeden güvence altına almasına yardım etmek olsun – PowerOn bu işi desteklemek için tasarlandı.  
+Daha güvenli  olmak için bir cihazı (telefon, bilgisayar) temizlemek veya kurmak, bir sığınakta teknoloji laboratuvarı 
+oluşturmak ya da kendi dilinde ve bağlamında akran liderliğinde eğitimler düzenlemek isteyen herkes için uygulamalı 
+atölyeler, basit rehberler ve DIY araçlar üretiyoruz. Power on dijital tuzakları fark etmek, stalkerware’i engellemek 
+veya birinin telefonunu işleri kötüleştirmeden güvence altına  almak gibi durumlarda  kişilere  destek vermek  için 
+tasarlandı.
 
-Platformlara körü körüne güvenmiyoruz. Para, teknik beceri veya uzmanlara erişim beklemiyoruz. Ve güvenliği bir kontrol listesi gibi ele almıyoruz.  
+Platformlara körü körüne güvenmiyoruz. Para, teknik beceri veya uzmanlara erişim beklentimiz yok. Ve güvenliği bir 
+kontrol listesi gibi  de ele almıyoruz. 
 
-**Çünkü hayatta kalanlar, kendileri için – kendilerine karşı değil – çalışan araçları hak ediyor.**  
+**Çünkü hayatta kalanlar, kendilerine karşı değil  kendileri için çalışan araçları hak ediyorlar.**
 
-Mantıklı olduğu yerden başla. Çevir. Parçala. Kendine ait kıl. 
-
+Senin için mantılklı olan yerden başla. Boz. Dene. Evir, çevir. Yeniden yap. Kendine ait kıl.
 {{% /blocks/section %}}
 
 {{% blocks/cover image_anchor="top" height="auto" %}}
