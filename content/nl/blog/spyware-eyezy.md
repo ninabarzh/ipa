@@ -58,3 +58,97 @@ Eyezy is een symptoom, niet de ziekte. De ziekte is de aanname dat liefde via to
 Voor opvangcentra is Eyezy een van vele namen om op te letten. Zijn aanwezigheid op apparaten moet serieus genomen worden. Zijn marketing cynisch gelezen. Zijn bestaan moet worden aangevochten – wettelijk, sociaal, technologisch.
 
 Het goede nieuws? Anders dan de misbruiker laat Eyezy sporen na. En anders dan vertrouwen kun je software verwijderen.
+
+## Voorbeeld SIEM-detectieregels voor Eyezy
+
+**Eyezy** richt zich op **toetsaanslag‑registratie**, **socialmediasurveillance** en **schermopname**, vaak verborgen onder systeem‐achtige namen.
+
+### Toetsaanslag‑registratie via toegankelijkheids‑ of input‑kaping
+
+```json
+{
+  "rule": {
+    "id": 100050,
+    "level": 12,
+    "description": "Eyezy‑stijl toetsaanslag‑logging via toegankelijkheids‑kaping",
+    "if_sid": [62002],
+    "match": {
+      "accessibility_service": "com.eye.sysinput/.KeyCaptureService"
+    },
+    "group": "spyware, android, keylogger"
+  }
+}
+```
+
+*Eyezy sluit zich vaak aan op tekstinvoerservices om te detecteren wat wordt getypt, vooral bij berichtenapps.*
+
+### Social media spiegelen of screen‑scraping poging
+
+```json
+{
+  "rule": {
+    "id": 100051,
+    "level": 11,
+    "description": "Screen‑scraping van sociale media – Eyezy‑variant",
+    "if_sid": [62001],
+    "match": {
+      "package.name": "com.eye.mirror.service"
+    },
+    "group": "spyware, android, social"
+  }
+}
+```
+
+*Het lijkt op een schermrecorder of spiegeltool. Als het Accessibility‑API's gebruikt, neem aan dat het privé‑berichten bespioneert.*
+
+### Verdachte DNS‑lookup naar Eyezy cloud‑infrastructuur
+
+```zeek
+event zeek_notice::Weird {
+  if (conn$host matches /eyezy|mirrorzone|eyec2/i &&
+      conn$duration < 45 secs &&
+      conn$resp_bytes < 1500) {
+    NOTICE([$note=Notice::Eyezy_C2_Traffic,
+            $msg="Mogelijke Eyezy C2‑beacon gedetecteerd",
+            $conn=conn]);
+  }
+}
+```
+
+*Eyezy gebruikt stilte HTTPS‑POSTs naar vage cloud‑domeinen. Let op regelmatig terugkerende kleine overdrachten naar domeinen met “eye”.*
+
+### Root‑of verhoogde toegang na installatie
+
+```json
+{
+  "rule": {
+    "id": 100052,
+    "level": 14,
+    "description": "Privilege escalatie gedetecteerd – mogelijk Eyezy spyware",
+    "if_sid": [5500],
+    "match": {
+      "event_type": "privilege_escalation",
+      "package.name": "com.eye.sysinput"
+    },
+    "group": "android, spyware, root"
+  }
+}
+```
+
+*Eyezy kan roottoegang vragen of misbruiken om zich volledig te verbergen. Als dat kort na installatie gebeurt, geef een alarm.*
+
+### Eyezy gedragscorrelatie meta‑regel
+
+```json
+{
+  "rule": {
+    "id": 199996,
+    "level": 15,
+    "description": "Eyezy gedragspatroon gedetecteerd – waarschijnlijk heimelijke bewaking",
+    "if_matched_sid": [100050, 100051, 100052],
+    "group": "spyware, survivor-risk, alert"
+  }
+}
+```
+
+*Alles vangen. Toetsaanslagregistratie, screen‑scraping en roottoegang in één bundel is nooit onschuldig.*

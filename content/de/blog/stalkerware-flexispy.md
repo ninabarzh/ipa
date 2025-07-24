@@ -60,3 +60,134 @@ In Schulungen und Notfallplänen müssen wir vom Worst Case ausgehen: Rundum-Üb
 Man fragt sich, wer FlexiSPY auf fremden Geräten installiert. Die Antwort ist einfach: Jemand, der Kontrolle als Recht und Privatsphäre als Privileg sieht. Jemand, der von Spyware-Firmen nicht unterstützt werden sollte.
 
 FlexiSPY überwacht nicht nur. Es kolonisiert. Bis es verboten wird, müssen wir jedes kompromittierte Handy als Feindesland behandeln.
+
+## Beispiel‑SIEM‑Erkennungsregeln für FlexiSPY
+
+**FlexiSPY** ist deutlich gefährlicher als mSpy. Es bietet **Echtzeit‑Abhörübertragung**, **Fernmikrofonzugriff** und sogar **Umgebungsaufnahme**. Ihre SIEM muss Anzeichen von **Audio‑Hijacking**, **Anruf‑Mirroring**, **Missbrauch von Accessibility oder Root‑Rechten** sowie bekannte **C2‑Infrastruktur** erkennen.
+
+### Android‑Mikrofonzugriff oder Ambient‑Aufnahme
+
+```json
+{
+  "rule": {
+    "id": 100030,
+    "level": 12,
+    "description": "FlexiSPY‑ähnlicher Ambient‑Recording oder Mikrofonzugriff auf Android‑Gerät",
+    "if_sid": [62101],
+    "match": {
+      "package.name": "com.android.system.update.service",
+      "microphone_access": "true"
+    },
+    "group": "spyware, android, audio"
+  }
+}
+```
+
+*FlexiSPY läuft oft unter gefälschten Paketnamen wie `system.update.service`. Mikrofonzugriff ohne Vordergrundaktivität oder Anruf ist besonders auf Geräten von Schutzsuchenden verdächtig.*
+
+### Missbrauch des Accessibility‑Service zur Fernsteuerung
+
+```json
+{
+  "rule": {
+    "id": 100031,
+    "level": 13,
+    "description": "Verdächtige Nutzung von Android Accessibility Services – mögliche FlexiSPY‑Persistenz",
+    "if_sid": [62002],
+    "match": {
+      "accessibility_service": "com.android.inputmethod/.RemoteControlService"
+    },
+    "group": "spyware, android, persistence"
+  }
+}
+```
+
+*FlexiSPY nutzt Accessibility‑APIs, um versteckte Aktionen auszuführen, Eingaben zu protokollieren oder Taps zu simulieren. Wenn Ihr MDM‑ oder Log‑Collector diese Aktivität sieht, ist das ein wertvolles Frühwarnsignal.*
+
+### Anruf‑Mirroring oder VOIP‑Proxyversuch (Zeek oder Suricata)
+
+```zeek
+event zeek_notice::Weird {
+  if (conn$service == "sip" &&
+      conn$resp_h in ["185.62.188.88", "185.104.45.100"]) {
+    NOTICE([$note=Notice::FlexiSPY_CallInterceptor,
+            $msg="SIP‑Traffic zu bekannter FlexiSPY C2",
+            $conn=conn]);
+  }
+}
+```
+
+*FlexiSPY unterstützt Echtzeit‑Anrufüberwachung über SIP. Diese IPs sind mit früheren Vorfällen verbunden (können wechseln – ich helfe bei Aktualisierungen). Achten Sie auf verschlüsselten VOIP‑Verkehr, der nicht von bekannten Apps wie WhatsApp oder Signal stammt.*
+
+### Übermäßige Standortabfragen oder GPS‑Hijacking (Android‑Logs)
+
+```json
+{
+  "rule": {
+    "id": 100032,
+    "level": 10,
+    "description": "Übermäßige GPS‑Abfrage erkannt – mögliche Spyware",
+    "if_sid": [558],
+    "frequency": ">30 requests/hour",
+    "match": {
+      "package.name": "com.android.system.update.service"
+    },
+    "group": "spyware, gps, exfiltration"
+  }
+}
+```
+
+*FlexiSPY fragt den Standort sehr häufig ab – alle paar Minuten. Normale Apps regeln sich selbst, Spyware hingegen nicht.*
+
+### Root‑Rechte‑Eskalat ion oder Manipulation (Android oder Sysmon)
+
+```json
+{
+  "rule": {
+    "id": 100033,
+    "level": 14,
+    "description": "Root‑Privileg nach Aktivierung aktiviert – FlexiSPY oder ähnliches Tool vermutet",
+    "if_sid": [5500],
+    "match": {
+      "event_type": "privilege_escalation",
+      "package.name": "com.android.system.update.service"
+    },
+    "group": "android, spyware, privilege"
+  }
+}
+```
+
+*FlexiSPY benötigt Root oder einen Jailbreak für volle Funktionalität. Wenn Sie System‑Level‑Privilegiensteigerung unter gefälschten Systemdiensten beobachten, schlägt die Alarmglocke.*
+
+### Bekannte C2‑Domain oder Beacon‑Muster (Zeek)
+
+```zeek
+event zeek_notice::Weird {
+  if (conn$host matches /flexispy|extnspy|flexic2/i &&
+      conn$resp_bytes < 1024 &&
+      conn$orig_bytes < 1024 &&
+      conn$duration < 60 secs) {
+    NOTICE([$note=Notice::Suspicious_FlexiSPY_Beacon,
+            $msg="Möglicher FlexiSPY‑Beacon zu C2‑Domain",
+            $conn=conn]);
+  }
+}
+```
+
+*Das Beacon‑Verhalten von FlexiSPY umfasst kleine HTTPS‑POSTs an vage Cloud‑Endpunkte. Das Muster wiederholt sich regelmäßig, ist stumm und verdächtig.*
+
+### Meta‑Regel für erhöhtes Risiko bei Betroffenen
+
+```json
+{
+  "rule": {
+    "id": 199998,
+    "level": 15,
+    "description": "Mehrere Hinweise auf FlexiSPY erkannt – möglich digitale Gewalt",
+    "if_matched_sid": [100030, 100031, 100033],
+    "group": "spyware, survivor‑risk, alert"
+  }
+}
+```
+
+*Verknüpft Ambient‑Recording, Accessibility‑Missbrauch und Root‑Escalation. Das ist kein TikTok‑Problem – das ist ein missbräuchlicher Akteur mit zu viel Zugang.*

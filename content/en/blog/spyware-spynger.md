@@ -60,3 +60,148 @@ It is not clever. It is not justified. And it is certainly not love.
 The fact that software like this is still legally sold, openly marketed, and casually installed says more about our collective tolerance for abuse than it does about the tools themselves.
 
 So let us be clear. Spynger is not just a risk. It is a red flag with a user manual.
+
+## Example SIEM detection rules for Spynger
+
+Unlike FlexiSPY, Spynger typically avoids flashy features like live call interception, and instead relies on **keylogging**, **message forwarding**, **browser activity harvesting**, and **stealthy exfiltration to the cloud**.
+
+It is a “budget spy tool” with an identity crisis—it rebrands and reuses other stalkerware codebases, often running under generic or spoofed package names. It tends to **abuse accessibility**, **track GPS**, and **monitor app use**. It is less sophisticated than FlexiSPY, but still dangerous.
+
+Because of this quieter profile, your SIEM must focus on **keyboard input logging**, **unauthorised SMS or WhatsApp database access**, **abuse of accessibility services**, and **C2 beaconing patterns**.
+
+### Android keylogger behaviour via accessibility abuse
+
+```json
+{
+  "rule": {
+    "id": 100040,
+    "level": 12,
+    "description": "Suspected keylogging via Accessibility Service - potential Spynger activity",
+    "if_sid": [62002],
+    "match": {
+      "accessibility_service": "com.android.system.spynger/.KeyloggerService"
+    },
+    "group": "spyware, android, keylogger"
+  }
+}
+```
+
+*Spynger often operates under plausible system-sounding names. Keylogger activity via accessibility APIs is a major red flag—this allows reading text fields invisibly.*
+
+### Unauthorised access to messaging database (SMS/WhatsApp)
+
+```json
+{
+  "rule": {
+    "id": 100041,
+    "level": 13,
+    "description": "Spyware-like access to SMS or WhatsApp message stores",
+    "if_sid": [558],
+    "match": {
+      "package.name": "com.android.system.spynger",
+      "database.accessed": ["/data/data/com.whatsapp/databases/msgstore.db", "/data/data/com.android.providers.telephony/databases/mmssms.db"]
+    },
+    "group": "spyware, messaging, exfiltration"
+  }
+}
+```
+
+*Legitimate apps do not touch these databases directly—especially not from the background. If your logging stack picks this up, you are looking at a message-siphoning implant.*
+
+### Periodic encrypted uploads to remote cloud C2 (Zeek)
+
+```zeek
+event zeek_notice::Weird {
+  if (conn$service == "https" &&
+      conn$host matches /spynger(cloud|storage|logs)\.com/ &&
+      conn$orig_bytes < 2048 &&
+      conn$duration < 60 secs) {
+    NOTICE([$note=Notice::Spynger_C2_Beacon,
+            $msg="Suspicious HTTPS beacon to Spynger cloud",
+            $conn=conn]);
+  }
+}
+```
+
+*Spynger exfiltrates data to its own cloud backend. Beacon patterns are regular, small, and often obfuscated. Watch for encrypted POSTs to known infrastructure.*
+
+### Suspicious app persistence and reboot behaviour
+
+```json
+{
+  "rule": {
+    "id": 100042,
+    "level": 10,
+    "description": "Stealthy persistence enabled by hidden spyware app (Spynger behaviour)",
+    "if_sid": [62102],
+    "match": {
+      "package.name": "com.android.system.spynger",
+      "auto_start": "true",
+      "hide_launcher_icon": "true"
+    },
+    "group": "spyware, android, persistence"
+  }
+}
+```
+
+*Spynger hides itself by removing the launcher icon, autostarts silently on boot, and evades casual detection. Survivors often have no idea it is even running.*
+
+### Excessive clipboard or screen capture access
+
+```json
+{
+  "rule": {
+    "id": 100043,
+    "level": 11,
+    "description": "Unusual clipboard or screen access detected - possible surveillance app",
+    "if_sid": [62103],
+    "match": {
+      "package.name": "com.android.system.spynger",
+      "screen_capture": "true",
+      "clipboard_monitor": "true"
+    },
+    "group": "spyware, screen, clipboard"
+  }
+}
+```
+
+*Spynger copies clipboard content, takes screenshots, and monitors browser activity. This is often used to silently read passwords, URLs, and private messages.*
+
+### Known Spynger infrastructure access (Suricata or Zeek)
+
+```zeek
+event zeek_notice::Weird {
+  if (conn$host in ["spyngerlogs.com", "api.spyngercloud.com"]) {
+    NOTICE([$note=Notice::Spynger_Known_Host_Contact,
+            $msg="Device contacted known Spynger C2 endpoint",
+            $conn=conn]);
+  }
+}
+```
+
+*The domains may rotate, but some hard-coded C2s are known. You can supplement this rule with your own threat intel feeds.*
+
+### Survivor risk meta-rule for Spynger
+
+```json
+{
+  "rule": {
+    "id": 199999,
+    "level": 15,
+    "description": "Multiple indicators of Spynger stalkerware detected - high survivor risk",
+    "if_matched_sid": [100040, 100041, 100042],
+    "group": "spyware, survivor-risk, alert"
+  }
+}
+```
+
+*Correlates keylogging, database exfiltration, and persistence. This is not a teenager being nosy—this is an abusive actor maintaining covert control.*
+
+### Detection tips
+
+* Spynger may be installed **by hand** by someone with brief access to the survivor’s phone.
+* It requires enabling **unknown sources** and **accessibility services**. These are your early signals.
+* The app may **masquerade** as a system service or battery optimiser.
+* It **updates itself silently** using cloud payloads.
+* Logs are often exfiltrated to **AWS-hosted** C2s—worth checking DNS logs too.
+* 

@@ -52,3 +52,122 @@ El problema con mSpy no es solo técnico. Es cultural. Refleja una tolerancia so
 Eliminar mSpy no es solo limpiar un dispositivo. Es recuperar agencia en un espacio invadido silenciosamente. Es reclamar territorio digital.
 
 Y francamente, quien monitorea a su pareja bajo el pretexto del amor debería preocuparse menos por si mSpy está instalado, y más por si se ha convertido en el villano de la historia de alguien más.
+
+## Ejemplos de reglas de detección SIEM para mSpy
+
+**mSpy** es discreto, pero no invisible. La detección dependerá de:
+
+1. **Métodos de persistencia inusuales**
+2. **Acceso no autorizado a iCloud (para iOS)**
+3. **Patrones de exfiltración de datos (Android/iOS)**
+4. **Sideload de APK o detección de jailbreak/root**
+5. **Anomalías en el comportamiento del teléfono o elevación como “app administrativa”**
+
+### Wazuh/Sysmon: sideload o petición de privilegio sospechoso (Android)
+
+```json
+{
+  "rule": {
+    "id": 100020,
+    "level": 10,
+    "description": "Posible sideload de mSpy o spyware similar en dispositivo Android",
+    "if_sid": [554],  
+    "match": {
+      "status": "installed",
+      "package.name": "com.android.system.service"  
+    },
+    "group": "spyware, android, apk"
+  }
+}
+```
+
+*mSpy suele disfrazarse con nombres de paquete tipo sistema. Si su pila monitorea registros MDM o de gestión de dispositivos, detecte instalaciones de `com.android.system.service` o nombres genéricos no presentes en la imagen base.*
+
+### Zeek/Suricata: exfiltración de datos a endpoints de mSpy
+
+```zeek
+event zeek_notice::Weird {
+  if (conn$resp_h in ["212.129.6.180", "212.83.137.160"]) {
+    NOTICE([$note=Notice::Spyware_Traffic,
+            $msg="Tráfico mSpy C2 detectado hacia IP conocida",
+            $conn=conn,
+            $identifier="mSpy outbound channel"]);
+  }
+}
+```
+
+*Estas IPs han estado históricamente asociadas a servidores backend de mSpy. Filtros GeoIP o de dominios también pueden ayudar si el tráfico se corresponde con beaconing móvil (pequeños POST HTTPS cada 5–10 minutos).*
+
+### Wazuh/Sysmon: persistencia sospechosa o abuso de accesibilidad (Android)
+
+```json
+{
+  "rule": {
+    "id": 100021,
+    "level": 12,
+    "description": "Dispositivo Android concedió servicios de accesibilidad – posible persistencia de spyware",
+    "if_sid": [62002],
+    "match": {
+      "accessibility_service": "com.android.system.service/.SpyService"
+    },
+    "group": "spyware, android, abuse"
+  }
+}
+```
+
+*Muchas apps de spyware abusan del servicio de accesibilidad de Android para mantenerse persistentes e interactuar con el dispositivo. Supervise esto mediante registros de EDR o administración del dispositivo.*
+
+### iOS: acceso inusual a iCloud (si los registros existen)
+
+```json
+{
+  "rule": {
+    "id": 100022,
+    "level": 8,
+    "description": "Patrón de inicio de sesión en iCloud inusual – posible acceso spyware",
+    "if_sid": [9005],
+    "match": {
+      "event_type": "icloud_login",
+      "location": "unexpected_country",
+      "device": "not recognised"
+    },
+    "group": "ios, icloud, privacy"
+  }
+}
+```
+
+*mSpy en iOS suele raspar copias de seguridad de iCloud. Si sus registros incluyen alertas de inicio de sesión de iCloud desde Apple o MDM, vigile por reutilización de credenciales o accesos desde IP no locales.*
+
+### Zeek: comportamiento de beaconing
+
+```zeek
+event zeek_notice::Weird {
+  if (conn$duration < 5 mins &&
+      conn$orig_bytes < 512 &&
+      conn$resp_bytes < 512 &&
+      conn$proto == "tcp" &&
+      conn$resp_h !in $known_good) {
+    NOTICE([$note=Notice::Suspicious_Beaconing,
+            $msg="Beaconing periódico de bajo volumen (posible mSpy C2)",
+            $conn=conn]);
+  }
+}
+```
+
+*mSpy exfiltra periódicamente pequeños POST HTTPS. Si no puede descifrar el contenido, observe el patrón: mismo destino, tamaño constante y temporización uniforme.*
+
+## Regla de nivel superior orientada a seguridad de personas vulnerables
+
+```json
+{
+  "rule": {
+    "id": 199999,
+    "level": 15,
+    "description": "Posible infección de spyware en dispositivo de persona protegida – coincidencia con firma de mSpy",
+    "if_matched_sid": [100020, 100021, 100022],
+    "group": "spyware, survivor-risk, urgent"
+  }
+}
+```
+
+*Esta meta‑regla brinda a los equipos de apoyo un aviso: **esto no es malware común** — podría tratarse de una situación de control encubierto.*

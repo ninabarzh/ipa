@@ -52,3 +52,124 @@ The problem with mSpy is not merely technical. It is cultural. It reflects a bro
 Removing mSpy is not simply about cleaning a device. It is about restoring agency in a space that has been silently invaded. It is about reclaiming digital territory.
 
 And frankly, anyone trying to monitor a partner under the pretence of love should be less worried about whether mSpy is installed, and more worried about whether they have become the villain in someone else’s story.
+
+## SIEM detection rule examples for mSpy
+
+mSpy is stealthy, but not invisible. Detection will depend on:
+
+1. **Unusual persistence methods**
+2. **Unapproved iCloud access (for iOS)**
+3. **Data exfiltration patterns (Android/iOS)**
+4. **APK sideloading or jailbreak/root detection**
+5. **Phone behaviour anomalies or “admin app” elevation**
+
+### Wazuh/Sysmon: suspicious APK sideload or privilege request (Android)
+
+```json
+{
+  "rule": {
+    "id": 100020,
+    "level": 10,
+    "description": "Possible mSpy or similar spyware sideloading on Android device",
+    "if_sid": [554],  
+    "match": {
+      "status": "installed",
+      "package.name": "com.android.system.service"  
+    },
+    "group": "spyware, android, apk"
+  }
+}
+```
+
+*mSpy often disguises itself under system-like names. If your stack monitors device management or MDM logs, catch installs of `com.android.system.service` or similarly bland names not present in the golden image.*
+
+### Zeek/Suricata: data exfiltration to mSpy cloud endpoints
+
+```zeek
+event zeek_notice::Weird {
+  if (conn$resp_h in ["212.129.6.180", "212.83.137.160"]) {
+    NOTICE([$note=Notice::Spyware_Traffic,
+            $msg="mSpy C2 traffic detected to known IP",
+            $conn=conn,
+            $identifier="mSpy outbound channel"]);
+  }
+}
+```
+
+*These IPs have been historically tied to mSpy’s backend servers. GeoIP or domain filters may also help, especially if traffic is consistent with mobile beaconing (small HTTPS POSTs every 5–10 mins).*
+
+### Wazuh/Sysmon: suspicious persistence or accessibility abuse (Android)
+
+```json
+{
+  "rule": {
+    "id": 100021,
+    "level": 12,
+    "description": "Android device granted Accessibility Services - possible spyware persistence",
+    "if_sid": [62002],
+    "match": {
+      "accessibility_service": "com.android.system.service/.SpyService"
+    },
+    "group": "spyware, android, abuse"
+  }
+}
+```
+
+*Many spyware apps abuse Android’s Accessibility Service to remain persistent and interact with the device. Monitor this via device management or EDR logs.*
+
+### iOS: unusual iCloud access (assuming logs exist)
+
+```json
+{
+  "rule": {
+    "id": 100022,
+    "level": 8,
+    "description": "Unusual iCloud login pattern - possible spyware access",
+    "if_sid": [9005],
+    "match": {
+      "event_type": "icloud_login",
+      "location": "unexpected_country",
+      "device": "not recognised"
+    },
+    "group": "ios, icloud, privacy"
+  }
+}
+```
+
+*mSpy on iOS often scrapes iCloud backups. If your logs include iCloud login alerts from Apple or MDM, watch for credential re-use or logins from non-local IPs.*
+
+### Zeek: beaconing behaviour
+
+```zeek
+event zeek_notice::Weird {
+  if (conn$duration < 5 mins &&
+      conn$orig_bytes < 512 &&
+      conn$resp_bytes < 512 &&
+      conn$proto == "tcp" &&
+      conn$resp_h !in $known_good) {
+    NOTICE([$note=Notice::Suspicious_Beaconing,
+            $msg="Low-volume periodic beaconing (possible mSpy C2)",
+            $conn=conn]);
+  }
+}
+```
+
+*mSpy exfiltrates regularly in small HTTPS POSTs. If you cannot decrypt the content, observe the pattern: destination is the same, size and timing consistent.*
+
+## Thresholds for survivor safety alerts
+
+We might also want a high-level rule that combines multiple weak signals into a "suspicious activity" alert for triage:
+
+```json
+{
+  "rule": {
+    "id": 199999,
+    "level": 15,
+    "description": "Possible spyware infection on survivor device - mSpy signature match",
+    "if_matched_sid": [100020, 100021, 100022],
+    "group": "spyware, survivor-risk, urgent"
+  }
+}
+```
+
+*This meta-rule gives support teams a heads-up that **this is no ordinary malware**—there could be a control situation in progress.*

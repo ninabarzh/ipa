@@ -58,3 +58,97 @@ Eyezy bir semptom, hastalığın kendisi değil. Hastalık, sevginin erişimle k
 Sığınma evleri ve destek çalışanları için Eyezy, izlenmesi gereken pek çok isimden biri. Bir cihazda varlığı ciddiye alınmalı. Pazarlaması kuşkuyla okunmalı. Varlığına -yasal, toplumsal ve teknolojik olarak- meydan okunmalı.
 
 İyi haber? İstismarcının aksine Eyezy iz bırakıyor. Ve güvenin aksine, yazılım kaldırılabilir.
+
+## Eyezy için örnek SIEM tespit kuralları
+
+**Eyezy**, özellikle **tuş vuruş kaydı**, **sosyal medya gözetimi** ve **ekran kaydı** üzerine odaklanır ve genellikle sistem benzeri isimlerin altında gizlenir.
+
+### Erişilebilirlik veya girdi kaçırma yoluyla tuş kaydı etkinliği
+
+```json
+{
+  "rule": {
+    "id": 100050,
+    "level": 12,
+    "description": "Eyezy tarzı erişilebilirlik kaçırma yoluyla tuş kaydı",
+    "if_sid": [62002],
+    "match": {
+      "accessibility_service": "com.eye.sysinput/.KeyCaptureService"
+    },
+    "group": "spyware, android, keylogger"
+  }
+}
+```
+
+*Eyezy, yazılan metni yakalamak için metin giriş hizmetlerine gizlice bağlanır, özellikle mesajlaşma uygulamalarında.*
+
+### Sosyal medya yansıtma veya ekran kazıma girişimi
+
+```json
+{
+  "rule": {
+    "id": 100051,
+    "level": 11,
+    "description": "Sosyal medya ekran kazıma – Eyezy varyantı",
+    "if_sid": [62001],
+    "match": {
+      "package.name": "com.eye.mirror.service"
+    },
+    "group": "spyware, android, social"
+  }
+}
+```
+
+*Ekran kaydedici ya da yansıtma aracı gibi görünüyor. Erişilebilirlik API’leri kullanıyorsa, özel mesajlarınızı izliyor olabilir.*
+
+### Eyezy bulut altyapısına şüpheli DNS sorguları
+
+```zeek
+event zeek_notice::Weird {
+  if (conn$host matches /eyezy|mirrorzone|eyec2/i &&
+      conn$duration < 45 secs &&
+      conn$resp_bytes < 1500) {
+    NOTICE([$note=Notice::Eyezy_C2_Traffic,
+            $msg="Olası Eyezy C2 beacon tespit edildi",
+            $conn=conn]);
+  }
+}
+```
+
+*Eyezy, belirsiz bulut alan adlarına sessiz HTTPS POST’lar gönderir. “eye” içeren alan adlarına küçük ve periyodik veri transferlerini izleyin.*
+
+### Kurulum sonrası root veya ayrıcalık yükseltme
+
+```json
+{
+  "rule": {
+    "id": 100052,
+    "level": 14,
+    "description": "Ayrıcalık yükseltme tespit edildi – olası Eyezy casus yazılımı",
+    "if_sid": [5500],
+    "match": {
+      "event_type": "privilege_escalation",
+      "package.name": "com.eye.sysinput"
+    },
+    "group": "android, spyware, root"
+  }
+}
+```
+
+*Eyezy, tamamen gizlenmek için root erişimi isteyebilir veya suistimal edebilir. Bu kurulumdan kısa süre sonra gerçekleşirse, dikkat çekin.*
+
+### Eyezy davranışsal korelasyon meta kuralı
+
+```json
+{
+  "rule": {
+    "id": 199996,
+    "level": 15,
+    "description": "Eyezy davranışsal deseni tespit edildi – muhtemelen gizli izleme",
+    "if_matched_sid": [100050, 100051, 100052],
+    "group": "spyware, survivor-risk, alert"
+  }
+}
+```
+
+*Hepsini yakalayın. Tuş kaydı, ekran kazıma ve root erişimi içeren paket asla tesadüfi değildir.*

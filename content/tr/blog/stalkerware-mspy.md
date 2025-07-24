@@ -52,3 +52,122 @@ mSpy ile ilgili sorun sadece teknik değildir. Kültüreldir. Güvenlik adına g
 mSpy'ı kaldırmak sadece bir cihazı temizlemek değildir. Sessizce işgal edilmiş bir alanda özerkliği geri kazandırmaktır. Dijital toprakları geri almaktır.
 
 Ve açıkçası, sevgi kisvesi altında partnerini izlemeye çalışan biri, mSpy'ın yüklü olup olmadığından çok, başkasının hikayesindeki kötü karakter olup olmadığını düşünmelidir.
+
+## mSpy için SIEM tespit kuralı örnekleri
+
+**mSpy**, sessiz çalışır ama görünmez değildir. Tespit aşağıdakilere dayanacaktır:
+
+1. **Olağandışı kalıcılık yöntemleri**
+2. **İzin verilmeyen iCloud erişimi (iOS için)**
+3. **Veri sızdırma desenleri (Android/iOS)**
+4. **APK sideloading veya jailbreak/root tespiti**
+5. **Telefon davranış anomalileri veya “yönetici uygulama” yetki yükseltme**
+
+### Wazuh/Sysmon: şüpheli APK yüklemesi veya ayrıcalık isteği (Android)
+
+```json
+{
+  "rule": {
+    "id": 100020,
+    "level": 10,
+    "description": "Olası mSpy veya benzeri spyware sideload kurulumu Android cihazda",
+    "if_sid": [554],  
+    "match": {
+      "status": "installed",
+      "package.name": "com.android.system.service"  
+    },
+    "group": "spyware, android, apk"
+  }
+}
+```
+
+*mSpy genellikle `com.android.system.service` gibi sistem benzeri paket isimleriyle gizlenir. Eğer sisteminiz cihaz yönetimi veya MDM günlüklerini izliyorsa, bu paketin veya benzer generik isimlerin yüklenmesini yakalayın.*
+
+### Zeek/Suricata: mSpy bulut sunucularına veri sızdırma
+
+```zeek
+event zeek_notice::Weird {
+  if (conn$resp_h in ["212.129.6.180", "212.83.137.160"]) {
+    NOTICE([$note=Notice::Spyware_Traffic,
+            $msg="Bilinen IP’ye mSpy C2 trafiği tespit edildi",
+            $conn=conn,
+            $identifier="mSpy outbound channel"]);
+  }
+}
+```
+
+*Bu IP’ler mSpy’ın backend sunucularıyla tarihsel olarak ilişkilendirilmiştir. Mobil beaconing (her 5–10 dakikada küçük HTTPS POST’lar) örüntüsüne uygun trafiği tespit etmek için GeoIP veya domain filtreleri de yardımcı olabilir.*
+
+### Wazuh/Sysmon: şüpheli kalıcılık veya erişilebilirlik servisi kötüye kullanımı (Android)
+
+```json
+{
+  "rule": {
+    "id": 100021,
+    "level": 12,
+    "description": "Android cihazda Accessibility Service etkinleştirilmiş — olası spyware kalıcılığı",
+    "if_sid": [62002],
+    "match": {
+      "accessibility_service": "com.android.system.service/.SpyService"
+    },
+    "group": "spyware, android, abuse"
+  }
+}
+```
+
+*Pek çok spyware uygulaması Android’in Accessibility Service’ini kötüye kullanarak cihazda kalıcılık kazanır ve cihazla etkileşime geçer. EDR veya cihaz yönetimi günlükleriyle bunu izleyin.*
+
+### iOS: olağandışı iCloud erişimi (günlük var ise)
+
+```json
+{
+  "rule": {
+    "id": 100022,
+    "level": 8,
+    "description": "Olağandışı iCloud giriş deseni — olası spyware erişimi",
+    "if_sid": [9005],
+    "match": {
+      "event_type": "icloud_login",
+      "location": "unexpected_country",
+      "device": "not recognised"
+    },
+    "group": "ios, icloud, privacy"
+  }
+}
+```
+
+*mSpy iOS’ta sık sık iCloud yedeklerini tarar. Apple veya MDM tarafından gelen iCloud giriş alarm kayıtlarınız varsa, yerel olmayan IP’lerden veya tanınmayan cihazlardan gelen girişlere dikkat edin.*
+
+### Zeek: beaconing davranışı
+
+```zeek
+event zeek_notice::Weird {
+  if (conn$duration < 5 mins &&
+      conn$orig_bytes < 512 &&
+      conn$resp_bytes < 512 &&
+      conn$proto == "tcp" &&
+      conn$resp_h !in $known_good) {
+    NOTICE([$note=Notice::Suspicious_Beaconing,
+            $msg="Düşük hacimli periyodik beaconing (mSpy C2 olabilir)",
+            $conn=conn]);
+  }
+}
+```
+
+*mSpy düzenli olarak küçük HTTPS POST’larla veri sızdırır. İçeriği deşifre edemiyorsanız: hedef adres, veri hacmi ve zamanlamaya dikkat edin.*
+
+## Korunma altındaki kişiler için meta‑kural
+
+```json
+{
+  "rule": {
+    "id": 199999,
+    "level": 15,
+    "description": "Olasi spyware enfeksiyonu — mSpy imza eşleşmesi tespit edildi",
+    "if_matched_sid": [100020, 100021, 100022],
+    "group": "spyware, survivor-risk, urgent"
+  }
+}
+```
+
+*Bu meta‑kural destek ekiplerine şunu bildirir: **bu sıradan bir malware değil** — olası bir kontrol durumu söz konusu olabilir.*

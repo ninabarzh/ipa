@@ -58,3 +58,97 @@ Eyezy ist ein Symptom, nicht die Krankheit. Die Krankheit ist der Glaube, Liebe 
 Für Frauenhäuser ist Eyezy einer von vielen Namen, nach denen man Ausschau halten muss. Seine Präsenz auf Geräten ist ernst zu nehmen. Sein Marketing zynisch zu lesen. Seine Existenz zu hinterfragen – rechtlich, sozial, technologisch.
 
 Die gute Nachricht? Anders als der Täter hinterlässt Eyezy Spuren. Und anders als Vertrauen lässt sich Software entfernen.
+
+## Beispiel‑SIEM‑Erkennungsregeln für Eyezy
+
+**Eyezy** konzentriert sich auf **Tastatur‑Logging**, **Überwachung sozialer Medien** und **Bildschirmaufzeichnung** und tarnt sich oft unter systemähnlichen Namen.
+
+### Tastatur‑Logging via Accessibility oder Input‑Hijack
+
+```json
+{
+  "rule": {
+    "id": 100050,
+    "level": 12,
+    "description": "Eyezy‑Stil Tastatur‑Logging via Accessibility Hijack",
+    "if_sid": [62002],
+    "match": {
+      "accessibility_service": "com.eye.sysinput/.KeyCaptureService"
+    },
+    "group": "spyware, android, keylogger"
+  }
+}
+```
+
+*Eyezy hängt sich oft in Texteingabedienste ein, um getippte Inhalte abzufangen – besonders in Nachrichten‑Apps.*
+
+### Soziale Medien spiegeln oder Screen‑Scraping Versuch
+
+```json
+{
+  "rule": {
+    "id": 100051,
+    "level": 11,
+    "description": "Screen‑Scraping sozialer Medien – Eyezy‑Variante",
+    "if_sid": [62001],
+    "match": {
+      "package.name": "com.eye.mirror.service"
+    },
+    "group": "spyware, android, social"
+  }
+}
+```
+
+*Sieht aus wie ein Bildschirmaufnahme‑ oder Mirror‑Tool. Wenn es Accessibility‑APIs verwendet, gehen Sie davon aus, dass es private Nachrichten ausspäht.*
+
+### Verdächtige DNS‑Anfragen zu Eyezy‑Cloud‑Infrastruktur
+
+```zeek
+event zeek_notice::Weird {
+  if (conn$host matches /eyezy|mirrorzone|eyec2/i &&
+      conn$duration < 45 secs &&
+      conn$resp_bytes < 1500) {
+    NOTICE([$note=Notice::Eyezy_C2_Traffic,
+            $msg="Mögliche Eyezy‑C2‑Beacon entdeckt",
+            $conn=conn]);
+  }
+}
+```
+
+*Eyezy nutzt lautlose HTTPS‑POSTs zu vagen Cloud‑Domains. Achten Sie auf häufige kleine Datenübertragungen zu Domains mit „eye“.*
+
+### Root‑ oder erhöhte Rechte nach der Installation
+
+```json
+{
+  "rule": {
+    "id": 100052,
+    "level": 14,
+    "description": "Rechteerhöhung erkannt – mögliche Eyezy Spionage‑App",
+    "if_sid": [5500],
+    "match": {
+      "event_type": "privilege_escalation",
+      "package.name": "com.eye.sysinput"
+    },
+    "group": "android, spyware, root"
+  }
+}
+```
+
+*Eyezy kann Root‑Zugriff verlangen oder missbrauchen, um sich vollständig zu verbergen. Wenn das kurz nach der Installation geschieht, alarmieren.*
+
+### Eyezy Verhaltenskorrelations‑Meta‑Regel
+
+```json
+{
+  "rule": {
+    "id": 199996,
+    "level": 15,
+    "description": "Eyezy Verhaltensmuster erkannt – wahrscheinlich heimliche Überwachung",
+    "if_matched_sid": [100050, 100051, 100052],
+    "group": "spyware, survivor-risk, alert"
+  }
+}
+```
+
+*Fangen Sie alles ab. Tastatur‑Logging, Screen‑Scraping und Root‑Zugriff in einem Paket ist niemals unschuldig.*

@@ -58,3 +58,97 @@ Eyezy is a symptom, not the disease. The disease is the assumption that love mus
 For shelters and support workers, Eyezy is one of many names to watch for. Its presence on a device should be treated seriously. Its marketing should be read cynically. And its existence should be challenged—legally, socially, and technologically.
 
 The good news? Unlike the abuser, Eyezy leaves traces. And unlike trust, software can be removed.
+
+## Example SIEM detection rules for Eyezy
+
+**Eyezy** focuses on **keylogging**, **social media surveillance**, and **screen recording**, often hidden under system-like names.
+
+### Keylogging activity via accessibility or input hijack
+
+```json
+{
+  "rule": {
+    "id": 100050,
+    "level": 12,
+    "description": "Eyezy-style keylogging via accessibility hijack",
+    "if_sid": [62002],
+    "match": {
+      "accessibility_service": "com.eye.sysinput/.KeyCaptureService"
+    },
+    "group": "spyware, android, keylogger"
+  }
+}
+```
+
+*Eyezy often hooks into text input services to intercept typed content, especially from messaging apps.*
+
+### Social media mirroring or screen scraping attempt
+
+```json
+{
+  "rule": {
+    "id": 100051,
+    "level": 11,
+    "description": "Social media screen scraping - Eyezy variant",
+    "if_sid": [62001],
+    "match": {
+      "package.name": "com.eye.mirror.service"
+    },
+    "group": "spyware, android, social"
+  }
+}
+```
+
+*Looks like a screen recorder or app mirroring tool. If used with Accessibility APIs, assume it is scraping your DMs.*
+
+### Suspicious DNS lookups to Eyezy cloud infra
+
+```zeek
+event zeek_notice::Weird {
+  if (conn$host matches /eyezy|mirrorzone|eyec2/i &&
+      conn$duration < 45 secs &&
+      conn$resp_bytes < 1500) {
+    NOTICE([$note=Notice::Eyezy_C2_Traffic,
+            $msg="Possible Eyezy C2 beacon detected",
+            $conn=conn]);
+  }
+}
+```
+
+*Eyezy prefers silent HTTPS POSTs to vague cloud domains. Look for periodic small data transfers to domains with “eye” in them.*
+
+### Root or elevated access post-installation
+
+```json
+{
+  "rule": {
+    "id": 100052,
+    "level": 14,
+    "description": "Privilege escalation detected - possible Eyezy spyware",
+    "if_sid": [5500],
+    "match": {
+      "event_type": "privilege_escalation",
+      "package.name": "com.eye.sysinput"
+    },
+    "group": "android, spyware, root"
+  }
+}
+```
+
+*Eyezy can request or abuse root access to hide itself completely. If that escalation happens shortly after install, take notice.*
+
+### Eyezy behavioural correlation meta-rule
+
+```json
+{
+  "rule": {
+    "id": 199996,
+    "level": 15,
+    "description": "Eyezy behavioural pattern detected - likely covert monitoring",
+    "if_matched_sid": [100050, 100051, 100052],
+    "group": "spyware, survivor-risk, alert"
+  }
+}
+```
+
+*Catch them all. Keylogging, screen scraping, and root access in one bundle is never innocent.*

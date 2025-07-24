@@ -60,3 +60,146 @@ Zekice değil. Haklı değil. Ve kesinlikle sevgi değil.
 Bunun gibi yazılımların hala yasal olarak satılması, açıkça pazarlanması ve gelişigüzel kurulması, araçların kendisinden çok istismara olan kolektif toleransımız hakkında çok şey söylüyor.
 
 O halde net olalım. Spynger sadece bir risk değil. Kullanım kılavuzu olan kırmızı bir bayrak.
+
+## Spynger için örnek SIEM tespit kuralları
+
+FlexiSPY’ın aksine, Spynger genellikle canlı arama müdahalesi gibi dikkat çekici özelliklerden kaçınır. Bunun yerine **tuş kaydı**, **mesaj iletimi**, **tarayıcı etkinliği toplama** ve **sinsi bulut exfiltrasyonu** kullanır.
+
+Kimlik karmaşası yaşayan bir “bütçe casus aracı”dır – başka stalkerware kod tabanlarını yeniden adlandırıp yeniden kullanır, genellikle genel veya taklit paket adları altında çalışır. Erişilebilirlik servisini kötüye kullanır, GPS izler ve uygulama kullanımını izler. FlexiSPY kadar sofistike olmasa da yine de tehlikelidir.
+
+### Erişilebilirlik suistimali yoluyla Android keylogger davranışı
+
+```json
+{
+  "rule": {
+    "id": 100040,
+    "level": 12,
+    "description": "Erişilebilirlik Servisi yoluyla şüpheli tuş kaydı – potansiyel Spynger aktivitesi",
+    "if_sid": [62002],
+    "match": {
+      "accessibility_service": "com.android.system.spynger/.KeyloggerService"
+    },
+    "group": "spyware, android, keylogger"
+  }
+}
+```
+
+*Spynger genellikle sistem gibi görünen adlarla çalışır. Accessibility API’leri üzerinden keylogger kullanımı önemli bir uyarı işaretidir.*
+
+### SMS/WhatsApp veri tabanına yetkisiz erişim
+
+```json
+{
+  "rule": {
+    "id": 100041,
+    "level": 13,
+    "description": "Spyware‑benzeri SMS veya WhatsApp mesaj depolama erişimi",
+    "if_sid": [558],
+    "match": {
+      "package.name": "com.android.system.spynger",
+      "database.accessed": ["/data/data/com.whatsapp/databases/msgstore.db", "/data/data/com.android.providers.telephony/databases/mmssms.db"]
+    },
+    "group": "spyware, messaging, exfiltration"
+  }
+}
+```
+
+*Yasal uygulamalar bu veritabanlarına arka planda doğrudan erişmez. Loglarınız bunu yakalarsa mesaj sızdırma olasılığı yüksektir.*
+
+### Periyodik şifreli bulut C2 yüklemeleri (Zeek)
+
+```zeek
+event zeek_notice::Weird {
+  if (conn$service == "https" &&
+      conn$host matches /spynger(cloud|storage|logs)\.com/ &&
+      conn$orig_bytes < 2048 &&
+      conn$duration < 60 secs) {
+    NOTICE([$note=Notice::Spynger_C2_Beacon,
+            $msg="Spynger cloud’a şüpheli HTTPS beacon",
+            $conn=conn]);
+  }
+}
+```
+
+*Spynger verileri kendi bulut altyapısına exfiltre eder. Beacon modelleri düzenli, küçük ve çoğunlukla gizlenmiş olur.*
+
+### Stealth persistence ve yeniden başlatma davranışı
+
+```json
+{
+  "rule": {
+    "id": 100042,
+    "level": 10,
+    "description": "Gizli spyware uygulaması tarafından etkinleştirilen sinsi kalıcılık (Spynger davranışı)",
+    "if_sid": [62102],
+    "match": {
+      "package.name": "com.android.system.spynger",
+      "auto_start": "true",
+      "hide_launcher_icon": "true"
+    },
+    "group": "spyware, android, persistence"
+  }
+}
+```
+
+*Spynger başlatıcı ikonunu gizler, cihaz açıldığında kendiliğinden başlar ve görünmez kalır.*
+
+### Aşırı clipboard veya ekran yakalama erişimi
+
+```json
+{
+  "rule": {
+    "id": 100043,
+    "level": 11,
+    "description": "Olağandışı clipboard veya ekran erişimi tespit edildi – potansiyel gözetim uygulaması",
+    "if_sid": [62103],
+    "match": {
+      "package.name": "com.android.system.spynger",
+      "screen_capture": "true",
+      "clipboard_monitor": "true"
+    },
+    "group": "spyware, screen, clipboard"
+  }
+}
+```
+
+*Spynger clipboard içeriğini kopyalar, ekran görüntüsü alır ve tarayıcı etkinliğini izler – şifre veya URL okuma için kullanılır.*
+
+### Bilinen Spynger altyapısına erişim (Suricata veya Zeek)
+
+```zeek
+event zeek_notice::Weird {
+  if (conn$host in ["spyngerlogs.com", "api.spyngercloud.com"]) {
+    NOTICE([$note=Notice::Spynger_Known_Host_Contact,
+            $msg="Cihaz bilinen Spynger C2 endpoint\'ine bağlandı",
+            $conn=conn]);
+  }
+}
+```
+
+*Alan adları değişebilir, ancak bazı sabit C2 noktaları bilinir. Ek tehdit istihbaratı akışları ekleyebilirsiniz.*
+
+### Survivor risk meta-kuralı için Spynger
+
+```json
+{
+  "rule": {
+    "id": 199999,
+    "level": 15,
+    "description": "Birden fazla Spynger stalkerware göstergesi tespit edildi – yüksek risk",
+    "if_matched_sid": [100040, 100041, 100042],
+    "group": "spyware, survivor-risk, alert"
+  }
+}
+```
+
+*Keylogging, veri exfiltrasyonu ve persistansı ilişkilendirir. Meraklı bir genç değil, istismar amacı bulunan biri.*
+
+### Tespit ipuçları
+
+* Spynger kısa süreli erişimleri olan biri tarafından **manüel olarak** kurulabilir.
+* **Bilinmeyen kaynaklar** ve **erişilebilirlik servisleri** etkinleştirilmelidir. Bunlar erken uyarı işaretleridir.
+* Uygulama **sistem servisi ya da pil optimizatörü gibi sunularak gizleyebilir**.
+* **Bulut payload’ları ile sessizce güncellenir**.
+* Loglar çoğunlukla **AWS barındırılan C2’ye** gönderilir – DNS kayıtlarını da kontrol edin.
+

@@ -60,3 +60,146 @@ Es ist nicht clever. Nicht gerechtfertigt. Und ganz sicher keine Liebe.
 Dass solche Software legal verkauft, offen beworben und sorglos installiert wird, sagt mehr über unsere Toleranz für Missbrauch als über die Tools selbst.
 
 Machen wir uns klar: Spynger ist nicht nur ein Risiko. Es ist eine rote Flagge mit Bedienungsanleitung.
+
+## Beispiel‑SIEM‑Erkennungsregeln für Spynger
+
+Im Gegensatz zu FlexiSPY vermeidet Spynger in der Regel auffällige Funktionen wie Live‑Anrufüberwachung. Stattdessen verlässt es sich auf **Tastatur‑Logging**, **Weiterleitung von Nachrichten**, **Browser‑Aktivitätserfassung** und **versteckte Daten‐Exfiltration in die Cloud**.
+
+Es handelt sich um ein sogenanntes „Budget‑Spionagetool“ mit Identitätskrise – es wird umbenannt, nutzt andere Stalkerware‑Codebasen und läuft oft unter generischen oder gefälschten Paketnamen. Es missbraucht häufiger Accessibility, verfolgt GPS und überwacht App‑Verwendung. Weniger anspruchsvoll als FlexiSPY, aber dennoch gefährlich.
+
+### Tastatur‑Logging via Accessibility‑Missbrauch
+
+```json
+{
+  "rule": {
+    "id": 100040,
+    "level": 12,
+    "description": "Verdächtiges Tastatur‑Logging via Accessibility‑Service – mögliche Spynger‑Aktivität",
+    "if_sid": [62002],
+    "match": {
+      "accessibility_service": "com.android.system.spynger/.KeyloggerService"
+    },
+    "group": "spyware, android, keylogger"
+  }
+}
+```
+
+*Spynger läuft oft unter plausibel klingenden Systemnamen. Keylogger‑Aktivität über Accessibility‑APIs ist ein wichtiges Warnsignal.*
+
+### Unauthorisierter Zugriff auf SMS‑ oder WhatsApp‑Datenbank
+
+```json
+{
+  "rule": {
+    "id": 100041,
+    "level": 13,
+    "description": "Spyware‑ähnlicher Zugriff auf SMS‑ oder WhatsApp‑Nachrichtenspeicher",
+    "if_sid": [558],
+    "match": {
+      "package.name": "com.android.system.spynger",
+      "database.accessed": ["/data/data/com.whatsapp/databases/msgstore.db", "/data/data/com.android.providers.telephony/databases/mmssms.db"]
+    },
+    "group": "spyware, messaging, exfiltration"
+  }
+}
+```
+
+*Legitime Apps greifen nicht im Hintergrund direkt auf diese Datenbanken zu. Wenn Ihre Logs das erkennen, handelt es sich um Datenabsaugung.*
+
+### Periodische verschlüsselte Uploads zu C2‑Cloud (Zeek)
+
+```zeek
+event zeek_notice::Weird {
+  if (conn$service == "https" &&
+      conn$host matches /spynger(cloud|storage|logs)\.com/ &&
+      conn$orig_bytes < 2048 &&
+      conn$duration < 60 secs) {
+    NOTICE([$note=Notice::Spynger_C2_Beacon,
+            $msg="Verdächtiger HTTPS‑Beacon zu Spynger‑Cloud",
+            $conn=conn]);
+  }
+}
+```
+
+*Spynger exfiltriert Daten an eigene Cloud‑Infrastruktur. Beacon‑Muster sind regelmässig, klein und oft verschleiert.*
+
+### Verdächtiges App‑Persistence‑ und Neustartverhalten
+
+```json
+{
+  "rule": {
+    "id": 100042,
+    "level": 10,
+    "description": "Heimliche Persistenz durch versteckte Spyware‑App (Spynger‑Verhalten)",
+    "if_sid": [62102],
+    "match": {
+      "package.name": "com.android.system.spynger",
+      "auto_start": "true",
+      "hide_launcher_icon": "true"
+    },
+    "group": "spyware, android, persistence"
+  }
+}
+```
+
+*Spynger entfernt das Launcher‑Symbol, startet automatisch beim Booten und bleibt unentdeckt.*
+
+### Übermäßiger Clipboard‑ oder Bildschirmzugriff
+
+```json
+{
+  "rule": {
+    "id": 100043,
+    "level": 11,
+    "description": "Ungewöhnlicher Clipboard‑ oder Bildschirmzugriff erkannt – mögliche Überwachungs‑App",
+    "if_sid": [62103],
+    "match": {
+      "package.name": "com.android.system.spynger",
+      "screen_capture": "true",
+      "clipboard_monitor": "true"
+    },
+    "group": "spyware, screen, clipboard"
+  }
+}
+```
+
+*Spynger kopiert Clipboard‑Inhalte, nimmt Screenshots und überwacht Browser‑Aktivität – leise Passwort‑ und URL‑Lesung.*
+
+### Bekannte Spynger‑Infrastrukturzugriffe (Suricata oder Zeek)
+
+```zeek
+event zeek_notice::Weird {
+  if (conn$host in ["spyngerlogs.com", "api.spyngercloud.com"]) {
+    NOTICE([$note=Notice::Spynger_Known_Host_Contact,
+            $msg="Gerät hat bekannten Spynger‑C2‑Endpunkt kontaktiert",
+            $conn=conn]);
+  }
+}
+```
+
+*Die Domains können rotieren, einige hartkodierte C2‑Punkte sind bekannt. Sie können zusätzliche Threat‑Intel‑Feeds ergänzen.*
+
+### Survivor‑Risikometa‑Regel für Spynger
+
+```json
+{
+  "rule": {
+    "id": 199999,
+    "level": 15,
+    "description": "Mehrere Indikatoren von Spynger‑Stalkerware erkannt – hohes Survivor‑Risiko",
+    "if_matched_sid": [100040, 100041, 100042],
+    "group": "spyware, survivor-risk, alert"
+  }
+}
+```
+
+*Verbindet Tastatur‑Logging, Datenbank‑Exfiltration und Persistenz. Kein neugieriger Teenager, sondern ein absichtlicher Kontrollversuch.*
+
+### Erkennungstipps
+
+* Spynger wird häufig **manuell installiert** durch Personen mit kurzfristigem Gerätzugriff.
+* Es erfordert das Aktivieren von **unbekannten Quellen** und **Accessibility‑Diensten**. Diese sind frühe Warnzeichen.
+* Die App **gibt sich als System‑Dienst oder Akkumanager aus**.
+* Sie **aktualisiert sich selbst im Hintergrund** durch Cloud‑Payloads.
+* Logs werden oft an **AWS‑basierte C2s** gesendet – beobachten Sie auch DNS‑Logs.
+

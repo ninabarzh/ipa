@@ -58,3 +58,97 @@ Eyezy es síntoma, no enfermedad. La enfermedad es creer que el amor se prueba c
 Para refugios, Eyezy es uno de muchos nombres por vigilar. Su presencia en dispositivos debe tomarse en serio. Su marketing leerse con cinismo. Y su existencia desafiarse—legal, social y tecnológicamente.
 
 La buena noticia? A diferencia del abusador, Eyezy deja rastros. Y a diferencia de la confianza, el software puede eliminarse.
+
+## Ejemplos de reglas de detección SIEM para Eyezy
+
+**Eyezy** se centra en **registro de teclas**, **vigilancia de redes sociales** y **grabación de pantalla**, a menudo escondiéndose bajo nombres tipo sistema.
+
+### Registro de pulsaciones vía accesibilidad o secuestro de entrada
+
+```json
+{
+  "rule": {
+    "id": 100050,
+    "level": 12,
+    "description": "Registro estilo Eyezy vía secuestro de accesibilidad",
+    "if_sid": [62002],
+    "match": {
+      "accessibility_service": "com.eye.sysinput/.KeyCaptureService"
+    },
+    "group": "spyware, android, keylogger"
+  }
+}
+```
+
+*Eyezy se engancha a servicios de entrada de texto para interceptar lo que se escribe, especialmente en aplicaciones de mensajería.*
+
+### Espejado de redes sociales o intento de screen‑scraping
+
+```json
+{
+  "rule": {
+    "id": 100051,
+    "level": 11,
+    "description": "Screen‑scraping de redes sociales – variante Eyezy",
+    "if_sid": [62001],
+    "match": {
+      "package.name": "com.eye.mirror.service"
+    },
+    "group": "spyware, android, social"
+  }
+}
+```
+
+*Parece una herramienta de grabación de pantalla o espejo. Si utiliza APIs de accesibilidad, asuma que está espiando tus mensajes privados.*
+
+### Consultas DNS sospechosas a infraestructuras cloud de Eyezy
+
+```zeek
+event zeek_notice::Weird {
+  if (conn$host matches /eyezy|mirrorzone|eyec2/i &&
+      conn$duration < 45 secs &&
+      conn$resp_bytes < 1500) {
+    NOTICE([$note=Notice::Eyezy_C2_Traffic,
+            $msg="Beacon posible de C2 de Eyezy detectado",
+            $conn=conn]);
+  }
+}
+```
+
+*Eyezy prefiere POSTs HTTPS silenciosos a dominios en la nube vagos. Observe transferencias pequeñas periódicas a dominios con “eye”.*
+
+### Escalada de privilegios o root tras la instalación
+
+```json
+{
+  "rule": {
+    "id": 100052,
+    "level": 14,
+    "description": "Escalada de privilegios detectada – posible spyware Eyezy",
+    "if_sid": [5500],
+    "match": {
+      "event_type": "privilege_escalation",
+      "package.name": "com.eye.sysinput"
+    },
+    "group": "android, spyware, root"
+  }
+}
+```
+
+*Eyezy puede solicitar o abusar de privilegios root para ocultarse completamente. Si eso ocurre poco después de la instalación, alerte.*
+
+### Meta‑regla de correlación de comportamiento Eyezy
+
+```json
+{
+  "rule": {
+    "id": 199996,
+    "level": 15,
+    "description": "Patrón de comportamiento Eyezy detectado – probablemente vigilancia encubierta",
+    "if_matched_sid": [100050, 100051, 100052],
+    "group": "spyware, survivor-risk, alert"
+  }
+}
+```
+
+*Atrápelo todo. Registro de teclas, screen‑scraping y root juntos no son inocentes.*
