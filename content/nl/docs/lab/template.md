@@ -33,7 +33,7 @@ Digitale mishandeling neemt toe. Slachtoffers worden bedreigd via telefoons, app
 
 **Activiteiten:**
 
-* Ontwikkeling IPA-SIEM-systeem
+* Ontwikkeling SIEM-systeem
 * Maken van begrijpelijke meertalige handleidingen
 * Samenwerking met opvangcentra voor tests
 * Workshops over digitale surveillance

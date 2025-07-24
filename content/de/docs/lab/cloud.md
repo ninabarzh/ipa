@@ -56,7 +56,7 @@ sudo ufw allow ssh
 sudo ufw enable
 ````
 
-### IPA-SIEM-Stack installieren
+### SIEM-Stack installieren
 
 Gleich wie bei Vor-Ort:
 
@@ -133,7 +133,7 @@ adb shell pm list packages -f > installed_packages.txt
 5. **Logs hochladen**:
 
 ```bash
-scp android_*.txt youruser@your-ipasiem.cloud:/opt/forensics/android_logs/
+scp android_*.txt youruser@your-siem.cloud:/opt/forensics/android_logs/
 ```
 
 6. **(Optional) Verschlüsseln vor dem Upload**

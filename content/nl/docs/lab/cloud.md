@@ -57,7 +57,7 @@ sudo ufw allow ssh
 sudo ufw enable
 ````
 
-### IPA-SIEM stack installeren
+### SIEM stack installeren
 
 Net als on-prem:
 
@@ -134,7 +134,7 @@ adb shell pm list packages -f > installed_packages.txt
 5. **Upload logs veilig**:
 
 ```bash
-scp android_*.txt youruser@your-ipasiem.cloud:/opt/forensics/android_logs/
+scp android_*.txt youruser@your-siem.cloud:/opt/forensics/android_logs/
 ```
 
 6. **(Optioneel) Versleutel voor upload**
@@ -152,7 +152,7 @@ gpg -c android_logcat.txt
 
 2. Verplaats deze via USB of SD-kaart naar de intake tablet
 
-3. Upload ze veilig naar de IPA-SIEM cloudserver (via `scp` of uploadscript)
+3. Upload ze veilig naar de SIEM cloudserver (via `scp` of uploadscript)
 
 ### iOS (jailbroken of via backup)
 

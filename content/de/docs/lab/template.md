@@ -33,7 +33,7 @@ Digitaler Missbrauch wird zunehmend als Taktik eingesetzt. Betroffene sind nicht
 
 **Aktivitäten:**
 
-* Entwicklung und Wartung des IPA-SIEM-Systems (Sicherheitsinformations- und Ereignismanagement)
+* Entwicklung und Wartung des SIEM-Systems (Sicherheitsinformations- und Ereignismanagement)
 * Erstellung leicht verständlicher, mehrsprachiger Anleitungen und Schulungsmaterialien
 * Zusammenarbeit mit lokalen Schutzräumen zur Einrichtung von Testumgebungen
 * Workshops für Fachkräfte zur Erkennung von digitaler Überwachung, Spyware und Datenlecks

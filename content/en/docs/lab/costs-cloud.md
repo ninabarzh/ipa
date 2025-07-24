@@ -25,7 +25,7 @@ We’ll assume a mid-range VPS from a privacy-respecting European host (e.g. Het
 * Fail2ban, UFW, Unattended-upgrades = free (open source)
 * Admin time to configure and test: 4 hours × €60/hour = **€240**
 
-## IPA-SIEM installation (Wazuh stack)
+## SIEM installation (Wazuh stack)
 
 * Wazuh Manager, API, Elasticsearch, Kibana
 * Software cost: **€0** (all open source)

@@ -39,7 +39,7 @@ Arquitectura: Implementación local en máquina virtual (Low-tech, todo en uno)
 +--------------------------+            +----------------------------+
 ```
 
-* Un servidor físico o virtual IPA-SIEM local
+* Un servidor físico o virtual SIEM local
   * Ejecuta Wazuh Manager, Elasticsearch y Kibana
   * Incluye scripts automáticos (ej. `quarantine_device.sh`)
 * Agentes Wazuh instalados en:

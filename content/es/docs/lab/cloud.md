@@ -56,7 +56,7 @@ sudo ufw allow ssh
 sudo ufw enable
 ````
 
-### Instalar la pila IPA-SIEM
+### Instalar la pila SIEM
 
 Igual que en local:
 
@@ -133,7 +133,7 @@ adb shell pm list packages -f > installed_packages.txt
 5. **Subir logs de forma segura**:
 
 ```bash
-scp android_*.txt youruser@your-ipasiem.cloud:/opt/forensics/android_logs/
+scp android_*.txt youruser@your-siem.cloud:/opt/forensics/android_logs/
 ```
 
 6. **(Opcional) Encriptar antes de subir**
@@ -151,7 +151,7 @@ gpg -c android_logcat.txt
 
 2. Transfiere vía USB o tarjeta SD a la tablet
 
-3. Sube los archivos al servidor IPA-SIEM (usando `scp` o un script seguro)
+3. Sube los archivos al servidor SIEM (usando `scp` o un script seguro)
 
 ### iOS (con jailbreak o vía respaldo)
 

@@ -17,7 +17,7 @@ description: "Detaillierte Kostenschätzung für den 'Sicheres Frauenhaus Build-
 | **Posten**                       | **Details**                                      | **Geschätzte Kosten (€)** |
 |----------------------------------|--------------------------------------------------|--------------------------:|
 | Moderator:innen (2–3 Personen)   | Digitale Sicherheit & trauma-sensible Begleitung |                 800–1.200 |
-| IPA-SIEM-Stack                   | Server-Hardware, Setup, Netzwerk                 |                 590–1.865 |
+| SIEM-Stack                       | Server-Hardware, Setup, Netzwerk                 |                 590–1.865 |
 | PiRogue-Gerät(e) (optional)      | Raspberry Pi-basierter Netzwerkmonitor           |                   200–400 |
 | USB-Sticks / Speicher            | Setup-Schlüssel, Backup, Export                  |                        60 |
 | Druckmaterialien & Beschilderung | Anleitungen, Aufkleber, Schilder                 |                        80 |

@@ -39,7 +39,7 @@ Architektur: Single-VM-Lokalbereitstellung (Low-Tech, All-in-One-Box)
 +--------------------------+            +----------------------------+
 ```
 
-* Ein physischer oder virtueller IPA-SIEM-Server vor Ort
+* Ein physischer oder virtueller SIEM-Server vor Ort
   * Läuft Wazuh Manager, Elasticsearch und Kibana
   * Beinhaltet automatisierte Skripte (z.B. `quarantine_device.sh`, Log-Parser)
 * Wazuh-Agents installiert auf:

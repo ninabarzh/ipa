@@ -39,7 +39,7 @@ Architectuur: Single-VM lokale implementatie
 +---------------------------+            +----------------------------+
 ```
 
-* Fysieke of virtuele IPA-SIEM-server ter plaatse
+* Fysieke of virtuele SIEM-server ter plaatse
   * Draait Wazuh Manager, Elasticsearch en Kibana
   * Bevat geautomatiseerde scripts (o.a. `quarantine_device.sh`)
 * Wazuh-agents geïnstalleerd op:

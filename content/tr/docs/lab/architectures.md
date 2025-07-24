@@ -39,7 +39,7 @@ Mimari: Tek-VM Yerel Dağıtım (Hepsi bir arada)
 +--------------------------+            +----------------------------+
 ```
 
-* Şirket içi fiziksel/sanal IPA-SIEM Sunucusu
+* Şirket içi fiziksel/sanal SIEM Sunucusu
   * Wazuh Yöneticisi, Elasticsearch ve Kibana çalıştırır
   * Otomatik komut dosyaları içerir (örn. `quarantine_device.sh`)
 * Wazuh ajanları kurulu:

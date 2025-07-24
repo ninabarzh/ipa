@@ -40,7 +40,7 @@ Architecture: Single-VM Local Shelter Deployment (Low-tech, all-in-one box)
 
 ```
 
-* One physical or virtual IPA-SIEM Server on-site
+* One physical or virtual SIEM Server on-site
   * Runs Wazuh Manager, Elasticsearch, and Kibana
   * Hosts automated scripts (e.g., `quarantine_device.sh`, log parsers)
 * Wazuh agents installed on:
@@ -189,7 +189,7 @@ Architecture: Lab Environment for Training or Forensics (Sandboxed)
 * A tiered system with:
 
   * One central cloud SIEM stack for coordination and long-term storage
-  * Multiple field units (laptops or Pis) with preconfigured IPA-SIEM client scripts
+  * Multiple field units (laptops or Pis) with preconfigured SIEM client scripts
   * Web UI for uploading manual logs if agents aren’t available
 
 Pros: Combines best of both worlds—centralised security with local action; Cons: Requires good coordination and access controls between tiers

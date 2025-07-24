@@ -56,7 +56,7 @@ sudo ufw allow ssh
 sudo ufw enable
 ```
 
-### Install IPA-SIEM stack
+### Install SIEM stack
 
 Same as on-prem:
 
@@ -103,7 +103,7 @@ curl -s https://your-cloud-ip/setup_android.sh | bash
 
 ### For Android (non-rooted)
 
-Non-rooted Android phones are limited in what can be monitored directly, but you can still extract useful information manually and upload it securely to your IPA-SIEM server.
+Non-rooted Android phones are limited in what can be monitored directly, but you can still extract useful information manually and upload it securely to your SIEM server.
 
 #### Option 1: Use ADB (Android Debug Bridge)
 
@@ -136,7 +136,7 @@ adb shell pm list packages -f > installed_packages.txt
 5. **Securely upload logs to the cloud server**: Assuming you have SSH set up on your cloud server:
 
 ```bash
-scp android_*.txt youruser@your-ipasiem.cloud:/opt/forensics/android_logs/
+scp android_*.txt youruser@your-siem.cloud:/opt/forensics/android_logs/
 ```
 
 6. **(Optional) Encrypt before upload**
@@ -156,7 +156,7 @@ If your shelter uses a dedicated intake tablet:
 
 2. Transfer these files via USB or SD card to the intake tablet
 
-3. Upload them to the IPA-SIEM cloud server securely (using `scp` or a secure upload script)
+3. Upload them to the SIEM cloud server securely (using `scp` or a secure upload script)
 
 ### iOS (Jailbroken or via Backup)
 

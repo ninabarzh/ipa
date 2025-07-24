@@ -57,7 +57,7 @@ sudo ufw allow ssh
 sudo ufw enable
 ````
 
-### IPA-SIEM yığını kurun
+### SIEM yığını kurun
 
 Yereldeki kurulumla aynı:
 
@@ -134,7 +134,7 @@ adb shell pm list packages -f > installed_packages.txt
 5. **Logları güvenli şekilde yükle**:
 
 ```bash
-scp android_*.txt youruser@your-ipasiem.cloud:/opt/forensics/android_logs/
+scp android_*.txt youruser@your-siem.cloud:/opt/forensics/android_logs/
 ```
 
 6. **(İsteğe bağlı) Yüklemeden önce şifrele**
@@ -152,7 +152,7 @@ gpg -c android_logcat.txt
 
 2. USB veya SD kart ile tablet cihazına aktar
 
-3. IPA-SIEM bulut sunucusuna güvenli şekilde yükle (`scp` veya güvenli yükleme betiği kullanarak)
+3. SIEM bulut sunucusuna güvenli şekilde yükle (`scp` veya güvenli yükleme betiği kullanarak)
 
 ### iOS (jailbreakli veya yedek yoluyla)
 

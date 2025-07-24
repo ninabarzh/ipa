@@ -39,7 +39,7 @@ Architecture : Déploiement local mono-VM (Low-tech, tout-en-un)
 +--------------------------+            +----------------------------+
 ```
 
-* Un serveur IPA-SIEM physique ou virtuel local
+* Un serveur SIEM physique ou virtuel local
   * Exécute Wazuh Manager, Elasticsearch et Kibana
   * Inclut scripts automatisés (ex. `quarantine_device.sh`)
 * Agents Wazuh installés sur :

@@ -25,7 +25,7 @@ Hypothèse : VPS moyen de gamme chez un hébergeur européen (ex. Hetzner, Netcu
 * Fail2ban, UFW, mises à jour auto = gratuit
 * Configuration : 4h × 60 €/h = **240 €**
 
-## Installation IPA-SIEM (Wazuh)
+## Installation SIEM (Wazuh)
 
 * Wazuh Manager, API, Elasticsearch, Kibana
 * Logiciel : **0 €** (open source)

@@ -33,7 +33,7 @@ Dijital istismar artan bir taktik. Mağdurlar yalnızca fiziksel değil, telefon
 
 **Faaliyetler:**
 
-* IPA-SIEM sisteminin geliştirilmesi
+* SIEM sisteminin geliştirilmesi
 * Çok dilli, anlaşılır kılavuzlar hazırlama
 * Sığınaklarla test ortamları kurma
 * Dijital izleme belirtileri üzerine eğitimler

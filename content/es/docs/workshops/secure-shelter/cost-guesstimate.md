@@ -17,7 +17,7 @@ description: "Estimación detallada para el 'Construye un refugio seguro'—tall
 | **Concepto**                  | **Detalles**                                      | **Coste estimado (€)** |
 |-------------------------------|---------------------------------------------------|-----------------------:|
 | Facilitadores (2–3 pers.)     | Seguridad digital y facilitación trauma-informada |              800–1.200 |
-| Stack IPA-SIEM                | Hardware servidor, configuración, red             |              590–1.865 |
+| Stack SIEM                    | Hardware servidor, configuración, red             |              590–1.865 |
 | Dispositivo(s) PiRogue (opc.) | Monitor de red basado en Raspberry Pi             |                200–400 |
 | USBs/almacenamiento           | Claves setup, backup, exportación                 |                     60 |
 | Material impreso/señalética   | Guías, pegatinas, carteles                        |                     80 |

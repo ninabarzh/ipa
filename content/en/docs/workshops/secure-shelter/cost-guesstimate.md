@@ -17,7 +17,7 @@ description: "A detailed cost guesstimate for running the Secure the shelter bui
 | **Item**                     | **Details**                                        | **Estimated Cost (€)** |
 |------------------------------|----------------------------------------------------|-----------------------:|
 | Facilitators (2–3 people)    | Digital security & trauma-aware facilitation       |              800–1,200 |
-| IPA-SIEM stack setup         | Includes server hardware, setup labour, networking |              590–1,865 |
+| SIEM stack setup             | Includes server hardware, setup labour, networking |              590–1,865 |
 | PiRogue device(s) (optional) | Raspberry Pi-based network monitor                 |                200–400 |
 | USB drives / storage         | Setup keys, backup, export                         |                     60 |
 | Printed materials & signage  | Setup guides, stickers, signage                    |                     80 |

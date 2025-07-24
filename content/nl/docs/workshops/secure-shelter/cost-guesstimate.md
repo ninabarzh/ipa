@@ -17,7 +17,7 @@ description: "Gedetailleerde kostenraming voor een praktische workshopdag waar m
 | **Post**                      | **Details**                                      | **Geschatte kosten (€)** |
 |-------------------------------|--------------------------------------------------|-------------------------:|
 | Begeleiders (2–3 personen)    | Digitale veiligheid & trauma-bewuste begeleiding |                800–1.200 |
-| IPA-SIEM-stack                | Serverhardware, setup, netwerk                   |                590–1.865 |
+| SIEM-stack                    | Serverhardware, setup, netwerk                   |                590–1.865 |
 | PiRogue-appara(a)t(en) (opt.) | Raspberry Pi-netwerkmonitor                      |                  200–400 |
 | USB-sticks/opslag             | Installatiesleutels, backup                      |                       60 |
 | Drukwerk/signalering          | Handleidingen, stickers, bordjes                 |                       80 |

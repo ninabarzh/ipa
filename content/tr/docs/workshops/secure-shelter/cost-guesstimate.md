@@ -17,7 +17,7 @@ description: "Personelin kendi dijital güvenlik laboratuvarını (Wazuh + Pirog
 | **Kalem**                    | **Detaylar**                                 | **Tahmini Maliyet (€)** |
 |------------------------------|----------------------------------------------|------------------------:|
 | Kolaylaştırıcılar (2–3 kişi) | Dijital güvenlik & travma-bilinçli rehberlik |               800–1.200 |
-| IPA-SIEM yığını              | Sunucu donanımı, kurulum, ağ                 |               590–1.865 |
+| SIEM yığını                  | Sunucu donanımı, kurulum, ağ                 |               590–1.865 |
 | PiRogue cihaz(lar)ı (ops.)   | Raspberry Pi tabanlı ağ monitörü             |                 200–400 |
 | USB bellekler/depolama       | Kurulum anahtarları, yedekleme               |                      60 |
 | Baskı materyalleri           | Rehberler, çıkartmalar, yönlendirme          |                      80 |

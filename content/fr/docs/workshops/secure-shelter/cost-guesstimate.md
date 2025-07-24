@@ -17,7 +17,7 @@ description: "Estimation détaillée pour organiser un build-a-thon d'une journ�
 | **Poste**                       | **Détails**                                       | **Coût estimé (€)** |
 |---------------------------------|---------------------------------------------------|--------------------:|
 | Facilitateurs (2–3 pers.)       | Sécurité numérique & facilitation trauma-informée |           800–1.200 |
-| Stack IPA-SIEM                  | Matériel serveur, configuration, réseau           |           590–1.865 |
+| Stack SIEM                      | Matériel serveur, configuration, réseau           |           590–1.865 |
 | Appareil(s) PiRogue (opt.)      | Moniteur réseau Raspberry Pi                      |             200–400 |
 | Clés USB/stockage               | Clés d'installation, sauvegarde                   |                  60 |
 | Documents imprimés/signalétique | Guides, autocollants, panneaux                    |                  80 |

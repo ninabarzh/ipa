@@ -40,7 +40,7 @@ especially those in underfunded or rural settings across the UK and EU.
 
 **Activities:**
 
-* Development and maintenance of the IPA-SIEM (Security Information & Event Management) system
+* Development and maintenance of the SIEM (Security Information & Event Management) system
 * Creation of easy-to-understand, multilingual guides and training materials
 * Collaboration with local shelters to deploy test environments
 * Workshops for support staff on identifying signs of digital tracking, spyware, and data leaks

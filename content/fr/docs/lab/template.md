@@ -33,7 +33,7 @@ Les violences numériques se multiplient. Les survivants subissent des menaces v
 
 **Activités:**
 
-* Développement du système IPA-SIEM
+* Développement du système SIEM
 * Création de guides multilingues accessibles
 * Collaboration avec refuges pour tests
 * Ateliers sur surveillance numérique

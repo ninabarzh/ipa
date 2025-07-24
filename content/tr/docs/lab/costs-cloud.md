@@ -25,7 +25,7 @@ Avrupa merkezli bir sağlayıcıdan orta seviye VPS (örn. Hetzner, Netcup, 1984
 * Fail2ban, UFW, otomatik güncellemeler = ücretsiz
 * Kurulum zamanı: 4 saat × 60 €/saat = **240 €**
 
-## IPA-SIEM kurulumu (Wazuh)
+## SIEM kurulumu (Wazuh)
 
 * Wazuh Manager, API, Elasticsearch, Kibana
 * Yazılım: **0 €** (açık kaynak)

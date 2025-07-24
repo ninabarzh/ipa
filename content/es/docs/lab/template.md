@@ -33,7 +33,7 @@ El abuso digital es una táctica creciente. Las víctimas enfrentan amenazas no 
 
 **Actividades:**
 
-* Desarrollo y mantenimiento del sistema IPA-SIEM
+* Desarrollo y mantenimiento del sistema SIEM
 * Creación de guías multilingües fáciles de entender
 * Colaboración con refugios para implementar entornos de prueba
 * Talleres sobre vigilancia digital y fugas de datos

@@ -25,7 +25,7 @@ Uitgangspunt: middelgrote VPS bij Europese provider (bv. Hetzner, Netcup, 1984 H
 * Fail2ban, UFW, automatische updates = gratis
 * Configuratietijd: 4u × €60/u = **€240**
 
-## IPA-SIEM-installatie (Wazuh)
+## SIEM-installatie (Wazuh)
 
 * Wazuh Manager, API, Elasticsearch, Kibana
 * Software: **€0** (open source)
