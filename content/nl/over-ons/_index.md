@@ -13,11 +13,11 @@ translationKey: "about"
 
 {{% blocks/cover image_anchor="bottom" height="med" %}}
 
-<h1 class="reactive-font">Over PowerOn</h1>
+<h1>Over PowerOn</h1>
 
 <p><br></p>
 
-<p class="punishment-font">
+<p>
 Power On is een collectief initiatief om mensen te helpen de controle over hun digitale leven terug te winnen - vooral wanneer die controle is afgenomen door misbruik, surveillance of dwang.
 </p>
 
@@ -41,15 +41,15 @@ Begin waar het logisch is. Vertaal het. Breek het af. Maak het je eigen.
 
 {{% /blocks/section %}}
 
-{{% blocks/cover image_anchor="top" height="auto" %}}
+{{% blocks/section color="primary" %}}
 
-<p class="punishment2-font">
+<p>
   Power On is gebouwd met koppig optimisme, droge humor en een weigering om de digitale ruimte op te geven.
 </p>
 
-<p class="punishment2-font">
+<p>
   <a href="../contact">Hulp nodig? Wil je bijdragen? Neem contact op.</a>
 </p>
 
-{{% /blocks/cover %}}
+{{% /blocks/section %}}
 

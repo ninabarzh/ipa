@@ -13,11 +13,11 @@ translationKey: "about"
 
 {{% blocks/cover image_anchor="bottom" height="med" %}}
 
-<h1 class="reactive-font">Hakkında PowerOn</h1>
+<h1>Hakkında PowerOn</h1>
 
 <p><br></p>
 
-<p class="punishment-font">
+<p>
 Power On, insanların dijital hayatları üzerindeki kontrolü yeniden kazanmalarına yardımcı olan bir kolektif girişimdir - özellikle bu kontrol istismar, gözetim veya zorlama yoluyla ellerinden alındığında
 </p>
 
@@ -46,16 +46,17 @@ kontrol listesi gibi  de ele almıyoruz.
 **Çünkü hayatta kalanlar, kendilerine karşı değil  kendileri için çalışan araçları hak ediyorlar.**
 
 Senin için mantılklı olan yerden başla. Boz. Dene. Evir, çevir. Yeniden yap. Kendine ait kıl.
+
 {{% /blocks/section %}}
 
-{{% blocks/cover image_anchor="top" height="auto" %}}
+{{% blocks/section color="primary" %}}
 
-<p class="punishment2-font">
+<p>
   Power On, inatçı bir iyimserlik, kuru bir mizah anlayışı ve dijital alanı terk etmeyi reddetme kararlılığıyla inşa edilmiştir.
 </p>
 
-<p class="punishment2-font">
+<p>
   <a href="../iletisim">Yardım mı lazım? Katkıda mı bulunmak istiyorsunuz? İletişime geçin.</a>
 </p>
 
-{{% /blocks/cover %}}
+{{% /blocks/section %}}

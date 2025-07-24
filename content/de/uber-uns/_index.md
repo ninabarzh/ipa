@@ -12,11 +12,11 @@ translationKey: "about"
 
 {{% blocks/cover image_anchor="bottom" height="med" %}}
 
-<h1 class="reactive-font">Über PowerOn</h1>
+<h1>Über PowerOn</h1>
 
 <p><br></p>
 
-<p class="punishment-font">
+<p>
 Power On ist eine gemeinsame Initiative, die Menschen dabei helfen soll, die Kontrolle über ihr digitales Leben zurückzugewinnen – besonders wenn diese Kontrolle durch Missbrauch, Überwachung oder Zwang entrissen wurde.
 </p>
 
@@ -39,18 +39,18 @@ Wir vertrauen Plattformen nicht blind. Wir erwarten kein Geld, keine Tech-Kenntn
 
 **Denn Überlebende verdienen Tools, die für sie – nicht gegen sie – arbeiten.**  
 
-Beginne dort, wo es sinnvoll ist. Übersetze es. Zerlege es. Mach es zu deinem Eigenen. 
+Beginne dort, wo es sinnvoll ist. Übersetze es. Zerlege es. Mach es zu deinem Eigenen.
 
 {{% /blocks/section %}}
 
-{{% blocks/cover image_anchor="top" height="auto" %}}
+{{% blocks/section color="primary" %}}
 
-<p class="punishment2-font">
+<p>
   Power On ist gebaut auf beharrlichem Optimismus, trockenem Humor und der Weigerung, den digitalen Raum aufzugeben.
 </p>
 
-<p class="punishment2-font">
+<p>
   <a href="../kontakt">Brauchen Sie Hilfe? Möchten Sie mitwirken? Melden Sie sich bei uns.</a>
 </p>
 
-{{% /blocks/cover %}}
+{{% /blocks/section %}}

@@ -5,17 +5,17 @@ description: Workshops, Tools und Anleitungen zum Sichern von Geräten, Umgehen 
 
 {{% blocks/cover image="featured_background.jpg" image_anchor="top" height="full" %}}
 
-<h1 class="reactive-font">Kontrolle über Ihr digitales Leben zurückgewinnen!</h1>
+<h1>Kontrolle über Ihr digitales Leben zurückgewinnen!</h1>
 
 <p><br></p>
 
-<p class="punishment-font">
+<p>
 Workshops, Tools und Anleitungen zum Sichern von Geräten, Umgehen von Überwachung und Wiedererlangen von Autonomie — besonders für Betroffene technologiegestützter Gewalt. Open-Source. Mehrsprachig. Gemeinschaftsprojekt.
 </p>
 
 <p><br></p>
 
-<a class="btn btn-lg btn-danger punishment2-font" href="docs/anleitungen/">Erste Schritte</a>
-<a class="btn btn-lg btn-danger punishment2-font me-3" href="uber-uns/">Mehr erfahren</a>
+<a class="btn btn-lg btn-primary" href="docs/anleitungen/">Erste Schritte</a>
+<a class="btn btn-lg btn-secondary" href="uber-uns/">Mehr erfahren</a>
 
 {{% /blocks/cover %}}

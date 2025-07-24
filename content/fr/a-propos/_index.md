@@ -12,11 +12,11 @@ translationKey: "about"
 
 {{% blocks/cover image_anchor="bottom" height="med" %}}
 
-<h1 class="reactive-font">À propos de PowerOn</h1>
+<h1>À propos de PowerOn</h1>
 
 <p><br></p>
 
-<p class="punishment-font">
+<p>
 Power On est une initiative collective visant à aider les gens à reprendre le contrôle de leur vie numérique — en particulier lorsque ce contrôle leur a été arraché par des abus, une surveillance ou une coercition.  
 </p>
 
@@ -43,14 +43,14 @@ Commencez où cela a du sens. Traduisez-le. Détournez-le. Faites-le vôtre.
 
 {{% /blocks/section %}}
 
-{{% blocks/cover image_anchor="top" height="auto" %}}
+{{% blocks/section color="primary" %}}
 
-<p class="punishment2-font">
+<p>
   Power On est construit avec un optimisme obstiné, un humour sec et un refus d'abandonner l'espace numérique.
 </p>
 
-<p class="punishment2-font">
+<p>
   <a href="../contact">Besoin d'aide ? Envie de contribuer ? Contactez-nous.</a>
 </p>
 
-{{% /blocks/cover %}}
+{{% /blocks/section %}}

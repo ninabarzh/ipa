@@ -10,13 +10,13 @@ menu:
 translationKey: "about"
 ---
 
-{{% blocks/cover image_anchor="bottom" height="med" %}}
+{{% blocks/cover image_anchor="top" height="med" %}}
 
-<h1 class="reactive-font">About PowerOn</h1>
+<h1>About PowerOn</h1>
 
 <p><br></p>
 
-<p class="punishment-font">
+<p>
 Power On is a collective initiative to help people reclaim control over their digital lives — especially when that control has been stripped away by abuse, surveillance, or coercion.
 </p>
 
@@ -43,14 +43,14 @@ Start where it makes sense. Translate it. Break it. Make it yours.
 
 {{% /blocks/section %}}
 
-{{% blocks/cover image_anchor="top" height="auto" %}}
+{{% blocks/section color="primary" %}}
 
-<p class="punishment2-font">
+<p>
   Power On is built with stubborn optimism, dry humour, and a refusal to give up the digital space.
 </p>
 
-<p class="punishment2-font">
+<p>
   <a href="../contact">Need help? Want to contribute? Get in touch.</a>
 </p>
 
-{{% /blocks/cover %}}
+{{% /blocks/section %}}
