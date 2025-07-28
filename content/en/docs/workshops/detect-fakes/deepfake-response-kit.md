@@ -133,6 +133,7 @@ Synthetic media — video, audio, or images — that look or sound real, but hav
 * Audio calls mimicking trusted voices
 
 **How to defend yourself**
+
 You do not need tech skills. You need:
 
 * Awareness of manipulation tactics
