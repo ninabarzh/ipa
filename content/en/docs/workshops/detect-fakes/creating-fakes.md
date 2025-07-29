@@ -30,9 +30,7 @@ You can do this on:
 - Never use real survivor, staff, or client identities in fake videos
 - Store and delete responsibly
 
-## What you need
-
-### Real video recording
+## Real video recording
 
 You will need:
 
@@ -88,9 +86,10 @@ You can either use **online AI tools** (fast, no install) or **offline tools** (
 
 * Install [avatarify](https://avatarify.ai/) with:
 
-  ```bash
-  pip install avatarify
-  ```
+```bash
+pip install avatarify
+```
+
 * Use with a webcam + script reader
 * Overlay a celebrity or stock face in real time
 
@@ -106,13 +105,11 @@ You can either use **online AI tools** (fast, no install) or **offline tools** (
 
 * Use [pre-trained models from Aliaksandr Siarohin](https://github.com/AliaksandrSiarohin/first-order-model).
 
-* Python setup:
-
-  ```bash
-  git clone https://github.com/AliaksandrSiarohin/first-order-model
-  cd first-order-model
-  pip install -r requirements.txt
-  ```
+```bash
+git clone https://github.com/AliaksandrSiarohin/first-order-model
+cd first-order-model
+pip install -r requirements.txt
+```
 
 * Feed it:
 
@@ -127,7 +124,6 @@ There *is* a Linux-native build, although it is far less documented and requires
 like `dlib`, `onnxruntime`, and specific versions of `ffmpeg`. But it works:
 
 * Clone the project: `git clone https://github.com/iperov/DeepFaceLive.git`
-
 * Follow the [Linux setup instructions](https://github.com/iperov/DeepFaceLive#linux) (not as polished, but workable):
 
   * Install dependencies like Python 3.8–3.10, `onnxruntime`, `torch`, `opencv`, and `dlib`.
@@ -135,8 +131,7 @@ like `dlib`, `onnxruntime`, and specific versions of `ffmpeg`. But it works:
   * Expect to troubleshoot a bit—especially with CUDA if you want GPU acceleration. It is rather system heavy.
 
 - Good for generating video output with voice + face overlay.
-
-* Less real-time smooth than on Windows, but usable with some patience.
+- Less real-time smooth than on Windows, but usable with some patience.
 
 ## What to prepare
 

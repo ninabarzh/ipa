@@ -14,7 +14,10 @@ menu:
 translationKey: "deepfake-kit"
 ---
 
-Just some suggestions. Improve mine!
+The scenarios and ideas explored in this workshop do not just stay in the room — they can help make the Deepfake 
+Defence Kit stronger for others. At the end of the session, we will ask if the group is comfortable sharing any of 
+today’s tips, strategies, or wording. Nothing will be taken without everyone’s agreement, and any shared contributions 
+will be anonymised. If even one person prefers not to share, we will respect that choice in full.
 
 ## Print instructions
 
@@ -42,7 +45,7 @@ full-page use.
 
 ---
 
-## Checklist card – How to spot a deepfake or digital hoax
+## Checklist card – How to spot a deepfake
 
 **Trust your senses, but verify your source.**
 
@@ -123,6 +126,7 @@ A volunteer forwards a shocking video of a public figure “confessing” to a c
 ## Takeaway sheet – Defending against deepfakes and digital lies
 
 **What is a deepfake?**
+
 Synthetic media — video, audio, or images — that look or sound real, but have been altered or entirely generated to deceive. Abusers use them to humiliate, control, or discredit.
 
 **Where they appear**

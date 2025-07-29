@@ -14,9 +14,7 @@ menu:
 translationKey: "facilitator-guide"
 ---
 
-## Goal of this guide
-
-To help you guide the Deepfake Defence workshop in a way that is hands-on, emotionally safe, and myth-busting—building 
+To support guiding the Deepfake Defence workshop in a way that is hands-on, emotionally safe, and myth-busting—building 
 critical awareness without fuelling paranoia. Participants can leave with more confidence, not less.
 
 ---

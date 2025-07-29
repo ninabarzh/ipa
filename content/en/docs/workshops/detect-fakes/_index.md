@@ -52,7 +52,8 @@ Analogy (optional): *“It’s like a puppet that looks like you, talks like you
 ### How to spot a fake (15 minutes)
 
 **Group brainstorm**: “If you had to fake someone in a video, what might go wrong?”
-Note ideas, then offer a [printed checklist (example)](deepfake-response-kit/#checklist-card--how-to-spot-a-deepfake-or-digital-hoax):
+
+Note ideas, then offer a [printed checklist (example)](deepfake-response-kit/#checklist-card--how-to-spot-a-deepfake):
 
 **Common deepfake warning signs**:
 
