@@ -25,7 +25,10 @@ Power On is een collectief initiatief om mensen te helpen de controle over hun d
 
 {{% blocks/section color="white" %}}
 
-Het begon als een samenwerking tussen schrijver en activist [Meltem Arikan](https://www.meltemarikan.com/) en een groep privacy- en beveiligingsbegeleiders die werken met overlevenden van partnergeweld. Het project wordt ondersteund door [/ut7](https://ut7.fr/), een in Parijs gevestigd coöperatief (SCOP) opgericht in 2007, gespecialiseerd in agile softwareontwikkeling, filosofisch onderzoek en digitale/filosofische leerruimtes.
+Het begon als een samenwerking tussen schrijver en activist [Meltem Arikan](https://www.meltemarikan.com/), systems tinkerer [TyMyrddin](https://tymyrddin.dev), 
+en een groep privacy- en beveiligingsbegeleiders die werken met overlevenden van partnergeweld. Het project wordt 
+ondersteund door [/ut7](https://ut7.fr/), een in Parijs gevestigd coöperatief (SCOP) opgericht in 2007, gespecialiseerd in agile 
+softwareontwikkeling, filosofisch onderzoek en digitale/filosofische leerruimtes.
 
 ----
 

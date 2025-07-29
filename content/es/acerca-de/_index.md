@@ -24,10 +24,11 @@ Power On es una iniciativa colectiva para ayudar a las personas a recuperar el c
 
 {{% blocks/section color="white" %}}
 
-Comenzó como una colaboración entre la escritora y activista [Meltem Arikan](https://www.meltemarikan.com/) y un grupo de facilitadores 
-de privacidad y seguridad que trabajan con sobrevivientes de violencia de pareja. El proyecto cuenta con el apoyo de 
-[/ut7](https://ut7.fr/), una cooperativa (SCOP) con sede en París fundada en 2007, especializada en desarrollo ágil de software, 
-investigación filosófica y espacios de aprendizaje digital/filosófico.
+Todo comenzó como una colaboración entre la escritora y activista [Meltem Arikan](https://www.meltemarikan.com/), 
+el trasteador de sistemas [TyMyrddin](https://tymyrddin.dev) y un grupo de facilitadores de privacidad y seguridad 
+que trabajan con sobrevivientes de violencia de pareja. El proyecto cuenta con el apoyo de [/ut7](https://ut7.fr/), 
+una cooperativa (SCOP) con sede en París fundada en 2007, especializada en desarrollo ágil de software, investigación 
+filosófica y espacios de aprendizaje digital/filosófico.
 
 ----
 

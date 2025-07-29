@@ -24,10 +24,11 @@ Power On ist eine gemeinsame Initiative, die Menschen dabei helfen soll, die Kon
 
 {{% blocks/section color="white" %}}
 
-Es begann als Zusammenarbeit zwischen der Autorin und Aktivistin [Meltem Arikan](https://www.meltemarikan.com/) und einer Gruppe von 
-Datenschutz- und Sicherheitsexperten, die mit Überlebenden von Partnerschaftsgewalt arbeiten. Das Projekt wird 
-unterstützt von [/ut7](https://ut7.fr/), einer 2007 gegründeten Pariser Genossenschaft (SCOP), die sich auf agile 
-Softwareentwicklung, philosophische Forschung und digitale/philosophische Lernräume spezialisiert hat.
+Es begann als Zusammenarbeit zwischen der Schriftstellerin und Aktivistin [Meltem Arikan](https://www.meltemarikan.com/)
+, dem Systembastler [TyMyrddin](https://tymyrddin.dev) und einer Gruppe von Datenschutz- und Sicherheitsbegleitern, 
+die mit Überlebenden von Partnerschaftsgewalt arbeiten. Das Projekt wird unterstützt von [/ut7](https://ut7.fr/), 
+einer 2007 gegründeten Genossenschaft (SCOP) mit Sitz in Paris, die sich auf agile Softwareentwicklung, philosophische 
+Forschung und digitale/philosophische Lernräume spezialisiert hat.
 
 ----
 

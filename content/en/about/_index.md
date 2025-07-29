@@ -24,10 +24,11 @@ Power On is a collective initiative to help people reclaim control over their di
 
 {{% blocks/section color="white" %}}
 
-It began as a collaboration between writer and activist [Meltem Arikan](https://www.meltemarikan.com/) and a group 
-of privacy and security facilitators working with survivors of intimate partner abuse. The project is supported by 
-[/ut7](https://ut7.fr/), a Paris-based cooperative (SCOP) founded in 2007, specializing in agile software development, 
-philosophical inquiry, and digital/philosophical learning spaces.
+It began as a collaboration between writer and activist [Meltem Arikan](https://www.meltemarikan.com/), systems 
+tinkerer [TyMyrddin](https://tymyrddin.dev), and a group of privacy and security facilitators working with survivors 
+of intimate partner violence. The project is supported by [/ut7](https://ut7.fr/), a Paris-based cooperative (SCOP) 
+founded in 2007, specializing in agile software development, philosophical research, and digital/philosophical 
+learning spaces.
 
 ----
 

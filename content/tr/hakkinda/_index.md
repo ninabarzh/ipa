@@ -25,10 +25,11 @@ Power On, insanların dijital hayatları üzerindeki kontrolü yeniden kazanmala
 
 {{% blocks/section color="white" %}}
 
-Bu proje, yazar ve aktivist [Meltem Arikan](https://www.meltemarikan.com/) ile partner şiddeti mağdurlarıyla çalışan 
-gizlilik ve güvenlik kolaylaştırıcılarından oluşan bir grubun iş birliğiyle başlamıştır  ve   2007 yılında kurulan 
-ve agile software geliştirme, felsefi araştırmalar ile dijital/felsefi öğrenme alanlarında uzmanlaşmış Paris merkezli 
-bir kooperatif (SCOP) olan [/ut7](https://ut7.fr/) tarafından desteklenmektedir.
+Bu proje, yazar ve aktivist [Meltem Arikan](https://www.meltemarikan.com/), sistem meraklısı 
+[TyMyrddin](https://tymyrddin.dev) ve partner şiddetinden kurtulanlarla çalışan bir grup mahremiyet ve güvenlik 
+kolaylaştırıcısının işbirliğiyle başladı. Proje, 2007'de kurulan ve çevik yazılım geliştirme (
+agile software development), felsefi araştırmalar ile dijital/felsefi öğrenme alanlarında uzmanlaşmış, Paris 
+merkezli bir kooperatif (SCOP) olan [/ut7](https://ut7.fr/) tarafından desteklenmektedir.
 
 ----
 
