@@ -24,6 +24,7 @@ body {
   font-style: normal;
 }
 
+
 /* Custom style for Punishment font */
 .punishment-font {
   font-family: 'Punishment', sans-serif;
@@ -180,6 +181,67 @@ body {
 .btn-danger:focus {
   background-color: #cc0000;  /* Darker red on hover/focus */
   border-color: #cc0000;
+}
+
+/* Nuclear option to ensure feature cards work */
+.feature-card {
+    background-color: white !important;
+    border-radius: 8px !important;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1) !important;
+    padding: 2rem !important;
+    height: 100% !important;
+    transition: transform 0.3s ease !important;
+    color: #333 !important;
+    text-align: center !important;
+}
+
+/* Force hide Docsy icons */
+.feature .icon {
+    display: none !important;
+}
+
+/* Custom icons - match text color */
+.feature-card .feature-icon,
+.feature-card .feature-icon i {
+    font-size: 2rem !important;
+    color: inherit !important;
+    margin-bottom: 1rem !important;
+}
+
+/* Titles */
+.feature-card h3 {
+    color: #222 !important;
+    margin-top: 0 !important;
+}
+
+/* Hover effects */
+.feature-card:hover {
+    transform: translateY(-5px) !important;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+    .feature-card {
+        margin-bottom: 1.5rem !important;
+    }
+}
+
+/* Targets cover blocks on home & about pages only */
+.home .blocks-cover h1,
+.home .blocks-cover p,
+.about .blocks-cover h1,
+.about .blocks-cover p {
+    color: #333 !important;
+    text-shadow: none !important;
+}
+
+/* Optional: Improve contrast on background images */
+.home .blocks-cover .cover-content,
+.about .blocks-cover .cover-content {
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 1rem;
+    border-radius: 8px;
+    display: inline-block;
 }
 
 
