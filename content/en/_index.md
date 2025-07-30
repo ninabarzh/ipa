@@ -8,7 +8,7 @@ description: Workshops, tools, and guides to secure devices, evade surveillance,
 <h1 style="color: #fff !important; text-shadow: none !important" >Reclaim control of your digital life!</h1>
 
 <p style="color: #fff !important; text-shadow: none !important" class="mb-2">
-Workshops, tools, and guides to secure devices, evade surveillance, and rebuild autonomy — especially for survivors of tech-enabled abuse. 
+Especially for survivors of tech-enabled abuse. 
 </p>
 <p>
 Open-source. Multilingual. Community-built.
@@ -22,7 +22,7 @@ Open-source. Multilingual. Community-built.
         <i class="fas fa-book"></i>
     </div>
     <h3>How-to guides</h3>
-    <p>Step-by-step support for taking digital power back—calm, focused, one action at a time.</p>
+    <p>Gentle, step-by-step support for reclaiming your digital power—calm, focused, one action at a time.</p>
     <a href="docs/guides/" class="btn btn-lg btn-primary">Getting started</a>
 </div>
 {{% /blocks/feature %}}
@@ -33,7 +33,7 @@ Open-source. Multilingual. Community-built.
         <i class="fab fa-github"></i>
     </div>
     <h3>Digital safety lab</h3>
-    <p>Practical guides for setting up private, resilient tools in shelters or community spaces.</p>
+    <p>Practical, easy-to-follow guides for setting up private, resilient tools in shelters or community spaces.</p>
     <a href="docs/lab/" class="btn btn-lg btn-secondary">Set up a safety lab</a>
 </div>
 {{% /blocks/feature %}}
@@ -44,7 +44,7 @@ Open-source. Multilingual. Community-built.
         <i class="fas fa-people-group"></i>
     </div>
     <h3>Make it happen</h3>
-    <p>Everything you need to run your own workshop/build-a-thon/choose-your-own-pace-day.</p>
+    <p>Everything you need to plan, organise, and run your own workshop/build-a-thon/choose-your-own-pace-day.</p>
     <a href="docs/workshops/" class="btn btn-lg btn-primary">Keep learning together</a>
 </div>
 {{% /blocks/feature %}}

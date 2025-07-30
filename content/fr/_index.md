@@ -8,7 +8,7 @@ description: Ateliers, outils et guides pour sécuriser vos appareils, échapper
 <h1>Reprenez le contrôle de votre vie numérique !</h1>
 
 <p>
-Ateliers, outils et guides pour sécuriser vos appareils, échapper à la surveillance et retrouver votre autonomie — spécialement pour les survivants d'abus technologiques.
+Spécialement pour les survivants d'abus technologiques.
 </p>
 <p>
 Open-source. Multilingue. Construit par la communauté.

@@ -8,7 +8,7 @@ description: Workshops, tools en handleidingen om apparaten te beveiligen, surve
 <h1>Herwin de controle over je digitale leven!</h1>
 
 <p>
-Workshops, tools en handleidingen om apparaten te beveiligen, surveillance te omzeilen en autonomie te herwinnen — vooral voor overlevenden van tech-ondersteund misbruik.
+Vooral voor overlevenden van tech-ondersteund misbruik.
 </p>
 <p>
 Open-source. Meertalig. Door de gemeenschap gebouwd.

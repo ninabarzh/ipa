@@ -8,7 +8,7 @@ description: Cihazları güvence altına almak, gözetimden kaçınmak ve özerk
 <h1>Dijital yaşamınızın kontrolünü geri alın!</h1>
 
 <p>
-Cihazları güvence altına almak, gözetimden kaçınmak ve özerkliği yeniden inşa etmek için atölyeler, araçlar ve rehberler — özellikle teknoloji destekli istismardan kurtulanlar için.
+Özellikle teknoloji destekli istismardan kurtulanlar için.
 </p>
 <p>
 Açık kaynak. Çok dilli. Topluluk inşası.
@@ -17,7 +17,7 @@ Açık kaynak. Çok dilli. Topluluk inşası.
 {{% blocks/section type="row" color="none" %}}
 
 {{% blocks/feature icon="none" %}}
-<div class="feature-card">
+<div class="feature-card mb-1">
     <div class="feature-icon">
         <i class="fas fa-book"></i>
     </div>

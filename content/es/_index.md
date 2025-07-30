@@ -8,7 +8,7 @@ description: Talleres, herramientas y guías para proteger dispositivos, evadir 
 <h1>Recupera el control de tu vida digital!</h1>
 
 <p>
-Talleres, herramientas y guías para proteger dispositivos, evadir vigilancia y reconstruir autonomía — especialmente para sobrevivientes de abuso tecnológico.
+Especialmente para sobrevivientes de abuso tecnológico.
 </p>
 <p>
 Código abierto. Multilingüe. Construido por la comunidad.
