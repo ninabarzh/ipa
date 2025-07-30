@@ -7,6 +7,8 @@ _build:
 menu:
   sidebar:  # Wordt toegevoegd aan de automatisch gegenereerde zijbalk van Docsy
     weight: 10
+    identifier: "nl-on-prem"
+    parent: "nl-lab"
 description: "Deze handleiding begeleidt je bij het opzetten van de SIEM-stack volledig binnen je opvangcentrum. Privé, krachtig en in jouw handen - geen cloud nodig."
 ---
 
@@ -511,7 +513,7 @@ Hier zouden nieuwe proces/netwerkgebeurtenissen moeten verschijnen.
 
 ### Optioneel: Gebruik PiRogue om apparaten te scannen voor verbinding
 
-[Een PiRogue-apparaat](pts.md) zit tussen het netwerk en een telefoon/laptop en observeert al het verkeer.
+[Een PiRogue-apparaat](../pts/_index) zit tussen het netwerk en een telefoon/laptop en observeert al het verkeer.
 
 1. Verbind met de PiRogue:
 

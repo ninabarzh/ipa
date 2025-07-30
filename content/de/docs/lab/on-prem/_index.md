@@ -7,7 +7,9 @@ _build:
 menu:
   sidebar:  # Ergänzt Docsys automatisch generierte Seitenleiste
     weight: 10
-description: "Diese Anleitung führt Sie durch die Einrichtung des SIEM-Stacks vollständig innerhalb Ihres Schutzraums. Privat, leistungsstark und in Ihren Händen – keine Cloud erforderlich."
+    identifier: "de-on-prem"
+    parent: "de-lab"
+description: "Diese Anleitung führt Sie Schritt für Schritt durch den Aufbau des SIEM-Stacks von Grund auf – als Pilotprojekt oder zum Testen von Tools. Privat, leistungsstark und in Ihrer Hand – ohne Container oder Cloud erforderlich."
 ---
 
 ## Haftungsausschluss: System in aktiver Entwicklung
@@ -511,7 +513,7 @@ Hier sollten neue Prozess-/Netzwerkereignisse angezeigt werden.
 
 ### Optional: Verwenden Sie PiRogue, um Geräte vor der Verbindung zu scannen
 
-[Ein PiRogue-Gerät](pts.md) sitzt zwischen dem Netzwerk und einem Telefon/Laptop und beobachtet den gesamten Verkehr.
+[Ein PiRogue-Gerät](../pts/_index) sitzt zwischen dem Netzwerk und einem Telefon/Laptop und beobachtet den gesamten Verkehr.
 
 1. Verbinden Sie sich mit dem PiRogue:
 

@@ -7,6 +7,8 @@ _build:
 menu:
   sidebar:
     weight: 15
+    identifier: "es-pts"
+    parent: "es-lab"
 description: "Esta guía paso a paso está diseñada para personal de refugios sin conocimientos técnicos. Le ayudará a configurar un dispositivo simple que puede verificar computadoras y teléfonos en busca de software de rastreo oculto utilizado por agresores."
 ---
 

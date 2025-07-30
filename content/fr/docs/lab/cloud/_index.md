@@ -7,6 +7,8 @@ _build:
 menu:
   sidebar:
     weight: 30
+    identifier: "fr-cloud"
+    parent: "fr-lab"
 description: "Esta guía te guía paso a paso para desplegar la pila SIEM en una nube privada, ideal para refugios u organizaciones de apoyo que operan en múltiples ubicaciones. Tendrás acceso remoto, monitoreo centralizado y las mismas herramientas de detección de vigilancia, sin ceder el control de datos a las grandes tecnológicas."
 ---
 
@@ -195,4 +197,3 @@ gpg -c /opt/backup/siem_logs_*.tar.gz
 Esta configuración proporciona detección de amenazas segura y centralizada en múltiples ubicaciones, sin depender de servicios en la nube externos. Todos los datos permanecen contigo, cifrados y bajo control.
 
 Aunque requiere mantenimiento (VPN, gestión de usuarios), reduce dramáticamente el riesgo local y protege la privacidad de las personas atendidas. Con algo de formación, personal con afinidad tecnológica puede gestionar el sistema, mientras especialistas apoyan desde remoto.
-

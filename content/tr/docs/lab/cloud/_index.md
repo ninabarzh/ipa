@@ -7,10 +7,10 @@ _build:
 menu:
   sidebar:
     weight: 30
+    identifier: "tr-cloud"
+    parent: "tr-lab"
 description: "Bu rehber, SIEM yığını özel bir bulutta nasıl konuşlandıracağınızı adım adım anlatır—birden fazla konumda faaliyet gösteren sığınaklar veya savunuculuk kuruluşları için idealdir. Uzaktan erişim, merkezi izleme ve aynı gözetim tespit araçlarını elde edeceksiniz—büyük teknoloji şirketlerine veri kontrolünü kaptırmadan."
 ---
-
-Bulut sunucunuza temel yönetici erişiminiz olduğunu veya bunu sağlayabilecek dost canlısı bir teknisyeniniz olduğunu varsayıyoruz.
 
 ## İhtiyacınız olanlar
 

@@ -7,6 +7,8 @@ _build:
 menu:
   sidebar:
     weight: 15
+    identifier: "fr-pts"
+    parent: "fr-lab"
 description: "Ce guide étape par étape est conçu pour le personnel des refuges sans formation technique. Il vous aidera à configurer un appareil simple pouvant vérifier les ordinateurs et téléphones pour détecter les logiciels de traque cachés utilisés par les agresseurs."
 ---
 

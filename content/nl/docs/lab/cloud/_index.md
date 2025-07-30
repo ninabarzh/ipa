@@ -7,10 +7,10 @@ _build:
 menu:
   sidebar:
     weight: 30
+    identifier: "nl-cloud"
+    parent: "nl-lab"
 description: "Deze gids leidt je door het uitrollen van de SIEM-stack in een private cloud – ideaal voor opvanglocaties of belangenorganisaties die op meerdere locaties actief zijn. Je krijgt remote toegang, gecentraliseerde monitoring en dezelfde tools voor surveillance-detectie – zonder dat je de controle over je data aan grote techbedrijven hoeft te geven."
 ---
-
-We gaan ervan uit dat je basale adminrechten hebt op je cloudserver, of een vriendelijke nerd die dat voor je regelt.
 
 ## Wat je nodig hebt
 

@@ -7,6 +7,8 @@ _build:
 menu:
   sidebar:  # S'ajoute à la barre latérale générée automatiquement par Docsy
     weight: 10
+    identifier: "fr-on-prem"
+    parent: "fr-lab"
 description: "Ce guide vous explique comment configurer la pile SIEM entièrement dans votre refuge. Privé, puissant et entre vos mains - sans cloud requis."
 ---
 
@@ -511,7 +513,7 @@ Vous devriez voir de nouveaux événements processus/réseau.
 
 ### Optionnel : Utilisez PiRogue pour scanner les appareils avant connexion
 
-[Un appareil PiRogue](pts.md) se place entre le réseau et un téléphone/portable et observe tout le trafic.
+[Un appareil PiRogue](../pts/_index) se place entre le réseau et un téléphone/portable et observe tout le trafic.
 
 1. Connectez-vous au PiRogue :
 

@@ -7,6 +7,8 @@ _build:
 menu:
   sidebar:
     weight: 15
+    identifier: "tr-pts"
+    parent: "tr-lab"
 description: "Bu adım adım rehber, teknik geçmişi olmayan sığınma evi çalışanları için tasarlanmıştır. Tacizciler tarafından kullanılan gizli takip yazılımlarını kontrol edebilen basit bir cihaz kurmanıza yardımcı olacaktır."
 ---
 

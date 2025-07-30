@@ -7,6 +7,8 @@ _build:
 menu:
   sidebar:
     weight: 30
+    identifier: "de-cloud"
+    parent: "de-lab"
 description: "Diese Anleitung führt Sie durch die Bereitstellung des SIEM-Stacks in einer privaten Cloud – ideal für Schutzräume oder Interessenvertretungen mit mehreren Standorten. Sie erhalten Fernzugriff, zentrales Monitoring und dieselben Überwachungserkennungs-Tools – ohne die Datenhoheit an Big Tech abzugeben."
 ---
 

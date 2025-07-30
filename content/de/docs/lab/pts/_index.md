@@ -7,6 +7,8 @@ _build:
 menu:
   sidebar:
     weight: 15
+    identifier: "de-pts"
+    parent: "de-lab"
 description: "Diese Schritt-für-Schritt-Anleitung richtet sich an Mitarbeiter von Frauenhäusern ohne technische Vorkenntnisse. Sie hilft Ihnen, ein einfaches Gerät einzurichten, das Computer und Telefone auf versteckte Überwachungssoftware von Tätern überprüfen kann."
 ---
 

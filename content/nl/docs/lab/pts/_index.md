@@ -7,6 +7,8 @@ _build:
 menu:
   sidebar:
     weight: 15
+    identifier: "nl-pts"
+    parent: "nl-lab"
 description: "Deze stapsgewijze handleiding is bedoeld voor opvangmedewerkers zonder technische achtergrond. Het helpt u een eenvoudig apparaat op te zetten dat computers en telefoons kan controleren op verborgen trackingsoftware die door daders wordt gebruikt."
 ---
 

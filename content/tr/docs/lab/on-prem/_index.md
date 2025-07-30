@@ -7,6 +7,8 @@ _build:
 menu:
   sidebar:
     weight: 10
+    identifier: "tr-on-prem"
+    parent: "tr-lab"
 description: "SIEM sistemini sığınma evinizde kurma rehberi. Tamamen özel, güçlü ve elinizde – bulut gerekmez."
 ---
 
@@ -511,7 +513,7 @@ Burada yeni işlem/ağ olayları gösterilmelidir.
 
 ### Opsiyonel: Bağlanmadan önce cihazları taramak için PiRogue kullanın
 
-[Bir PiRogue cihazı](pts.md), ağ ile bir telefon/dizüstü bilgisayar arasında durur ve tüm trafiği izler.
+[Bir PiRogue cihazı](../pts/_index), ağ ile bir telefon/dizüstü bilgisayar arasında durur ve tüm trafiği izler.
 
 1. PiRogue'a bağlanın:
 

@@ -7,6 +7,8 @@ _build:
 menu:
   sidebar:  # Se añade a la barra lateral generada automáticamente por Docsy
     weight: 10
+    identifier: "es-on-prem"
+    parent: "es-lab"
 description: "Esta guía te lleva paso a paso en la configuración de la pila SIEM completamente dentro de tu refugio. Privado, potente y en tus manos - sin necesidad de la nube."
 ---
 
@@ -511,7 +513,7 @@ Deberías ver nuevos eventos de proceso/red.
 
 ### Opcional: Usa PiRogue para escanear dispositivos antes de conectarlos
 
-[Un dispositivo PiRogue](pts.md) se sitúa entre la red y un teléfono/laptop y observa todo el tráfico.
+[Un dispositivo PiRogue](../pts/_index) se sitúa entre la red y un teléfono/laptop y observa todo el tráfico.
 
 1. Conéctate al PiRogue:
 
