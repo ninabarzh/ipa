@@ -1,13 +1,16 @@
 ---
 title: "How to set up a PiRogue toolkit for detecting stalkerware"
+linkTitle: "PiRogue toolkit"
 weight: 3
-translationKey: "pts"
 _build:
   render: always
-menu:
-  sidebar:  # Adds to Docsy's auto-generated sidebar
-    weight: 15
 description: "This step-by-step guide is designed for shelter staff with no technical background. It will help you set up a simple device that can check computers and phones for hidden tracking software used by abusers."
+menu:
+  sidebar:
+    weight: 15
+    identifier: "en-pts"
+    parent: "en-lab"
+translationKey: "pts"
 ---
 
 ## What you’ll need

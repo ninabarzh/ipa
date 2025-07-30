@@ -1,28 +1,28 @@
 ---
-title: "How to set up a shelter-based security system"
-weight: 2
-translationKey: "on-prem"
+title: "How to set up a shelter-based security system from the ground up"
+linkTitle: "On-prem siem stack"
+weight: 3
 _build:
   render: always
+description: "This guide walks you through setting up the SIEM stack entirely from the ground up as pilot or for testing tools. Private, powerful, and in your hands – no containers or cloud required."
 menu:
-  sidebar:  # Adds to Docsy's auto-generated sidebar
-    weight: 10
-description: "This guide walks you through setting up the SIEM stack entirely inside your shelter. Private, powerful, and in your hands – no cloud required."
+  sidebar:
+    weight: 15
+    identifier: "en-on-prem"
+    parent: "en-lab"
+translationKey: "on-prem"
 ---
 
-## Disclaimer: System under active development
+The guidance provided here is designed for technical users building pilot systems or testing tool deployments. It *can* 
+be deployed on an old PC or laptop, but if you are deploying this stack to protect vulnerable people, exercise extreme 
+care. Validate every component in your own environment, and assume nothing is bulletproof out of the box.
 
-The PowerOn on-prem SIEM stack is currently under active development. That means things may change rapidly—features may shift, integrations may break, and some configurations are still experimental or untested in production environments.
-
-The guidance provided here is designed for technical users building pilot systems or test deployments. If you are deploying this stack to protect vulnerable people, exercise extreme care. Validate every component in your own environment, and assume nothing is bulletproof out of the box.
-
-We are actively expanding documentation, adding sample configurations, and refining log correlation strategies across Zeek, Suricata, Sysmon, and Linux endpoints. Contributions, corrections, and field-tested improvements are most welcome.
-
-Until declared stable, treat this stack as a living system: fragile in some areas, promising in others, and always subject to revision.
+For production, we recommend using our pre-made containers (also under active development).
 
 ## Design choices
 
 * No third-party cloud platforms
+* No containers
 * No data leaving your building
 * No mystery surveillance on survivors
 
@@ -409,7 +409,7 @@ adb shell settings get global http_proxy
 ### For jailbroken iPhones (full access)
 
 1. Install OpenSSH via Cydia (jailbreak app store)
-2. Use [secure scripts](on-prem-scripts.md) to transfer logs to your server via SSH
+2. Use [secure scripts](on-prem/on-prem-scripts.md) to transfer logs to your server via SSH
 
 ### iPhones which are **not** jailbroken
 
@@ -427,7 +427,7 @@ sudo apt install libimobiledevice-utils
 idevicebackup2 backup /opt/backups/ios_device/
 ```
 
-3. Run a [parser script](on-prem-scripts.md) (you may need to request help):
+3. Run a [parser script](on-prem/on-prem-scripts.md) (you may need to request help):
 
 ```bash
 python3 parse_ios_backup.py /opt/backups/ios_device/
@@ -763,7 +763,7 @@ wazuh-logtest
 
 ## Add automation scripts
 
-See [Helpful scripts (to automate checks and responses)](on-prem-scripts.md)
+See [Helpful scripts (to automate checks and responses)](on-prem/on-prem-scripts.md)
 
 ## Weekly maintenance
 

@@ -1,5 +1,5 @@
 ---
-title: "Grant application summary for a lab"
+title: "Grant application summary for an on-prem lab"
 weight: 9
 translationKey: "funding-lab-template"
 _build:

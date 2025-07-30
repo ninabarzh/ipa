@@ -1,16 +1,17 @@
 ---
-title: "How to set up a private cloud security system"
+title: "How to set up a private cloud based security system using the containers"
+linkTitle: "Cloud based siem stack"
 weight: 6
-translationKey: "cloud"
 _build:
   render: always
-menu:
-  sidebar:  # Adds to Docsy's auto-generated sidebar
-    weight: 30
 description: "This guide walks you through deploying the SIEM stack in a private cloud—ideal for shelters or advocacy organisations that operate across multiple locations. You’ll get remote access, centralised monitoring, and the same surveillance detection tools—without surrendering data control to big tech."
+menu:
+  sidebar:
+    weight: 30
+    identifier: "en-cloud"
+    parent: "en-lab"
+translationKey: "cloud"
 ---
-
-We assume you have basic admin access to your cloud server, or a friendly nerd who does.
 
 ## What you’ll need
 
