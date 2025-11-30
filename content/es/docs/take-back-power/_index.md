@@ -13,4 +13,4 @@ menu:
 translationKey: "take-back-power"
 ---
 
-Si el modelo de amenazas muestra cómo funciona el abuso digital, esta sección trata de recuperar espacio, confianza y control — paso a paso. No hace falta ser experto en tecnología para actuar. No son soluciones mágicas — pero son pasos firmes hacia seguridad, claridad y autonomía.
+Si el modelo de amenazas muestra cómo funciona el abuso digital, esta sección trata de recuperar espacio, confianza y control,  paso a paso. No hace falta ser experto en tecnología para actuar. No son soluciones mágicas,  pero son pasos firmes hacia seguridad, claridad y autonomía.

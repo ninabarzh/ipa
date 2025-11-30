@@ -19,7 +19,7 @@ Imaginons que vous êtes suivi·e, mais pas dans le sens d’une ruelle sombre. 
 
 Bienvenue dans la face numérique des violences, où la technologie du quotidien devient une boîte à outils de contrôle.
 
-La **modélisation des menaces**, dans ce contexte, est simplement une manière sophistiquée de dire : *« Essayons de comprendre ce qui pourrait mal se passer, qui pourrait en être responsable, comment ils pourraient s’y prendre et quelles pourraient être les conséquences — avant que cela n’arrive ou ne s’aggrave. »*
+La **modélisation des menaces**, dans ce contexte, est simplement une manière sophistiquée de dire : *« Essayons de comprendre ce qui pourrait mal se passer, qui pourrait en être responsable, comment ils pourraient s’y prendre et quelles pourraient être les conséquences,  avant que cela n’arrive ou ne s’aggrave. »*
 
 C’est comme faire un diagnostic de sécurité pour votre maison, mais pour votre vie numérique.
 
@@ -28,7 +28,7 @@ C’est comme faire un diagnostic de sécurité pour votre maison, mais pour vot
 La plupart des modèles de sécurité technologique sont conçus pour les entreprises : pare-feux, hackers, panique en salle de réunion.  
 Ce n’est pas le cas ici.  
 
-Ici, la menace n’est pas une silhouette mystérieuse en sweat à capuche — c’est une personne avec qui vous partagez peut-être un lit, un enfant ou un compte Netflix. Ils ne « piratent » peut-être pas au sens hollywoodien, mais ils ont souvent :
+Ici, la menace n’est pas une silhouette mystérieuse en sweat à capuche,  c’est une personne avec qui vous partagez peut-être un lit, un enfant ou un compte Netflix. Ils ne « piratent » peut-être pas au sens hollywoodien, mais ils ont souvent :
 
 - **Un accès** (à vos appareils, comptes ou mots de passe)  
 - **Une connaissance** (de vos habitudes, routines, déclencheurs émotionnels)  
@@ -40,7 +40,7 @@ Ce qui change complètement les règles.
 
 Parce que reconnaître le schéma est la première étape pour le briser.
 
-Il ne s’agit pas de blâmer qui que ce soit d’être ciblé. Bien au contraire. La plupart des technologies sont conçues pour être ouvertes, pratiques et — malheureusement — adaptées aux abuseurs. Mais une fois que vous pouvez nommer le problème, vous pouvez commencer à élaborer des stratégies.
+Il ne s’agit pas de blâmer qui que ce soit d’être ciblé. Bien au contraire. La plupart des technologies sont conçues pour être ouvertes, pratiques et,  malheureusement,  adaptées aux abuseurs. Mais une fois que vous pouvez nommer le problème, vous pouvez commencer à élaborer des stratégies.
 
 Cela aide aussi les travailleurs sociaux, les professionnels du droit et toute autre personne impliquée à comprendre que :
 

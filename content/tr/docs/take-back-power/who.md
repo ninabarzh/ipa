@@ -52,7 +52,7 @@ Bu rehber, olası müttefiklerinizi ve onlara fazla güç vermeden veya risk alm
 
 ## Hukuk klinikleri & gizlilik savunucuları (kanıtlar çarpıtılıyorsa)
 
-**Neden:** Sadece izlenmiyorsunuz — aynı zamanda suçlanıyorsunuz. Sahte mesajlar, değiştirilmiş ekran görüntüleri veya yasal tehditler varsa uzman desteği şart.
+**Neden:** Sadece izlenmiyorsunuz,  aynı zamanda suçlanıyorsunuz. Sahte mesajlar, değiştirilmiş ekran görüntüleri veya yasal tehditler varsa uzman desteği şart.
 
 **Ne zaman:**
 
@@ -65,7 +65,7 @@ Bu rehber, olası müttefiklerinizi ve onlara fazla güç vermeden veya risk alm
 - "Dijital kanıtları korumama veya itiraz etmeme yardım edebilir misiniz?"
 - "Bir hakime teknoloji istismarını açıklayacak biri var mı?"
 
-**Hiçbir şey silmeyin** — aleyhinize gibi görünse bile. Güvenli arşivleme ve uzman onayı için danışın.
+**Hiçbir şey silmeyin**,  aleyhinize gibi görünse bile. Güvenli arşivleme ve uzman onayı için danışın.
 
 ## Güvenilir teknik kişiler: Ne sorulmalı, ne aşırı paylaşılmamalı
 
@@ -82,9 +82,9 @@ Bu rehber, olası müttefiklerinizi ve onlara fazla güç vermeden veya risk alm
 - "Bu cihazı güvenle temizleyip kontrol edebilir misiniz?"
 - "Bu cihazlar/hesaplar arasında ne senkronize oluyor?"
 
-**Varsaymayın:** Fail psikolojisini bildiklerini. Önerileri durumu kötüleştirebilir (faili uyandırmak gibi). Güvenli olduğunda bağlam verin — ve riskli önerilere itiraz edin.
+**Varsaymayın:** Fail psikolojisini bildiklerini. Önerileri durumu kötüleştirebilir (faili uyandırmak gibi). Güvenli olduğunda bağlam verin,  ve riskli önerilere itiraz edin.
 
-## Polis ve mahkemelerin sınırları — gerçekçi beklentiler
+## Polis ve mahkemelerin sınırları,  gerçekçi beklentiler
 
 **Neden önemli:** Kolluk kuvvetleri *yardım edebilir* veya zarar verebilir. Gerçekçi beklentiler hayal kırıklığını önler.
 
@@ -92,7 +92,7 @@ Bu rehber, olası müttefiklerinizi ve onlara fazla güç vermeden veya risk alm
 
 - İletişim yasağı çıkartmak  
 - Kimlik taklidi veya tehditleri soruşturmak (*iyi* belgelendiyse)  
-- Dijital kanıtlarla çalışmak — *açıkça* sunulduysa  
+- Dijital kanıtlarla çalışmak,  *açıkça* sunulduysa  
 
 **Yapamadıkları (*sıkça*):**
 
@@ -110,7 +110,7 @@ Bu rehber, olası müttefiklerinizi ve onlara fazla güç vermeden veya risk alm
 
 Bunu yalnız yapmak zorunda değilsiniz. Ama *kime* ve *ne zaman* güveneceğinizi *siz* seçersiniz.  
 
-Önce küçük bir çevre kurun — size inanan, yeterince anlayan ve durumu kötüleştirmeyen bir-iki kişi.  
+Önce küçük bir çevre kurun,  size inanan, yeterince anlayan ve durumu kötüleştirmeyen bir-iki kişi.  
 Sonra gerektikçe genişletin. Güvenle. Stratejik. Kendi şartlarınızla.  
 
 Sonraki: [Önce neyi kontrol etmeli →](/docs/take-back-power/what)

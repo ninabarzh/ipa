@@ -10,15 +10,15 @@ menu:
 description: "Veelvoorkomende gevolgen van digitaal misbruik koppelen aan realistische strategieën om de controle terug te krijgen."
 ---
 
-Wanneer technologie als controlemiddel wordt gebruikt, kan de impact overweldigend zijn — psychisch, fysiek, financieel, juridisch en diep persoonlijk.  
+Wanneer technologie als controlemiddel wordt gebruikt, kan de impact overweldigend zijn,  psychisch, fysiek, financieel, juridisch en diep persoonlijk.  
 Maar elke vorm van schade heeft een mogelijke tegenstrategie. Dit is geen lijst met wondermiddelen. Het is een routekaart. Om je te helpen een beginpunt te vinden.
 
-Deze gids behandelt elk belangrijk gevolg en biedt handelingsopties — of je nu nog in de situatie zit of al buiten bent.  
+Deze gids behandelt elk belangrijk gevolg en biedt handelingsopties,  of je nu nog in de situatie zit of al buiten bent.  
 Links naar handleidingen en tools volgen later. Focus nu op het terugwinnen van ruimte, duidelijkheid en vertrouwen.
 
 ## Psychische schade → digitale detox & traumasensitieve steun
 
-**Wat er gebeurt:** Surveillance — zelfs de *dreiging* ervan — leidt tot angst, hyperwaakzaamheid en uitputting. Voortdurend twijfelen aan je tech, omgeving en keuzes.
+**Wat er gebeurt:** Surveillance,  zelfs de *dreiging* ervan,  leidt tot angst, hyperwaakzaamheid en uitputting. Voortdurend twijfelen aan je tech, omgeving en keuzes.
 
 **Strategieën:**
 
@@ -30,7 +30,7 @@ Links naar handleidingen en tools volgen later. Focus nu op het terugwinnen van 
 - Traumasensitieve hulp:
   - Zoek hulpdiensten die *tech-misbruik begrijpen*  
   - Overweeg traumadeskundige therapeuten (vooral met kennis van dwingende controle)  
-  - Negeer "verander-gewoon-je-wachtwoord"-adviezen — die zijn niet voor jou bedoeld  
+  - Negeer "verander-gewoon-je-wachtwoord"-adviezen,  die zijn niet voor jou bedoeld  
 
 - Helderheid creëren:
   - Houd een logboek (digitaal of op papier) bij van vreemde tech-incidenten  
@@ -74,7 +74,7 @@ Links naar handleidingen en tools volgen later. Focus nu op het terugwinnen van 
 
 - Bouw steun op:
   - Licht (indien veilig) je werkgever in over verdachte activiteiten  
-  - Houd een logboek van financiële gevolgen — nuttig voor juridische of huisvestingszaken  
+  - Houd een logboek van financiële gevolgen,  nuttig voor juridische of huisvestingszaken  
 
 ## Juridisch gevaar → bewijs verzamelen & tactische kalmte
 
@@ -92,22 +92,22 @@ Links naar handleidingen en tools volgen later. Focus nu op het terugwinnen van 
   - Laat een derde (hulpverlener, maatschappelijk werker) het bestaan van bewijs bevestigen  
 
 - Weet wat je *niet* moet wissen:
-  - Bewaar zelfs pijnlijke berichten — echte logs weerleggen vervalsingen.  
-  - Bij twijfel: back-up eerst — verwijder later, veilig.  
+  - Bewaar zelfs pijnlijke berichten,  echte logs weerleggen vervalsingen.  
+  - Bij twijfel: back-up eerst,  verwijder later, veilig.  
 
 - Expertbondgenoten:
   - Benader juridische klinieken, privacyorganisaties of hulpdiensten met tech-kennis  
-  - Ga er niet vanuit dat politie of rechtbank het snappen — kom met *uitleg*  
+  - Ga er niet vanuit dat politie of rechtbank het snappen,  kom met *uitleg*  
 
 ## Autonomieverlies → grenzen stellen & digitale reset
 
-**Wat er gebeurt:** Tech-misbruik vreet aan zelfstandigheid. Zelfs na vertrek beïnvloedt oude manipulatie routines — waar je gaat, welke apps je gebruikt of vermijdt.
+**Wat er gebeurt:** Tech-misbruik vreet aan zelfstandigheid. Zelfs na vertrek beïnvloedt oude manipulatie routines,  waar je gaat, welke apps je gebruikt of vermijdt.
 
 **Strategieën:**
 
 - Herpak routines:
   - Kies nieuwe, niet-gecompromitteerde platforms (email, agenda, takenlijsten)  
-  - Ontkoppel gedeelde accounts — zelfs als het lastig is  
+  - Ontkoppel gedeelde accounts,  zelfs als het lastig is  
   - Maak bewuste keuzes over technologie *die jij vertrouwt*  
 
 - Stel tech-grenzen:
@@ -118,11 +118,11 @@ Links naar handleidingen en tools volgen later. Focus nu op het terugwinnen van 
 - Elimineer passieve monitoring:
   - Controleer smart devices en cloudverbindingen  
   - Reset gebruikte apparaten of verwijder logins  
-  - Schrap onnodige permissies — vooral camera, microfoon, GPS  
+  - Schrap onnodige permissies,  vooral camera, microfoon, GPS  
 
 ## Een noot bij dit onderdeel
 
-Deze strategieën geven lucht — geen extra druk.  
+Deze strategieën geven lucht,  geen extra druk.  
 
 Begin met het makkelijkste. Werk naar het moeilijkste toe. En ga niet alleen als het niet hoeft.  
 

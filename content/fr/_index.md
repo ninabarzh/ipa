@@ -1,6 +1,6 @@
 ---
 title: Power On
-description: Ateliers, outils et guides pour sécuriser vos appareils, échapper à la surveillance et retrouver votre autonomie — spécialement pour les survivants d'abus technologiques. Open-source. Multilingue. Construit par la communauté.
+description: Ateliers, outils et guides pour sécuriser vos appareils, échapper à la surveillance et retrouver votre autonomie, spécialement pour les survivants d'abus technologiques. Open-source. Multilingue. Construit par la communauté.
 ---
 
 {{% blocks/cover image="featured_background.jpg" image_anchor="top" height="full" %}}
@@ -22,7 +22,7 @@ Open-source. Multilingue. Construit par la communauté.
         <i class="fas fa-book"></i>
     </div>
     <h3>Guides pratiques</h3>
-    <p>Un soutien étape par étape pour reprendre le pouvoir numérique—avec calme, concentration, une action à la fois.</p>
+    <p>Un soutien étape par étape pour reprendre le pouvoir numérique, avec calme, concentration, une action à la fois.</p>
     <a href="docs/guides/" class="btn btn-lg btn-primary">Commencer</a>
 </div>
 {{% /blocks/feature %}}

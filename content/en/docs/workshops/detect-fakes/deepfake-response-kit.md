@@ -5,7 +5,7 @@ slug: "response-kit"
 weight: 3
 _build:
   render: always
-description: "Printable cards and a one-page cheat sheet to help shelter staff recognise, respond to, and talk through deepfake-related incidents — calmly and practically."
+description: "Printable cards and a one-page cheat sheet to help shelter staff recognise, respond to, and talk through deepfake-related incidents,  calmly and practically."
 menu:
   sidebar:
     weight: 20
@@ -14,7 +14,7 @@ menu:
 translationKey: "deepfake-kit"
 ---
 
-The scenarios and ideas explored in this workshop do not just stay in the room — they can help make the Deepfake 
+The scenarios and ideas explored in this workshop do not just stay in the room,  they can help make the Deepfake 
 Defence Kit stronger for others. At the end of the session, we will ask if the group is comfortable sharing any of 
 today’s tips, strategies, or wording. Nothing will be taken without everyone’s agreement, and any shared contributions 
 will be anonymised. If even one person prefers not to share, we will respect that choice in full.
@@ -74,12 +74,12 @@ full-page use.
 **Tools (optional)**
 
 * InVID, FotoForensics, reverse image/video search
-* Ask someone else — two brains are better than one
+* Ask someone else,  two brains are better than one
 
 **Pause before you act**
 
 * Do not forward emotionally charged media without checking
-* Do not reply under pressure — especially to demands or threats
+* Do not reply under pressure,  especially to demands or threats
 
 **If in doubt, flag it. No shame in checking.**
 
@@ -105,9 +105,9 @@ A shelter volunteer gets a late-night voice message supposedly from the director
 * How can you double-check authenticity calmly?
 * What is your emergency plan for leadership impersonation?
 
-**Scenario 3 – “She’s lying — I’ve got proof”**
+**Scenario 3 – “She’s lying,  I’ve got proof”**
 
-An abuser posts a video online claiming the survivor “admitted” to fabricating the abuse. The video shows her face and voice — but says things she never said.
+An abuser posts a video online claiming the survivor “admitted” to fabricating the abuse. The video shows her face and voice,  but says things she never said.
 
 * What is the emotional impact on her?
 * How would you investigate the video?
@@ -127,7 +127,7 @@ A volunteer forwards a shocking video of a public figure “confessing” to a c
 
 **What is a deepfake?**
 
-Synthetic media — video, audio, or images — that look or sound real, but have been altered or entirely generated to deceive. Abusers use them to humiliate, control, or discredit.
+Synthetic media,  video, audio, or images,  that look or sound real, but have been altered or entirely generated to deceive. Abusers use them to humiliate, control, or discredit.
 
 **Where they appear**
 

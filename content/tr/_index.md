@@ -1,6 +1,6 @@
 ---
 title: Power On
-description: Cihazları güvence altına almak, gözetimden kaçınmak ve özerkliği yeniden inşa etmek için atölyeler, araçlar ve rehberler — özellikle teknoloji destekli istismar mağdurları için. Açık kaynak. Çok dilli. Topluluk inşası.
+description: Cihazları güvence altına almak, gözetimden kaçınmak ve özerkliği yeniden inşa etmek için atölyeler, araçlar ve rehberler,  özellikle teknoloji destekli istismar mağdurları için. Açık kaynak. Çok dilli. Topluluk inşası.
 ---
 
 {{% blocks/cover image="featured_background.jpg" image_anchor="top" height="full" %}}
@@ -22,7 +22,7 @@ Açık kaynak. Çok dilli. Topluluk inşası.
         <i class="fas fa-book"></i>
     </div>
     <h3>Nasıl yapılır kılavuzları</h3>
-    <p>Dijital kontrolü ve özerkliğiniz için adım adım destek — sakin, odaklanmış ve yönetilebilir adımlarla.</p>
+    <p>Dijital kontrolü ve özerkliğiniz için adım adım destek,  sakin, odaklanmış ve yönetilebilir adımlarla.</p>
     <a href="docs/guides/" class="btn btn-lg btn-primary">Başlarken</a>
 </div>
 {{% /blocks/feature %}}

@@ -18,7 +18,7 @@ Los enlaces a guías y herramientas aparecerán en la siguiente sección. Por ah
 
 ## Daño psicológico → desintoxicación digital y apoyo sensible al trauma
 
-**Qué ocurre:** La vigilancia —incluso la *amenaza* de ella— genera ansiedad, hipervigilancia y agotamiento. Dudas constantes sobre tu tecnología, entorno y decisiones.
+**Qué ocurre:** La vigilancia, incluso la *amenaza* de ella— genera ansiedad, hipervigilancia y agotamiento. Dudas constantes sobre tu tecnología, entorno y decisiones.
 
 **Estrategias:**
 
@@ -30,7 +30,7 @@ Los enlaces a guías y herramientas aparecerán en la siguiente sección. Por ah
 - Apoyo sensible al trauma:
   - Busca servicios contra violencia doméstica que *entiendan el abuso tecnológico*  
   - Considera terapeutas informados en trauma (especialmente en control coercitivo)
-  - Evita a quienes dicen "solo cambia tu contraseña" — no son tu público objetivo
+  - Evita a quienes dicen "solo cambia tu contraseña",  no son tu público objetivo
 
 - Herramientas de claridad:
   - Registra comportamientos extraños de tus dispositivos (en digital o papel)
@@ -74,7 +74,7 @@ Los enlaces a guías y herramientas aparecerán en la siguiente sección. Por ah
 
 - Reconstruye apoyo:
   - Si es seguro, informa a empleadores sobre actividad sospechosa  
-  - Documenta todo lo que afecte tu situación financiera — puede ayudar en casos legales o de vivienda  
+  - Documenta todo lo que afecte tu situación financiera,  puede ayudar en casos legales o de vivienda  
 
 ## Peligro legal → captura de evidencia y calma táctica
 
@@ -92,22 +92,22 @@ Los enlaces a guías y herramientas aparecerán en la siguiente sección. Por ah
   - Usa testigos (asesores, trabajadores sociales) para validar pruebas  
 
 - Sabe qué *no* borrar:
-  - Conserva mensajes aunque sean angustiantes — los registros reales desmienten falsificaciones.  
-  - Ante duda, respalda primero — borra después con seguridad.  
+  - Conserva mensajes aunque sean angustiantes,  los registros reales desmienten falsificaciones.  
+  - Ante duda, respalda primero,  borra después con seguridad.  
 
 - Aliados expertos:
   - Contacta clínicas legales, organizaciones de privacidad o servicios contra violencia con experiencia tecnológica  
-  - No asumas que policía o tribunales entenderán el abuso — lleva *explicaciones*  
+  - No asumas que policía o tribunales entenderán el abuso,  lleva *explicaciones*  
 
 ## Pérdida de autonomía → establecer límites y reinicio digital
 
-**Qué ocurre:** El abuso tecnológico erosiona independencia. Incluso tras separarte, la manipulación pasada moldea rutinas — qué apps usas, qué evitas.
+**Qué ocurre:** El abuso tecnológico erosiona independencia. Incluso tras separarte, la manipulación pasada moldea rutinas,  qué apps usas, qué evitas.
 
 **Estrategias:**
 
 - Recupera rutinas:
   - Elige plataformas nuevas no comprometidas (email, calendario, listas)  
-  - Desvincula cuentas compartidas — aunque sea inconveniente  
+  - Desvincula cuentas compartidas,  aunque sea inconveniente  
   - Decide conscientemente en qué tecnología *confías*  
 
 - Límites con tecnología:
@@ -118,11 +118,11 @@ Los enlaces a guías y herramientas aparecerán en la siguiente sección. Por ah
 - Elimina monitoreo pasivo:
   - Audita dispositivos inteligentes y conexiones en la nube  
   - Restablece de fábrica o elimina inicios de sesión de dispositivos usados  
-  - Revoca permisos innecesarios — especialmente cámara, micrófono, GPS  
+  - Revoca permisos innecesarios,  especialmente cámara, micrófono, GPS  
 
 ## Una nota
 
-Estas estrategias buscan darte aire — no abrumarte más.  
+Estas estrategias buscan darte aire,  no abrumarte más.  
 
 Empieza por lo más fácil. Avanza hacia lo difícil. Y no lo hagas solo si no es necesario.  
 

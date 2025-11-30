@@ -11,7 +11,7 @@ description: "Méthodes discrètes et sûres pour recueillir des preuves numéri
 ---
 
 Face aux abus technologiques, on ne peut pas toujours prouver sur-le-champ.  
-Mais les preuves —si collectées avec soin— deviennent un pouvoir. Elles aident pour la protection légale, le logement, les services d’aide, ou simplement *être cru·e*.
+Mais les preuves, si collectées avec soin— deviennent un pouvoir. Elles aident pour la protection légale, le logement, les services d’aide, ou simplement *être cru·e*.
 
 Ce guide présente des méthodes calmes et à faible risque pour recueillir des preuves.
 
@@ -22,7 +22,7 @@ Les bonnes captures racontent une histoire. Prenez-les *en contexte* :
 - **À inclure :**
   - Date et heure (ex. barre du téléphone/ordinateur)
   - Expéditeur ou source (qui a fait quoi)
-  - Le message/action en entier — *sans recadrage*
+  - Le message/action en entier,  *sans recadrage*
 
 - **Meilleurs moments :**
   - Quand des messages sont modifiés/supprimés
@@ -35,7 +35,7 @@ Les bonnes captures racontent une histoire. Prenez-les *en contexte* :
 
 ## Journaux de métadonnées, historique navigateur et données d’apps
 
-La trace numérique invisible —jusqu’à ce que vous en ayez besoin.
+La trace numérique invisible, jusqu’à ce que vous en ayez besoin.
 
 - **Historique navigateur :**
   - Montre les habitudes d’accès, liens visités, tentatives de connexion
@@ -57,7 +57,7 @@ Sauvegardez en PDF, CSV ou HTML quand possible. L’auto-envoi par email préser
 
 ## Enregistrements audio et journal des schémas
 
-Parfois, l’abus utilise la tech —sans être numérique. Vos propres mots deviennent preuve.
+Parfois, l’abus utilise la tech, sans être numérique. Vos propres mots deviennent preuve.
 
 - **Mémos vocaux :**
   - Enregistrez vos observations après un incident (« Aujourd’hui, j’ai trouvé… »)
@@ -75,7 +75,7 @@ Pas besoin que ce semble « officiel ». Juste réel.
 
 ## Vérification tierce (en-têtes email, IPs, autres)
 
-Si quelqu’un vous accuse d’actions en ligne —il vous faudra plus que votre parole.
+Si quelqu’un vous accuse d’actions en ligne, il vous faudra plus que votre parole.
 
 - **En-têtes email :**
   - Montrent *qui* a envoyé un message, *d’où*, via *quel service*
@@ -106,10 +106,10 @@ Certains outils peuvent aggraver la situation s’ils sont découverts. Pas ceux
   - Créez un alias email (ex. votrenom+docs@proton.me)
   - Auto-transférez les journaux/captures via un onglet privé
 
-Évitez les appareils partagés pour les preuves sensibles — sauf si vous *savez* qu’ils sont sûrs.
+Évitez les appareils partagés pour les preuves sensibles,  sauf si vous *savez* qu’ils sont sûrs.
 
 ## Un mot
 
-Vous n’avez pas à tout prouver d’un coup. Commencez simplement à créer des traces —en silence, calmement, comme *vous* en avez besoin.  
+Vous n’avez pas à tout prouver d’un coup. Commencez simplement à créer des traces, en silence, calmement, comme *vous* en avez besoin.  
 
 À suivre : [Contre-mesures techniques →](/docs/take-back-power/counter) ou retour à [Relier impacts et réponses →](/docs/take-back-power/mapping)

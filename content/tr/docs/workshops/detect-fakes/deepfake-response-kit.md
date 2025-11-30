@@ -14,7 +14,7 @@ menu:
 translationKey: "deepfake-kit"
 ---
 
-Bu atölyede ele alınan senaryolar ve fikirler yalnızca bu odada kalmaz — başkaları için Deepfake Savunma Kiti'ni 
+Bu atölyede ele alınan senaryolar ve fikirler yalnızca bu odada kalmaz,  başkaları için Deepfake Savunma Kiti'ni 
 güçlendirmeye yardımcı olabilir. Oturumun sonunda, grubun bugünkü ipuçları, stratejiler veya ifadelerden herhangi 
 birini paylaşmaya rahat olup olmadığını soracağız. Hiçbir şey herkesin onayı olmadan alınmayacak ve paylaşılan tüm 
 katkılar anonim hale getirilecektir. Yalnızca bir kişi bile paylaşmamayı tercih ederse, bu seçimi tamamen saygı 
@@ -125,7 +125,7 @@ Bir gönüllü, bir suçu ‘itiraf eden’ bir kamu figürünün şok edici bir
 
 **Deepfake nedir?**
 
-Gerçek görünen ama aldatmak için değiştirilmiş veya tamamen üretilmiş sentetik medya — videolar, ses kayıtları veya görseller. Şiddet uygulayanlar bunları aşağılamak, kontrol etmek veya itibar zedelemek için kullanır.
+Gerçek görünen ama aldatmak için değiştirilmiş veya tamamen üretilmiş sentetik medya,  videolar, ses kayıtları veya görseller. Şiddet uygulayanlar bunları aşağılamak, kontrol etmek veya itibar zedelemek için kullanır.
 
 **Nerelerde karşınıza çıkar**
 

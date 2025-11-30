@@ -12,26 +12,27 @@ translationKey: "lab"
 description: "Practical guides for setting up private, resilient tools in shelters or community spaces."
 ---
 
-These labs are designed for people working on the front lines of support. That includes shelters and safe houses 
-helping clients stay digitally safe, legal aid workers building cases, and technically minded advocates offering 
-digital support. It can also be used by survivors directly on an extra PC.
+Shelter Security Stack is a practical toolkit for domestic violence shelters working with survivors of tech-enabled 
+abuse. We know resources are tight—maybe you've got an old computer gathering dust and hopefully a Raspberry Pi. 
+That's enough. This project helps you set up stalkerware detection without needing a tech background or expensive 
+equipment. Using free, open-source tools, you can check clients' phones for spyware, block tracking domains across 
+your shelter network, and collect evidence that holds up in court. Everything is designed around one principle: a 
+survivor's safety comes first, always. The technology serves the person, not the other way round.
 
-The SIEM Stack helps uncover signs of digital surveillance—whether that’s stalkerware, remote access, or hidden 
-tracking tools. It can show if someone is accessing a device without permission, support safe evidence collection 
-if needed, and guide survivors through steps to secure their tech. 
+We're actively building this together with advocates, survivors, and technologists who understand that detecting 
+stalkerware is only half the battle—the other half is doing it safely, with clear protocols for what happens 
+when you find something. The documentation lives in our wiki in English, and we hope to get around to 
+translations soon. It explains everything in plain language: how to analyse Android and iOS devices, what to look 
+for, how to preserve evidence properly, and crucially, when not to remove stalkerware because doing so could put 
+someone in danger. We're learning as we go, updating based on real-world use, and we'd love your input. 
 
-The systems are built to be privacy-respecting from the ground up, with all logs encrypted and anonymised to meet 
-data protection laws.
+<p>
+  <a href="../../contact">If you work in a shelter, support survivors, or have insights to share, please contact us.</a>
+</p>
 
-It uses open-source tools originally built for cybersecurity teams, and adapts it for survivor support. You don’t 
-need to be a tech expert. The systems come with setup scripts, checklists, and guides for identifying threats and 
-responding safely. It is designed for real-world use—including in places without big budgets or in-house IT teams.
-
-These SIEM stacks are currently under active development. That means things may change rapidly—features may shift, 
-integrations may break, and some configurations are still experimental or untested in production environments. We 
-are actively expanding documentation, adding sample configurations, and refining log correlation strategies across 
-Zeek, Suricata, Sysmon, and Linux endpoints. Contributions, corrections, and field-tested improvements are most 
-welcome.
+* Github reposirory: https://github.com/ninabarzh/shelter-security-stack
+* Project Wiki & Documentation: https://github.com/ninabarzh/shelter-security-stack/wiki
+* Status: Actively developing | Contributions welcome
 
 
 

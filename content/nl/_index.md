@@ -1,6 +1,6 @@
 ---
 title: Power On
-description: Workshops, tools en handleidingen om apparaten te beveiligen, surveillance te omzeilen en autonomie te herwinnen — vooral voor slachtoffers van tech-ondersteund misbruik. Open-source. Meertalig. Door de gemeenschap gebouwd.
+description: Workshops, tools en handleidingen om apparaten te beveiligen, surveillance te omzeilen en autonomie te herwinnen,  vooral voor slachtoffers van tech-ondersteund misbruik. Open-source. Meertalig. Door de gemeenschap gebouwd.
 ---
 
 {{% blocks/cover image="featured_background.jpg" image_anchor="top" height="full" %}}

@@ -14,7 +14,7 @@ menu:
 translationKey: "make-deepfake"
 ---
 
-Esta guía explica cómo crear clips **reales** y **falsificados** para actividades de capacitación en refugios o talleres. Solo para uso educativo — no para bromas en redes, caos político o molestar vecinos.
+Esta guía explica cómo crear clips **reales** y **falsificados** para actividades de capacitación en refugios o talleres. Solo para uso educativo,  no para bromas en redes, caos político o molestar vecinos.
 
 Puedes hacerlo en:
 
@@ -58,7 +58,7 @@ ffmpeg -i input.mp4 -ss 00:00:01 -to 00:00:29 -c copy recortado.mp4
 * Ve a [DeepBrain AI Studios](https://www.aistudios.com/)
 * Crea una cuenta gratuita (uso limitado)
 * Sube un guión y elige un rostro (o crea un clon)
-* Genera un clip — normalmente en menos de un minuto
+* Genera un clip,  normalmente en menos de un minuto
 * Descarga el video (MP4)
 
 #### Opción 2: HeyGen
@@ -133,7 +133,7 @@ Existe una versión para Linux, aunque está menos documentada y requiere más a
 * **3 a 4 clips falsos**, generados de los mismos o similares guiones
 * Opcional: **Un clip combinado** donde solo parte está alterada (ej. voz vs rostro)
 
-Usa iluminación y tono consistentes para que las diferencias sean sutiles — esto hace el juego de detección más desafiante (y divertido).
+Usa iluminación y tono consistentes para que las diferencias sean sutiles,  esto hace el juego de detección más desafiante (y divertido).
 
 ## Privacidad y ética
 

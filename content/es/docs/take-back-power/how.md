@@ -11,7 +11,7 @@ description: "Formas discretas y seguras de recopilar y preservar evidencia digi
 ---
 
 Ante el abuso tecnológico, no siempre puedes probarlo en el momento.  
-Pero la evidencia —si se recopila con cuidado— se convierte en poder. Ayuda con protección legal, vivienda, servicios de apoyo, o simplemente *que te crean*.
+Pero la evidencia, si se recopila con cuidado— se convierte en poder. Ayuda con protección legal, vivienda, servicios de apoyo, o simplemente *que te crean*.
 
 Esta guía explica métodos calmados y de bajo riesgo para recolectar evidencia digital.
 
@@ -22,7 +22,7 @@ Las buenas capturas cuentan una historia. Tómalas *en contexto*:
 - **Incluye:**
   - Hora y fecha (ej. barra superior del teléfono/computadora)
   - Remitente o fuente (quién hizo qué)
-  - La acción o mensaje completo — *sin recortar*
+  - La acción o mensaje completo,  *sin recortar*
 
 - **Mejores momentos:**
   - Cuando editan/borran mensajes
@@ -35,7 +35,7 @@ Las buenas capturas cuentan una historia. Tómalas *en contexto*:
 
 ## Registros de metadatos, historial de navegación y datos de apps
 
-El rastro digital que no ves —hasta que lo necesitas.
+El rastro digital que no ves, hasta que lo necesitas.
 
 - **Historial de navegación:**
   - Muestra patrones de acceso, enlaces visitados, intentos de login
@@ -57,7 +57,7 @@ Guarda registros como PDF, CSV o HTML cuando sea posible. Enviártelos por email
 
 ## Grabaciones de voz y registro de patrones
 
-A veces el abuso no es digital —solo *usa* tecnología. Tus propias palabras pueden ser evidencia.
+A veces el abuso no es digital, solo *usa* tecnología. Tus propias palabras pueden ser evidencia.
 
 - **Notas de voz:**
   - Graba observaciones después de incidentes ("Hoy encontré…")
@@ -75,7 +75,7 @@ No te preocupes por que suene "oficial". Solo que sea real.
 
 ## Verificación por terceros (encabezados de email, IPs, otros)
 
-Si alguien alega que hiciste algo en línea —necesitarás más que tu palabra.
+Si alguien alega que hiciste algo en línea, necesitarás más que tu palabra.
 
 - **Encabezados de email:**
   - Muestran *quién* envió un mensaje, *desde dónde*, usando *qué servicio*
@@ -110,6 +110,6 @@ Evita usar dispositivos compartidos para evidencia sensible a menos que *sepas* 
 
 ## Una nota
 
-No necesitas probar todo de una vez. Solo empezar a crear un registro —en silencio, con calma, de la manera que *a ti* te ayude.  
+No necesitas probar todo de una vez. Solo empezar a crear un registro, en silencio, con calma, de la manera que *a ti* te ayude.  
 
 Sigue: [Contramedidas técnicas →](/docs/take-back-power/counter) o vuelve a [Mapear impactos y respuestas →](/docs/take-back-power/mapping)

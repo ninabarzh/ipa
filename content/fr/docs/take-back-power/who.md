@@ -14,7 +14,7 @@ Le plus difficile avec les abus technologiques ? Savoir qui *peut vraiment aider
 
 Bonne nouvelle : certain·es *comprennent* les violences numériques. Mauvaise : ce ne sont pas les premier·ères qu’on vous recommande.
 
-Ce guide liste vos allié·es potentiel·les — et comment les approcher sans prendre de risques ou céder du pouvoir.
+Ce guide liste vos allié·es potentiel·les,  et comment les approcher sans prendre de risques ou céder du pouvoir.
 
 ## Spécialistes en sécurité numérique (en cas de malware)
 
@@ -52,7 +52,7 @@ Ce guide liste vos allié·es potentiel·les — et comment les approcher sans p
 
 ## Cliniques juridiques & défenseurs de la vie privée (preuves trafiquées)
 
-**Pourquoi :** Vous n’êtes pas juste surveillé·e — mais piégé·e. En cas de faux messages, captures modifiées ou menaces légales, il faut des expert·es.
+**Pourquoi :** Vous n’êtes pas juste surveillé·e,  mais piégé·e. En cas de faux messages, captures modifiées ou menaces légales, il faut des expert·es.
 
 **Quand :**
 
@@ -65,7 +65,7 @@ Ce guide liste vos allié·es potentiel·les — et comment les approcher sans p
 - « Pouvez-vous m’aider à sauvegarder ou contester des preuves numériques ? »
 - « Quelqu’un peut-il expliquer les abus technologiques à un·e juge ? »
 
-**Ne rien supprimer** — même si ça semble compromettant. Archivez en sécurité et faites valider votre version.
+**Ne rien supprimer**,  même si ça semble compromettant. Archivez en sécurité et faites valider votre version.
 
 ## Technicien·nes de confiance : quoi demander (ou pas)
 
@@ -82,9 +82,9 @@ Ce guide liste vos allié·es potentiel·les — et comment les approcher sans p
 - « Peux-tu nettoyer cet appareil et vérifier ce qui est installé ? »
 - « Qu’est-ce qui se synchronise entre ces appareils/comptes ? »
 
-**Ne pas présumer :** Qu’iels comprennent les tactiques d’agresseurs. Leurs solutions pourraient aggraver les choses (ex. alerter l’agresseur). Donnez du contexte si sûr — et contestez ce qui semble risqué.
+**Ne pas présumer :** Qu’iels comprennent les tactiques d’agresseurs. Leurs solutions pourraient aggraver les choses (ex. alerter l’agresseur). Donnez du contexte si sûr,  et contestez ce qui semble risqué.
 
-## Limites de la police & justice — attentes réalistes
+## Limites de la police & justice,  attentes réalistes
 
 **Pourquoi :** Les autorités peuvent aider *ou* nuire. Des attentes claires évitent des déceptions.
 
@@ -92,7 +92,7 @@ Ce guide liste vos allié·es potentiel·les — et comment les approcher sans p
 
 - Délivrer des ordonnances de protection  
 - Enquêter sur l’usurpation ou menaces numériques (*si* bien documentées)  
-- Travailler avec des preuves numériques — *si* présentées clairement  
+- Travailler avec des preuves numériques,  *si* présentées clairement  
 
 **Ce qu’elles ne font souvent PAS :**
 
@@ -110,7 +110,7 @@ Ce guide liste vos allié·es potentiel·les — et comment les approcher sans p
 
 Vous n’êtes pas obligé·e de faire ça seul·e. Mais vous *choisissez* qui croire et quand.  
 
-Commencez petit — une ou deux personnes qui vous croient, comprennent assez et n’aggravent rien.  
+Commencez petit,  une ou deux personnes qui vous croient, comprennent assez et n’aggravent rien.  
 Puis élargissez. En sécurité. Stratégiquement. À vos termes.  
 
 À suivre : [Par où commencer →](/docs/take-back-power/what)

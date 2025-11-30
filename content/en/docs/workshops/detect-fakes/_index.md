@@ -17,7 +17,7 @@ translationKey: "deepfake-defence"
 
 **Duration**: 90 minutes (adaptable)
 
-Deepfakes are not just a tech curiosity. In the wrong hands, they are used to harass, discredit, or isolate people — 
+Deepfakes are not just a tech curiosity. In the wrong hands, they are used to harass, discredit, or isolate people,  
 especially survivors of abuse. This session arms participants with the confidence to spot digital manipulation, 
 respond calmly, and help others do the same.
 
@@ -26,7 +26,7 @@ respond calmly, and help others do the same.
 * A clear understanding of what deepfakes are and how they are misused in abuse and coercive control
 * Practical tools to detect fake video, audio, and images
 * Real-world strategies for responding safely when synthetic media is used as a weapon
-* A printed checklist of red flags and steps to take — something to keep, share, or pass along
+* A printed checklist of red flags and steps to take,  something to keep, share, or pass along
 
 ## What you will need
 
@@ -47,7 +47,7 @@ respond calmly, and help others do the same.
 * Abusers may use them to fabricate revenge porn, false confessions, threats, or humiliating footage.
 * Not all deepfakes are malicious, but in abusive contexts they can escalate fear, confusion, and loss of trust.
 
-Analogy (optional): *“It’s like a puppet that looks like you, talks like you, and fools people into believing it *is* you — except it’s made by someone with bad intentions and spread online.”*
+Analogy (optional): *“It’s like a puppet that looks like you, talks like you, and fools people into believing it *is* you,  except it’s made by someone with bad intentions and spread online.”*
 
 ### How to spot a fake (15 minutes)
 
@@ -58,7 +58,7 @@ Note ideas, then offer a [printed checklist (example)](deepfake-response-kit/#ch
 **Common deepfake warning signs**:
 
 * Lip movements don’t match the words
-* No blinking — or too much blinking
+* No blinking,  or too much blinking
 * Lighting or shadows look ‘off’
 * Eyes look frozen or flat
 * Ears, jewellery, or hair blur or melt
@@ -69,7 +69,7 @@ Print small cards with this checklist for participants to keep.
 
 ### Spot-the-fake exercise (20 minutes)
 
-[Show 5 clips](creating-fakes.md) — a mix of real and faked content. After each one:
+[Show 5 clips](creating-fakes.md),  a mix of real and faked content. After each one:
 
 * Ask participants: *Real or fake?*
 * Vote, reveal, and discuss:
@@ -94,17 +94,17 @@ The scenario might involve:
 
 Each group discusses three questions. Then, each group shares one insight or tip with everyone.
 
-*Facilitator cue:* Normalise doubt. These tools are meant to deceive. There is strength in pausing and checking — not reacting fast.
+*Facilitator cue:* Normalise doubt. These tools are meant to deceive. There is strength in pausing and checking,  not reacting fast.
 
 ### If someone uses a deepfake to target you (10 minutes)
 
 **Practical actions**:
 
-* Take a breath — you are not alone, and this can be handled
+* Take a breath,  you are not alone, and this can be handled
 * Save the evidence (video, screenshot, link)
 * Write down when and where you saw it
 * Report it on the platform (abuse of synthetic media is banned on most)
-* Get support — legal, emotional, digital
+* Get support,  legal, emotional, digital
 * Do **not** confront the person behind it alone
 
 Encourage contacting a support worker before taking steps.

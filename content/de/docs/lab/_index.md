@@ -12,12 +12,14 @@ translationKey: "lab"
 description: "Praktische Anleitungen zum Aufbau privater, widerstandsfähiger Tools in Unterkünften oder Gemeinschaftsräumen."
 ---
 
-Diese Labore sind für Personen konzipiert, die an vorderster Front der Unterstützung arbeiten. Dazu gehören Schutzräume und sichere Unterkünfte, die Klientinnen und Klienten helfen, digital sicher zu bleiben, Rechtsberatende, die Fälle vorbereiten, und technisch versierte Unterstützende, die digitale Hilfe anbieten. Die Labore können auch direkt von Überlebenden auf einem zusätzlichen PC genutzt werden.
+Der *Shelter Security Stack* ist ein praktisches Toolkit für Frauenhäuser und andere Einrichtungen, die mit Betroffenen technologiegestützter Gewalt arbeiten. Wir wissen, dass die Ressourcen knapp sind – vielleicht steht irgendwo ein alter Computer herum und hoffentlich ein Raspberry Pi. Das reicht aus. Dieses Projekt hilft Ihnen, Stalkerware zu erkennen, ohne technisches Hintergrundwissen oder teure Geräte zu benötigen. Mit kostenlosen Open-Source-Werkzeugen können Sie die Handys von Klientinnen auf Spyware prüfen, Tracking-Domains im Netzwerk blockieren und gerichtsverwertbare Beweise sichern. Alles basiert auf einem Grundsatz: Die Sicherheit der betroffenen Person steht immer an erster Stelle. Die Technik dient dem Menschen, nicht umgekehrt.
 
-Der SIEM-Stack hilft bei der Aufdeckung von digitaler Überwachung - sei es Stalkerware, Fernzugriff oder versteckte Tracking-Tools. Er zeigt unbefugte Zugriffe auf Geräte an, unterstützt die sichere Beweissicherung und führt Überlebende durch die notwendigen Schritte zur Absicherung ihrer Technik.
+Wir entwickeln dies gemeinsam mit Fachkräften, Betroffenen und Technikerinnen, die verstehen, dass Stalkerware zu erkennen nur die halbe Arbeit ist – die andere Hälfte besteht darin, dies sicher zu tun, mit klaren Abläufen für den Fall, dass man etwas findet. Die Dokumentation befindet sich derzeit auf Englisch in unserem Wiki, und wir hoffen, bald zu Übersetzungen zu kommen. Sie erklärt alles in einfacher Sprache: wie man Android- und iOS-Geräte analysiert, worauf zu achten ist, wie Beweise korrekt gesichert werden und vor allem, wann man Stalkerware *nicht* entfernen sollte, weil dies jemanden in Gefahr bringen könnte. Wir lernen ständig dazu, aktualisieren anhand realer Erfahrungen und freuen uns über Rückmeldungen.
 
-Die Systeme sind von Grund auf datenschutzkonform entwickelt, mit durchgehender Verschlüsselung und Anonymisierung aller Logs gemäß Datenschutzbestimmungen.
+<p>
+  <a href="../../contact">Wenn Sie in einer Schutzunterkunft arbeiten, Betroffene unterstützen oder Erfahrungen teilen möchten, kontaktieren Sie uns bitte.</a>
+</p>
 
-Es kommen Open-Source-Tools zum Einsatz, die ursprünglich für Sicherheitsteams entwickelt wurden, aber für die Unterstützung von Überlebenden angepasst wurden. Technische Vorkenntnisse sind nicht erforderlich. Die Systeme enthalten Installationsskripte, Checklisten und Anleitungen zur Bedrohungserkennung und sicheren Reaktion. Sie sind für den praktischen Einsatz konzipiert - auch an Orten mit begrenztem Budget oder ohne eigenes IT-Team.
-
-Diese SIEM-Stacks befinden sich in aktiver Entwicklung. Funktionen können sich ändern, Integrationen möglicherweise nicht funktionieren, und einige Konfigurationen sind noch experimentell oder nicht produktiv getestet. Wir arbeiten kontinuierlich an der Dokumentation, fügen Beispielkonfigurationen hinzu und verbessern die Log-Korrelation für Zeek, Suricata, Sysmon und Linux-Endpoints. Beiträge, Korrekturen und praxiserprobte Verbesserungen sind sehr willkommen.
+* GitHub-Repository: [https://github.com/ninabarzh/shelter-security-stack](https://github.com/ninabarzh/shelter-security-stack)
+* Projekt-Wiki & Dokumentation: [https://github.com/ninabarzh/shelter-security-stack/wiki](https://github.com/ninabarzh/shelter-security-stack/wiki)
+* Status: Aktive Entwicklung | Beiträge willkommen

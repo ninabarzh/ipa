@@ -44,7 +44,7 @@ Dramatik sinyallerden kaçının. Sıradan görünsün.
 
 Bazen ana telefon güvenli değildir. Sessiz bir yedek, izolasyon ve bağlantı arasındaki fark olabilir.
 
-1. Basit bir cihaz seçin. Temel bir akıllı telefon veya klasik bir "aptal" telefon bile iş görür. Peşin alın — ikinci el uygundur, yeter ki sıfırlayın.
+1. Basit bir cihaz seçin. Temel bir akıllı telefon veya klasik bir "aptal" telefon bile iş görür. Peşin alın,  ikinci el uygundur, yeter ki sıfırlayın.
 
 2. Yeni kimlik bilgileriyle kaydedin. Yeni bir e-posta ve şifre kullanın. Eski bulut hesaplarına giriş yapmayın, temiz olduklarından emin değilseniz.
 
@@ -59,7 +59,7 @@ Sosyal medya veya bulut senkronizasyonunu tamamen atlayın.
 
 4. Kontörlü bir SIM alın (gerekirse). Bazı ülkelerde SIM'ler kimliksiz alınabilir. Değilse, sadece Wi-Fi kullanmayı ve telefonu gerekmedikçe çevrimdışı tutmayı düşünün.
 
-5. Güvenli saklayın. Kapalı ve gizli tutun. Ara sıra şarj edin. Sadece güvenli yerlerde açın. Bu sessiz kaçış yolunuzdur — günlük kullanım için değil.
+5. Güvenli saklayın. Kapalı ve gizli tutun. Ara sıra şarj edin. Sadece güvenli yerlerde açın. Bu sessiz kaçış yolunuzdur,  günlük kullanım için değil.
 
 ---
 

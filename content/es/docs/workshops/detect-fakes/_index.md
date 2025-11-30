@@ -17,14 +17,14 @@ translationKey: "deepfake-defence"
 
 **Duración**: 90 minutos (adaptable)  
 
-Los deepfakes no son solo curiosidades tecnológicas. En manos equivocadas, se usan para acosar, desacreditar o aislar a personas — especialmente a sobrevivientes de abuso. Esta sesión brinda herramientas para identificar manipulación digital, responder con calma y ayudar a otros.  
+Los deepfakes no son solo curiosidades tecnológicas. En manos equivocadas, se usan para acosar, desacreditar o aislar a personas,  especialmente a sobrevivientes de abuso. Esta sesión brinda herramientas para identificar manipulación digital, responder con calma y ayudar a otros.  
 
 ## Lo que aprenderán los participantes  
 
 * Qué son los deepfakes y cómo se usan en abuso y control coercitivo  
 * Herramientas prácticas para detectar videos, audios e imágenes falsos  
 * Estrategias para responder cuando se usan medios sintéticos como arma  
-* Una lista impresa de señales de alerta y pasos a seguir — algo para guardar, compartir o pasar  
+* Una lista impresa de señales de alerta y pasos a seguir,  algo para guardar, compartir o pasar  
 
 ## Materiales necesarios  
 

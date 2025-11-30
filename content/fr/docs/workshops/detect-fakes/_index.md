@@ -17,7 +17,7 @@ translationKey: "deepfake-defence"
 
 **Durée**: 90 minutes (adaptable)  
 
-Les deepfakes ne sont pas qu’une curiosité technologique. Utilisés à mauvais escient, ils harcèlent, discréditent ou isolent — surtout les survivant·es de violences. Cet atelier apprend à identifier les manipulations, réagir calmement et aider les autres.  
+Les deepfakes ne sont pas qu’une curiosité technologique. Utilisés à mauvais escient, ils harcèlent, discréditent ou isolent,  surtout les survivant·es de violences. Cet atelier apprend à identifier les manipulations, réagir calmement et aider les autres.  
 
 ## Ce que les participants retireront  
 

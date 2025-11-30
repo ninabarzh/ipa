@@ -10,15 +10,15 @@ menu:
 description: "Associer les effets courants des abus numériques à des stratégies réalistes pour reprendre le contrôle."
 ---
 
-Quand la technologie devient un outil de contrôle, les impacts peuvent sembler insurmontables — psychologiques, physiques, financiers, légaux, et profondément personnels.  
+Quand la technologie devient un outil de contrôle, les impacts peuvent sembler insurmontables,  psychologiques, physiques, financiers, légaux, et profondément personnels.  
 Mais à chaque forme de violence correspond une contre-stratégie possible. Ceci n’est pas une liste de solutions miracles. C’est une carte. Pour vous aider à trouver un point de départ.
 
-Ce guide détaille chaque type d’impact majeur et propose des réponses — que vous soyez encore dans la situation ou déjà sorti.  
+Ce guide détaille chaque type d’impact majeur et propose des réponses,  que vous soyez encore dans la situation ou déjà sorti.  
 Les liens vers guides pratiques et outils suivront. Pour l’instant, concentrez-vous sur regagner espace, clarté et confiance.
 
 ## Dommages psychologiques → détox numérique & soutien adapté au trauma
 
-**Ce qui se passe :** La surveillance — même sa *menace* — provoque anxiété, hypervigilance et épuisement. Doutes constants sur vos appareils, environnement et choix.
+**Ce qui se passe :** La surveillance,  même sa *menace*,  provoque anxiété, hypervigilance et épuisement. Doutes constants sur vos appareils, environnement et choix.
 
 **Stratégies :**
 
@@ -30,7 +30,7 @@ Les liens vers guides pratiques et outils suivront. Pour l’instant, concentrez
 - Soutien spécialisé :
   - Privilégiez les services violences conjugales *comprenant les abus technologiques*  
   - Consultez des thérapeutes formés aux traumas (surtout au contrôle coercitif)  
-  - Ignorez les conseils du type « change ton mot de passe » — ils ne vous visent pas  
+  - Ignorez les conseils du type « change ton mot de passe »,  ils ne vous visent pas  
 
 - Outils de clarté :
   - Tenez un registre (digital ou papier) des comportements suspects de vos appareils  
@@ -74,7 +74,7 @@ Les liens vers guides pratiques et outils suivront. Pour l’instant, concentrez
 
 - Reconstruisez un filet :
   - Si possible, alertez votre employeur sur des activités suspectes  
-  - Archivez tout impact financier — utile pour d’éventuelles procédures  
+  - Archivez tout impact financier,  utile pour d’éventuelles procédures  
 
 ## Péril juridique → collecte de preuves & calme tactique
 
@@ -92,22 +92,22 @@ Les liens vers guides pratiques et outils suivront. Pour l’instant, concentrez
   - Faites attester leur existence par un tiers (conseiller·e, assistant·e social·e)  
 
 - Ne supprimez pas trop vite :
-  - Gardez même les messages pénibles — ils contredisent les faux.  
-  - En cas de doute, sauvegardez d’abord — supprimez plus tard, en sécurité.  
+  - Gardez même les messages pénibles,  ils contredisent les faux.  
+  - En cas de doute, sauvegardez d’abord,  supprimez plus tard, en sécurité.  
 
 - Alliés experts :
   - Contactez des cliniques juridiques, associations tech ou services violences formés au numérique  
-  - N’attendez pas que police ou justice comprennent d’eux-mêmes — fournissez des *explications*  
+  - N’attendez pas que police ou justice comprennent d’eux-mêmes,  fournissez des *explications*  
 
 ## Perte d’autonomie → frontières & reset digital
 
-**Ce qui se passe :** L’abus technologique ronge l’indépendance. Même après la séparation, les routines restent marquées par la manipulation passée — vos déplacements, apps utilisées ou évitées.
+**Ce qui se passe :** L’abus technologique ronge l’indépendance. Même après la séparation, les routines restent marquées par la manipulation passée,  vos déplacements, apps utilisées ou évitées.
 
 **Stratégies :**
 
 - Reprenez vos habitudes :
   - Optez pour de nouvelles plateformes non compromises (email, agenda, listes)  
-  - Séparez-vous des comptes partagés — même si c’est contraignant  
+  - Séparez-vous des comptes partagés,  même si c’est contraignant  
   - Choisissez en conscience les outils *qui vous correspondent*  
 
 - Fixez des limites technologiques :
@@ -118,11 +118,11 @@ Les liens vers guides pratiques et outils suivront. Pour l’instant, concentrez
 - Éliminez la surveillance passive :
   - Vérifiez les objets connectés et liaisons cloud  
   - Réinitialisez ou déconnectez les appareils anciennement utilisés  
-  - Révoquez les permissions superflues — surtout caméra, micro, GPS  
+  - Révoquez les permissions superflues,  surtout caméra, micro, GPS  
 
 ## Un mot sur cette section
 
-Ces stratégies visent à vous redonner de l’air — pas à vous submerger davantage.  
+Ces stratégies visent à vous redonner de l’air,  pas à vous submerger davantage.  
 
 Commencez par le plus facile. Avancez vers le plus difficile. Et ne restez pas seul·e si possible.  
 

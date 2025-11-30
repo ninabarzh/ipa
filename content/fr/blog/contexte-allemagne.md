@@ -11,7 +11,7 @@ La Loi allemande sur la protection contre les violences (2025) agite le progrès
 
 ## Cadre légal : L'illusion de la protection  
 
-Les réformes 2025 promettent un changement radical — refuges garantis au niveau fédéral, reconnaissance des violences économiques—mais restent piégées dans les limbes bureaucratiques. Les ordonnances de protection existent en théorie, mais leur application rurale accuse 40% de retard sur les villes, créant une loterie géographique de sécurité. Si la loi évoque le contrôle coercitif, la police classe encore 27% des plaintes comme "disputes familiales", leur paperasse plus soignée que leur empathie. Même la statistique phare du féminicide (une femme tuée toutes les 28 heures) ne provoque pas d'action urgente, noyée dans des débats sur des définitions légales précises.
+Les réformes 2025 promettent un changement radical,  refuges garantis au niveau fédéral, reconnaissance des violences économiques—mais restent piégées dans les limbes bureaucratiques. Les ordonnances de protection existent en théorie, mais leur application rurale accuse 40% de retard sur les villes, créant une loterie géographique de sécurité. Si la loi évoque le contrôle coercitif, la police classe encore 27% des plaintes comme "disputes familiales", leur paperasse plus soignée que leur empathie. Même la statistique phare du féminicide (une femme tuée toutes les 28 heures) ne provoque pas d'action urgente, noyée dans des débats sur des définitions légales précises.
 
 ## Contradictions culturelles : Recyclage plutôt que réforme  
 
@@ -30,7 +30,7 @@ Des réseaux clandestins réécrivent le scénario. Des collectifs féministes g
 1. L'appel au Hilfetelefon n'apparaît pas sur la facture (mais utilisez une cabine en cas de doute)
 2. Les ordonnances de protection valent la peine, même si leur application dépend du Land
 3. Des services spécialisés existent, si vous survivez à la paperasse
-4. Votre médecin traitant peut être un allié — les bons écoutent vraiment entre deux arrêts maladie
+4. Votre médecin traitant peut être un allié,  les bons écoutent vraiment entre deux arrêts maladie
 5. Les employeurs sont légalement tenus de soutenir les survivantes (en théorie)
 
 ## Ressources utiles
@@ -42,4 +42,4 @@ Des réseaux clandestins réécrivent le scénario. Des collectifs féministes g
 
 ## La voie à suivre  
 
-Le calendrier allemand de sept ans n'est pas juste lent — c'est de la violence par tableau Excel. Le vrai changement exige dès aujourd'hui des juges formés aux traumatismes, un financement immédiat des refuges, et des amendes horaires aux géants tech tant que les contenus violents persistent. Aux décideurs : Vos retards coûtent des vies, pas juste des votes. Aux survivantes : Les fissures du système laissent entrer la lumière—et notre collectif grandit. 💜
+Le calendrier allemand de sept ans n'est pas juste lent,  c'est de la violence par tableau Excel. Le vrai changement exige dès aujourd'hui des juges formés aux traumatismes, un financement immédiat des refuges, et des amendes horaires aux géants tech tant que les contenus violents persistent. Aux décideurs : Vos retards coûtent des vies, pas juste des votes. Aux survivantes : Les fissures du système laissent entrer la lumière—et notre collectif grandit. 💜

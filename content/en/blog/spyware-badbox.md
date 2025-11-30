@@ -11,19 +11,19 @@ You throw away a dodgy old tablet, buy a shiny “new” Android phone, and brea
 
 Except it is not.
 
-[Meet BadBox](https://www.humansecurity.com/learn/blog/satori-threat-intelligence-disruption-badbox-2-0/) — the cheerful codename for a sprawling cyber‑espionage operation that bakes malware directly into 
+[Meet BadBox](https://www.humansecurity.com/learn/blog/satori-threat-intelligence-disruption-badbox-2-0/), the cheerful codename for a sprawling cyber‑espionage operation that bakes malware directly into 
 Android devices *before they leave the factory*. These are not suspicious market‑stall specials. Many are sold 
 through trusted online retailers and big‑name platforms. Thousands have arrived in Europe, usually as “budget” 
 tablets, phones, or streaming boxes.
 
 ## Why BadBox is relevant to device replacement
 
-The malware, politely known as **Guerrilla**, sits deep in the firmware — below the level where most people (or 
+The malware, politely known as **Guerrilla**, sits deep in the firmware,  below the level where most people (or 
 antivirus software) can even see it. It can install apps silently, spy on users, serve targeted phishing, or rent 
 your device out to someone else entirely. It is modular, so more capabilities can be added at any time.
 
-BadBox is not a single piece of malware but an entire criminal ecosystem. It is run by several interlinked groups — 
-including SalesTracker, MoYu, Lemon, and LongTV — who have carved up the work between them. Some run the 
+BadBox is not a single piece of malware but an entire criminal ecosystem. It is run by several interlinked groups,  
+including SalesTracker, MoYu, Lemon, and LongTV, who have carved up the work between them. Some run the 
 command‑and‑control infrastructure, others develop the firmware‑level backdoor itself, while others monetise 
 infected devices through ad fraud, residential proxy networks, and automated scams. What unites them is that the 
 malware is baked in before the device reaches the user, meaning the compromise starts the moment you open the box.
@@ -31,7 +31,7 @@ malware is baked in before the device reaches the user, meaning the compromise s
 So far, the primary driver has been money, not surveillance-for-hire. Most BadBox infections are exploited for click 
 fraud, fake ad impressions, and selling anonymous network traffic to other actors. But the architecture is modular, 
 and the groups involved have a proven habit of renting or selling capabilities. In other words: if someone wanted to 
-adapt this platform for stalking, targeted spying, or data theft, they could — without having to reinvent the wheel.
+adapt this platform for stalking, targeted spying, or data theft, they could, without having to reinvent the wheel.
 
 That is why BadBox matters to device replacement. It is not that survivors are being directly targeted by these groups 
 today; it is that the infrastructure and techniques are already in place, and the wrong buyer could weaponise them 

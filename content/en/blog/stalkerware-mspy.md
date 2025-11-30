@@ -13,19 +13,19 @@ In the vast marketplace of surveillance tools masquerading as safety features, m
 
 At its core, mSpy is spyware. It is software that, once installed on a device, provides the person with access to a disturbing amount of data. It works on Android and iOS devices, though its features differ slightly depending on the level of access and whether the device has been jailbroken.
 
-Once installed—typically requiring brief physical access to the target device—it runs invisibly in the background. It does not notify the user that their movements, conversations, and online interactions are being tracked. All data is uploaded to a central dashboard, which the “monitoring” party can access via their own device.
+Once installed, typically requiring brief physical access to the target device, it runs invisibly in the background. It does not notify the user that their movements, conversations, and online interactions are being tracked. All data is uploaded to a central dashboard, which the “monitoring” party can access via their own device.
 
 This dashboard provides logs of SMS messages, call history, keystrokes, browsing history, email, calendar entries, and more. It also allows for geofencing: the creation of virtual boundaries, triggering alerts when the monitored device crosses them. Because nothing says “trust” like a digital ankle bracelet.
 
 ## Plausible deniability, thinly veiled
 
-mSpy and its ilk often claim to be tools for responsible parenting or employee oversight. However, the reality on the ground—especially in contexts involving intimate partner abuse—is less noble. These tools are frequently used to monitor, control, and intimidate. The marketing language may aim at anxious parents, but the technology is all too easily repurposed by abusive partners.
+mSpy and its ilk often claim to be tools for responsible parenting or employee oversight. However, the reality on the ground, especially in contexts involving intimate partner abuse, is less noble. These tools are frequently used to monitor, control, and intimidate. The marketing language may aim at anxious parents, but the technology is all too easily repurposed by abusive partners.
 
 Indeed, the company explicitly notes in its fine print that the purchaser must either own the device being monitored or obtain “consent.” It then helpfully offers extensive tutorials on how to install it undetected. There is something rather telling in a business model that relies on a legal disclaimer in one breath and a stealth mode toggle in the next.
 
 ## Implications for survivors
 
-For survivors of coercive control and digital abuse, mSpy is not a theoretical threat. It is often already present, quietly watching and reporting every step. The victim may not even be aware that it is running. The only clue might be an uncanny sense that the abuser knows too much—locations, messages, or private thoughts shared only through supposedly secure devices.
+For survivors of coercive control and digital abuse, mSpy is not a theoretical threat. It is often already present, quietly watching and reporting every step. The victim may not even be aware that it is running. The only clue might be an uncanny sense that the abuser knows too much, locations, messages, or private thoughts shared only through supposedly secure devices.
 
 The presence of such software complicates everything. Safety planning becomes more difficult. Contacting support organisations, searching for help, or even turning off a phone can be detected. The act of escaping surveillance becomes an act that triggers more danger.
 
@@ -33,9 +33,9 @@ The presence of such software complicates everything. Safety planning becomes mo
 
 Detecting mSpy is not straightforward. On Android devices, one might find suspicious apps hidden under innocuous names or discover unexpected battery drain or data usage. On iPhones, unless jailbroken, it relies on iCloud access, meaning that changing iCloud credentials and enabling two-factor authentication can help mitigate the threat.
 
-Removing it may require professional assistance. A full factory reset is often the most reliable solution, but this comes with its own difficulties—particularly when the device is not fully under the survivor’s control or if data needs to be preserved as evidence.
+Removing it may require professional assistance. A full factory reset is often the most reliable solution, but this comes with its own difficulties, particularly when the device is not fully under the survivor’s control or if data needs to be preserved as evidence.
 
-In shelter contexts or support organisations, assuming the possibility of spyware like mSpy is unfortunately a wise default. Devices should be treated with caution, and any unexpected behaviour—a screen waking up on its own, battery anomalies, or the abuser seeming preternaturally well-informed—should prompt further investigation.
+In shelter contexts or support organisations, assuming the possibility of spyware like mSpy is unfortunately a wise default. Devices should be treated with caution, and any unexpected behaviour, a screen waking up on its own, battery anomalies, or the abuser seeming preternaturally well-informed, should prompt further investigation.
 
 ## The broader picture
 
@@ -172,4 +172,4 @@ We might also want a high-level rule that combines multiple weak signals into a 
 }
 ```
 
-*This meta-rule gives support teams a heads-up that **this is no ordinary malware**—there could be a control situation in progress.*
+*This meta-rule gives support teams a heads-up that **this is no ordinary malware**, there could be a control situation in progress.*

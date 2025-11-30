@@ -12,12 +12,14 @@ translationKey: "lab"
 description: "Guías prácticas para configurar herramientas privadas y resilientes en refugios o espacios comunitarios."
 ---
 
-Estos laboratorios están diseñados para personas que trabajan en primera línea de apoyo, incluyendo refugios y casas seguras que ayudan a clientes a mantenerse seguros digitalmente, personal de asistencia legal que prepara casos, y personas defensoras con conocimientos técnicos que ofrecen apoyo digital. También pueden ser usados directamente por supervivientes en un ordenador adicional.
+*Shelter Security Stack* es un conjunto de herramientas prácticas para refugios que trabajan con personas supervivientes de violencia facilitada por la tecnología. Sabemos que los recursos son limitados: tal vez tenga un ordenador viejo acumulando polvo y, con suerte, una Raspberry Pi. Eso basta. Este proyecto le ayuda a configurar herramientas de detección de stalkerware sin necesidad de experiencia técnica ni equipos caros. Con herramientas gratuitas y de código abierto, puede revisar teléfonos en busca de spyware, bloquear dominios de rastreo en la red del refugio y recopilar pruebas válidas ante un tribunal. Todo está diseñado con un principio fundamental: la seguridad de la persona superviviente va siempre primero. La tecnología está al servicio de la persona, nunca al revés.
 
-El sistema SIEM ayuda a descubrir señales de vigilancia digital - ya sea stalkerware, acceso remoto o herramientas de rastreo ocultas. Puede mostrar accesos no autorizados a dispositivos, apoyar en la recolección segura de pruebas y guiar a supervivientes en los pasos para asegurar sus dispositivos.
+Estamos desarrollando esto conjuntamente con profesionales, personas supervivientes y especialistas que comprenden que detectar stalkerware es solo la mitad del trabajo; la otra mitad consiste en hacerlo de manera segura, con protocolos claros para cuando se encuentra algo. La documentación está en inglés en nuestro wiki, y esperamos traducirla pronto. Explica todo en un lenguaje sencillo: cómo analizar dispositivos Android e iOS, qué señales buscar, cómo preservar correctamente las pruebas y, lo más importante, cuándo *no* eliminar el stalkerware porque podría poner a alguien en peligro. Seguimos aprendiendo, actualizamos según la experiencia real y agradeceríamos sus aportaciones.
 
-Los sistemas están diseñados respetando la privacidad desde su base, con todos los registros encriptados y anonimizados para cumplir con las leyes de protección de datos.
+<p>
+  <a href="../../contact">Si trabaja en un refugio, apoya a supervivientes o desea compartir conocimientos, póngase en contacto con nosotros.</a>
+</p>
 
-Utiliza herramientas de código abierto originalmente creadas para equipos de ciberseguridad, adaptadas para el apoyo a supervivientes. No se requieren conocimientos técnicos avanzados. Los sistemas incluyen scripts de configuración, listas de verificación y guías para identificar amenazas y responder de forma segura. Están diseñados para uso real - incluso en lugares con presupuestos limitados o sin equipos de TI internos.
-
-Estos sistemas SIEM están en desarrollo activo. Las características pueden cambiar rápidamente, las integraciones pueden fallar, y algunas configuraciones siguen siendo experimentales o no probadas en entornos productivos. Estamos ampliando constantemente la documentación, añadiendo configuraciones de ejemplo y mejorando las estrategias de correlación de registros para Zeek, Suricata, Sysmon y sistemas Linux. Son bienvenidas contribuciones, correcciones y mejoras validadas en campo.
+* Repositorio de GitHub: [https://github.com/ninabarzh/shelter-security-stack](https://github.com/ninabarzh/shelter-security-stack)
+* Wiki y documentación del proyecto: [https://github.com/ninabarzh/shelter-security-stack/wiki](https://github.com/ninabarzh/shelter-security-stack/wiki)
+* Estado: Desarrollo activo | Se aceptan contribuciones

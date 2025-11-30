@@ -17,7 +17,7 @@ translationKey: "about"
 <p><br></p>
 
 <p>
-Power On es una iniciativa colectiva para ayudar a las personas a recuperar el control de sus vidas digitales — especialmente cuando ese control ha sido arrebatado por abuso, vigilancia o coerción.  
+Power On es una iniciativa colectiva para ayudar a las personas a recuperar el control de sus vidas digitales ,  especialmente cuando ese control ha sido arrebatado por abuso, vigilancia o coerción.  
 </p>
 
 {{% /blocks/cover %}}

@@ -10,7 +10,7 @@ menu:
 description: "Dijital istismarın yaygın etkilerini, kontrolü geri almak için gerçekçi stratejilerle eşleştirin."
 ---
 
-Teknoloji bir kontrol aracı olarak kullanıldığında, etkileri bunaltıcı olabilir — psikolojik, fiziksel, finansal, yasal ve derinden kişisel.  
+Teknoloji bir kontrol aracı olarak kullanıldığında, etkileri bunaltıcı olabilir,  psikolojik, fiziksel, finansal, yasal ve derinden kişisel.  
 Ancak her zarar türünün bir karşı stratejisi vardır. Bu sihirli çözümler listesi değil, bir harita. Başlangıç noktası bulmanıza yardımcı olacak bir kılavuz.
 
 Bu rehber, her ana etki türünü ele alır ve durumun içinde veya çıkmış olmanıza göre yanıt seçenekleri sunar.  
@@ -18,7 +18,7 @@ Nasıl yapılır kılavuzları ve araç bağlantıları sonraki bölümde. Şimd
 
 ## Psikolojik zarar → dijital detoks & travma duyarlı destek
 
-**Ne oluyor:** Gözetim — hatta *tehdidi* bile — kaygı, hipervijilans ve tükenmeye yol açar. Sürekli teknolojinizi, çevrenizi ve seçimlerinizi sorgularsınız.
+**Ne oluyor:** Gözetim,  hatta *tehdidi* bile,  kaygı, hipervijilans ve tükenmeye yol açar. Sürekli teknolojinizi, çevrenizi ve seçimlerinizi sorgularsınız.
 
 **Stratejiler:**
 
@@ -30,7 +30,7 @@ Nasıl yapılır kılavuzları ve araç bağlantıları sonraki bölümde. Şimd
 - Travma duyarlı destek:
   - *Teknoloji istismarını anlayan* şiddet hizmetleri arayın  
   - Travma bilgili terapistleri (özellikle zorlayıcı kontrolü bilen) düşünün  
-  - "Sadece şifreni değiştir" diyenleri görmezden gelin — onlar hedef kitleniz değil  
+  - "Sadece şifreni değiştir" diyenleri görmezden gelin,  onlar hedef kitleniz değil  
 
 - Netlik araçları:
   - Garip teknoloji davranışlarını kaydedin (dijital veya kağıt)  
@@ -74,7 +74,7 @@ Nasıl yapılır kılavuzları ve araç bağlantıları sonraki bölümde. Şimd
 
 - Destek ağı oluşturun:
   - (Güvenliyse) işvereninize şüpheli faaliyetlerden bahsedin  
-  - Finansal durumunuzu etkileyen her şeyi kaydedin — yasal veya konut işlerinde yardımcı olabilir  
+  - Finansal durumunuzu etkileyen her şeyi kaydedin,  yasal veya konut işlerinde yardımcı olabilir  
 
 ## Yasal tehlike → kanıt toplama & taktiksel sakinlik
 
@@ -92,22 +92,22 @@ Nasıl yapılır kılavuzları ve araç bağlantıları sonraki bölümde. Şimd
   - Mümkünse, kanıtların varlığını bir üçüncü şahıs (danışman, sosyal hizmet uzmanı) onaylasın  
 
 - *Silinmemesi* gerekeni bilin:
-  - Rahatsız edici mesajları bile saklayın — gerçek kayıtlar sahteleri çürütür.  
-  - Şüphe durumunda önce yedekleyin — sonra güvenle silin.  
+  - Rahatsız edici mesajları bile saklayın,  gerçek kayıtlar sahteleri çürütür.  
+  - Şüphe durumunda önce yedekleyin,  sonra güvenle silin.  
 
 - Uzman müttefikler:
   - Teknoloji deneyimli hukuk klinikleri, gizlilik örgütleri veya şiddet hizmetlerine ulaşın  
-  - Polis/mahkemelerin anlayacağını varsaymayın — *açıklamalarla* gidin  
+  - Polis/mahkemelerin anlayacağını varsaymayın,  *açıklamalarla* gidin  
 
 ## Özerklik kaybı → sınır koyma & dijital sıfırlama
 
-**Ne oluyor:** Teknoloji yoluyla istismar, bağımsızlığı kemirir. Ayrılsanız bile, geçmiş manipülasyon rutinlerinizi şekillendirir — gittiğiniz yerler, kullandığınız/kaçındığınız uygulamalar.
+**Ne oluyor:** Teknoloji yoluyla istismar, bağımsızlığı kemirir. Ayrılsanız bile, geçmiş manipülasyon rutinlerinizi şekillendirir,  gittiğiniz yerler, kullandığınız/kaçındığınız uygulamalar.
 
 **Stratejiler:**
 
 - Rutinleri geri alın:
   - Ele geçirilmemiş yeni platformlar seçin (e-posta, takvim, yapılacaklar listesi)  
-  - Paylaşılan hesapların bağlantısını kesin — zahmetli olsa bile  
+  - Paylaşılan hesapların bağlantısını kesin,  zahmetli olsa bile  
   - Hangi teknolojiye *güvendiğinize* bilinçle karar verin  
 
 - Teknoloji sınırları:
@@ -118,11 +118,11 @@ Nasıl yapılır kılavuzları ve araç bağlantıları sonraki bölümde. Şimd
 - Pasif izlemeyi sonlandırın:
   - Akıllı cihazları ve bulut bağlantılarını denetleyin  
   - Kullanılan cihazları fabrika ayarlarına döndürün veya hesapları çıkarın  
-  - Gereksiz izinleri — özellikle kamera, mikrofon, GPS — iptal edin  
+  - Gereksiz izinleri,  özellikle kamera, mikrofon, GPS,  iptal edin  
 
 ## Bu bölüm hakkında
 
-Bu stratejiler nefes aldırmak içindir — daha fazla bunaltmak değil.  
+Bu stratejiler nefes aldırmak içindir,  daha fazla bunaltmak değil.  
 
 En kolay yerden başlayın. Zora doğru ilerleyin. Ve gerekmiyorsa yalnız gitmeyin.  
 

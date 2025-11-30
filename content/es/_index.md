@@ -1,6 +1,6 @@
 ---
 title: Power On
-description: Talleres, herramientas y guías para proteger dispositivos, evadir vigilancia y reconstruir autonomía — especialmente para sobrevivientes de abuso tecnológico. Código abierto. Multilingüe. Construido por la comunidad.
+description: Talleres, herramientas y guías para proteger dispositivos, evadir vigilancia y reconstruir autonomía ,  especialmente para sobrevivientes de abuso tecnológico. Código abierto. Multilingüe. Construido por la comunidad.
 ---
 
 {{% blocks/cover image="featured_background.jpg" image_anchor="top" height="full" %}}
@@ -22,7 +22,7 @@ Código abierto. Multilingüe. Construido por la comunidad.
         <i class="fas fa-book"></i>
     </div>
     <h3>Guías prácticas</h3>
-    <p>Apoyo paso a paso para recuperar el poder digital—con calma, enfoque, una acción a la vez.</p>
+    <p>Apoyo paso a paso para recuperar el poder digital, con calma, enfoque, una acción a la vez.</p>
     <a href="docs/guias/" class="btn btn-lg btn-primary">Commencer</a>
 </div>
 {{% /blocks/feature %}}

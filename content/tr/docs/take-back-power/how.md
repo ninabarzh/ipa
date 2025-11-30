@@ -22,7 +22,7 @@ Bu rehber, dijital kanıtları sakince ve risksiz toplama yollarını gösterir.
 - **Dahil edin:**
   - Saat ve tarih (telefon/bilgisayar üst çubuğu)
   - Gönderen veya kaynak (kim ne yaptı)
-  - Mesaj/eylemin tamamı — *kırpılmamış*
+  - Mesaj/eylemin tamamı,  *kırpılmamış*
 
 - **En iyi zamanlar:**
   - Mesajlar düzenlendiğinde/silindiğinde
@@ -35,7 +35,7 @@ Bu rehber, dijital kanıtları sakince ve risksiz toplama yollarını gösterir.
 
 ## Metaveri kayıtları, tarayıcı geçmişi ve uygulama verileri
 
-Görmediğiniz dijital izler —ta ki ihtiyaç duyana kadar.
+Görmediğiniz dijital izler, ta ki ihtiyaç duyana kadar.
 
 - **Tarayıcı geçmişi:**
   - Erişim modellerini, ziyaret edilen bağlantıları, giriş denemelerini gösterir
@@ -57,7 +57,7 @@ Kayıtları mümkünse PDF, CSV veya HTML olarak saklayın. Kendinize e-posta at
 
 ## Ses kayıtları ve örüntü günlüğü
 
-Bazen istismar dijital değildir —sadece *teknoloji kullanır*. Kendi sözleriniz kanıt olur.
+Bazen istismar dijital değildir, sadece *teknoloji kullanır*. Kendi sözleriniz kanıt olur.
 
 - **Ses notları:**
   - Olaylar sonrası gözlemlerinizi kaydedin ("Bugün şunu buldum…")
@@ -75,7 +75,7 @@ Bazen istismar dijital değildir —sadece *teknoloji kullanır*. Kendi sözleri
 
 ## Üçüncü taraf doğrulama (e-posta başlıkları, IP'ler, diğerleri)
 
-Biri sizin adınıza bir şey yaptığını iddia ederse —sözünüz yetmez.
+Biri sizin adınıza bir şey yaptığını iddia ederse, sözünüz yetmez.
 
 - **E-posta başlıkları:**
   - Bir mesajı *kimin*, *nereden*, *hangi hizmetle* gönderdiğini gösterir
@@ -106,10 +106,10 @@ Bazı kanıt araçları keşfedilirse durumu kötüleştirebilir. Bunlar yapmaz:
   - E-posta takma adı oluşturun (örn. adınız+belgeler@proton.me)
   - Kayıtları/ekran görüntülerini özel sekmeden otomatik iletin
 
-Paylaşılan cihazlarda hassas kanıt saklamayın —*güvenli* olduğunu bilmiyorsanız.
+Paylaşılan cihazlarda hassas kanıt saklamayın, *güvenli* olduğunu bilmiyorsanız.
 
 ## Bir not
 
-Her şeyi bir anda kanıtlamanız gerekmez. Sadece bir kayıt oluşturmaya başlayın —sessizce, sakince, *size* yardımcı olacak şekilde.  
+Her şeyi bir anda kanıtlamanız gerekmez. Sadece bir kayıt oluşturmaya başlayın, sessizce, sakince, *size* yardımcı olacak şekilde.  
 
 Sonraki: [Teknik karşı önlemler →](/docs/take-back-power/counter) veya [Etkileri yanıtlarla eşleştirme →](/docs/take-back-power/mapping)

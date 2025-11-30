@@ -5,7 +5,7 @@ slug: "kit-de-defense"
 weight: 3
 _build:
   render: always
-description: "Cartes imprimables et aide-mémoire pour aider le personnel des refuges à identifier, répondre et gérer les incidents liés aux deepfakes — avec calme et pragmatisme."
+description: "Cartes imprimables et aide-mémoire pour aider le personnel des refuges à identifier, répondre et gérer les incidents liés aux deepfakes,  avec calme et pragmatisme."
 menu:
   sidebar:
     weight: 20
@@ -14,7 +14,7 @@ menu:
 translationKey: "deepfake-kit"
 ---
 
-Les scénarios et idées explorés dans cet atelier ne restent pas simplement dans cette salle — ils peuvent contribuer 
+Les scénarios et idées explorés dans cet atelier ne restent pas simplement dans cette salle,  ils peuvent contribuer 
 à renforcer le Kit de Défense contre les Deepfakes pour d'autres. À la fin de la session, nous demanderons si le 
 groupe est à l'aise pour partager certains des conseils, stratégies ou formulations d'aujourd'hui. Rien ne sera pris 
 sans l'accord de chacun·e, et toutes les contributions partagées seront anonymisées. Même si une seule personne 
@@ -125,7 +125,7 @@ Une bénévole relaie une vidéo choquante d’une personnalité publique « avo
 
 **Qu'est-ce qu'un deepfake ?**
 
-Des médias synthétiques — vidéos, audios ou images — qui paraissent réels mais ont été modifiés ou générés pour tromper. Les agresseurs les utilisent pour humilier, contrôler ou discréditer.
+Des médias synthétiques,  vidéos, audios ou images,  qui paraissent réels mais ont été modifiés ou générés pour tromper. Les agresseurs les utilisent pour humilier, contrôler ou discréditer.
 
 **Où ils apparaissent**
 

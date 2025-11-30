@@ -17,7 +17,7 @@ translationKey: "about"
 <p><br></p>
 
 <p>
-Power On is a collective initiative to help people reclaim control over their digital lives — especially when that control has been stripped away by abuse, surveillance, or coercion.
+Power On is a collective initiative to help people reclaim control over their digital lives, especially when that control has been stripped away by abuse, surveillance, or coercion.
 </p>
 
 {{% /blocks/cover %}}
@@ -34,11 +34,11 @@ learning spaces.
 
 **PowerOn is a growing toolkit for taking back tech.**
 
-We create hands-on workshops, simple guides, and DIY tools anyone can use to clean or set up a safer device, build a tech lab in a shelter, or run peer-led trainings in their own language and context. Whether it’s spotting digital traps, blocking stalkerware, or helping someone secure their phone without making things worse — PowerOn is built to support that work.
+We create hands-on workshops, simple guides, and DIY tools anyone can use to clean or set up a safer device, build a tech lab in a shelter, or run peer-led trainings in their own language and context. Whether it’s spotting digital traps, blocking stalkerware, or helping someone secure their phone without making things worse. PowerOn is built to support that work.
 
 We don’t assume trust in platforms. We don’t expect money, tech skills, or access to experts. And we don’t treat safety like a checklist.
 
-**Because survivors deserve tools that work for them — not against them.**
+**Because survivors deserve tools that work for them, not against them.**
 
 Start where it makes sense. Translate it. Break it. Make it yours. 
 

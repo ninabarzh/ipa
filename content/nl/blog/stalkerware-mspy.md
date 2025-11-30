@@ -170,4 +170,4 @@ event zeek_notice::Weird {
 }
 ```
 
-*Deze meta‑regel waarschuwt ondersteuningsteams: **dit is geen gewone malware** — mogelijk een controle‑situatie in uitvoering.*
+*Deze meta‑regel waarschuwt ondersteuningsteams: **dit is geen gewone malware**,  mogelijk een controle‑situatie in uitvoering.*

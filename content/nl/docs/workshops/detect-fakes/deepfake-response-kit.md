@@ -5,7 +5,7 @@ slug: "verdedigingsset"
 weight: 3
 _build:
   render: always
-description: "Uit te printen kaarten en een snelle handleiding om opvangmedewerkers te helpen deepfake-incidenten te herkennen, erop te reageren en bespreekbaar te maken — kalm en praktisch."
+description: "Uit te printen kaarten en een snelle handleiding om opvangmedewerkers te helpen deepfake-incidenten te herkennen, erop te reageren en bespreekbaar te maken,  kalm en praktisch."
 menu:
   sidebar:
     weight: 20
@@ -14,7 +14,7 @@ menu:
 translationKey: "deepfake-kit"
 ---
 
-De scenario's en ideeën die in deze workshop worden besproken, blijven niet alleen binnen deze ruimte — ze kunnen 
+De scenario's en ideeën die in deze workshop worden besproken, blijven niet alleen binnen deze ruimte,  ze kunnen 
 helpen om de Deepfake verdedigingsset voor anderen te versterken. Aan het einde van de sessie zullen we vragen of de 
 groep het prettig vindt om enkele van de tips, strategieën of formuleringen van vandaag te delen. Niets wordt zonder 
 instemming van iedereen overgenomen, en alle gedeelde bijdragen worden geanonimiseerd. Zelfs als slechts één persoon 
@@ -125,7 +125,7 @@ Een vrijwilliger stuurt een schokkende video door van een bekend persoon die een
 
 **Wat is een deepfake?**
 
-Synthetische media — video's, audio of afbeeldingen — die echt lijken maar zijn aangepast of gegenereerd om te misleiden. Misdadigers gebruiken ze om te vernederen, controleren of in diskrediet te brengen.
+Synthetische media,  video's, audio of afbeeldingen,  die echt lijken maar zijn aangepast of gegenereerd om te misleiden. Misdadigers gebruiken ze om te vernederen, controleren of in diskrediet te brengen.
 
 **Waar ze opduiken**
 

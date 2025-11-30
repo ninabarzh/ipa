@@ -170,4 +170,4 @@ event zeek_notice::Weird {
 }
 ```
 
-*Esta meta‑regla brinda a los equipos de apoyo un aviso: **esto no es malware común** — podría tratarse de una situación de control encubierto.*
+*Esta meta‑regla brinda a los equipos de apoyo un aviso: **esto no es malware común**,  podría tratarse de una situación de control encubierto.*

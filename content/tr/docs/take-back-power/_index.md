@@ -13,4 +13,4 @@ menu:
 translationKey: "take-back-power"
 ---
 
-Tehdit modeli dijital istismarın nasıl işlediğini gösteriyorsa, bu bölüm alanı, özgüveni ve kontrolü adım adım geri kazanmakla ilgilidir. Harekete geçmek için teknoloji uzmanı olmanıza gerek yok. Bunlar sihirli çözümler değil — ancak güvenlik, netlik ve özerkliğe doğru sağlam adımlardır.
+Tehdit modeli dijital istismarın nasıl işlediğini gösteriyorsa, bu bölüm alanı, özgüveni ve kontrolü adım adım geri kazanmakla ilgilidir. Harekete geçmek için teknoloji uzmanı olmanıza gerek yok. Bunlar sihirli çözümler değil,  ancak güvenlik, netlik ve özerkliğe doğru sağlam adımlardır.

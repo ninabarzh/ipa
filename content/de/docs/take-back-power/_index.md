@@ -13,4 +13,4 @@ menu:
 translationKey: "take-back-power"
 ---
 
-Wenn das Bedrohungsmodell zeigt, wie digitaler Missbrauch funktioniert, dann geht es hier darum, Raum, Selbstvertrauen und Kontrolle zurückzuerobern — Schritt für Schritt. Sie müssen kein Technikexperte sein, um aktiv zu werden. Dies sind keine Zauberlösungen — aber solide Schritte in Richtung Sicherheit, Klarheit und Autonomie.
+Wenn das Bedrohungsmodell zeigt, wie digitaler Missbrauch funktioniert, dann geht es hier darum, Raum, Selbstvertrauen und Kontrolle zurückzuerobern,  Schritt für Schritt. Sie müssen kein Technikexperte sein, um aktiv zu werden. Dies sind keine Zauberlösungen,  aber solide Schritte in Richtung Sicherheit, Klarheit und Autonomie.

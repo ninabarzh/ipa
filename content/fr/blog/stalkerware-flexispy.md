@@ -13,9 +13,9 @@ Si mSpy est le chat discret de la surveillance numérique, FlexiSPY est le Rottw
 
 ## Ce qu'il fait (spoiler : tout)
 
-FlexiSPY se décrit comme "le logiciel de surveillance le plus puissant au monde". Malheureusement, il n'a probablement pas tort. Il permet à l'agresseur — pardon, à "l'utilisateur autorisé" — d'intercepter des appels en temps réel, d'enregistrer l'audio ambiant, d'activer à distance microphone et caméra, de lire les messageries chiffrées et de traquer tout, des habitudes de navigation aux frappes de clavier.
+FlexiSPY se décrit comme "le logiciel de surveillance le plus puissant au monde". Malheureusement, il n'a probablement pas tort. Il permet à l'agresseur,  pardon, à "l'utilisateur autorisé",  d'intercepter des appels en temps réel, d'enregistrer l'audio ambiant, d'activer à distance microphone et caméra, de lire les messageries chiffrées et de traquer tout, des habitudes de navigation aux frappes de clavier.
 
-Tout cela se fait silencieusement, invisiblement et sans le consentement — souvent même sans la connaissance — de l'utilisateur de l'appareil.
+Tout cela se fait silencieusement, invisiblement et sans le consentement,  souvent même sans la connaissance,  de l'utilisateur de l'appareil.
 
 L'application est conçue pour une installation profonde. Sur Android, la pleine fonctionnalité nécessite généralement le root ; sur iOS, le jailbreak. L'entreprise vend même des téléphones pré-piratés avec FlexiSPY préinstallé. Surveillance en un clic, emballage cadeau.
 
@@ -23,11 +23,11 @@ L'application est conçue pour une installation profonde. Sur Android, la pleine
 
 FlexiSPY n'est pas subtil. Son site est lisse et audacieux. Son branding évoque moins des "parents inquiets" que des "contractants du renseignement mondial". Mais caché dans ses conditions générales, comme une tique sous le pelage, se trouve l'échappatoire légale : vous ne devez installer FlexiSPY que sur des appareils vous appartenant, et vous devez informer l'utilisateur.
 
-Naturellement, aucun mécanisme sérieux ne fait respecter cela. Et FlexiSPY fait tout pour vous aider à rester caché. Il propose des mises à jour à distance, la désinstallation et le mode furtif — pour que la cible ne sache rien. Rien ne dit "surveillance responsable" comme une appli espion intraçable.
+Naturellement, aucun mécanisme sérieux ne fait respecter cela. Et FlexiSPY fait tout pour vous aider à rester caché. Il propose des mises à jour à distance, la désinstallation et le mode furtif,  pour que la cible ne sache rien. Rien ne dit "surveillance responsable" comme une appli espion intraçable.
 
 ## Implications pour les survivantes
 
-Dans les cas de violences conjugales, FlexiSPY est moins un outil qu'une arme. Il offre à l'agresseur une vue divine sur la vie numérique et physique de la victime. Chaque conversation chuchotée, chaque recherche d'aide, chaque tentative de fuite — capturée et transmise.
+Dans les cas de violences conjugales, FlexiSPY est moins un outil qu'une arme. Il offre à l'agresseur une vue divine sur la vie numérique et physique de la victime. Chaque conversation chuchotée, chaque recherche d'aide, chaque tentative de fuite,  capturée et transmise.
 
 Ce niveau de surveillance invasive ne viole pas juste la vie privée. Il érode la réalité. La survivante peut douter de ses instincts, remettre en question chaque mouvement et sentir que même ses pensées sont en danger.
 
@@ -43,7 +43,7 @@ Le supprimer nécessite souvent une réinitialisation d'usine, idéalement aprè
 
 ## L'écosystème du spyware commercial
 
-FlexiSPY fait partie d'un écosystème lucratif et peu régulé qui monétise la surveillance et le contrôle. Il est au sommet du marché — juste en dessous des logiciels étatiques comme Pegasus, mais bien au-delà de ce dont des "parents inquiets" auraient besoin.
+FlexiSPY fait partie d'un écosystème lucratif et peu régulé qui monétise la surveillance et le contrôle. Il est au sommet du marché,  juste en dessous des logiciels étatiques comme Pegasus, mais bien au-delà de ce dont des "parents inquiets" auraient besoin.
 
 Son prix reflète ses ambitions. Ce n'est pas un achat impulsif. C'est un investissement à long terme dans l'assujettissement d'autrui.
 
@@ -55,7 +55,7 @@ FlexiSPY ne protège pas. Il domine. C'est l'aboutissement d'une culture qui con
 
 Pour les aidants, ce spyware n'est pas qu'un problème technique. Il est existentiel. Il sape la confiance, détruit l'autonomie et retraumatise.
 
-Dans les formations et plans d'urgence, nous devons supposer que le pire scénario — surveillance totale — n'est pas rare. Il est vendu en ligne avec support 24/7 et abonnement mensuel.
+Dans les formations et plans d'urgence, nous devons supposer que le pire scénario,  surveillance totale,  n'est pas rare. Il est vendu en ligne avec support 24/7 et abonnement mensuel.
 
 On peut se demander qui installe FlexiSPY sur les appareils d'autrui. La réponse est simple : ceux qui croient que contrôler est un droit, et la vie privée un privilège. Ceux qui ne devraient pas être encouragés par ces entreprises.
 

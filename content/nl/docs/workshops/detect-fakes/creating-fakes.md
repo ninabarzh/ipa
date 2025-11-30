@@ -14,7 +14,7 @@ menu:
 translationKey: "make-deepfake"
 ---
 
-Deze handleiding legt uit hoe je korte **echte** en **nep** video's maakt voor trainingen in opvangcentra. Alleen voor educatie — niet voor social media of pesten.
+Deze handleiding legt uit hoe je korte **echte** en **nep** video's maakt voor trainingen in opvangcentra. Alleen voor educatie,  niet voor social media of pesten.
 
 Op:
 

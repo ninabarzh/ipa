@@ -13,4 +13,4 @@ menu:
 translationKey: "take-back-power"
 ---
 
-Si le modèle de menace explique le fonctionnement des abus numériques, cette section parle de reconquérir espace, confiance et contrôle — pas à pas. Aucune expertise technologique n’est requise pour agir. Ce ne sont pas des solutions magiques — mais des étapes solides vers la sécurité, la clarté et l’autonomie.
+Si le modèle de menace explique le fonctionnement des abus numériques, cette section parle de reconquérir espace, confiance et contrôle,  pas à pas. Aucune expertise technologique n’est requise pour agir. Ce ne sont pas des solutions magiques,  mais des étapes solides vers la sécurité, la clarté et l’autonomie.

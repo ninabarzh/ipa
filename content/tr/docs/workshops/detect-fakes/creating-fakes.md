@@ -5,7 +5,7 @@ slug: "deepfake-videolar-yap"
 weight: 6
 _build:
   render: always
-description: "'Sahteyi Bul' etkinliği için gerçek ve sahte video klipleri oluşturma rehberi — Windows ve Linux'ta ücretsiz araçlarla."
+description: "'Sahteyi Bul' etkinliği için gerçek ve sahte video klipleri oluşturma rehberi,  Windows ve Linux'ta ücretsiz araçlarla."
 menu:
   sidebar:
     weight: 30
@@ -58,7 +58,7 @@ ffmpeg -i input.mp4 -ss 00:00:01 -to 00:00:29 -c copy kirpilmis.mp4
 * [DeepBrain AI Studios](https://www.aistudios.com/) sitesine git
 * Ücretsiz hesap oluştur (sınırlı kullanım)
 * Senaryo yükle ve bir yüz seç (veya klon oluştur)
-* Klip oluştur — genellikle bir dakikadan az
+* Klip oluştur,  genellikle bir dakikadan az
 * Videoyu indir (MP4)
 
 #### Seçenek 2: HeyGen
@@ -134,7 +134,7 @@ Bir *Linux-native build* var, ancak çok daha az dokümante edilmiş ve `dlib`, 
 * **3-4 sahte klip** (aynı/benzer senaryolardan)
 * İsteğe bağlı: **Karma klip** (sadece bir kısmı değiştirilmiş)
 
-Farkın ince olması için tutarlı aydınlatma ve ton kullan — bu tespit oyununu zorlaştırır (ve eğlenceli yapar).
+Farkın ince olması için tutarlı aydınlatma ve ton kullan,  bu tespit oyununu zorlaştırır (ve eğlenceli yapar).
 
 ## Gizlilik ve etik
 

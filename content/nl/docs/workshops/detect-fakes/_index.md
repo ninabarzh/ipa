@@ -4,7 +4,7 @@ linkTitle: "Deepfake-verdediging"
 weight: 3
 _build:
   render: always
-description: "Een workshop gericht op overlevers, zonder jargon, om deepfake-misbruik te herkennen, te betwijfelen en ertegen te verdedigen. Geen technische kennis nodig — alleen ogen, instincten en een beetje theater."
+description: "Een workshop gericht op overlevers, zonder jargon, om deepfake-misbruik te herkennen, te betwijfelen en ertegen te verdedigen. Geen technische kennis nodig,  alleen ogen, instincten en een beetje theater."
 menu:
   sidebar:
     weight: 15
@@ -17,14 +17,14 @@ translationKey: "deepfake-defence"
 
 **Duur**: 90 minuten (aanpasbaar)  
 
-Deepfakes zijn niet slechts een technische curiositeit. In verkeerde handen worden ze gebruikt om mensen lastig te vallen, te diskwalificeren of te isoleren — vooral overlevers van misbruik. Deze sessie geeft deelnemers het vertrouwen om digitale manipulatie te spotten, kalm te reageren en anderen te helpen.  
+Deepfakes zijn niet slechts een technische curiositeit. In verkeerde handen worden ze gebruikt om mensen lastig te vallen, te diskwalificeren of te isoleren,  vooral overlevers van misbruik. Deze sessie geeft deelnemers het vertrouwen om digitale manipulatie te spotten, kalm te reageren en anderen te helpen.  
 
 ## Wat deelnemers leren  
 
 * Een duidelijk begrip van deepfakes en hun misbruik in geweldssituaties  
 * Praktische tools om nepvideo's, -audio en -foto's te herkennen  
 * Strategieën om veilig te reageren wanneer synthetische media als wapen worden gebruikt  
-* Een geprinte checklist van waarschuwingssignalen en actiestappen — om te bewaren, delen of doorgeven  
+* Een geprinte checklist van waarschuwingssignalen en actiestappen,  om te bewaren, delen of doorgeven  
 
 ## Benodigdheden  
 
@@ -45,7 +45,7 @@ Deepfakes zijn niet slechts een technische curiositeit. In verkeerde handen word
 * Misbruikers kunnen ze gebruiken voor wraakporno, valse bekentenissen, bedreigingen of vernederend beeldmateriaal.  
 * Niet alle deepfakes zijn kwaadaardig, maar in misbruiksituaties vergroten ze angst en wantrouwen.  
 
-Vergelijking (optioneel): *"Het is als een pop die op je lijkt, praat als jij, en anderen laat geloven dat het *jij* bent — maar gemaakt door iemand met kwade bedoelingen."*  
+Vergelijking (optioneel): *"Het is als een pop die op je lijkt, praat als jij, en anderen laat geloven dat het *jij* bent,  maar gemaakt door iemand met kwade bedoelingen."*  
 
 ### Hoe spot je een deepfake? (15 minuten)  
 
@@ -55,7 +55,7 @@ Noteer ideeën, deel dan een [checklist (voorbeeld)](verdedigingsset/#checklistk
 **Waarschuwingssignalen**:  
 
 * Lippenbewegingen kloppen niet met de audio  
-* Geen knipperen — of te veel knipperen  
+* Geen knipperen,  of te veel knipperen  
 * Vreemde belichting of schaduwen  
 * Ogen zien er levenloos uit  
 * Oren, sieraden of haar zien er wazig uit  
@@ -66,7 +66,7 @@ Deel kleine kaarten met deze checklist.
 
 ### Spot-de-nep-oefening (20 minuten)  
 
-[Toon 5 clips](deepfake-vids-maken/) — mix van echt en nep. Na elke clip:  
+[Toon 5 clips](deepfake-vids-maken/),  mix van echt en nep. Na elke clip:  
 
 * Vraag: *Echt of nep?*  
 * Laat stemmen, onthul het antwoord en bespreek:  

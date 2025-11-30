@@ -5,7 +5,7 @@ slug: "make-deepfake-vids"
 weight: 6
 _build:
   render: always
-description: "Step-by-step instructions for creating example real and deepfaked video clips for the 'Spot the Fake' activity, using both Windows and Linux — with free tools or browser-based generators."
+description: "Step-by-step instructions for creating example real and deepfaked video clips for the 'Spot the Fake' activity, using both Windows and Linux,  with free tools or browser-based generators."
 menu:
   sidebar:
     weight: 30
@@ -14,7 +14,7 @@ menu:
 translationKey: "make-deepfake"
 ---
 
-This guide walks you through how to create short **real** and **deepfaked** video clips for training activities in shelters or workshops. These clips are meant for educational use only — not for social media pranks, political mayhem, or triggering your neighbour.
+This guide walks you through how to create short **real** and **deepfaked** video clips for training activities in shelters or workshops. These clips are meant for educational use only,  not for social media pranks, political mayhem, or triggering your neighbour.
 
 You can do this on:
 
@@ -60,7 +60,7 @@ You can either use **online AI tools** (fast, no install) or **offline tools** (
 * GoTo [DeepBrain AI Studios](https://www.aistudios.com/)
 * Create a free account (limited usage)
 * Upload a script and pick a face (or create a clone)
-* Generate a clip — usually under a minute
+* Generate a clip,  usually under a minute
 * Download the video (MP4)
 
 #### Option 2: HeyGen
@@ -139,7 +139,7 @@ like `dlib`, `onnxruntime`, and specific versions of `ffmpeg`. But it works:
 * **3 to 4 fake clips**, generated from same or similar scripts
 * Optional: **One blended clip** where only part is altered (e.g. voice vs face)
 
-Use consistent lighting and tone so the difference is subtle — it makes the spotting game harder (and more fun).
+Use consistent lighting and tone so the difference is subtle,  it makes the spotting game harder (and more fun).
 
 ## Privacy and ethics
 

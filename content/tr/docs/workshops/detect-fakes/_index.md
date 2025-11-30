@@ -4,7 +4,7 @@ linkTitle: "Deepfake Savunma"
 weight: 3
 _build:
   render: always
-description: "Hayatta kalanlar odaklı, teknik jargon içermeyen, deepfake istismarını tespit etmek, sorgulamak ve savunmak için bir atölye. Teknik bilgi gerekmez — sadece gözler, içgüdüler ve biraz tiyatro."
+description: "Hayatta kalanlar odaklı, teknik jargon içermeyen, deepfake istismarını tespit etmek, sorgulamak ve savunmak için bir atölye. Teknik bilgi gerekmez,  sadece gözler, içgüdüler ve biraz tiyatro."
 menu:
   sidebar:
     weight: 15
@@ -45,7 +45,7 @@ Deepfake'ler sadece teknolojik bir merak konusu değil. Kötü niyetli ellerde, 
 * İstismarcılar bunu intikam pornosu, sahte itiraflar veya tehditler için kullanabilir.  
 * Hepsi kötü niyetli değildir ama şiddet bağlamında korku ve güvensizliği artırır.  
 
-Benzetme: *"Sizin gibi görünen, konuşan ve insanları kandıran bir kukla — ama kötü niyetle yapılmış."*  
+Benzetme: *"Sizin gibi görünen, konuşan ve insanları kandıran bir kukla,  ama kötü niyetle yapılmış."*  
 
 ### Sahteleri tespit etme (15 dakika)  
 

@@ -1,6 +1,6 @@
 ---
 title: Power On
-description: Workshops, Tools und Anleitungen zum Sichern von Geräten, Umgehen von Überwachung und Wiedererlangen von Autonomie — besonders für Menschen, die technologiegestützter Gewalt überlebt haben. Open-Source. Mehrsprachig. Gemeinschaftsprojekt.
+description: Workshops, Tools und Anleitungen zum Sichern von Geräten, Umgehen von Überwachung und Wiedererlangen von Autonomie, besonders für Menschen, die technologiegestützter Gewalt überlebt haben. Open-Source. Mehrsprachig. Gemeinschaftsprojekt.
 ---
 
 {{% blocks/cover image="featured_background.jpg" image_anchor="top" height="full" %}}

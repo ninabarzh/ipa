@@ -1,6 +1,6 @@
 ---
 title: Power On
-description: Workshops, tools, and guides to secure devices, evade surveillance, and rebuild autonomy — especially for survivors of tech-enabled abuse. Open-source. Multilingual. Community-built.
+description: Workshops, tools, and guides to secure devices, evade surveillance, and rebuild autonomy, especially for survivors of tech-enabled abuse. Open-source. Multilingual. Community-built.
 ---
 
 {{% blocks/cover image="featured_background.jpg" image_anchor="top" height="full" %}}
@@ -22,7 +22,7 @@ Open-source. Multilingual. Community-built.
         <i class="fas fa-book"></i>
     </div>
     <h3>How-to guides</h3>
-    <p>Gentle, step-by-step support for reclaiming your digital power—calm, focused, one action at a time.</p>
+    <p>Gentle, step-by-step support for reclaiming your digital power, calm, focused, one action at a time.</p>
     <a href="docs/guides/" class="btn btn-lg btn-primary">Getting started</a>
 </div>
 {{% /blocks/feature %}}

@@ -13,9 +13,9 @@ If mSpy is the sneaky housecat of digital surveillance, FlexiSPY is the Rottweil
 
 ## What it does (spoiler: everything)
 
-FlexiSPY describes itself as “the most powerful monitoring software in the world.” Unfortunately, it may not be wrong. It allows the abuser—I beg your pardon, the “authorised user”—to intercept calls in real time, record ambient audio, activate the microphone and camera remotely, read encrypted messaging apps, and track everything from browsing habits to keystrokes.
+FlexiSPY describes itself as “the most powerful monitoring software in the world.” Unfortunately, it may not be wrong. It allows the abuser, I beg your pardon, the “authorised user”, to intercept calls in real time, record ambient audio, activate the microphone and camera remotely, read encrypted messaging apps, and track everything from browsing habits to keystrokes.
 
-All of this is done silently, invisibly, and without the consent—or often even the knowledge—of the device user.
+All of this is done silently, invisibly, and without the consent, or often even the knowledge, of the device user.
 
 The app is designed for deep installation. On Android devices, full functionality typically requires rooting; on iOS, jailbreaking. The company even sells pre-hacked phones with FlexiSPY pre-installed. One-click surveillance, gift-wrapped.
 
@@ -23,11 +23,11 @@ The app is designed for deep installation. On Android devices, full functionalit
 
 FlexiSPY is not subtle. Its website is slick and bold. Its branding is less “concerned parent” and more “global intelligence contractor.” But buried in its terms and conditions, like a tick under the fur, is the legal get-out clause: you must only install FlexiSPY on a device you own, and you must inform the user.
 
-Naturally, there are no meaningful mechanisms to enforce this. And FlexiSPY goes out of its way to help you stay hidden. It offers remote updating, uninstalling, and stealth mode—so that the target remains unaware. After all, nothing says “responsible monitoring” like an untraceable spy app.
+Naturally, there are no meaningful mechanisms to enforce this. And FlexiSPY goes out of its way to help you stay hidden. It offers remote updating, uninstalling, and stealth mode, so that the target remains unaware. After all, nothing says “responsible monitoring” like an untraceable spy app.
 
 ## Implications for survivors
 
-In the context of intimate partner abuse, FlexiSPY is less a tool than a weapon. It offers the abuser a god’s-eye view of the victim’s digital and physical life. Every whispered conversation, every search for help, every moment of quiet escape—captured and relayed.
+In the context of intimate partner abuse, FlexiSPY is less a tool than a weapon. It offers the abuser a god’s-eye view of the victim’s digital and physical life. Every whispered conversation, every search for help, every moment of quiet escape, captured and relayed.
 
 This level of invasive surveillance does not merely violate privacy. It erodes reality. The survivor may begin to doubt their instincts, second-guess every move, and feel as though their very thoughts are unsafe.
 
@@ -43,7 +43,7 @@ Removing FlexiSPY often requires a full factory reset, ideally after backing up 
 
 ## The wider ecosystem of spyware-for-sale
 
-FlexiSPY is part of a lucrative and largely unregulated ecosystem that monetises surveillance and control. It sits at the top end of the commercial spyware market—just shy of nation-state-grade software like Pegasus, but still far beyond what any “concerned parent” should need.
+FlexiSPY is part of a lucrative and largely unregulated ecosystem that monetises surveillance and control. It sits at the top end of the commercial spyware market, just shy of nation-state-grade software like Pegasus, but still far beyond what any “concerned parent” should need.
 
 Its pricing reflects its ambitions. This is not a casual purchase. It is a long-term investment in someone else’s subjugation.
 
@@ -55,7 +55,7 @@ FlexiSPY is not about protection. It is about domination. It is the logical endp
 
 For those in support roles, the presence of this kind of spyware is not just a technical issue. It is existential. It undermines trust, erodes autonomy, and re-traumatises survivors.
 
-In training, policy, and response planning, we must assume that the worst-case scenario—full-spectrum surveillance—is not rare. It is being sold online with a 24-hour support line and a monthly subscription.
+In training, policy, and response planning, we must assume that the worst-case scenario, full-spectrum surveillance, is not rare. It is being sold online with a 24-hour support line and a monthly subscription.
 
 One might ask what sort of person installs FlexiSPY on someone else’s device. The answer is simple: the sort who believes control is a right, and privacy is a privilege. The sort who should not be enabled by consumer spyware companies.
 
@@ -117,7 +117,7 @@ event zeek_notice::Weird {
 }
 ```
 
-*FlexiSPY supports real-time call interception via SIP. These IPs are tied to previous incidents (can rotate—happy to update you). Monitor for encrypted VOIP sessions not used by other known apps like WhatsApp or Signal.*
+*FlexiSPY supports real-time call interception via SIP. These IPs are tied to previous incidents (can rotate, happy to update you). Monitor for encrypted VOIP sessions not used by other known apps like WhatsApp or Signal.*
 
 ### Excessive location polling or GPS hijacking (Android logs)
 

@@ -7,7 +7,7 @@ _build:
 menu:
   sidebar:
     weight: 30
-description: "Effets à long terme : anxiété, risques pour la sécurité, problèmes juridiques et perte de confiance dans la technologie (ou les gens). Ce n'est pas de la paranoïa s'ils vous surveillent — surtout s'ils ont acheté le logiciel espion sur Amazon"
+description: "Effets à long terme : anxiété, risques pour la sécurité, problèmes juridiques et perte de confiance dans la technologie (ou les gens). Ce n'est pas de la paranoïa s'ils vous surveillent,  surtout s'ils ont acheté le logiciel espion sur Amazon"
 ---
 
 Nous avons vu comment se produit l'abus numérique. Il est temps d'en affronter les conséquences.
@@ -33,7 +33,7 @@ La frontière floue entre maison et piège, entre appareil et geôlier, engendre
 ## Risques physiques
 
 L'abus numérique facilite souvent les violences physiques.  
-Le suivi en temps réel permet à quelqu'un de surgir chez vous, au travail, à l'école de votre enfant ou dans votre café préféré — sans effort. Et quand les serrures connectées, caméras ou alarmes sont contrôlées par la mauvaise personne, la "maison" devient dangereuse.
+Le suivi en temps réel permet à quelqu'un de surgir chez vous, au travail, à l'école de votre enfant ou dans votre café préféré,  sans effort. Et quand les serrures connectées, caméras ou alarmes sont contrôlées par la mauvaise personne, la "maison" devient dangereuse.
 
 Les survivants rapportent :
 
@@ -46,7 +46,7 @@ Ce n'est pas théorique. C'est une stratégie déguisée en technologie.
 
 ## Ruine financière
 
-Les conséquences économiques sont vastes et durables. Comptes vidés, crédit détruit — beaucoup mettent des années à s'en remettre.
+Les conséquences économiques sont vastes et durables. Comptes vidés, crédit détruit,  beaucoup mettent des années à s'en remettre.
 
 Exemples :
 
@@ -56,7 +56,7 @@ Exemples :
 * Perte d'emploi due à la diffamation en ligne  
 * Coûts de remplacement des appareils compromis  
 
-Même après avoir sécurisé les comptes, les dégâts — opportunités perdues, factures impayées, frais de découvert — persistent. Beaucoup doivent tout recommencer, numériquement et financièrement.
+Même après avoir sécurisé les comptes, les dégâts,  opportunités perdues, factures impayées, frais de découvert,  persistent. Beaucoup doivent tout recommencer, numériquement et financièrement.
 
 ## Dangers juridiques
 
@@ -76,7 +76,7 @@ La charge de la preuve revient presque toujours au survivant, qui doit expliquer
 ## Perte d'autonomie
 
 La conséquence la plus insidieuse.  
-L'abus technologique est un contrôle coercitif. Chaque acte — déverrouiller votre téléphone, tracer votre itinéraire, supprimer un événement — grignote votre indépendance.
+L'abus technologique est un contrôle coercitif. Chaque acte,  déverrouiller votre téléphone, tracer votre itinéraire, supprimer un événement,  grignote votre indépendance.
 
 À terme, cela peut mener à :
 
@@ -94,4 +94,4 @@ D'où l'importance de la modélisation des menaces.
 Car pour beaucoup, le premier pas vers la guérison n'est pas une app magique, mais réaliser : *ce n'est pas ma faute*.  
 Les impacts de l'abus numérique sont réels, mesurables et profondément humains.
 
-Mais ils peuvent être compris. Et une fois compris — combattus.
+Mais ils peuvent être compris. Et une fois compris,  combattus.

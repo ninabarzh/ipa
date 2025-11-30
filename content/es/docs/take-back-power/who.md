@@ -14,7 +14,7 @@ description: "Cómo navegar el apoyo sin perder energía o caer en callejones si
 
 La buena noticia: algunos *sí* entienden el daño digital. La mala: no son a quienes te derivan primero.
 
-Esta guía enumera aliados potenciales —y cómo acercarte sin ceder poder o exponerte a más riesgos.
+Esta guía enumera aliados potenciales, y cómo acercarte sin ceder poder o exponerte a más riesgos.
 
 ## Especialistas en seguridad digital (cuando hay malware)
 
@@ -52,7 +52,7 @@ Esta guía enumera aliados potenciales —y cómo acercarte sin ceder poder o ex
 
 ## Clínicas legales & defensores de privacidad (pruebas manipuladas)
 
-**Por qué:** No solo te vigilan — te incriminan. Si hay mensajes falsos, capturas adulteradas o amenazas legales, necesitas expertos.
+**Por qué:** No solo te vigilan,  te incriminan. Si hay mensajes falsos, capturas adulteradas o amenazas legales, necesitas expertos.
 
 **Cuándo:**
 
@@ -65,7 +65,7 @@ Esta guía enumera aliados potenciales —y cómo acercarte sin ceder poder o ex
 - "¿Pueden ayudar a preservar o impugnar pruebas digitales?"
 - "¿Alguien puede explicar el abuso digital a un juez?"
 
-**No borrar nada** — aunque parezca perjudicial. Pregunta cómo archivar seguro y validar tu versión.
+**No borrar nada**,  aunque parezca perjudicial. Pregunta cómo archivar seguro y validar tu versión.
 
 ## Personas técnicas de confianza: qué preguntar (y qué no)
 
@@ -82,9 +82,9 @@ Esta guía enumera aliados potenciales —y cómo acercarte sin ceder poder o ex
 - "¿Puedes limpiar este dispositivo y ver qué tiene instalado?"
 - "¿Qué se sincroniza entre estos dispositivos/cuentas?"
 
-**No asumir:** Que entienden tácticas de abusadores. Sus soluciones podrían empeorarlo (ej. alertar al agresor). Da contexto solo si es seguro — y cuestiona lo que no te convenza.
+**No asumir:** Que entienden tácticas de abusadores. Sus soluciones podrían empeorarlo (ej. alertar al agresor). Da contexto solo si es seguro,  y cuestiona lo que no te convenza.
 
-## Límites de policía y tribunales — expectativas realistas
+## Límites de policía y tribunales,  expectativas realistas
 
 **Por qué importa:** Las autoridades pueden ayudar *o* empeorarlo. Expectativas claras evitan decepciones.
 
@@ -92,7 +92,7 @@ Esta guía enumera aliados potenciales —y cómo acercarte sin ceder poder o ex
 
 - Emitir órdenes de restricción  
 - Investigar suplantación o amenazas digitales (*si* están bien documentadas)  
-- Trabajar con pruebas digitales — *si* se las presentas claramente  
+- Trabajar con pruebas digitales,  *si* se las presentas claramente  
 
 **Qué suelen NO hacer:**
 
@@ -110,7 +110,7 @@ Esta guía enumera aliados potenciales —y cómo acercarte sin ceder poder o ex
 
 No tienes que hacerlo sola. Pero *sí* decides en quién confiar y cuándo.  
 
-Empieza con un círculo pequeño — una o dos personas que te crean, entiendan lo suficiente y no empeoren las cosas.  
+Empieza con un círculo pequeño,  una o dos personas que te crean, entiendan lo suficiente y no empeoren las cosas.  
 Desde ahí, expande. Con seguridad. Estrategia. En tus términos.  
 
 Sigue: [Qué revisar primero →](/docs/take-back-power/what)

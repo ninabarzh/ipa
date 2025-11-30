@@ -11,7 +11,7 @@ description: "Stille, veilige manieren om digitaal bewijs te verzamelen op jouw 
 ---
 
 Bij tech-facilitair misbruik kun je niet altijd meteen bewijs leveren.  
-Maar zorgvuldig verzamelde bewijzen worden macht. Ze helpen bij juridische bescherming, huisvesting, hulpdiensten — of simpelweg *geloofd worden*.
+Maar zorgvuldig verzamelde bewijzen worden macht. Ze helpen bij juridische bescherming, huisvesting, hulpdiensten,  of simpelweg *geloofd worden*.
 
 Deze gids toont kalme, laagrisico-manieren om digitaal bewijs te bewaren.
 
@@ -22,7 +22,7 @@ Goede screenshots vertellen een verhaal. Maak ze *in context*:
 - **Includeer:**
   - Tijd en datum (bijv. bovenkant telefoon/computer)
   - Afzender of bron (wie deed wat)
-  - Het hele bericht/gebeurtenis — *niet bijsnijden*
+  - Het hele bericht/gebeurtenis,  *niet bijsnijden*
 
 - **Beste momenten:**
   - Bij bewerkte/verwijderde berichten
@@ -35,7 +35,7 @@ Goede screenshots vertellen een verhaal. Maak ze *in context*:
 
 ## Metadatalogboeken, browsergeschiedenis en app-data
 
-Het digitale spoor dat je niet ziet —tot je het nodig hebt.
+Het digitale spoor dat je niet ziet, tot je het nodig hebt.
 
 - **Browsergeschiedenis:**
   - Toont toegangspatronen, bezochte links, inlogpogingen
@@ -57,7 +57,7 @@ Bewaar logs als PDF, CSV of HTML mogelijk. Zelfmailing bewaart timestamps.
 
 ## Geluidsopnames en patroonjournalen
 
-Soms *gebruikt* misbruik tech —zonder digitaal te zijn. Je eigen woorden worden bewijs.
+Soms *gebruikt* misbruik tech, zonder digitaal te zijn. Je eigen woorden worden bewijs.
 
 - **Spraaknotities:**
   - Neem observaties op na incidenten ("Vandaag zag ik…")
@@ -69,13 +69,13 @@ Soms *gebruikt* misbruik tech —zonder digitaal te zijn. Je eigen woorden worde
 
 - **Patronen tellen:**
   - "Hij resette de router na mijn wachtwoordwijziging"  
-  - "Ze wist dat ik bij de apotheek was — zonder dat ik het vertelde"
+  - "Ze wist dat ik bij de apotheek was,  zonder dat ik het vertelde"
 
 Het hoeft niet 'officieel' te klinken. Alleen echt zijn.
 
 ## Derdenverificatie (emailheaders, IP's, andere)
 
-Als iemand beweert dat jíj iets online deed —heb je meer nodig dan je woord.
+Als iemand beweert dat jíj iets online deed, heb je meer nodig dan je woord.
 
 - **Emailheaders:**
   - Tonen *wie* een mail *van waar* via *welke dienst* verstuurde
@@ -106,10 +106,10 @@ Sommige bewijstools kunnen escaleren als ontdekt. Deze niet:
   - Emailalias aanmaken (bijv. jouwnaam+docs@proton.me)
   - Logs/screenshots automatisch doorsturen via privétabblad
 
-Vermijd gedeelde apparaten voor gevoelig bewijs — tenzij je *weet* dat ze veilig zijn.
+Vermijd gedeelde apparaten voor gevoelig bewijs,  tenzij je *weet* dat ze veilig zijn.
 
 ## Een noot
 
-Je hoeft niet alles tegelijk te bewijzen. Begin gewoon met vastleggen —stil, kalm, op een manier die *jou* helpt.  
+Je hoeft niet alles tegelijk te bewijzen. Begin gewoon met vastleggen, stil, kalm, op een manier die *jou* helpt.  
 
 Volgende: [Technische tegenmaatregelen →](/docs/take-back-power/counter) of terug naar [Impact koppelen aan acties →](/docs/take-back-power/mapping)

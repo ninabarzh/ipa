@@ -11,7 +11,7 @@ description: "Reprendre discrètement le contrôle des appareils, comptes et don
 ---
 
 Avant de changer tous vos mots de passe ou de tout jeter : respirez.  
-Première étape : faire un état des lieux — *sans* alerter qui que ce soit ni ajouter de stress.
+Première étape : faire un état des lieux,  *sans* alerter qui que ce soit ni ajouter de stress.
 
 Ce guide détaille les points clés à vérifier. Par niveau d’urgence : des observations discrètes aux analyses poussées. Inutile de tout faire d’un coup. Commencez par le plus simple.
 
@@ -20,9 +20,9 @@ Ce guide détaille les points clés à vérifier. Par niveau d’urgence : des o
 Faisable maintenant, sans outils :
 
 - Avez-vous remarqué des anomalies ? Baterie qui se vide ? Paramètres qui changent seuls ? Apps non ouvertes ?
-- Des alertes de connexion ou SMS 2FA inattendus ? Vérifiez emails/notifications — ne supprimez pas encore.
+- Des alertes de connexion ou SMS 2FA inattendus ? Vérifiez emails/notifications,  ne supprimez pas encore.
 - Des apps "bizarres" ? Messages lus que vous n’avez pas ouverts ? Événements calendrier non créés par vous ?
-- Votre agresseur a-t-il déjà eu vos mots de passe ou accès aux appareils ? Si oui, partez du principe qu’il a *peut-être* encore accès — même séparés.
+- Votre agresseur a-t-il déjà eu vos mots de passe ou accès aux appareils ? Si oui, partez du principe qu’il a *peut-être* encore accès,  même séparés.
 
 Ces indices suffisent pour approfondir.
 
@@ -39,9 +39,9 @@ Les appareils parlent souvent avant vous. Vérifiez :
   - Profils installés (iPhone : Réglages > Général > VPN et gestion d’appareil)  
 
 - Accessoires  
-  - Montres connectées, écouteurs sans fil, clés USB — certains stockent des données ou traquent  
+  - Montres connectées, écouteurs sans fil, clés USB,  certains stockent des données ou traquent  
 
-Si quelque chose semble étrange : Notez, capturez l’écran, passez aux comptes. Ne désinstallez pas encore — utile plus tard.
+Si quelque chose semble étrange : Notez, capturez l’écran, passez aux comptes. Ne désinstallez pas encore,  utile plus tard.
 
 ## Comptes : récupération, alertes, accès partagés
 
@@ -51,11 +51,11 @@ L’email est la clé universelle. Commencez là :
 - Connexions récentes : Cherchez IPs, heures ou appareils inconnus  
 - Comptes partagés : Utilisez-vous encore Netflix/banques/emails *qu’ils* ont créés ? Stoppez. Ils pourraient transférer votre activité, tracer les connexions ou permettre des réinitialisations.  
 - Questions secrètes : Réponses qu’ils connaissent ? Remplacez-les par du nonsense et stockez hors ligne.  
-- Permissions d’apps : Certains services (Google) listent "apps connectées" — révoquez l’inconnu.  
+- Permissions d’apps : Certains services (Google) listent "apps connectées",  révoquez l’inconnu.  
 
 ## Maison connectée / objets IoT
 
-Pratiques — jusqu’à ce qu’ils ne le soient plus. Vérifiez :
+Pratiques,  jusqu’à ce qu’ils ne le soient plus. Vérifiez :
 
 - Caméras, lumières, thermostats, serrures, sonnettes  
   - Qui a les droits admin ?  
@@ -74,17 +74,17 @@ Si vous trouvez des éléments suspects mais ne pouvez pas les modifier en sécu
 
 Même si vos messages sont privés, les *motifs* peuvent trahir :
 
-- Activité Google : https://myactivity.google.com — recherches, vidéos, commandes vocales  
+- Activité Google : https://myactivity.google.com,  recherches, vidéos, commandes vocales  
 - Historique de localisation Apple : Réglages > Confidentialité > Services de localisation > Services système > Lieux significatifs  
-- Métadonnées photo : Appuyez/clic droit pour voir lieu/date — même non partagées  
+- Métadonnées photo : Appuyez/clic droit pour voir lieu/date,  même non partagées  
 - Événements calendrier, synchronisation navigateur, saisie automatique : Révèlent routines, voyages, habitudes  
 - Apps fitness & podomètres : Beaucoup enregistrent la localisation en arrière-plan, même avec tracking désactivé  
 
-Pas toujours des menaces directes — mais des pièces du puzzle. Si quelqu’un connaît vos habitudes mieux que vous, les métadonnées sont en cause.
+Pas toujours des menaces directes,  mais des pièces du puzzle. Si quelqu’un connaît vos habitudes mieux que vous, les métadonnées sont en cause.
 
 ## Un mot
 
-Il ne s’agit pas de prouver quoi que ce soit aux autres. Mais de gagner en clarté — pour vous.  
+Il ne s’agit pas de prouver quoi que ce soit aux autres. Mais de gagner en clarté,  pour vous.  
 
 Ne tentez pas de tout régler d’un coup. Commencez simplement à observer. Notez vos découvertes. Et si quelque chose semble *très* anormal : faites une pause et revenez plus stable.  
 

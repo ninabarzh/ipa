@@ -105,7 +105,7 @@ event zeek_notice::Weird {
   "rule": {
     "id": 100021,
     "level": 12,
-    "description": "Android cihazda Accessibility Service etkinleştirilmiş — olası spyware kalıcılığı",
+    "description": "Android cihazda Accessibility Service etkinleştirilmiş,  olası spyware kalıcılığı",
     "if_sid": [62002],
     "match": {
       "accessibility_service": "com.android.system.service/.SpyService"
@@ -124,7 +124,7 @@ event zeek_notice::Weird {
   "rule": {
     "id": 100022,
     "level": 8,
-    "description": "Olağandışı iCloud giriş deseni — olası spyware erişimi",
+    "description": "Olağandışı iCloud giriş deseni,  olası spyware erişimi",
     "if_sid": [9005],
     "match": {
       "event_type": "icloud_login",
@@ -163,11 +163,11 @@ event zeek_notice::Weird {
   "rule": {
     "id": 199999,
     "level": 15,
-    "description": "Olasi spyware enfeksiyonu — mSpy imza eşleşmesi tespit edildi",
+    "description": "Olasi spyware enfeksiyonu,  mSpy imza eşleşmesi tespit edildi",
     "if_matched_sid": [100020, 100021, 100022],
     "group": "spyware, survivor-risk, urgent"
   }
 }
 ```
 
-*Bu meta‑kural destek ekiplerine şunu bildirir: **bu sıradan bir malware değil** — olası bir kontrol durumu söz konusu olabilir.*
+*Bu meta‑kural destek ekiplerine şunu bildirir: **bu sıradan bir malware değil**,  olası bir kontrol durumu söz konusu olabilir.*

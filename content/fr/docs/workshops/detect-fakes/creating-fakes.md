@@ -14,7 +14,7 @@ menu:
 translationKey: "make-deepfake"
 ---
 
-Ce guide explique comment créer des clips **réels** et **falsifiés** pour des formations en refuge. Usage éducatif uniquement — pas pour les réseaux sociaux ou le harcèlement.
+Ce guide explique comment créer des clips **réels** et **falsifiés** pour des formations en refuge. Usage éducatif uniquement,  pas pour les réseaux sociaux ou le harcèlement.
 
 Sur:
 
@@ -58,7 +58,7 @@ ffmpeg -i input.mp4 -ss 00:00:01 -to 00:00:29 -c copy coupe.mp4
 * Allez sur [DeepBrain AI Studios](https://www.aistudios.com/)
 * Créez un compte gratuit (usage limité)
 * Uploader un script et choisir un visage (ou créer un clone)
-* Générer un clip — généralement en moins d'une minute
+* Générer un clip,  généralement en moins d'une minute
 * Télécharger la vidéo (MP4)
 
 #### Option 2 : HeyGen
@@ -124,7 +124,7 @@ Il existe *une* version native Linux, bien que moins documentée et nécessitant
 
   * Installez les dépendances comme Python 3.8–3.10, `onnxruntime`, `torch`, `opencv`, et `dlib`
   * Utilisez virtualenv pour garder les choses organisées
-  * Prévoyez de résoudre quelques problèmes — surtout avec CUDA si vous voulez l'accélération GPU
+  * Prévoyez de résoudre quelques problèmes,  surtout avec CUDA si vous voulez l'accélération GPU
 
 - Bon pour générer des vidéos avec superposition voix + visage
 - Moins fluide qu'en Windows, mais utilisable avec patience
@@ -135,7 +135,7 @@ Il existe *une* version native Linux, bien que moins documentée et nécessitant
 * **3 à 4 clips faux**, générés à partir des mêmes scripts ou similaires
 * Optionnel : **Un clip mixte** où seule une partie est altérée (ex. voix vs visage)
 
-Utilisez un éclairage et un ton cohérents pour que la différence soit subtile — cela rend le jeu de détection plus difficile (et plus amusant).
+Utilisez un éclairage et un ton cohérents pour que la différence soit subtile,  cela rend le jeu de détection plus difficile (et plus amusant).
 
 ## Confidentialité et éthique
 

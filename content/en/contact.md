@@ -11,7 +11,7 @@ menu:
 ---
 <div class="container" style="padding-top: 120px; max-width: 800px;">
 
-<p>Need to reach us? Whether you’re organising a workshop, seeking support, or just curious—drop us a line below.</p>
+<p>Need to reach us? Whether you’re organising a workshop, seeking support, or just curious, drop us a line below.</p>
 
 <form name="contact-en" method="POST" data-netlify="true" netlify-honeypot="bot-field"  action="/en/thank-you" netlify>
   <input type="hidden" name="form-name" value="contact-en" />

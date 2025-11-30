@@ -13,15 +13,15 @@ Spynger a pris le pire de mSpy, Eyezy et FlexiSPY pour le faire passer dans un e
 
 ## Ses promesses (et la réalité)
 
-Accès aux SMS, historique d'appels, GPS, réseaux sociaux, navigation, frappes et apps. Elle promet une "vision complète" de la vie numérique d'autrui — à leur insu. Ce qui est tout sauf de la "vision". C'est de la surveillance, un point c'est tout.
+Accès aux SMS, historique d'appels, GPS, réseaux sociaux, navigation, frappes et apps. Elle promet une "vision complète" de la vie numérique d'autrui,  à leur insu. Ce qui est tout sauf de la "vision". C'est de la surveillance, un point c'est tout.
 
 Fonctionne en fond. Pas d'icône. Pas de notifications. Pas d'avertissement. Conçue pour être installée à l'insu du propriétaire. Légère, fluide et brutalement efficace.
 
-Sur Android, installation physique requise. Sur iPhone, via identifiants iCloud piratés. Pas de jailbreak nécessaire — seule l'éthique est contournée.
+Sur Android, installation physique requise. Sur iPhone, via identifiants iCloud piratés. Pas de jailbreak nécessaire,  seule l'éthique est contournée.
 
 ## Conçu pour la méfiance, vendu comme sécurité
 
-Toute sa marque repose sur la suspicion amoureuse. Elle assume. Son site montre des couples, des stats sur l'infidélité et flatte vos insécurités d'ado. Elle ne permet pas juste l'abus numérique — elle le normalise.
+Toute sa marque repose sur la suspicion amoureuse. Elle assume. Son site montre des couples, des stats sur l'infidélité et flatte vos insécurités d'ado. Elle ne permet pas juste l'abus numérique,  elle le normalise.
 
 Clairement destinée à espionner son partenaire. Pas protéger, pas superviser, pas parental. Espionner. Elle dit tout haut ce que d'autres taisent, avec abonnement en prime.
 
@@ -29,9 +29,9 @@ Contrairement à ses concurrents plus discrets, Spynger assume sa noirceur. Ses 
 
 ## Enjeux pour les survivantes
 
-Ses créateurs savent qui sont leurs clients. Les professionnels travaillant avec des victimes de contrôle coercitif en voient les conséquences. Spynger transforme les smartphones en armes — qui ne dorment jamais et rapportent tout.
+Ses créateurs savent qui sont leurs clients. Les professionnels travaillant avec des victimes de contrôle coercitif en voient les conséquences. Spynger transforme les smartphones en armes,  qui ne dorment jamais et rapportent tout.
 
-Une fois installée, elle sape toute tentative d'indépendance. Contacter un ami, chercher un refuge, envoyer un message — chaque action devient risquée. La surveillance raccourcit la laisse et rend dangereux le moindre acte de résistance.
+Une fois installée, elle sape toute tentative d'indépendance. Contacter un ami, chercher un refuge, envoyer un message,  chaque action devient risquée. La surveillance raccourcit la laisse et rend dangereux le moindre acte de résistance.
 
 Et comme Spynger est invisible, beaucoup ignorent qu'elles sont surveillées. Elles savent juste que leur agresseur a toujours un coup d'avance. Exactement ce que vend Spynger.
 
@@ -45,7 +45,7 @@ La solution est souvent un reset d'usine. Mais pas toujours sûr ou possible. Il
 
 ## La culture du "chasseur de tricheurs"
 
-Spynger n'est pas qu'un logiciel. Elle participe d'une culture célébrant la méfiance et punissant l'intimité. Elle prospère sur l'idée que son partenaire est forcément trompeur — justifiant une surveillance préemptive.
+Spynger n'est pas qu'un logiciel. Elle participe d'une culture célébrant la méfiance et punissant l'intimité. Elle prospère sur l'idée que son partenaire est forcément trompeur,  justifiant une surveillance préemptive.
 
 Cette mentalité est toxique. Elle présente l'abus comme de la vigilance. L'obsession comme du soin. Et encourage à monétiser ses insécurités.
 

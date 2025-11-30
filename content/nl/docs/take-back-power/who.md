@@ -10,11 +10,11 @@ menu:
 description: "Steun vinden zonder energie te verspillen of vast te lopen."
 ---
 
-Het lastigste aan tech-facilitair misbruik? Weten wie *echt kan helpen* — en wie je tijd verspilt, gaslight of zegt "verwijder gewoon Facebook".
+Het lastigste aan tech-facilitair misbruik? Weten wie *echt kan helpen*,  en wie je tijd verspilt, gaslight of zegt "verwijder gewoon Facebook".
 
 Goed nieuws: sommigen *begrijpen* digitale schade. Slecht nieuws: zij zijn niet altijd de eersten aan wie je wordt doorverwezen.
 
-Deze gids toont mogelijke bondgenoten — en hoe je hen benadert zonder te veel macht af te staan of risico’s te lopen.
+Deze gids toont mogelijke bondgenoten,  en hoe je hen benadert zonder te veel macht af te staan of risico’s te lopen.
 
 ## Digitale veiligheidsexperts (bij spyware-vermoeden)
 
@@ -52,7 +52,7 @@ Deze gids toont mogelijke bondgenoten — en hoe je hen benadert zonder te veel 
 
 ## Juridische klinieken & privacy-advocaten (bij gemanipuleerd bewijs)
 
-**Waarom:** Je wordt niet alleen bespied — maar ook opgezet. Bij valse berichten, aangepaste screenshots of dreigementen is expertise cruciaal.
+**Waarom:** Je wordt niet alleen bespied,  maar ook opgezet. Bij valse berichten, aangepaste screenshots of dreigementen is expertise cruciaal.
 
 **Wanneer:**
 
@@ -65,7 +65,7 @@ Deze gids toont mogelijke bondgenoten — en hoe je hen benadert zonder te veel 
 - "Kunt u helpen digitaal bewijs te bewaren of aanvechten?"
 - "Kan iemand tech-misbruik aan een rechter uitleggen?"
 
-**Niets verwijderen** — zelfs schadelijk lijkend materiaal. Vraag naar veilig archiveren en expertvalidatie.
+**Niets verwijderen**,  zelfs schadelijk lijkend materiaal. Vraag naar veilig archiveren en expertvalidatie.
 
 ## Technische vertrouwenspersonen: wat wel/niet te delen
 
@@ -82,7 +82,7 @@ Deze gids toont mogelijke bondgenoten — en hoe je hen benadert zonder te veel 
 - "Wil je dit apparaat veilig wissen en controleren?"
 - "Wat synchroniseert tussen deze apparaten/accounts?"
 
-**Niet aannemen:** Dat ze dadertactieken kennen. Hun oplossingen kunnen schaden (bijv. de dader alarmeren). Deel alleen veilige context — en push back bij twijfel.
+**Niet aannemen:** Dat ze dadertactieken kennen. Hun oplossingen kunnen schaden (bijv. de dader alarmeren). Deel alleen veilige context,  en push back bij twijfel.
 
 ## Politie & rechtbanken: realistische verwachtingen
 
@@ -92,7 +92,7 @@ Deze gids toont mogelijke bondgenoten — en hoe je hen benadert zonder te veel 
 
 - Contactverboden opleggen  
 - Onderzoek doen naar online impersonatie/dreigementen (*mits* goed gedocumenteerd)  
-- Met digitaal bewijs werken — *mits* duidelijk aangeleverd  
+- Met digitaal bewijs werken,  *mits* duidelijk aangeleverd  
 
 **Wat ze *vaak niet* doen:**
 
@@ -110,7 +110,7 @@ Deze gids toont mogelijke bondgenoten — en hoe je hen benadert zonder te veel 
 
 Je hoeft dit niet alleen te doen. Maar je *kiest* zelf wie te vertrouwen, en wanneer.  
 
-Begin klein — een of twee mensen die je geloven, genoeg snappen en niets verergeren.  
+Begin klein,  een of twee mensen die je geloven, genoeg snappen en niets verergeren.  
 Breid daarna uit. Veilig. Strategisch. Op jouw voorwaarden.  
 
 Volgende: [Wat eerst controleren →](/docs/take-back-power/what)
