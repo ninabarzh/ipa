@@ -28,7 +28,7 @@ Muchos sobrevivientes desarrollan:
 * **Depresión y aislamiento**  
 * **TEPT o TEPT-C**, especialmente tras exposición prolongada  
 
-La difuminación de límites, entre hogar y trampa, entre dispositivo y captor— genera una profunda impotencia. Es difícil descansar cuando tu propio teléfono parece un espía.
+La difuminación de límites, entre hogar y trampa, entre dispositivo y captor,  genera una profunda impotencia. Es difícil descansar cuando tu propio teléfono parece un espía.
 
 ## Riesgos físicos
 
@@ -56,7 +56,7 @@ Ejemplos:
 * Pérdida de trabajo por difamación o "ataques de desprestigio"  
 * Costos de reemplazar tecnología comprometida  
 
-Incluso al recuperar las cuentas, los daños, oportunidades perdidas, facturas impagas, cargos por sobregiro— persisten. Muchos deben reiniciar su vida digital y económica.
+Incluso al recuperar las cuentas, los daños, oportunidades perdidas, facturas impagas, cargos por sobregiro,  persisten. Muchos deben reiniciar su vida digital y económica.
 
 ## Peligros legales
 
@@ -76,7 +76,7 @@ La carga de prueba casi siempre recae en el sobreviviente, quien debe explicar a
 ## Pérdida de autonomía
 
 La consecuencia más insidiosa.  
-El abuso tecnológico es control coercitivo. Cada acto, desbloquear tu teléfono, rastrear tu ruta, borrar eventos del calendario— erosiona tu independencia.
+El abuso tecnológico es control coercitivo. Cada acto, desbloquear tu teléfono, rastrear tu ruta, borrar eventos del calendario,  erosiona tu independencia.
 
 Con el tiempo, puede llevar a:
 

@@ -7,7 +7,7 @@ tags: ["spyware", "stalkerware", "seguridad digital", "espionaje móvil", "empod
 description: "Análisis crítico de las herramientas y tácticas de Spynger, las amenazas para víctimas y estrategias prácticas de detección para refugios."
 ---
 
-Spynger (sí, realmente se llama así) es una de las spyware más descaradas del mercado. Se mercadea como app de citas pero actúa como operación encubierta. Su tono es suave, "atrapa a un infiel", "protege tu relación"— pero tras las capas hallarás el patrón habitual: instalación silenciosa, rastreo invisible y cero respeto por el consentimiento.
+Spynger (sí, realmente se llama así) es una de las spyware más descaradas del mercado. Se mercadea como app de citas pero actúa como operación encubierta. Su tono es suave, "atrapa a un infiel", "protege tu relación",  pero tras las capas hallarás el patrón habitual: instalación silenciosa, rastreo invisible y cero respeto por el consentimiento.
 
 Spynger ha tomado lo peor de mSpy, Eyezy y FlexiSPY, filtrado por un embudo de clickbait. No es software, sino síntoma de una infección cultural: creer que la única forma de confiar es vigilando por completo.
 
@@ -37,7 +37,7 @@ Y como Spynger es invisible, muchas víctimas no saben que las vigilan. Solo not
 
 ## Detección y eliminación
 
-Como todo stalkerware, no deja rastros obvios. El móvil puede comportarse raro, batería que se agota, calentamiento sin motivo, uso de datos en segundo plano— pero sin conocimientos técnicos pasa desapercibido.
+Como todo stalkerware, no deja rastros obvios. El móvil puede comportarse raro, batería que se agota, calentamiento sin motivo, uso de datos en segundo plano,  pero sin conocimientos técnicos pasa desapercibido.
 
 En Android, usuarios avanzados pueden buscar apps sospechosas. En iOS, cambiar la ID de Apple con autenticación en dos pasos puede cortar el acceso.
 

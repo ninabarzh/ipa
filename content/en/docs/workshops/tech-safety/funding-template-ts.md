@@ -7,7 +7,7 @@ _build:
 menu:
   sidebar:  # Adds to Docsy's auto-generated sidebar
     weight: 25
-description: "A funding template shelters can use to apply for local, regional, or small foundation grants to run a tech safety for survivors choose-your-own-pace-day. It’s written to be adaptable for a variety of funding schemes—straightforward, mission-aligned, and ready to copy/paste into common grant portals or Word forms."
+description: "A funding template shelters can use to apply for local, regional, or small foundation grants to run a tech safety for survivors choose-your-own-pace-day. It’s written to be adaptable for a variety of funding schemes, straightforward, mission-aligned, and ready to copy/paste into common grant portals or Word forms."
 ---
 
 ### 1. Project title
@@ -18,7 +18,7 @@ PowerOn: A tech safety for survivors choose-your-own-pace-day or ... make (it) y
 
 ### 2. Summary of the project
 
-*PowerOn* is a one-day, trauma-aware, tech empowerment workshop designed for survivors of intimate partner abuse. The session creates a calm, supportive space where survivors can explore digital safety at their own pace—through hands-on activities, optional device support, and privacy-focused tools.
+*PowerOn* is a one-day, trauma-aware, tech empowerment workshop designed for survivors of intimate partner abuse. The session creates a calm, supportive space where survivors can explore digital safety at their own pace, through hands-on activities, optional device support, and privacy-focused tools.
 
 Participants learn how to detect covert surveillance (e.g. stalkerware or location tracking), secure their devices and accounts, and rebuild confidence with technology in a non-technical, empowering environment.
 
@@ -102,7 +102,7 @@ By the end of the workshop:
 * Participants will understand how to check their devices and accounts for risk
 * Survivors will leave with tools, tips, and a secure digital survival kit
 * Staff will have a model for running future workshops
-* Digital abuse will feel less overwhelming—and more manageable
+* Digital abuse will feel less overwhelming, and more manageable
 
 ---
 

@@ -7,14 +7,14 @@ _build:
 menu:
   sidebar:
     weight: 25
-description: "Vigilancia. Aislamiento. Daño reputacional. Sabotaje financiero. No es solo un teléfono hackeado—es tu independencia siendo erosionada."
+description: "Vigilancia. Aislamiento. Daño reputacional. Sabotaje financiero. No es solo un teléfono hackeado, es tu independencia siendo erosionada."
 ---
 
-Estos son los resultados—la razón por la que todo esto importa.
+Estos son los resultados, la razón por la que todo esto importa.
 
-Una vez obtenido el acceso y establecidas las herramientas, lo que sigue no es aleatorio. Suele ser deliberado, estratégico y profundamente personal. El objetivo no es solo "espiar"—sino socavar tu autonomía, relaciones, finanzas y percepción de la realidad.
+Una vez obtenido el acceso y establecidas las herramientas, lo que sigue no es aleatorio. Suele ser deliberado, estratégico y profundamente personal. El objetivo no es solo "espiar", sino socavar tu autonomía, relaciones, finanzas y percepción de la realidad.
 
-Estas amenazas no son teóricas. Son experiencias vividas. Reconocerlas te ayuda a nombrar el daño—y comenzar a recuperar terreno.
+Estas amenazas no son teóricas. Son experiencias vividas. Reconocerlas te ayuda a nombrar el daño, y comenzar a recuperar terreno.
 
 ## Vigilancia
 
@@ -28,7 +28,7 @@ Hablamos de:
 * Revisar actividad en navegadores y apps
 * Observar hábitos (horas de sueño, alimentación, contactos)
 
-A menudo es 24/7. Crea un efecto paralizante: comienzas a autocensurarte, dudar de tus decisiones y sentirte constantemente observado—incluso en soledad.
+A menudo es 24/7. Crea un efecto paralizante: comienzas a autocensurarte, dudar de tus decisiones y sentirte constantemente observado, incluso en soledad.
 
 ¿El objetivo? No solo saber qué haces. Influir en lo que *harás*.
 
@@ -44,13 +44,13 @@ Ejemplos:
 * Usar tecnología del hogar para regular tu entorno (luz, calor, ruido)
 * Presionar cambios de conducta mediante "preocupación" por tu rutina, gastos o contactos
 
-El objetivo no es el caos—sino la predictibilidad. Que ajustes tu comportamiento para evitar la próxima interferencia.
+El objetivo no es el caos, sino la predictibilidad. Que ajustes tu comportamiento para evitar la próxima interferencia.
 
-Al hacerse con sutileza o bajo la máscara del cuidado (*"Solo quiero tu seguridad"*), resulta difícil de explicar—y mucho menos de probar.
+Al hacerse con sutileza o bajo la máscara del cuidado (*"Solo quiero tu seguridad"*), resulta difícil de explicar, y mucho menos de probar.
 
 ## Aislamiento
 
-Una de las tácticas más antiguas—ahora con actualización digital.
+Una de las tácticas más antiguas, ahora con actualización digital.
 
 Aíslan mediante:
 
@@ -78,7 +78,7 @@ Métodos comunes:
 
 No se necesita mucho. Unas pocas mentiras estratégicas pueden dañar credibilidad, destruir relaciones laborales y confundir a tu círculo.
 
-Muchas víctimas terminan explicando cosas que nunca hicieron—mientras el abusador finge preocupación desde las sombras.
+Muchas víctimas terminan explicando cosas que nunca hicieron, mientras el abusador finge preocupación desde las sombras.
 
 ## Trampa institucional
 
@@ -94,12 +94,12 @@ Aquí el abusador usa el sistema legal/institucional *contra* la víctima:
 
 No se trata de ganar el caso. Sino de desgastarte.
 
-Esta manipulación es especialmente difícil de combatir porque superficialmente el sistema parece "funcionar". Pero se alimenta de datos falsos—y la carga de la prueba recae en la víctima.
+Esta manipulación es especialmente difícil de combatir porque superficialmente el sistema parece "funcionar". Pero se alimenta de datos falsos, y la carga de la prueba recae en la víctima.
 
 ## Una nota
 
 Estas amenazas no son técnicas. Son humanas.
-Existen porque alguien usa el acceso para socavar tu seguridad—no por algún defecto tuyo.
+Existen porque alguien usa el acceso para socavar tu seguridad, no por algún defecto tuyo.
 
 Lo crucial es: al *identificar* los patrones, puedes empezar a contrarrestarlos.
 No lo imaginas. No exageras. Y no estás solo/a.

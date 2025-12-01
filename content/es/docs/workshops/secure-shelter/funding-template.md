@@ -7,7 +7,7 @@ _build:
 menu:
   sidebar:
     weight: 25
-description: "Plantilla adaptable para organizar un 'Construye un refugio seguro'—día práctico para crear un laboratorio de seguridad tecnológica con Pirogue y Wazuh. Dirigida a autoridades locales, fundaciones o programas de derechos digitales, con lenguaje claro y enfoque en seguridad y empoderamiento."
+description: "Plantilla adaptable para organizar un 'Construye un refugio seguro', día práctico para crear un laboratorio de seguridad tecnológica con Pirogue y Wazuh. Dirigida a autoridades locales, fundaciones o programas de derechos digitales, con lenguaje claro y enfoque en seguridad y empoderamiento."
 ---
 
 ### 1. Título
@@ -18,7 +18,7 @@ description: "Plantilla adaptable para organizar un 'Construye un refugio seguro
 
 Organizamos un *build-a-thon* de 1–2 días donde el personal instalará un laboratorio de seguridad digital usando herramientas open-source como Wazuh (monitoreo) y Pirogue (detección de amenazas). El resultado será un sistema funcional para detectar spyware, monitorear riesgos y apoyar a sobrevivientes de abuso digital.
 
-No es una charla—es un día colaborativo que termina con una solución operable.
+No es una charla, es un día colaborativo que termina con una solución operable.
 
 ### 3. Objetivos
 

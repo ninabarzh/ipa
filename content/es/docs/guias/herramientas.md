@@ -7,10 +7,10 @@ _build:
 menu:
   sidebar:
     weight: 45
-description: "Desde mensajería segura hasta gestores de contraseñas, esta sección reúne aplicaciones discretas que protegen tu privacidad sin gritar 'estoy escondiendo algo'. Elige lo que te sirva—sin jerga, sin agobios, solo cosas que funcionan."
+description: "Desde mensajería segura hasta gestores de contraseñas, esta sección reúne aplicaciones discretas que protegen tu privacidad sin gritar 'estoy escondiendo algo'. Elige lo que te sirva, sin jerga, sin agobios, solo cosas que funcionan."
 ---
 
-Estas herramientas no son para hackers o vida desconectada. Son para tomar control silencioso de tu vida digital—ya sea dejar cero rastro, comunicarte en privado o sentirte menos vigilado. No necesitas usarlas todas. Elige lo que ayude, ignora el resto.
+Estas herramientas no son para hackers o vida desconectada. Son para tomar control silencioso de tu vida digital, ya sea dejar cero rastro, comunicarte en privado o sentirte menos vigilado. No necesitas usarlas todas. Elige lo que ayude, ignora el resto.
 
 ## Mensajería y email privado
 
@@ -53,7 +53,7 @@ Joplin
 Tella
 
 * Diseñada para documentar abusos de derechos humanos
-* Guarda fotos, videos, notas de voz y texto—encriptado
+* Guarda fotos, videos, notas de voz y texto, encriptado
 * Función de borrado de emergencia
 * Puede camuflarse como otra app
 
@@ -65,7 +65,7 @@ Navegador DuckDuckGo
 
 * Bloquea rastreadores y no guarda historial
 * Botón "quemar" borra pestañas al instante
-* Parece navegador normal—sin curva de aprendizaje
+* Parece navegador normal, sin curva de aprendizaje
 
 Brave Browser
 

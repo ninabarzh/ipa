@@ -12,7 +12,7 @@ description: "Hayatta kalanlar için teknoloji güvenliği kendi hızını seç 
 
 ## "Hayatta kalanlar için teknoloji güvenliği – Kendi hızını seç günü" nedir?
 
-PowerOn: Hayatta kalanlar için teknoloji güvenliği – Kendi hızını seç günü, yakın partner şiddetinden kurtulanlar için tasarlanmış tam günlük bir atölyedir. Katılımcıların dijital güvenliği güçlendirici, destekleyici ve teknik olmayan bir şekilde keşfetmelerine yardımcı olur. Hayatta kalanlar gözetimi fark etmeyi, cihaz/hesap kontrolünü geri almayı ve teknolojiye güveni kendi hızlarında—paylaşım veya performans baskısı olmadan öğrenir.
+PowerOn: Hayatta kalanlar için teknoloji güvenliği – Kendi hızını seç günü, yakın partner şiddetinden kurtulanlar için tasarlanmış tam günlük bir atölyedir. Katılımcıların dijital güvenliği güçlendirici, destekleyici ve teknik olmayan bir şekilde keşfetmelerine yardımcı olur. Hayatta kalanlar gözetimi fark etmeyi, cihaz/hesap kontrolünü geri almayı ve teknolojiye güveni kendi hızlarında, paylaşım veya performans baskısı olmadan öğrenir.
 
 Atölye eğlenceli, seçim odaklı ve travma-bilinçlidir; açık alan öğrenimi, uygulamalı teknoloji desteği, rol canlandırmaları ve yaratıcı alanları birleştirir.
 
@@ -20,7 +20,7 @@ Atölye eğlenceli, seçim odaklı ve travma-bilinçlidir; açık alan öğrenim
 
 ## Neden düzenlenmeli?
 
-Dijital istismar artık partner şiddetinin parçası—konum takibi, hesap kilitleri, casus yazılım veya akıllı ev manipülasyonuyla. Hayatta kalanlar genellikle:
+Dijital istismar artık partner şiddetinin parçası, konum takibi, hesap kilitleri, casus yazılım veya akıllı ev manipülasyonuyla. Hayatta kalanlar genellikle:
 
 * Nereden başlayacaklarını bilemez
 * Teknoloji konusunda kime güveneceğini bilmez

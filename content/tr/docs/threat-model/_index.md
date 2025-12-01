@@ -15,11 +15,11 @@ translationKey: "threat-model"
 
 ## Bu tehdit modeli nasıl çalışır (ve neden önemlidir)
 
-Diyelim ki takip ediliyorsunuz—ama karanlık bir sokakta değil. Daha çok telefonunuz her zaman nerede olduğunuzu biliyor, mesajlarınız tuhaf bir şekilde herkese açık görünüyor ve eski partneriniz asla anlatmadığınız şeyler hakkında şüpheli derecede iyi bilgi sahibi.
+Diyelim ki takip ediliyorsunuz, ama karanlık bir sokakta değil. Daha çok telefonunuz her zaman nerede olduğunuzu biliyor, mesajlarınız tuhaf bir şekilde herkese açık görünüyor ve eski partneriniz asla anlatmadığınız şeyler hakkında şüpheli derecede iyi bilgi sahibi.
 
 İşte şiddetin dijital yüzüne hoş geldiniz: gündelik teknolojinin bir kontrol aracına dönüştüğü yer.
 
-Bu bağlamda **tehdit modellemesi**, basitçe şu demenin süslü bir yoludur: *"Nelerin yanlış gidebileceğini, kimin buna neden olabileceğini, bunu nasıl yapabileceklerini ve sonuçlarının ne olabileceğini—henüz olmadan veya daha kötüleşmeden önce anlamaya çalışalım."*
+Bu bağlamda **tehdit modellemesi**, basitçe şu demenin süslü bir yoludur: *"Nelerin yanlış gidebileceğini, kimin buna neden olabileceğini, bunu nasıl yapabileceklerini ve sonuçlarının ne olabileceğini, henüz olmadan veya daha kötüleşmeden önce anlamaya çalışalım."*
 
 Bir ev güvenlik kontrolü yapmak gibi, ama dijital hayatınız için.
 
@@ -28,7 +28,7 @@ Bir ev güvenlik kontrolü yapmak gibi, ama dijital hayatınız için.
 Çoğu teknoloji güvenlik modeli işletmeler için tasarlanmıştır: güvenlik duvarları, bilgisayar korsanları, yönetim kurulu paniği.  
 Bu öyle değil.  
 
-Buradaki tehdit, kapüşonlu bir sweatshirt giyen gizemli biri değil—belki bir yatağı, bir çocuğu veya bir Netflix hesabını paylaştığınız biri. Hollywood tarzında "hack" yapmıyor olabilirler, ancak genellikle şunlara sahiptirler:
+Buradaki tehdit, kapüşonlu bir sweatshirt giyen gizemli biri değil, belki bir yatağı, bir çocuğu veya bir Netflix hesabını paylaştığınız biri. Hollywood tarzında "hack" yapmıyor olabilirler, ancak genellikle şunlara sahiptirler:
 
 - **Erişim** (cihazlarınıza, hesaplarınıza veya şifrelerinize)  
 - **Bilgi** (alışkanlıklarınız, rutinleriniz, duygusal tetikleyicileriniz hakkında)  
@@ -40,7 +40,7 @@ Bu da kuralları tamamen değiştirir.
 
 Çünkü örüntüyü fark etmek, onu kırmanın ilk adımıdır.
 
-Bu, hedef alınan kişiyi suçlamakla ilgili değildir. Tam tersi. Çoğu teknoloji açık, kullanışlı ve—ne yazık ki—istismarcı dostu olacak şekilde tasarlanmıştır. Ama sorunu adlandırabildiğinizde, etrafında stratejiler geliştirmeye başlayabilirsiniz.
+Bu, hedef alınan kişiyi suçlamakla ilgili değildir. Tam tersi. Çoğu teknoloji açık, kullanışlı ve, ne yazık ki, istismarcı dostu olacak şekilde tasarlanmıştır. Ama sorunu adlandırabildiğinizde, etrafında stratejiler geliştirmeye başlayabilirsiniz.
 
 Ayrıca destek çalışanlarına, hukuk profesyonellerine ve diğer ilgili kişilere şunları anlamalarında yardımcı olur:
 

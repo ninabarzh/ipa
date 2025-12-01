@@ -7,19 +7,19 @@ _build:
 menu:
   sidebar:
     weight: 15
-description: "Les téléphones et ordinateurs contiennent souvent plus de votre vie que vous ne le pensez. Cette section vous aide à repérer les risques cachés, vérifier les traces et reprendre le contrôle en toute sécurité—surtout si l'appareil a été offert ou configuré \"comme un service\"."
+description: "Les téléphones et ordinateurs contiennent souvent plus de votre vie que vous ne le pensez. Cette section vous aide à repérer les risques cachés, vérifier les traces et reprendre le contrôle en toute sécurité, surtout si l'appareil a été offert ou configuré \"comme un service\"."
 ---
 
 ## Comment vérifier un téléphone pour stalkerware ou applications suspectes
 
-Si votre téléphone semble avoir des yeux supplémentaires, vous pourriez avoir raison. Ce n'est pas de la paranoïa si quelqu'un a installé quelque chose à votre insu. Voici comment vérifier calmement—sans faire de bruit.
+Si votre téléphone semble avoir des yeux supplémentaires, vous pourriez avoir raison. Ce n'est pas de la paranoïa si quelqu'un a installé quelque chose à votre insu. Voici comment vérifier calmement, sans faire de bruit.
 
 1. Signes subtils d'un problème
 
 * Batterie qui se vide sans raison
 * Comportement étrange (écran qui clignote, surchauffe, lenteur)
 * Applications que vous ne reconnaissez pas
-* Utilisation inexpliquée des données—surtout avec données mobiles désactivées
+* Utilisation inexpliquée des données, surtout avec données mobiles désactivées
 
 Aucun seul ne prouve quoi que ce soit, mais ensemble? Cela mérite un examen plus approfondi.
 
@@ -54,20 +54,20 @@ Quelque chose d'inconnu ? Notez-le, mais ne le supprimez pas encore.
 
 Parfois, il vaut mieux ne pas combattre les vieux fantômes. Si votre appareil semble trop compromis, un nouveau départ offre la liberté de reconstruire.
 
-1. Choisissez un appareil sous votre contrôle dès le départ. Évitez les cadeaux, reconditionnés sans garantie ou configurés par d'autres "pour aider". Le neuf n'est pas toujours nécessaire—juste propre, à jour et sous votre contrôle total.
+1. Choisissez un appareil sous votre contrôle dès le départ. Évitez les cadeaux, reconditionnés sans garantie ou configurés par d'autres "pour aider". Le neuf n'est pas toujours nécessaire, juste propre, à jour et sous votre contrôle total.
 
 2. Ne restaurez pas depuis des sauvegardes cloud. Aussi tentant que soit "restaurer", cela pourrait importer des problèmes. Configurez comme nouveau.
 
 * Copiez manuellement les données essentielles (photos, contacts, etc.)
 * Laissez derrière vous les anciennes applications, paramètres et mots de passe enregistrés
 
-3. Installez un minimum d'applications. Limitez-vous à l'essentiel—messages, email, cartes. Évitez de vous connecter à d'anciens comptes avant d'être sûr de leur sécurité.
+3. Installez un minimum d'applications. Limitez-vous à l'essentiel, messages, email, cartes. Évitez de vous connecter à d'anciens comptes avant d'être sûr de leur sécurité.
 
 4. Utilisez de nouvelles identifiants si possible
 
 * Nouvelle adresse email
 * Nouveaux comptes d'applications
-* Ne réutilisez pas anciens noms d'utilisateur ou mots de passe—ils pourraient être connus
+* Ne réutilisez pas anciens noms d'utilisateur ou mots de passe, ils pourraient être connus
 
 5. Retardez la synchronisation entre appareils. Jusqu'à être confiant dans votre nouvelle configuration, gardez vos appareils indépendants. Évitez de vous connecter sur des ordinateurs partagés ou de synchroniser les messages entre plateformes.
 
@@ -108,7 +108,7 @@ Si vous ne vous souvenez pas avoir dit oui, n'hésitez pas à dire non.
 * Android : **Paramètres → Confidentialité → Publicités → Réinitialiser l'ID publicitaire**
 * iPhone : **Paramètres → Confidentialité → Publicité Apple → Désactiver la Publicité Personnalisée**
 
-Ne stoppe pas tout—mais réduit le pistage ciblé.
+Ne stoppe pas tout, mais réduit le pistage ciblé.
 
 5. Surveillez les indices d'utilisation de la batterie. Si une application inconnue consomme beaucoup en arrière-plan, cela mérite enquête.
 
@@ -122,7 +122,7 @@ Si quelque chose d'obscur est en haut de liste, creusez.
 
 ## Comment sauvegarder un appareil en toute sécurité avant réinitialisation
 
-Si vous prévoyez une réinitialisation d'usine—ou un nouveau départ—il est crucial de réfléchir à ce qu'il faut garder. Certaines données sont irremplaçables. D'autres pourraient aider à prouver ce qui s'est passé.
+Si vous prévoyez une réinitialisation d'usine, ou un nouveau départ, il est crucial de réfléchir à ce qu'il faut garder. Certaines données sont irremplaçables. D'autres pourraient aider à prouver ce qui s'est passé.
 
 1. Décidez quoi conserver
 
@@ -143,4 +143,4 @@ Si vous prévoyez une réinitialisation d'usine—ou un nouveau départ—il est
 
 5. Capturez les permissions et paramètres. Surtout en cas de suspicion de logiciel espion. Même si vous n'agissez pas maintenant, cela pourrait aider plus tard.
 
-6. Stockez les preuves en sécurité. Faites deux copies : une pour usage, une sous clé. Si besoin, demandez à une personne de confiance d'en garder une—ou utilisez un stockage cloud sécurisé avec authentification à deux facteurs.
+6. Stockez les preuves en sécurité. Faites deux copies : une pour usage, une sous clé. Si besoin, demandez à une personne de confiance d'en garder une, ou utilisez un stockage cloud sécurisé avec authentification à deux facteurs.

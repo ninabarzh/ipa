@@ -4,7 +4,7 @@ linkTitle: "Secure the shelter build-a-thon"
 weight: 2
 _build:
   render: always
-description: "A cheerful, tech-positive, hands-dirty build-a-thon for shelter staff. No preaching, no doomscrolling—just teamwork, gadgets, and a healthy respect for mischief managed."
+description: "A cheerful, tech-positive, hands-dirty build-a-thon for shelter staff. No preaching, no doomscrolling, just teamwork, gadgets, and a healthy respect for mischief managed."
 menu:
   sidebar:
     weight: 10
@@ -90,7 +90,7 @@ Fun learning moments:
 
 ## Stage 3: Plug, boot, scan (a.k.a. Pirogue & play)
 
-*“Now we’re going fishing—for spyware.”*
+*“Now we’re going fishing, for spyware.”*
 
 ### Goals:
 

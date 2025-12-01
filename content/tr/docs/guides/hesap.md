@@ -7,24 +7,24 @@ _build:
 menu:
   sidebar:
     weight: 10
-description: "Şifreler ve 2FA'dan istenmeyen erişimi kaldırmaya kadar, bu bölüm hesaplarınızı nasıl geri alacağınızı—sessizce, sakinleştirici bir şekilde ve şüphe çekmeden—adım adım anlatıyor. İster e-posta, sosyal medya, ister bankacılık olsun, kontrol burada başlıyor."
+description: "Şifreler ve 2FA'dan istenmeyen erişimi kaldırmaya kadar, bu bölüm hesaplarınızı nasıl geri alacağınızı, sessizce, sakinleştirici bir şekilde ve şüphe çekmeden, adım adım anlatıyor. İster e-posta, sosyal medya, ister bankacılık olsun, kontrol burada başlıyor."
 ---
 
 ## Şifrenizi güvenli bir şekilde nasıl değiştirirsiniz
 
 Şifrenizi değiştirmek, birinin dijital hayatınıza burnunu sokmasını engellemenin en basit yollarından biridir. Ancak hesaplarınızın izlendiğinden şüpheleniyorsanız, ani değil stratejik hareket etmek önemlidir.
 
-1. Erişemeyecekleri bir cihaz kullanın: Normal telefonunuz veya bilgisayarınızın izlendiğini düşünüyorsanız, farklı bir cihaz kullanın—güvendiğiniz bir arkadaşınızınki veya halk kütüphanesindeki bir bilgisayar gibi. Tabii ki sessizce.
+1. Erişemeyecekleri bir cihaz kullanın: Normal telefonunuz veya bilgisayarınızın izlendiğini düşünüyorsanız, farklı bir cihaz kullanın, güvendiğiniz bir arkadaşınızınki veya halk kütüphanesindeki bir bilgisayar gibi. Tabii ki sessizce.
 
-2. E-posta hesabından başlayın: Çoğu diğer hesap—banka, sosyal medya, depolama—e-postanıza bağlıdır. Biri gelen kutunuza erişebiliyorsa, genellikle diğer her şeyi sıfırlayabilir.
+2. E-posta hesabından başlayın: Çoğu diğer hesap, banka, sosyal medya, depolama, e-postanıza bağlıdır. Biri gelen kutunuza erişebiliyorsa, genellikle diğer her şeyi sıfırlayabilir.
 
 3. Uzun ve benzersiz bir şifre kullanın: Doğum gününüzü, evcil hayvanınızın adını veya okulunuzu bilseler bile tahmin edemeyecekleri bir şey olsun. Örnek: `YağmurluFincanlar!YürüyenSuSamurları2025`
 
-4. Güvenli bir yerde saklayın—ama bariz olmasın: Yazmanız gerekiyorsa, iyi saklayın. Dizüstü bilgisayarınızın altına yapıştırılmış veya "Şifreler" başlıklı bir not uygulamasında değil.
+4. Güvenli bir yerde saklayın, ama bariz olmasın: Yazmanız gerekiyorsa, iyi saklayın. Dizüstü bilgisayarınızın altına yapıştırılmış veya "Şifreler" başlıklı bir not uygulamasında değil.
 
 5. Her şeyi aynı anda yapmayın: Değişikliklerin fark edileceğinden endişeleniyorsanız, zaman ayırın. Önemli hesapları önceliklendirin ve diğerlerini aralıklarla yapın. Bu bir maraton, şifre koşusu değil.
 
-6. Uyarıları kontrol edin: Bazı hesaplar şifre değişikliklerinde kullanıcıları bilgilendirir. Sorun çıkarabileceğini düşünüyorsanız, zamanlamayı dikkatli seçin—veya şüpheyi azaltmak için diğer değişikliklerle birlikte yapın.
+6. Uyarıları kontrol edin: Bazı hesaplar şifre değişikliklerinde kullanıcıları bilgilendirir. Sorun çıkarabileceğini düşünüyorsanız, zamanlamayı dikkatli seçin, veya şüpheyi azaltmak için diğer değişikliklerle birlikte yapın.
 
 ---
 
@@ -42,7 +42,7 @@ description: "Şifreler ve 2FA'dan istenmeyen erişimi kaldırmaya kadar, bu bö
 
 3. Önemli hesaplarda 2FA'yı etkinleştirin. Genellikle "Ayarlar" → "Güvenlik" → "İki adımlı doğrulama" altındadır. Seçtiğiniz uygulamayla bir QR kodu tarayacaksınız.
 
-4. Yedek kodları çevrimdışı saklayın. Telefonunuzu kaybederseniz kullanabileceğiniz bir kerelik acil durum kodlarıdır. Yazdırın veya güvenli bir yere yazın—bir kitabın içine yapıştırmak iyi bir fikirdir.
+4. Yedek kodları çevrimdışı saklayın. Telefonunuzu kaybederseniz kullanabileceğiniz bir kerelik acil durum kodlarıdır. Yazdırın veya güvenli bir yere yazın, bir kitabın içine yapıştırmak iyi bir fikirdir.
 
 5. SMS yedeğini devre dışı bırakın (mümkünse). Uygulama tabanlı 2FA çalıştığında, birçok platform telefon numarası kurtarmayı kaldırmanıza izin verir. Bu, ele geçirilmiş SMS'lerle şifre sıfırlamalarını önlemeye yardımcı olur.
 
@@ -61,11 +61,11 @@ Paylaşılan bir cihazda, unutulmuş bir tablette veya hatırlamadığınız uyg
 * Google: [Güvenlik Kontrolü](https://myaccount.google.com/security-checkup)
 * Apple: Ayarlar → Adınız → Cihazlar
 
-Tanımadığınız—veya artık sahip olmadığınız cihazları kaldırın.
+Tanımadığınız, veya artık sahip olmadığınız cihazları kaldırın.
 
 3. Bağlı uygulamaları iptal edin. Hesap ayarlarında, genellikle erişimi olan üçüncü taraf uygulamaların veya araçların bir listesini bulursunuz. Şüpheli veya gereksiz olanları kaldırın.
 
-4. Kurtarma e-postanızı ve telefonunuzu değiştirin. Onların e-postasının veya numarasının hala "kurtarma" veya "yedek" ayarlarında listelenip listelenmediğini kontrol edin. Yalnızca sizin kontrol ettiğiniz biriyle değiştirin—belki yeni bir ProtonMail adresi (aşağıya bakın).
+4. Kurtarma e-postanızı ve telefonunuzu değiştirin. Onların e-postasının veya numarasının hala "kurtarma" veya "yedek" ayarlarında listelenip listelenmediğini kontrol edin. Yalnızca sizin kontrol ettiğiniz biriyle değiştirin, belki yeni bir ProtonMail adresi (aşağıya bakın).
 
 5. Bir uygulamayla 2FA'yı etkinleştirin. Bir kez çıktıklarında, çıkmış kalırlar. Uygulama tabanlı 2FA ekleyin ve SMS kurtarma seçeneklerini kaldırın.
 
@@ -88,7 +88,7 @@ Her ikisi de anonim kayıt olmanıza izin verir ve uygulamaları vardır.
 
 3. Güvenli olmayan cihazlarla senkronizasyondan kaçının. Bu hesabı tehlikeye girmiş olabilecek bir cihaza eklemeyin. Mümkünse tarayıcı erişimini, tercihen gizli modda kullanın.
 
-4. Bağlantı önizlemelerini ve resim yüklemeyi kapatın. Bunlar veri sızdırabilir veya gizli izleyiciler olarak işlev görebilir. Çoğu güvenli e-posta servisi bunları varsayılan olarak devre dışı bırakır—ama yine de kontrol etmeye değer.
+4. Bağlantı önizlemelerini ve resim yüklemeyi kapatın. Bunlar veri sızdırabilir veya gizli izleyiciler olarak işlev görebilir. Çoğu güvenli e-posta servisi bunları varsayılan olarak devre dışı bırakır, ama yine de kontrol etmeye değer.
 
 5. Kiminle paylaştığınıza dikkat edin. Bu hesap, özel tutmak istediğiniz iletişim içindir. Normal hesaplarınıza bağlamayın veya şüphe uyandırabilecek hizmetlere kaydolmak için kullanmayın.
 

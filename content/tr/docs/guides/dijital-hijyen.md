@@ -12,7 +12,7 @@ description: "Uygulamalarınız güvende olsa bile, bulutunuz ve meta verilerini
 
 ## Google konum geçmişini ve aktivite takibini nasıl devre dışı bırakırsınız
 
-Google sadece nerede olduğunuzu hatırlamaz—neyi aradığınızı, hangi videoları izlediğinizi ve bazen arabanızı nereye park ettiğinizi de hatırlar. Neyse ki, unutmasını sağlayabilirsiniz. Ya da en azından not almayı bırakmasını.
+Google sadece nerede olduğunuzu hatırlamaz, neyi aradığınızı, hangi videoları izlediğinizi ve bazen arabanızı nereye park ettiğinizi de hatırlar. Neyse ki, unutmasını sağlayabilirsiniz. Ya da en azından not almayı bırakmasını.
 
 1. Google'ın Aktivite Kontrollerini ziyaret edin. [myactivity.google.com/activitycontrols](https://myactivity.google.com/activitycontrols) adresine gidin. Burada şunlar için anahtarlar göreceksiniz:
 
@@ -27,7 +27,7 @@ Hepsini temiz bir sayfa için devre dışı bırakın.
 
 * Google Haritalar'ı açın
 * Profil simgenize dokunun → Konum paylaşımı
-* Listelenen herkesle paylaşımı durdurun—özellikle tanımadığınız isimler
+* Listelenen herkesle paylaşımı durdurun, özellikle tanımadığınız isimler
 
 3. Konum geçmişini silin
 
@@ -44,15 +44,15 @@ Hepsini temiz bir sayfa için devre dışı bırakın.
 5. Cihazları yönetin
 
 * Google Hesabı → Güvenlik → Cihazlarınız
-* Tanımadığınız—veya başkasının kullanabileceği her şeyi kaldırın
+* Tanımadığınız, veya başkasının kullanabileceği her şeyi kaldırın
 
-6. Farkında olun: silme her anında gerçekleşmez. Geçmiş devre dışı bırakıldıktan sonra bile bazı kayıtlar bir süre kalır. Mükemmel bir gizlilik değil—ama muslukları sonuna kadar açık bırakmaktan çok daha iyi.
+6. Farkında olun: silme her anında gerçekleşmez. Geçmiş devre dışı bırakıldıktan sonra bile bazı kayıtlar bir süre kalır. Mükemmel bir gizlilik değil, ama muslukları sonuna kadar açık bırakmaktan çok daha iyi.
 
 ---
 
 ## Paylaşılan hesaplardan bulut erişimini nasıl iptal edersiniz
 
-Bulut depolama harikadır—ta ki biri dijital dosya dolabınızda dolaşana kadar. Kimin ne paylaştığını kontrol etme zamanı.
+Bulut depolama harikadır, ta ki biri dijital dosya dolabınızda dolaşana kadar. Kimin ne paylaştığını kontrol etme zamanı.
 
 1. Güvenli bir cihazda oturum açın. Her zamanki gibi, tehlikeye girmiş olabilecek cihazlardan kaçının.
 
@@ -78,7 +78,7 @@ Bulut depolama harikadır—ta ki biri dijital dosya dolabınızda dolaşana kad
 * Hesap Ayarları → Bağlı Uygulamalar altındaki bağlı uygulamaları kontrol edin
 * Şüpheli veya eski araçları kaldırın
 
-5. Tüm bulut hizmetlerinin şifrelerini değiştirin. Bunu erişimlerini iptal ettikten sonra yapın—önce yapmak birini uyarabilir.
+5. Tüm bulut hizmetlerinin şifrelerini değiştirin. Bunu erişimlerini iptal ettikten sonra yapın, önce yapmak birini uyarabilir.
 
 6. Gerekirse takviminizi yeniden oluşturun. Takviminiz gözetim için kullanıldıysa (örn. randevuları takip etmek), paylaşımı sınırlı ve bildirimleri kapalı yeni bir takvim oluşturmayı düşünün.
 
@@ -86,13 +86,13 @@ Bulut depolama harikadır—ta ki biri dijital dosya dolabınızda dolaşana kad
 
 ## Günlükleri veya ekran görüntülerini dışa aktarırken meta verileri ve kanıtları nasıl korursunuz
 
-Teknoloji tabanlı istismarı yasal, konut veya destek amaçlarıyla belgeliyorsanız, sadece *neyi* kaydettiğiniz değil—*nasıl* kaydettiğiniz de önemlidir.
+Teknoloji tabanlı istismarı yasal, konut veya destek amaçlarıyla belgeliyorsanız, sadece *neyi* kaydettiğiniz değil, *nasıl* kaydettiğiniz de önemlidir.
 
 1. Dosya zaman damgalarını koruyun. Ekran görüntüleri veya sohbet dışa aktarımlarını kaydederken, gerekmedikçe yeniden adlandırmayın. Dosya adı ve oluşturma tarihi bir zaman çizelgesi oluşturmaya yardımcı olabilir.
 
 2. Günlükleri PDF veya düz metin olarak dışa aktarın. WhatsApp ve Signal gibi uygulamalar sohbet dışa aktarımına izin verir. Zaman damgalarını, telefon numaralarını veya e-posta kimliklerini açıkça gösteren biçimi seçin.
 
-3. Orijinal dosyaları saklayın. Her zaman düzenlenmemiş sürümü kaydedin—tek kopyanızı kırpmayın veya açıklama eklemeyin. Gerekirse kopyalar oluşturun.
+3. Orijinal dosyaları saklayın. Her zaman düzenlenmemiş sürümü kaydedin, tek kopyanızı kırpmayın veya açıklama eklemeyin. Gerekirse kopyalar oluşturun.
 
 4. Meta veri bilinçli araçlar kullanın. Dosyaları dışa aktarırken (örn. Google Takeout, Dropbox günlükleri), sıkıştırılmış klasörleri olduğu gibi tutun. Çıkarırsanız, paylaşılan veya izlenen cihazlarda düzenlemekten kaçının.
 
@@ -109,4 +109,4 @@ Teknoloji tabanlı istismarı yasal, konut veya destek amaçlarıyla belgeliyors
 * Güvenilir bir arkadaş
 * Özel bulut klasörü (Proton Drive, Sync.com)
 
-7. İsteğe bağlı: bağlam ekleyin. Her kanıt parçasının etrafında neler olduğunu—tarihleri, değişiklikleri, garip davranışları veya konuşmaları—anlatan ayrı bir not veya günlük girişi (düz metin veya PDF) ekleyin. Daha sonra önemini açıklamanız gerektiğinde bu durumunuzu güçlendirir.
+7. İsteğe bağlı: bağlam ekleyin. Her kanıt parçasının etrafında neler olduğunu, tarihleri, değişiklikleri, garip davranışları veya konuşmaları, anlatan ayrı bir not veya günlük girişi (düz metin veya PDF) ekleyin. Daha sonra önemini açıklamanız gerektiğinde bu durumunuzu güçlendirir.

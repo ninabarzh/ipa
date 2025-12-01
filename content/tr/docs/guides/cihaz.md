@@ -7,7 +7,7 @@ _build:
 menu:
   sidebar:
     weight: 15
-description: "Telefonlar ve dizüstü bilgisayarlar genellikle farkında olduğunuzdan daha fazla hayatınızı içerir. Bu bölüm, gizli riskleri tespit etmenize, izleme için kontrol etmenize ve güvenli bir şekilde kontrolü geri almanıza yardımcı olur—özellikle cihaz hediye edilmiş veya \"bir iyilik olarak\" ayarlanmışsa."
+description: "Telefonlar ve dizüstü bilgisayarlar genellikle farkında olduğunuzdan daha fazla hayatınızı içerir. Bu bölüm, gizli riskleri tespit etmenize, izleme için kontrol etmenize ve güvenli bir şekilde kontrolü geri almanıza yardımcı olur, özellikle cihaz hediye edilmiş veya \"bir iyilik olarak\" ayarlanmışsa."
 ---
 
 ## Bir telefondaki stalkerware veya şüpheli uygulamalar nasıl kontrol edilir
@@ -19,7 +19,7 @@ Telefonunuzda ikinci bir göz çifti varmış gibi hissediyorsanız, haklı olab
 * Nedensiz yere hızla biten pil
 * Garip davranışlar (ekran yanıp sönme, aşırı ısınma, yavaşlık)
 * Yüklediğinizi hatırlamadığınız uygulamalar
-* Açıklanamayan veri kullanımı—özellikle mobil veri kapalıyken
+* Açıklanamayan veri kullanımı, özellikle mobil veri kapalıyken
 
 Bunların hiçbiri tek başına bir şey kanıtlamaz, ama birlikte? Daha yakından bakmaya değer.
 
@@ -54,20 +54,20 @@ Tanımadığınız bir şey var mı? İşaretleyin, ama henüz kaldırmayın.
 
 Bazen eski hayaletlerle savaşmamak en iyisidir. Cihazınız çok tehlikeye girmiş gibi hissediyorsa, yeniden inşa etme özgürlüğü veren temiz bir başlangıç yapın.
 
-1. Kurulumdan itibaren kontrol ettiğiniz bir cihaz seçin. Hediye edilmiş, garantisiz yenilenmiş veya başkaları tarafından "yardım olsun diye" ayarlanmış şeylerden kaçının. Yeni her zaman gerekli değildir—sadece temiz, güncel ve tam kontrolünüz altında olmalı.
+1. Kurulumdan itibaren kontrol ettiğiniz bir cihaz seçin. Hediye edilmiş, garantisiz yenilenmiş veya başkaları tarafından "yardım olsun diye" ayarlanmış şeylerden kaçının. Yeni her zaman gerekli değildir, sadece temiz, güncel ve tam kontrolünüz altında olmalı.
 
 2. Bulut yedeklerinden geri yükleme yapmayın. "Geri yükle" düğmesine basmak cazip gelse de, sorun getirebilir. Yeni olarak ayarlayın.
 
 * Önemli verileri manuel olarak kopyalayın (fotoğraflar, kişiler vb.)
 * Eski uygulamaları, ayarları ve kayıtlı şifreleri geride bırakın
 
-3. Minimum uygulama yükleyin. Temellere bağlı kalın—mesajlar, e-posta, haritalar. Eski hesaplara giriş yapmaktan, güvende olduklarından emin olana kadar kaçının.
+3. Minimum uygulama yükleyin. Temellere bağlı kalın, mesajlar, e-posta, haritalar. Eski hesaplara giriş yapmaktan, güvende olduklarından emin olana kadar kaçının.
 
 4. Mümkün olduğunda yeni kimlik bilgileri kullanın
 
 * Yeni e-posta adresi
 * Yeni uygulama hesapları
-* Eski kullanıcı adlarını veya şifreleri yeniden kullanmayın—biliniyor olabilirler
+* Eski kullanıcı adlarını veya şifreleri yeniden kullanmayın, biliniyor olabilirler
 
 5. Cihazlar arası senkronizasyonu geciktirin. Yeni kurulumunuzun güvenli olduğundan emin olana kadar cihazlarınızı bağımsız tutun. Paylaşılan dizüstü bilgisayarlarda oturum açmaktan veya platformlar arası mesaj senkronizasyonundan kaçının.
 
@@ -108,7 +108,7 @@ Tamamen kapatmak yerine, gerçekten ihtiyaç duyan uygulamalara (haritalar gibi)
 * Android: **Ayarlar → Gizlilik → Reklamlar → Reklam kimliğini sıfırla**
 * iPhone: **Ayarlar → Gizlilik → Apple Reklamcılığı → Kişiselleştirilmiş Reklamları Kapat**
 
-Her şeyi durdurmaz—ama hedefli izlemeyi azaltır.
+Her şeyi durdurmaz, ama hedefli izlemeyi azaltır.
 
 5. Pil kullanımı ipuçlarına dikkat edin. Arka planda çok fazla güç tüketen bilinmeyen bir uygulama varsa, araştırmaya değer.
 
@@ -122,7 +122,7 @@ Listede yüksekteyse bilinmeyen bir şey, daha derine inin.
 
 ## Sıfırlamadan önce bir cihazı nasıl güvenli bir şekilde yedeklersiniz
 
-Bir fabrika sıfırlama planlıyorsanız—veya yeni bir başlangıç—neyi saklayacağınızı düşünmek çok önemlidir. Bazı verilerin yeri doldurulamaz. Diğer veriler daha sonra olanları kanıtlamaya yardımcı olabilir.
+Bir fabrika sıfırlama planlıyorsanız, veya yeni bir başlangıç, neyi saklayacağınızı düşünmek çok önemlidir. Bazı verilerin yeri doldurulamaz. Diğer veriler daha sonra olanları kanıtlamaya yardımcı olabilir.
 
 1. Ne saklayacağınıza karar verin
 
@@ -143,4 +143,4 @@ Bir fabrika sıfırlama planlıyorsanız—veya yeni bir başlangıç—neyi sak
 
 5. Uygulama izinlerinin ve cihaz ayarlarının ekran görüntülerini alın. Özellikle casus yazılımdan şüpheleniyorsanız. Şimdi harekete geçmeye hazır olmasanız bile, bu daha sonra yardımcı olabilir.
 
-6. Kanıt kopyalarını güvenli bir şekilde saklayın. İki kopya yapın: biri anında kullanım için, biri kilitli. Gerekirse, güvendiğiniz bir kişiden bir kopyayı saklamasını isteyin—veya iki faktörlü kimlik doğrulamalı güvenli bulut depolama kullanın.
+6. Kanıt kopyalarını güvenli bir şekilde saklayın. İki kopya yapın: biri anında kullanım için, biri kilitli. Gerekirse, güvendiğiniz bir kişiden bir kopyayı saklamasını isteyin, veya iki faktörlü kimlik doğrulamalı güvenli bulut depolama kullanın.

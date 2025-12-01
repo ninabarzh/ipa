@@ -12,7 +12,7 @@ description: "Formas prácticas de bloquear cosas sin levantar sospechas."
 
 A veces *no puedes* solucionar el abuso con tecnología. Pero una higiene digital inteligente y intervenciones discretas pueden inclinar la balanza a tu favor.
 
-Esta guía es para quienes estén listos para empezar a bloquear cosas—sin alertar ni provocar sospechas. No tienes que hacerlo todo. Empieza con lo que parezca posible.
+Esta guía es para quienes estén listos para empezar a bloquear cosas, sin alertar ni provocar sospechas. No tienes que hacerlo todo. Empieza con lo que parezca posible.
 
 ## Auditorías de dispositivos (sin activar alarmas)
 
@@ -28,7 +28,7 @@ Qué hacer:
 - Consejos para auditorías seguras:
   - Usa un segundo dispositivo (teléfono de un amigo, computadora pública) para *investigar apps sospechosas*  
   - Guarda registros y capturas *fuera del dispositivo o sin conexión*  
-  - No desinstales nada aún—algunos spyware alertan al ser eliminados
+  - No desinstales nada aún, algunos spyware alertan al ser eliminados
 
 ¿Necesitas empezar de cero? Más abajo: [Estrategias de borrón y cuenta nueva →](#estrategias-de-borrón-y-cuenta-nueva-cuándo-reiniciar)
 
@@ -60,14 +60,14 @@ Nubes compartidas = miradas compartidas. Hasta archivos o fotos "eliminados" pue
 
 Qué hacer:
 
-- Verifica si hay sincronización en Google Drive, iCloud, Dropbox, OneDrive—revisa *dispositivos vinculados* y *carpetas compartidas*
+- Verifica si hay sincronización en Google Drive, iCloud, Dropbox, OneDrive, revisa *dispositivos vinculados* y *carpetas compartidas*
 - Desactiva subidas automáticas: Fotos, backups de WhatsApp, apps de notas suelen sincronizar en silencio
-- Revoca acceso desde otros dispositivos: Si hay duda, cambia la contraseña *primero*—luego cierra sesiones remotamente
+- Revoca acceso desde otros dispositivos: Si hay duda, cambia la contraseña *primero*, luego cierra sesiones remotamente
 - Calendarios y álbumes compartidos: Suelen usarse para rastrear rutinas. Elimina colaboradores discretamente.
 
 ## Rastreo de rastreadores: AirTags, actividad de Google, apps maliciosas
 
-Si alguien sabe dónde has estado, podrías estar filtrando tu ubicación—aunque creas tenerla desactivada.
+Si alguien sabe dónde has estado, podrías estar filtrando tu ubicación, aunque creas tenerla desactivada.
 
 Busca rastreadores:
 
@@ -106,7 +106,7 @@ Checklist para empezar de cero:
    - Instala solo desde tiendas oficiales
 
 4. Número de teléfono nuevo (si es posible):  
-   - Úsalo solo para verificación—no lo compartas  
+   - Úsalo solo para verificación, no lo compartas  
    - Mantén tu número antiguo si necesitas apariencia
 
 5. Evita vincular con dispositivos/cuentas comprometidos: No inicies sesión en cuentas antiguas solo para "revisar algo"
@@ -115,7 +115,7 @@ Es un paso grande. No siempre es posible. Pero cuando lo es, puede ser liberador
 
 ## Una nota sobre esta sección
 
-Las soluciones técnicas son herramientas—no salvación. Funcionan mejor con apoyo, límites y seguridad emocional.  
+Las soluciones técnicas son herramientas, no salvación. Funcionan mejor con apoyo, límites y seguridad emocional.  
 No necesitas volverte experto en TI. Busca claridad, calma y control.
 
 Sigue con: [Qué revisar primero →](/docs/take-back-power/what) o [Con quién hablar (y cuándo) →](/docs/take-back-power/who)

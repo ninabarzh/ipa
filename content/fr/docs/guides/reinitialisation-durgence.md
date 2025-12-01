@@ -12,7 +12,7 @@ description: "Si tout semble compromis ou que vous préparez un changement majeu
 
 ## Comment préparer une réinitialisation numérique complète
 
-Parfois, les choses sont trop embrouillées pour être démêlées. Quand les comptes sont compromis, les appareils suspects ou l'accès dangereux, repartir de zéro peut être la meilleure option. Voici comment planifier une réinitialisation discrète et contrôlée—sans geste spectaculaire.
+Parfois, les choses sont trop embrouillées pour être démêlées. Quand les comptes sont compromis, les appareils suspects ou l'accès dangereux, repartir de zéro peut être la meilleure option. Voici comment planifier une réinitialisation discrète et contrôlée, sans geste spectaculaire.
 
 1. Faites l'inventaire : que voulez-vous garder ? Avant de tout effacer, rassemblez calmement l'essentiel :
 
@@ -27,16 +27,16 @@ Parfois, les choses sont trop embrouillées pour être démêlées. Quand les co
 * Stockage cloud axé sur la confidentialité (Proton Drive, Sync.com)
   Évitez Google Drive ou iCloud s'ils sont partagés ou surveillés.
 
-3. Séparez le personnel du partagé. Ne traînez pas de vieux bagages. Faites une liste des comptes à récupérer—et une autre de ceux à abandonner.
+3. Séparez le personnel du partagé. Ne traînez pas de vieux bagages. Faites une liste des comptes à récupérer, et une autre de ceux à abandonner.
 
-4. Envisagez un nouvel appareil. Si vous suspectez votre téléphone ou ordinateur actuel, repartez de zéro. Un appareil basique, configuré par vous, offre plus de contrôle. Emprunté ou reconditionné convient—si *vous* faites la configuration.
+4. Envisagez un nouvel appareil. Si vous suspectez votre téléphone ou ordinateur actuel, repartez de zéro. Un appareil basique, configuré par vous, offre plus de contrôle. Emprunté ou reconditionné convient, si *vous* faites la configuration.
 
 5. Réinitialisez les appareils un par un. Quand prêt :
 
 * Remettez l'appareil à neuf
 * Réinstallez uniquement des apps de confiance
 * Créez de nouveaux comptes avec mots de passe uniques et 2FA par app
-  Évitez les restaurations—elles ramènent de vieux problèmes.
+  Évitez les restaurations, elles ramènent de vieux problèmes.
 
 6. Restez discret pendant l'opération. N'annoncez pas que vous "recommencez". Commencez... simplement. Lentement. Silencieusement. Privilégiez la sécurité à la vitesse. C'est une transition, pas un geste spectaculaire.
 
@@ -76,7 +76,7 @@ Parfois, les premiers pas vers la sécurité commencent par la lecture. Mais si 
 * Chrome/Firefox : `Ctrl + Maj + N` (ou `Cmd + Maj + N` sur Mac)
 * Safari : Onglets → Privé
 
-Le mode privé ne sauvegarde pas l'historique—mais n'empêche pas le Wi-Fi ou le routeur de voir votre activité.
+Le mode privé ne sauvegarde pas l'historique, mais n'empêche pas le Wi-Fi ou le routeur de voir votre activité.
 
 2. Utilisez un navigateur axé confidentialité
 

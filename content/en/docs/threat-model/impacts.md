@@ -7,12 +7,12 @@ _build:
 menu:
   sidebar:  # Adds to Docsy's auto-generated sidebar
     weight: 30
-description: "Long-term effects like anxiety, safety risks, legal issues, and loss of trust in technology (or people). It’s not paranoia if they are watching you—especially if they bought the spyware off Amazon"
+description: "Long-term effects like anxiety, safety risks, legal issues, and loss of trust in technology (or people). It’s not paranoia if they are watching you, especially if they bought the spyware off Amazon"
 ---
 
 We’ve looked at how digital abuse happens. Now it’s time to face what it does.
 
-The impacts of tech-facilitated abuse go far beyond “someone read my texts.” This isn’t about inconvenience or privacy preferences—it’s about long-term, often invisible harm. Psychological, social, legal, financial. And it doesn’t stop when the relationship ends, or the phone is finally out of their reach.
+The impacts of tech-facilitated abuse go far beyond “someone read my texts.” This isn’t about inconvenience or privacy preferences, it’s about long-term, often invisible harm. Psychological, social, legal, financial. And it doesn’t stop when the relationship ends, or the phone is finally out of their reach.
 
 These are the real-world consequences.
 
@@ -28,13 +28,13 @@ Many survivors develop symptoms of:
 * Depression and withdrawal
 * PTSD or CPTSD, especially after prolonged exposure
 
-The blurring of boundaries—between home and trap, between device and captor—can lead to a profound sense of disempowerment. It’s hard to rest when your own phone feels like a spy.
+The blurring of boundaries, between home and trap, between device and captor, can lead to a profound sense of disempowerment. It’s hard to rest when your own phone feels like a spy.
 
 ## Physical safety risks
 
 Digital abuse often enables physical harm.
 
-Real-time location tracking means someone can show up at your home, workplace, child’s school, or favourite café—no need for guesswork. And when smart locks, cameras, or alarm systems are controlled by the wrong person, “home” can quickly become unsafe.
+Real-time location tracking means someone can show up at your home, workplace, child’s school, or favourite café, no need for guesswork. And when smart locks, cameras, or alarm systems are controlled by the wrong person, “home” can quickly become unsafe.
 
 Survivors have reported:
 
@@ -57,7 +57,7 @@ Examples include:
 * Loss of employment due to online defamation or “smear attacks”
 * Costs of replacing compromised tech
 
-And even when accounts are eventually secured, the damage—missed opportunities, unpaid bills, overdraft charges—lingers. Many survivors must start again, digitally and financially.
+And even when accounts are eventually secured, the damage, missed opportunities, unpaid bills, overdraft charges, lingers. Many survivors must start again, digitally and financially.
 
 ## Legal danger
 
@@ -72,13 +72,13 @@ Common risks:
 
 Unfortunately, legal systems in many places still lag behind. Police may view digital abuse as "a tech issue.” Courts may dismiss it as “he said, she said.” And expert reports are often expensive or inaccessible.
 
-The burden of proof almost always falls on the survivor—who must now explain subtle, technical abuse to institutions that weren’t trained to see it.
+The burden of proof almost always falls on the survivor, who must now explain subtle, technical abuse to institutions that weren’t trained to see it.
 
 ## Loss of autonomy
 
 Perhaps the most insidious consequence of all.
 
-Tech-facilitated abuse is a form of coercive control. Each act—whether it’s unlocking your phone, tracking your route, or deleting a calendar entry—chips away at your independence.
+Tech-facilitated abuse is a form of coercive control. Each act, whether it’s unlocking your phone, tracking your route, or deleting a calendar entry, chips away at your independence.
 
 Over time, this can lead to:
 
@@ -87,7 +87,7 @@ Over time, this can lead to:
 * Withdrawal from friends, services, or opportunities
 * A sense that escape is impossible or pointless
 
-The goal of abuse is not chaos—it’s obedience. 
+The goal of abuse is not chaos, it’s obedience. 
 When someone controls your technology, they control your time, your choices, and eventually, your self-image. Survivors often describe a slow erosion of autonomy until even simple decisions feel risky.
 
 ## A word on this section
@@ -97,4 +97,4 @@ This is why threat modelling matters.
 Because for many survivors, the first step to healing isn’t finding the perfect app or a magic setting. It’s realising: *this isn’t my fault*.
 The impacts of digital abuse are real, measurable, and deeply human.
 
-But they can be understood. And once understood—they can be challenged.
+But they can be understood. And once understood, they can be challenged.

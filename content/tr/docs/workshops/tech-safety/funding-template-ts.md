@@ -7,7 +7,7 @@ _build:
 menu:
   sidebar:
     weight: 25
-description: "Sığınma evlerinin yerel/bölgesel fonlar için kullanabileceği başvuru şablonu. Çeşitli fon programlarına uyarlanabilir—açık, misyon odaklı ve başvuru portallarına/Word formlarına kopyalamaya hazır."
+description: "Sığınma evlerinin yerel/bölgesel fonlar için kullanabileceği başvuru şablonu. Çeşitli fon programlarına uyarlanabilir, açık, misyon odaklı ve başvuru portallarına/Word formlarına kopyalamaya hazır."
 ---
 
 ### 1. Proje başlığı
@@ -18,7 +18,7 @@ PowerOn: Hayatta kalanlar için teknoloji güvenliği – Kendi hızını seç g
 
 ### 2. Özet
 
-*PowerOn*, partner şiddetinden kurtulanlar için tasarlanmış, travma-bilinçli bir günlük teknoloji atölyesidir. Katılımcılar kendi hızlarında dijital güvenliği keşfeder—pratik aktiviteler, cihaz desteği ve gizlilik araçlarıyla.
+*PowerOn*, partner şiddetinden kurtulanlar için tasarlanmış, travma-bilinçli bir günlük teknoloji atölyesidir. Katılımcılar kendi hızlarında dijital güvenliği keşfeder, pratik aktiviteler, cihaz desteği ve gizlilik araçlarıyla.
 
 Gizli gözetim (stalkerware, konum takibi) tespit etmeyi, cihaz/hesap güvenliğini ve teknolojiye güveni yeniden inşa etmeyi öğrenirler.
 

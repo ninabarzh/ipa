@@ -12,7 +12,7 @@ description: "Même si vos applications sont sécurisées, votre cloud et vos m�
 
 ## Comment désactiver l'historique de localisation et le suivi d'activité Google
 
-Google ne se souvient pas seulement où vous êtes allé—il se souvient de vos recherches, des vidéos regardées, et parfois où vous avez garé votre voiture. Heureusement, vous pouvez lui demander d'oublier. Ou au moins d'arrêter de prendre des notes.
+Google ne se souvient pas seulement où vous êtes allé, il se souvient de vos recherches, des vidéos regardées, et parfois où vous avez garé votre voiture. Heureusement, vous pouvez lui demander d'oublier. Ou au moins d'arrêter de prendre des notes.
 
 1. Visitez les contrôles d'activité Google. Allez sur [myactivity.google.com/activitycontrols](https://myactivity.google.com/activitycontrols). Vous y trouverez des interrupteurs pour :
 
@@ -27,7 +27,7 @@ Désactivez tout pour une ardoise propre.
 
 * Ouvrez Google Maps
 * Appuyez sur votre icône de profil → Partage de position
-* Arrêtez de partager avec toute personne listée—surtout les noms que vous ne reconnaissez pas
+* Arrêtez de partager avec toute personne listée, surtout les noms que vous ne reconnaissez pas
 
 3. Supprimez l'historique de localisation
 
@@ -44,15 +44,15 @@ Désactivez tout pour une ardoise propre.
 5. Gérez vos appareils
 
 * Compte Google → Sécurité → Vos appareils
-* Supprimez tout appareil inconnu—ou qu'une autre personne pourrait utiliser
+* Supprimez tout appareil inconnu, ou qu'une autre personne pourrait utiliser
 
-6. Notez : la suppression n'est pas toujours instantanée. Même après désactivation, certains logs persistent. Ce n'est pas une confidentialité parfaite—mais bien mieux que de laisser les vannes grandes ouvertes.
+6. Notez : la suppression n'est pas toujours instantanée. Même après désactivation, certains logs persistent. Ce n'est pas une confidentialité parfaite, mais bien mieux que de laisser les vannes grandes ouvertes.
 
 ---
 
 ## Comment révoquer l'accès cloud des comptes partagés
 
-Le stockage cloud est génial—jusqu'à ce que quelqu'un fouille dans vos dossiers numériques. Il est temps de vérifier qui partage quoi.
+Le stockage cloud est génial, jusqu'à ce que quelqu'un fouille dans vos dossiers numériques. Il est temps de vérifier qui partage quoi.
 
 1. Connectez-vous depuis un appareil sûr. Comme toujours, évitez les appareils potentiellement compromis.
 
@@ -78,7 +78,7 @@ Le stockage cloud est génial—jusqu'à ce que quelqu'un fouille dans vos dossi
 * Vérifiez les apps connectées dans Paramètres → Applications connectées
 * Supprimez les outils suspects ou anciens
 
-5. Changez tous les mots de passe cloud. Faites-le après avoir révoqué les accès—le faire avant pourrait alerter quelqu'un.
+5. Changez tous les mots de passe cloud. Faites-le après avoir révoqué les accès, le faire avant pourrait alerter quelqu'un.
 
 6. Reconstruisez votre agenda si besoin. S'il a servi à la surveillance (ex. suivi de rendez-vous), créez-en un nouveau avec partage limité et notifications désactivées.
 
@@ -86,13 +86,13 @@ Le stockage cloud est génial—jusqu'à ce que quelqu'un fouille dans vos dossi
 
 ## Comment préserver métadonnées et preuves lors de l'export de logs ou captures
 
-Si vous documentez des abus technologiques pour des raisons légales ou de soutien, ce n'est pas seulement *quoi* sauvegarder—mais *comment*.
+Si vous documentez des abus technologiques pour des raisons légales ou de soutien, ce n'est pas seulement *quoi* sauvegarder, mais *comment*.
 
 1. Préservez les horodatages. Quand vous sauvegardez captures ou chats, ne les renommez pas sauf nécessité. Le nom et la date de création aident à établir une chronologie.
 
 2. Exportez les logs en PDF ou texte brut. Des apps comme WhatsApp et Signal permettent d'exporter les chats. Choisissez un format affichant clairement horodatages, numéros ou IDs.
 
-3. Conservez les fichiers originaux. Sauvegardez toujours la version non éditée—ne recadrez ou annotez pas votre seule copie. Faites des duplicatas si besoin.
+3. Conservez les fichiers originaux. Sauvegardez toujours la version non éditée, ne recadrez ou annotez pas votre seule copie. Faites des duplicatas si besoin.
 
 4. Utilisez des outils respectueux des métadonnées. À l'export (ex. Google Takeout), gardez les dossiers compressés intacts. Si vous les décompressez, évitez de les éditer sur des appareils partagés.
 
@@ -109,4 +109,4 @@ Si vous documentez des abus technologiques pour des raisons légales ou de souti
 * Ami de confiance
 * Dossier cloud privé (Proton Drive, Sync.com)
 
-7. Optionnel : ajoutez du contexte. Joignez une note ou entrée de journal (texte brut ou PDF) décrivant ce qui entoure chaque preuve—dates, changements, comportements étranges ou conversations. Cela renforce votre cas si vous devez en expliquer l'importance plus tard.
+7. Optionnel : ajoutez du contexte. Joignez une note ou entrée de journal (texte brut ou PDF) décrivant ce qui entoure chaque preuve, dates, changements, comportements étranges ou conversations. Cela renforce votre cas si vous devez en expliquer l'importance plus tard.

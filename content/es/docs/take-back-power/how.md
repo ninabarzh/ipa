@@ -11,7 +11,7 @@ description: "Formas discretas y seguras de recopilar y preservar evidencia digi
 ---
 
 Ante el abuso tecnológico, no siempre puedes probarlo en el momento.  
-Pero la evidencia, si se recopila con cuidado— se convierte en poder. Ayuda con protección legal, vivienda, servicios de apoyo, o simplemente *que te crean*.
+Pero la evidencia, si se recopila con cuidado,  se convierte en poder. Ayuda con protección legal, vivienda, servicios de apoyo, o simplemente *que te crean*.
 
 Esta guía explica métodos calmados y de bajo riesgo para recolectar evidencia digital.
 

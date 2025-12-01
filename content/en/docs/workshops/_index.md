@@ -11,7 +11,7 @@ menu:
 description: "Everything you need to run your own PowerOn workshop/build-a-thon/choose-your-own-pace-day."
 ---
 
-Want to bring digital safety to life in your community? This is where you start. Whether you're part of a shelter, a support group, or just someone who sees the need—PowerOn is designed to be easy to run, adapt, and repeat.
+Want to bring digital safety to life in your community? This is where you start. Whether you're part of a shelter, a support group, or just someone who sees the need, PowerOn is designed to be easy to run, adapt, and repeat.
 
 In this section, you’ll find:
 
@@ -22,6 +22,6 @@ In this section, you’ll find:
 
 No tech degree required. No perfect conditions needed. Just a bit of prep, a safe space, and a willingness to help people take back control of their digital lives.
 
-**PowerOn is yours—make it happen.**
+**PowerOn is yours, make it happen.**
 
 

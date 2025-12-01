@@ -7,7 +7,7 @@ _build:
 menu:
   sidebar:
     weight: 30
-description: "Kaygı, güvenlik riskleri, yasal sorunlar ve teknolojiye (veya insanlara) olan güvenin kaybı gibi uzun vadeli etkiler. Eğer sizi izliyorlarsa, özellikle de casus yazılımı Amazon'dan satın aldılarsa— bu paranoya değil"
+description: "Kaygı, güvenlik riskleri, yasal sorunlar ve teknolojiye (veya insanlara) olan güvenin kaybı gibi uzun vadeli etkiler. Eğer sizi izliyorlarsa, özellikle de casus yazılımı Amazon'dan satın aldılarsa,  bu paranoya değil"
 ---
 
 Dijital istismarın nasıl gerçekleştiğini gördük. Şimdi sonuçlarıyla yüzleşme zamanı.

@@ -7,14 +7,14 @@ _build:
 menu:
   sidebar:
     weight: 25
-description: "Gözetim. Yalnızlaştırma. İtibar zedelenmesi. Finansal sabotaj. Bu sadece hacklenmiş bir telefon değil—bağımsızlığınızın aşındırılması."
+description: "Gözetim. Yalnızlaştırma. İtibar zedelenmesi. Finansal sabotaj. Bu sadece hacklenmiş bir telefon değil, bağımsızlığınızın aşındırılması."
 ---
 
-Bunlar sonuçlar—tüm bunların önemli olmasının nedeni.
+Bunlar sonuçlar, tüm bunların önemli olmasının nedeni.
 
-Erişim sağlandığında ve araçlar yerleştirildiğinde, ardından gelenler rastgele değildir. Çoğu zaman kasıtlı, stratejik ve oldukça kişiseldir. Amaç sadece "gözetlemek" değil—özerkliğinizi, ilişkilerinizi, finansınızı ve gerçeklik algınızı zayıflatmaktır.
+Erişim sağlandığında ve araçlar yerleştirildiğinde, ardından gelenler rastgele değildir. Çoğu zaman kasıtlı, stratejik ve oldukça kişiseldir. Amaç sadece "gözetlemek" değil, özerkliğinizi, ilişkilerinizi, finansınızı ve gerçeklik algınızı zayıflatmaktır.
 
-Bu tehditler teorik değil. Pek çok kişinin yaşadığı deneyimler. Onları tanımak, zararı adlandırmanıza—ve yavaşça toprak kazanmanıza yardımcı olur.
+Bu tehditler teorik değil. Pek çok kişinin yaşadığı deneyimler. Onları tanımak, zararı adlandırmanıza, ve yavaşça toprak kazanmanıza yardımcı olur.
 
 ## Gözetim
 
@@ -28,7 +28,7 @@ Kastettiğimiz:
 * Tarayıcı etkinliğinizi ve uygulama kullanımınızı kontrol etmek
 * Alışkanlıklarınızı gözlemlemek (uyku saatleri, yeme düzeni, iletişimde olduklarınız)
 
-Çoğu zaman 7/24. Ürkütücü bir etki yaratır: Kendi kendinizi sansürlemeye, seçimlerinizi sorgulamaya ve sürekli izleniyormuş gibi hissetmeye başlarsınız—yalnızken bile.
+Çoğu zaman 7/24. Ürkütücü bir etki yaratır: Kendi kendinizi sansürlemeye, seçimlerinizi sorgulamaya ve sürekli izleniyormuş gibi hissetmeye başlarsınız, yalnızken bile.
 
 Amaç? Sadece ne yaptığınızı bilmek değil. *Ne yapacağınızı* etkilemek.
 
@@ -44,13 +44,13 @@ Gözetim, kontrolü besler. Hareketlerinizi, ihtiyaçlarınızı veya korkuları
 * Akıllı ev teknolojisini kullanarak çevrenizi düzenlemek (ışık, sıcaklık, ses)
 * Rutininiz, harcamalarınız veya iletişimde olduklarınız hakkında "endişe" yaratarak davranış değişikliğine zorlamak
 
-Amaç kaos değil—öngörülebilirliktir. Bir sonraki aksaklıktan kaçınmak için davranışlarınızı değiştirmeniz.
+Amaç kaos değil, öngörülebilirliktir. Bir sonraki aksaklıktan kaçınmak için davranışlarınızı değiştirmeniz.
 
-İncelikle veya "endişe" (*"Sadece güvende olduğundan emin olmak istiyorum"*) kisvesi altında yapıldığı için, açıklaması—daha az kanıtlanması—zor olabilir.
+İncelikle veya "endişe" (*"Sadece güvende olduğundan emin olmak istiyorum"*) kisvesi altında yapıldığı için, açıklaması, daha az kanıtlanması, zor olabilir.
 
 ## Yalnızlaştırma
 
-En eski taktiklerden biri—dijital bir yükseltmeyle.
+En eski taktiklerden biri, dijital bir yükseltmeyle.
 
 Şu yollarla yalnızlaştırırlar:
 
@@ -78,7 +78,7 @@ Yaygın yöntemler:
 
 Çok şey gerekmez. Birkaç iyi zamanlanmış yalan, itibarınızı zedeleyebilir, profesyonel ilişkilerinizi yok edebilir ve çevrenizde kafa karışıklığı yaratabilir.
 
-Pek çok mağdur, asla yapmadıkları şeyleri açıklamak zorunda kalır—istismarcı kenarda "endişeli" rolü oynarken.
+Pek çok mağdur, asla yapmadıkları şeyleri açıklamak zorunda kalır, istismarcı kenarda "endişeli" rolü oynarken.
 
 ## Tuzak Kurma
 
@@ -92,14 +92,14 @@ Burada istismarcı, yasal/sistemsel mekanizmaları *size karşı* kullanır:
 * Polisi veya sosyal hizmetleri yanlış gerekçelerle devreye sokmak
 * Zamanınızı, enerjinizi ve finansınızı tüketmek için tekrarlanan yasal süreçler başlatmak
 
-Amaç davayı kazanmak değil—sizi tüketmek.
+Amaç davayı kazanmak değil, sizi tüketmek.
 
-Bu manipülasyonla mücadele etmek özellikle zordur çünkü yüzeyde sistem "işliyor" gibi görünür. Ama yanlış verilerle beslenir—ve ispat yükü tamamen mağdura aittir.
+Bu manipülasyonla mücadele etmek özellikle zordur çünkü yüzeyde sistem "işliyor" gibi görünür. Ama yanlış verilerle beslenir, ve ispat yükü tamamen mağdura aittir.
 
 ## Bir not
 
 Bu tehditler teknik değil. İnsani.
-Var olmalarının nedeni, birinin güvenliğinizi baltalamak için erişimi kullanmasıdır—sizin veya davranışlarınızın bir kusuru değil.
+Var olmalarının nedeni, birinin güvenliğinizi baltalamak için erişimi kullanmasıdır, sizin veya davranışlarınızın bir kusuru değil.
 
 Önemli olan: Örüntüleri *görmek*, onlara karşı plan yapmaya başlamanızı sağlar.
 Hayal görmüyorsunuz. Abartmıyorsunuz. Ve yalnız değilsiniz.

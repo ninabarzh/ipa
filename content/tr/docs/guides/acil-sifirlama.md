@@ -12,7 +12,7 @@ description: "Eğer bir şeyler ele geçirilmiş gibi hissediyorsanız veya büy
 
 ## Tam bir dijital sıfırlama için nasıl hazırlanılır
 
-Bazen işler çözülemeyecek kadar karmaşıktır. Hesaplar ele geçirildiğinde, cihazlar şüpheli olduğunda veya erişim güvenli olmadığında, temiz bir sayfa en güçlendirici seçenek olabilir. İşte sessiz, kontrollü bir dijital sıfırlama planlama yöntemi—dramatik bir düğmeye basmaya gerek yok.
+Bazen işler çözülemeyecek kadar karmaşıktır. Hesaplar ele geçirildiğinde, cihazlar şüpheli olduğunda veya erişim güvenli olmadığında, temiz bir sayfa en güçlendirici seçenek olabilir. İşte sessiz, kontrollü bir dijital sıfırlama planlama yöntemi, dramatik bir düğmeye basmaya gerek yok.
 
 1. Envanter çıkarın: neyi saklamak istiyorsunuz? Bir şeyi silmeden önce sakinlice temel öğeleri toplayın:
 
@@ -27,16 +27,16 @@ Bazen işler çözülemeyecek kadar karmaşıktır. Hesaplar ele geçirildiğind
 * Gizlilik odaklı bulut depolama (Proton Drive, Sync.com)
   Paylaşılan veya izleniyorsa Google Drive veya iCloud'dan kaçının.
 
-3. Kişisel ile paylaşılanı ayırın. Eski yüklerinizi yanınıza almayın. Geri alınmaya değer hesapların bir listesini yapın—ve bir diğerini de terk edilmesi gerekenler için.
+3. Kişisel ile paylaşılanı ayırın. Eski yüklerinizi yanınıza almayın. Geri alınmaya değer hesapların bir listesini yapın, ve bir diğerini de terk edilmesi gerekenler için.
 
-4. Yeni bir cihaz düşünün. Mevcut telefonunuzun veya dizüstü bilgisayarınızın ele geçirildiğinden şüpheleniyorsanız, yeni başlamak daha güvenlidir. Sıfırdan kurulmuş temel bir cihaz size kontrol sağlar. Ödünç alınmış veya yenilenmiş olması sorun değil—*siz* kurulumu yaptığınız sürece.
+4. Yeni bir cihaz düşünün. Mevcut telefonunuzun veya dizüstü bilgisayarınızın ele geçirildiğinden şüpheleniyorsanız, yeni başlamak daha güvenlidir. Sıfırdan kurulmuş temel bir cihaz size kontrol sağlar. Ödünç alınmış veya yenilenmiş olması sorun değil, *siz* kurulumu yaptığınız sürece.
 
 5. Cihazları teker teker fabrika ayarlarına sıfırlayın. Hazır olduğunuzda:
 
 * Cihazı silin (fabrika sıfırlama)
 * Yalnızca güvenilir uygulamaları yeniden yükleyin
 * Benzersiz şifreler ve uygulama tabanlı 2FA ile yeni hesaplar oluşturun
-  Yedekleri geri yüklemekten kaçının—eski sorunları beraberinde getirirler.
+  Yedekleri geri yüklemekten kaçının, eski sorunları beraberinde getirirler.
 
 6. Süreç boyunca sessiz kalın. "Yeniden başlıyorum" diye duyurmayın. Sadece... başlayın. Yavaşça. Sessizce. Hız yerine güvenliği önceliklendirin. Bu bir geçiştir, büyük bir jest değil.
 
@@ -63,7 +63,7 @@ Günlük tutmak güçlüdür. Düşünceleri işlemeye, modelleri fark etmeye ve
 
 5. Bağlam ekleyin, ancak dilde tarafsız olun. Olası yasal kullanım için günlük tutuyorsanız, olgusal olun: tarihler, eylemler ve mümkünse doğrudan alıntılar.
 
-6. Düzenli olarak dışa aktarın ve yedekleyin (özel olarak). Güvenli bir cihaza veya USB belleğe düzenli yedekler oluşturun ve bunları güvenli bir yerde—tercihen farklı bir yerde saklayın.
+6. Düzenli olarak dışa aktarın ve yedekleyin (özel olarak). Güvenli bir cihaza veya USB belleğe düzenli yedekler oluşturun ve bunları güvenli bir yerde, tercihen farklı bir yerde saklayın.
 
 ---
 
@@ -76,7 +76,7 @@ Bazen güvenliğe giden ilk adımlar okumakla başlar. Ancak biri cihazınızı 
 * Chrome/Firefox: `Ctrl + Üst Karakter + N` (veya Mac'te `Cmd + Üst Karakter + N`)
 * Safari: Sekmeler → Gizli
 
-Gizli mod geçmişinizi, çerezleri veya site verilerini kaydetmez—ancak etkinliğinizi Wi-Fi veya yönlendirici kayıtlarından gizlemez.
+Gizli mod geçmişinizi, çerezleri veya site verilerini kaydetmez, ancak etkinliğinizi Wi-Fi veya yönlendirici kayıtlarından gizlemez.
 
 2. Gizlilik odaklı bir tarayıcı kullanın
 

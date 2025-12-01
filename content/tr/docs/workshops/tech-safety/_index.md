@@ -4,7 +4,7 @@ linkTitle: "Hayatta kalanlar için teknoloji güvenliği – Kendi hızını se�
 weight: 1
 _build:
   render: always
-description: "Bu bir teknoloji eğitimi değil. Hayatta kalanların kendi koşullarında araçları keşfedebileceği, beceriler öğrenebileceği ve dijital güvenlerini geri kazanabileceği dostane, kendi hızını seçebileceği bir gün. Birisi cihazını taramak, sessizce bir soru sormak veya en sevmediği uygulama hakkında bir çizgi roman yapmak isterse—bu gün her şeye yer var."
+description: "Bu bir teknoloji eğitimi değil. Hayatta kalanların kendi koşullarında araçları keşfedebileceği, beceriler öğrenebileceği ve dijital güvenlerini geri kazanabileceği dostane, kendi hızını seçebileceği bir gün. Birisi cihazını taramak, sessizce bir soru sormak veya en sevmediği uygulama hakkında bir çizgi roman yapmak isterse, bu gün her şeye yer var."
 menu:
   sidebar:
     weight: 5
@@ -63,7 +63,7 @@ translationKey: "tech-safety"
 * Demo cihaz veya kendi cihazını kullan  
 * Pirogue ile (sığınma evinde varsa veya biz getirirsek)  
 * Tara, sonuçları incele, konuş  
-* Korku taktikleri yok—sadece sakin açıklamalar  
+* Korku taktikleri yok, sadece sakin açıklamalar  
 
 Götürülen: Yazdırılmış veya e-posta ile tarama raporu, takip planı (opsiyonel)  
 
@@ -81,7 +81,7 @@ Katılabileceğin veya izleyebileceğin senaryolar:
 
 * “Sadece GPS şifrene ihtiyacı olan iyi adam”  
 * “Bu e-posta Apple'dan değil, değil mi?”  
-* “Hoppala—biri hesabına cihaz eklemiş”  
+* “Hoppala, biri hesabına cihaz eklemiş”  
 
 Aktivite: Tuzağı fark et, sonu yeniden yaz  
 
@@ -105,7 +105,7 @@ Seçenek: Notlarının şifreli bir kopyasını sonrası için al
 
 * DuckDuckGo, Tor Browser, Firefox Focus dene  
 * Gizli modları öğren (ve neyi saklamadıklarını)  
-* Yanmış hesaplar ve gizli gelenekler—nasıl çalışır, ne zaman yardımcı olur  
+* Yanmış hesaplar ve gizli gelenekler, nasıl çalışır, ne zaman yardımcı olur  
 
 Opsiyonel: “Gizli gezinme kiti” USB'sini götür  
 
@@ -115,7 +115,7 @@ Opsiyonel: “Gizli gezinme kiti” USB'sini götür
 * Baskı yok, istenmedikçe not alınmaz  
 * Sadece insandan insana destek  
 
-Sorular veya korkular—teknik bilgi gerekmez  
+Sorular veya korkular, teknik bilgi gerekmez  
 
 ### Yaratıcı alan – *"Teknoloji değil, renk istiyorum"*  
 
@@ -131,14 +131,14 @@ Sanat eve götürülebilir veya “Güç Duvarı”nda anonim kalabilir
   * Güvenli günlük araçları  
   * Gizli tarayıcı  
   * Zine'ler ve yer imleri  
-* Zine: “İlk Adımlar—Teknolojiyi Geri Almak”  
+* Zine: “İlk Adımlar, Teknolojiyi Geri Almak”  
 * Dijital destek kuruluşları iletişim sayfası  
 * Eğlenceli çıkartma: “Uygulama Dedektifi” / “Bir Takip Çerezi Alt Ettim”  
 * Yazdırılabilir rozetler de yazıcılı sığınma evleri için  
 
 ## Final partisi (16:30–17:00)  
 
-* Pasta ve müzik (veya sıcak çikolata ve sessizlik—seçim senin)  
+* Pasta ve müzik (veya sıcak çikolata ve sessizlik, seçim senin)  
 * DIY rozet istasyonu (“Uygulama Dedektifi”, “Gizli Kraliçe”)  
   * Rozet yap  
   * Personel veya diğerleriyle paylaş  

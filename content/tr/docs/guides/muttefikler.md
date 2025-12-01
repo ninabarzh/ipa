@@ -7,7 +7,7 @@ _build:
 menu:
   sidebar:
     weight: 40
-description: "Yardım sunan arkadaşlar, aileler ve profesyoneller için—bu bölüm travma duyarlı teknoloji ipuçları, söylenmesi (ve söylenmemesi) gerekenler ve istemeden durumu kötüleştirmekten kaçınma yollarını içerir. Polise veya mahkemeye götürülecekler ve dijital istismarı anlaşılır şekilde anlatma yöntemleri dahil."
+description: "Yardım sunan arkadaşlar, aileler ve profesyoneller için, bu bölüm travma duyarlı teknoloji ipuçları, söylenmesi (ve söylenmemesi) gerekenler ve istemeden durumu kötüleştirmekten kaçınma yollarını içerir. Polise veya mahkemeye götürülecekler ve dijital istismarı anlaşılır şekilde anlatma yöntemleri dahil."
 ---
 
 Destek için teknoloji dehası olmaya veya vigilante olmaya gerek yok. İster "bilgisayar uzmanı" olun ister sadece güvenilen biri, burada sınırları aşmadan veya alarm vermeden nasıl anlamlı yardım sunacağınızı öğreneceksiniz.
@@ -21,14 +21,14 @@ Teknik yardım kolayca kontrolcülüğe dönüşebilir. İşte yararlı olurken 
 * "Buna şimdi mi yardım etmemi istersin yoksa sonra mı plan yapalım?"
 * Kişinin ne kadarını bilmek, yapmak veya devretmek istediğini mutlaka sorun.
 
-2. Yapın: adım adım açıklayın. 2 dakikada halledebilseniz bile ne yaptığınızı ve nedenini anlatın. Bilgi güçtür—sonra tek başına yapması gerekebilir.
+2. Yapın: adım adım açıklayın. 2 dakikada halledebilseniz bile ne yaptığınızı ve nedenini anlatın. Bilgi güçtür, sonra tek başına yapması gerekebilir.
 
 3. Yapın: endişelerini normalleştirin. Size abartılı gelen şey tam da yaşadığı olabilir. Şöyle deyin:
 
 * "Bunu kesinlikle kontrol edebiliriz."
 * Şöyle değil: "Bu biraz paranoyakça gibi."
 
-4. Yapın: yaptıklarınızı belgeleyin. Yapılan değişiklikleri—özellikle şifreleri, sıfırlamaları ve cihaz değişikliklerini—kağıda veya güvenli bir uygulamaya not edin. Mağdurun bir kopyası olsun.
+4. Yapın: yaptıklarınızı belgeleyin. Yapılan değişiklikleri, özellikle şifreleri, sıfırlamaları ve cihaz değişikliklerini, kağıda veya güvenli bir uygulamaya not edin. Mağdurun bir kopyası olsun.
 
 5. 🚫 Yapmayın: kendi emailinizi veya telefonunuzu kullanın. Geçici bile olsa. Bu bağımlılık yaratır ve yasal süreçleri veya hesap kurtarmayı zorlaştırır.
 
@@ -40,7 +40,7 @@ Teknik yardım kolayca kontrolcülüğe dönüşebilir. İşte yararlı olurken 
 
 ## Polise veya mahkemeye dijital istismarı anlatma
 
-Ne yazık ki tüm görevliler teknoloji temelli istismarı anlamıyor. İşte sözlerinizi—ve mağdurun deneyimini—etkili kılma yolları.
+Ne yazık ki tüm görevliler teknoloji temelli istismarı anlamıyor. İşte sözlerinizi, ve mağdurun deneyimini, etkili kılma yolları.
 
 1. Davranış ve niyete odaklanın, sadece "teknoloji"ye değil. Şöyle demek yerine:
 

@@ -7,14 +7,14 @@ _build:
 menu:
   sidebar:
     weight: 25
-description: "Termostatlar, kapı kilitleri, kameralar—hatta ampüller bile—kontrol aracına dönüşebilir. Bu bölüm, akıllı ev cihazlarını nasıl geri alacağınızı, diğer kullanıcıları nasıl kaldıracağınızı ve dikkat çekmeden alanınızı nasıl sıfırlayacağınızı gösterir."
+description: "Termostatlar, kapı kilitleri, kameralar, hatta ampüller bile, kontrol aracına dönüşebilir. Bu bölüm, akıllı ev cihazlarını nasıl geri alacağınızı, diğer kullanıcıları nasıl kaldıracağınızı ve dikkat çekmeden alanınızı nasıl sıfırlayacağınızı gösterir."
 ---
 
 ## Akıllı ev cihazının kontrolünü nasıl ele alırsınız
 
-Akıllı evler *sizin için* çalışmalıdır—gözetim sistemine dönüşmemelidir. İşte gerçekte kimin düğmelere bastığını kontrol etme yolu.
+Akıllı evler *sizin için* çalışmalıdır, gözetim sistemine dönüşmemelidir. İşte gerçekte kimin düğmelere bastığını kontrol etme yolu.
 
-1. Hangi cihazların devrede olduğunu belirleyin. Etrafa bakın—Wi-Fi'a bağlı her şey konuşuyor olabilir. Şunlarla başlayın:
+1. Hangi cihazların devrede olduğunu belirleyin. Etrafa bakın, Wi-Fi'a bağlı her şey konuşuyor olabilir. Şunlarla başlayın:
 
 * Termostatlar (örn. Nest, Honeywell)
 * Kameralar (iç/dış, Ring gibi kapı zilleri)
@@ -31,7 +31,7 @@ Akıllı evler *sizin için* çalışmalıdır—gözetim sistemine dönüşmeme
 
 Bunlar sadece arıza değil. Kırmızı bayraklardır.
 
-3. Cihazın uygulamasına kendi telefonunuzdan erişin. Her cihaz bir uygulamayla kontrol edilir—genellikle kurulumda kullanılan. Uygulama telefonunuzda yoksa veya erişemiyorsanız, başka birinin hesabına kayıtlı olabilir.
+3. Cihazın uygulamasına kendi telefonunuzdan erişin. Her cihaz bir uygulamayla kontrol edilir, genellikle kurulumda kullanılan. Uygulama telefonunuzda yoksa veya erişemiyorsanız, başka birinin hesabına kayıtlı olabilir.
 
 4. Cihazı fabrika ayarlarına sıfırlayın. Kesin sıfırlama adımları için çevrimiçi arama yapın. Çoğu cihazın küçük bir düğmesi veya gizli deliği vardır. Sıfırlama şunları yapar:
 
@@ -67,7 +67,7 @@ Bunlar sadece arıza değil. Kırmızı bayraklardır.
 * Apple Family Sharing / HomeKit
 * Samsung SmartThings
 
-Sizi ekledilerse—veya siz onları—her ikiniz de yönetici erişimine sahip olabilirsiniz.
+Sizi ekledilerse, veya siz onları, her ikiniz de yönetici erişimine sahip olabilirsiniz.
 
 2. Hane veya aile üyelerini gözden geçirin
 
@@ -100,7 +100,7 @@ Google Home:
 * Kapı kilitleri
 * Akıllı kameralar
 
-Sıfırlama talimatları özeldir—üreticinin sitesine veya kılavuzuna bakın.
+Sıfırlama talimatları özeldir, üreticinin sitesine veya kılavuzuna bakın.
 
 5. Rutinler, otomasyonlar veya uyarılar için kontrol edin
 
@@ -108,7 +108,7 @@ Sıfırlama talimatları özeldir—üreticinin sitesine veya kılavuzuna bakın
 * Bağlı hizmetlerden (IFTTT, Spotify, YouTube) cihaz erişimini kaldırın
 * Alexa'da "drop-in" veya Google'da "voice match" gibi özellikleri kapatın
 
-6. Şifreleri değiştirin ve paylaşılan hesapların bağlantısını kesin. Sadece kaldırmayın—kilitleyin.
+6. Şifreleri değiştirin ve paylaşılan hesapların bağlantısını kesin. Sadece kaldırmayın, kilitleyin.
 
 * Wi-Fi şifresini değiştirin
 * Cihazları kendiniz yeniden bağlayın

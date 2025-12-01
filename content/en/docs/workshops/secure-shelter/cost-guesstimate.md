@@ -7,7 +7,7 @@ _build:
 menu:
   sidebar:  # Adds to Docsy's auto-generated sidebar
     weight: 15
-description: "A detailed cost guesstimate for running the Secure the shelter build-a-thon—a hands-on, full-day workshop where shelter staff set up their own working digital safety lab (Wazuh + Pirogue), with help from facilitators."
+description: "A detailed cost guesstimate for running the Secure the shelter build-a-thon, a hands-on, full-day workshop where shelter staff set up their own working digital safety lab (Wazuh + Pirogue), with help from facilitators."
 ---
 
 ## Summary tables

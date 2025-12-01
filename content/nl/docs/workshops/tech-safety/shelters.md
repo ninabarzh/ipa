@@ -12,7 +12,7 @@ description: "Speciaal afgestemd op opvanghuizen of frontline-organisaties die e
 
 ## Wat is de "Technologieveiligheid voor overlevenden – Kies-je-eigen-tempo-dag"?
 
-PowerOn: Technologieveiligheid voor overlevenden – Kies-je-eigen-tempo-dag is een praktische dagworkshop voor overlevenden van partnergeweld. Het helpt deelnemers digitale veiligheid te verkennen en terug te winnen op een empowerende, ondersteunende en niet-technische manier. Overlevenden leren surveillance herkennen, controle over apparaten/accounts terugkrijgen en vertrouwen in tech herstellen—op hun eigen tempo, zonder druk om te delen of te presteren.
+PowerOn: Technologieveiligheid voor overlevenden – Kies-je-eigen-tempo-dag is een praktische dagworkshop voor overlevenden van partnergeweld. Het helpt deelnemers digitale veiligheid te verkennen en terug te winnen op een empowerende, ondersteunende en niet-technische manier. Overlevenden leren surveillance herkennen, controle over apparaten/accounts terugkrijgen en vertrouwen in tech herstellen, op hun eigen tempo, zonder druk om te delen of te presteren.
 
 De workshop is speels, keuzegestuurd en trauma-bewust, combineert open-space leren met praktische tech-ondersteuning, rollenspellen en creatieve zones.
 
@@ -20,7 +20,7 @@ De workshop is speels, keuzegestuurd en trauma-bewust, combineert open-space ler
 
 ## Waarom dit organiseren?
 
-Digitale mishandeling is nu onderdeel van partnergeweld—via locatietracking, accountblokkades, spyware of smart home-manipulatie. Overlevenden:
+Digitale mishandeling is nu onderdeel van partnergeweld, via locatietracking, accountblokkades, spyware of smart home-manipulatie. Overlevenden:
 
 * Weten vaak niet waar te beginnen
 * Weten niet wie te vertrouwen met tech
@@ -119,4 +119,4 @@ PowerOn biedt:
 * Tech-sjablonen (Pirogue, SIEM, veilige toolkits)
 * Advies over begeleiding, rollenspelzones of aanpassingen
 
-Hulp nodig bij een aanvraag? Geef ons land, financier of formaat door—wij passen het aan.
+Hulp nodig bij een aanvraag? Geef ons land, financier of formaat door, wij passen het aan.

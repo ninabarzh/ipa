@@ -7,14 +7,14 @@ _build:
 menu:
   sidebar:  # Adds to Docsy's auto-generated sidebar
     weight: 25
-description: "Thermostats, door locks, cameras—even light bulbs—can be turned into tools of control. This section shows you how to reclaim smart home devices, remove other users, and reset your space without drawing attention."
+description: "Thermostats, door locks, cameras, even light bulbs, can be turned into tools of control. This section shows you how to reclaim smart home devices, remove other users, and reset your space without drawing attention."
 ---
 
 ## How to take control of a smart home device
 
-Smart homes should work *for* you—not double as surveillance systems or control levers. Here's how to check who’s really pushing the buttons.
+Smart homes should work *for* you, not double as surveillance systems or control levers. Here's how to check who’s really pushing the buttons.
 
-1. Identify which devices are in play. Look around—anything that connects to Wi-Fi could be talking. Start with:
+1. Identify which devices are in play. Look around, anything that connects to Wi-Fi could be talking. Start with:
 
 * Thermostats (e.g. Nest, Honeywell)
 * Cameras (indoor/outdoor, doorbells like Ring)
@@ -31,7 +31,7 @@ Smart homes should work *for* you—not double as surveillance systems or contro
 
 These aren’t just glitches. They're red flags.
 
-3. Access the device’s app from your own phone. Each device is controlled via an app—usually the one it was set up with. If the app’s not on your phone, or you’re locked out, it may have been registered to someone else’s account.
+3. Access the device’s app from your own phone. Each device is controlled via an app, usually the one it was set up with. If the app’s not on your phone, or you’re locked out, it may have been registered to someone else’s account.
 
 4. Perform a factory reset on the device. Search online for the exact reset steps. Most devices have a small button or hidden pinhole. Resetting will:
 
@@ -58,7 +58,7 @@ These aren’t just glitches. They're red flags.
 
 ## How to safely remove someone from a shared smart home ecosystem
 
-Most smart homes are designed for families—families that trust each other. In abusive situations, “shared control” becomes a weapon. Let’s take the reins back.
+Most smart homes are designed for families, families that trust each other. In abusive situations, “shared control” becomes a weapon. Let’s take the reins back.
 
 1. Know which ecosystem you’re dealing with. Each company has its own version of “family sharing”:
 
@@ -67,7 +67,7 @@ Most smart homes are designed for families—families that trust each other. In 
 * Apple Family Sharing / HomeKit
 * Samsung SmartThings
 
-If they’ve ever added you—or you added them—you may both have admin-level access.
+If they’ve ever added you, or you added them, you may both have admin-level access.
 
 2. Review household or family members
 
@@ -100,7 +100,7 @@ Google Home:
 * Door locks
 * Smart cameras
 
-Reset instructions are specific—check the manufacturer’s site or manual.
+Reset instructions are specific, check the manufacturer’s site or manual.
 
 5. Check for routines, automations, or alerts
 
@@ -108,7 +108,7 @@ Reset instructions are specific—check the manufacturer’s site or manual.
 * Remove device access from connected services (e.g. IFTTT, Spotify, YouTube)
 * Turn off things like “drop-in” on Alexa or “voice match” on Google
 
-6. Change passwords and unlink shared accounts. Don’t just remove them—lock them out.
+6. Change passwords and unlink shared accounts. Don’t just remove them, lock them out.
 
 * Change Wi-Fi password
 * Reconnect devices yourself

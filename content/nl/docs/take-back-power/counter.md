@@ -12,7 +12,7 @@ description: "Praktische manieren om zaken te beveiligen zonder argwaan te wekke
 
 Soms *kun* je misbruik niet technisch oplossen. Maar slimme digitale hygiëne en stille ingrepen kunnen de balans weer in jouw voordeel doen doorslaan.
 
-Deze gids is voor wie klaar is om zaken te beveiligen—zonder rode vlaggen of verdenking. Je hoeft niet alles te doen. Begin met wat haalbaar voelt.
+Deze gids is voor wie klaar is om zaken te beveiligen, zonder rode vlaggen of verdenking. Je hoeft niet alles te doen. Begin met wat haalbaar voelt.
 
 ## Apparaatcontroles (zonder alarmen)
 
@@ -28,7 +28,7 @@ Wat te doen:
 - Veilige controle-tips:
   - Gebruik een tweede apparaat (telefoon van een vriend, openbare computer) om *verdachte apps te onderzoeken*  
   - Bewaar logs en screenshots *offline of buiten het apparaat*  
-  - Verwijder nog niets—sommige spyware geeft meldingen bij verwijdering
+  - Verwijder nog niets, sommige spyware geeft meldingen bij verwijdering
 
 Een schone start nodig? Zie hieronder: [Strategieën voor een schone lei →](#schone-lei-strategieën-wanneer-opnieuw-beginnen)
 
@@ -60,14 +60,14 @@ Gedeelde clouds = gedeelde blikken. Zelfs "verwijderde" bestanden of foto's kunn
 
 Wat te doen:
 
-- Controleer cloud-sync: Google Drive, iCloud, Dropbox, OneDrive—check *gekoppelde apparaten* en *gedeelde mappen*
+- Controleer cloud-sync: Google Drive, iCloud, Dropbox, OneDrive, check *gekoppelde apparaten* en *gedeelde mappen*
 - Schakel automatisch uploaden uit: Camera-rollen, WhatsApp-back-ups, notitie-apps syncen vaak stilletjes
-- Verwijder toegang van andere apparaten: Bij twijfel, verander eerst wachtwoord—meld sessies dan extern af
+- Verwijder toegang van andere apparaten: Bij twijfel, verander eerst wachtwoord, meld sessies dan extern af
 - Gedeelde agenda's en albums: Vaak gebruikt om routines te volgen. Verwijder samenwerkers discreet.
 
 ## Trackers opsporen: AirTags, Google-activiteit, rogue apps
 
-Als iemand weet waar je bent, geef je mogelijk je locatie weg—zelfs als je denkt dat het uit staat.
+Als iemand weet waar je bent, geef je mogelijk je locatie weg, zelfs als je denkt dat het uit staat.
 
 Check op trackers:
 
@@ -106,7 +106,7 @@ Checklist voor een schone start:
    - Installeer alleen uit officiële stores
 
 4. Nieuw telefoonnummer (indien mogelijk):  
-   - Gebruik alleen voor verificatie—deel het niet breed  
+   - Gebruik alleen voor verificatie, deel het niet breed  
    - Houd oud nummer aan voor de schijn indien nodig
 
 5. Vermijd linken aan gecompromitteerde apparaten/accounts: Log niet in oude Google/Apple-accounts alleen om "iets te checken"
@@ -115,7 +115,7 @@ Dit is een grote stap. Niet altijd mogelijk. Maar als het kan, kan het bevrijden
 
 ## Een woord over dit onderdeel
 
-Technische fixes zijn tools—geen redding. Ze werken het best met steun, grenzen en emotionele veiligheid.  
+Technische fixes zijn tools, geen redding. Ze werken het best met steun, grenzen en emotionele veiligheid.  
 Je hoeft geen IT-expert te worden. Streef naar duidelijkheid, rust en controle.
 
 Volgende: [Wat eerst te controleren →](/docs/take-back-power/what) of [Met wie te praten (en wanneer) →](/docs/take-back-power/who)

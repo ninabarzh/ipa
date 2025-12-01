@@ -4,7 +4,7 @@ linkTitle: "Tech safety for survivors choose-your-own-pace-day"
 weight: 1
 _build:
   render: always
-description: "This is not a tech training. It’s a friendly, choose-your-own-pace day where survivors can explore tools, learn skills, and restore digital confidence—on their own terms. Whether someone wants to scan their device, ask one quiet question, or draw a comic about their least favourite app—this day holds space for it all."
+description: "This is not a tech training. It’s a friendly, choose-your-own-pace day where survivors can explore tools, learn skills, and restore digital confidence, on their own terms. Whether someone wants to scan their device, ask one quiet question, or draw a comic about their least favourite app, this day holds space for it all."
 menu:
   sidebar:
     weight: 5
@@ -63,7 +63,7 @@ Stations are open all day unless noted otherwise. Survivors are invited to visit
 * Use a demo device or your own
 * With Pirogue (if shelter has one, or we bring one)
 * Scan, review results, talk it through
-* No scare tactics—just calm explanation
+* No scare tactics, just calm explanation
 
 Takeaway: A printed or emailed scan report, a follow-up plan (optional)
 
@@ -81,7 +81,7 @@ Live or printed scenarios you can join or observe:
 
 * “Nice guy who just needs your GPS password”
 * “That email isn’t from Apple, is it?”
-* “Oops—someone added a device to your account”
+* “Oops, someone added a device to your account”
 
 Activity: Spot the trap, rewrite the ending
 
@@ -105,7 +105,7 @@ Option: Zip up a copy of your notes for later, encrypted
 
 * Try DuckDuckGo, Tor Browser, Firefox Focus
 * Learn about incognito modes (and what they don’t hide)
-* Burner accounts and secret inboxes—how they work, when they help
+* Burner accounts and secret inboxes, how they work, when they help
 
 Optional: Take home a "private browsing kit" USB
 
@@ -115,7 +115,7 @@ Optional: Take home a "private browsing kit" USB
 * No pressure, no notes unless requested
 * Just human-to-human support
 
-Bring questions or fears—no tech expertise needed
+Bring questions or fears, no tech expertise needed
 
 ### Creative space – *"I don’t want tech, I want colour"*
 
@@ -131,14 +131,14 @@ Art can go home or stay anonymous on the “Power Wall”
   * Secure journaling tools
   * Private browser
   * Zines and bookmarks
-* Zine: “First Moves—Taking Tech Back”
+* Zine: “First Moves, Taking Tech Back”
 * Contact sheet for digital support orgs
 * Fun sticker: “App Detective” / “I Outsmarted a Tracking Cookie”
 * Print-at-home badges available too, for shelters with printers
 
 ## Final party (16:30–17:00)
 
-* Cake and music (or hot chocolate and silence—your pick)
+* Cake and music (or hot chocolate and silence, your pick)
 * DIY badge station (“App Detective”, “Incognito Queen”)
   * Make badges
   * Reflect with staff or peers
@@ -150,7 +150,7 @@ Art can go home or stay anonymous on the “Power Wall”
 ## Trauma-informed principles
 
 * No one is asked to share their story
-* No one is assumed to know tech—or not
+* No one is assumed to know tech, or not
 * Survivors decide what “safe” means
 * All helpers trained to support with compassion, not control
 * Everything is optional. Nothing is pushed.

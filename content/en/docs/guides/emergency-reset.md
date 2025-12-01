@@ -12,7 +12,7 @@ description: "If things feel compromised or you’re preparing for a major shift
 
 ## How to prepare for a full digital reset
 
-Sometimes, things are too tangled to untangle. When accounts are compromised, devices are suspect, or access is unsafe, a clean slate may be the most empowering option. Here's how to plan for a quiet, controlled digital reset—no dramatic button-pushing required.
+Sometimes, things are too tangled to untangle. When accounts are compromised, devices are suspect, or access is unsafe, a clean slate may be the most empowering option. Here's how to plan for a quiet, controlled digital reset, no dramatic button-pushing required.
 
 1. Take stock: what do you want to keep? Before wiping anything, calmly gather the essentials:
 
@@ -27,16 +27,16 @@ Sometimes, things are too tangled to untangle. When accounts are compromised, de
 * Privacy-first cloud storage (Proton Drive, Sync.com)
   Avoid Google Drive or iCloud if they’re shared or monitored.
 
-3. Separate personal from shared. Don’t bring old baggage with you. Create a list of accounts worth reclaiming—and another of those best abandoned.
+3. Separate personal from shared. Don’t bring old baggage with you. Create a list of accounts worth reclaiming, and another of those best abandoned.
 
-4. Consider a new device. If you suspect your current phone or laptop is compromised, it’s safer to start fresh. A basic device, set up from scratch, gives you control. Borrowed or refurbished is fine—so long as *you* do the setup.
+4. Consider a new device. If you suspect your current phone or laptop is compromised, it’s safer to start fresh. A basic device, set up from scratch, gives you control. Borrowed or refurbished is fine, so long as *you* do the setup.
 
 5. Factory reset, one device at a time. When ready:
 
 * Wipe the device (factory reset)
 * Reinstall only trusted apps
 * Set up fresh accounts with unique passwords and app-based 2FA
-  Avoid using backup restores—they bring old problems with them.
+  Avoid using backup restores, they bring old problems with them.
 
 6. Stay quiet during the process. Don’t announce you’re “starting over.” Just... start. Slowly. Quietly. Prioritise safety over speed. It’s a transition, not a grand gesture.
 
@@ -63,7 +63,7 @@ Journaling is powerful. It can help process thoughts, spot patterns, and gather 
 
 5. Include context, but stay neutral in language. If you’re journaling with the goal of possible legal use, keep entries factual: dates, actions, and direct quotes when possible.
 
-6. Regularly export and back up (privately). Create regular backups to a secure device or USB stick, and store them in a safe place—ideally offsite.
+6. Regularly export and back up (privately). Create regular backups to a secure device or USB stick, and store them in a safe place, ideally offsite.
 
 ---
 
@@ -76,7 +76,7 @@ Sometimes, the first steps to safety start with reading. But if someone checks y
 * Chrome/Firefox: `Ctrl + Shift + N` (or `Cmd + Shift + N` on Mac)
 * Safari: Tap Tabs → Private
 
-Private mode won’t save your history, cookies, or site data—but doesn’t hide your activity from Wi-Fi or router logs.
+Private mode won’t save your history, cookies, or site data, but doesn’t hide your activity from Wi-Fi or router logs.
 
 2. Use a privacy-focused browser
 

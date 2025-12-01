@@ -7,7 +7,7 @@ _build:
 menu:
   sidebar:
     weight: 40
-description: "Voor vrienden, familie en professionals die hulp bieden—deze sectie biedt trauma-bewuste tech tips, wat te zeggen (en wat niet), en hoe je voorkomt dat je per ongeluk dingen erger maakt. Inclusief wat mee te nemen naar politie of rechtbank, en hoe je digitale mishandeling begrijpelijk uitlegt."
+description: "Voor vrienden, familie en professionals die hulp bieden, deze sectie biedt trauma-bewuste tech tips, wat te zeggen (en wat niet), en hoe je voorkomt dat je per ongeluk dingen erger maakt. Inclusief wat mee te nemen naar politie of rechtbank, en hoe je digitale mishandeling begrijpelijk uitlegt."
 ---
 
 Hulp vereist geen tech-genie of vigilante. Of je nu de "computerpersoon" bent of simpelweg iemand die vertrouwd wordt, hier lees je hoe je zinvolle hulp biedt zonder grenzen te overschrijden of alarmen te triggeren.
@@ -21,7 +21,7 @@ Tech-hulp kan snel tech-controle worden. Zo voorkom je dat terwijl je nuttig bli
 * "Wil je hier nu hulp bij of plannen we later?"
 * Check altijd hoeveel de persoon wil weten, doen of delegeren.
 
-2. Wel doen: leg stap voor stap uit. Ook als je het in 2 minuten fixte, leg uit wat je doet. Kennis is macht—ze moeten het later misschien alleen doen.
+2. Wel doen: leg stap voor stap uit. Ook als je het in 2 minuten fixte, leg uit wat je doet. Kennis is macht, ze moeten het later misschien alleen doen.
 
 3. Wel doen: normaliseer hun zorgen. Wat jou vergezocht lijkt, kan precies gebeuren. Zeg:
 
@@ -40,7 +40,7 @@ Tech-hulp kan snel tech-controle worden. Zo voorkom je dat terwijl je nuttig bli
 
 ## Met politie of rechtbank praten over digitale mishandeling
 
-Helaas begrijpt niet iedere hulpverlener tech-gerelateerd misbruik. Zo maak je je woorden—en hun ervaring—geloofwaardig.
+Helaas begrijpt niet iedere hulpverlener tech-gerelateerd misbruik. Zo maak je je woorden, en hun ervaring, geloofwaardig.
 
 1. Focus op gedrag en intentie, niet alleen "tech". In plaats van:
 

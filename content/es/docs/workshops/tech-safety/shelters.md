@@ -12,7 +12,7 @@ description: "Adaptado específicamente para refugios u organizaciones de primer
 
 ## ¿Qué es el "Día de seguridad tecnológica para sobrevivientes a tu propio ritmo"?
 
-PowerOn: Día de seguridad tecnológica para sobrevivientes a tu propio ritmo es un taller práctico de día completo diseñado para sobrevivientes de violencia de pareja. Ayuda a participantes a explorar y recuperar seguridad digital de manera empoderadora, solidaria y no técnica. Las sobrevivientes pueden aprender a detectar vigilancia, recuperar control de dispositivos y cuentas, y reconstruir confianza en el uso de tecnología—a su propio ritmo, sin presión para compartir o desempeñarse.
+PowerOn: Día de seguridad tecnológica para sobrevivientes a tu propio ritmo es un taller práctico de día completo diseñado para sobrevivientes de violencia de pareja. Ayuda a participantes a explorar y recuperar seguridad digital de manera empoderadora, solidaria y no técnica. Las sobrevivientes pueden aprender a detectar vigilancia, recuperar control de dispositivos y cuentas, y reconstruir confianza en el uso de tecnología, a su propio ritmo, sin presión para compartir o desempeñarse.
 
 El taller es lúdico, basado en elecciones y sensible al trauma, combinando aprendizaje en espacio abierto con soporte técnico práctico, juegos de roles y zonas creativas.
 
@@ -20,7 +20,7 @@ El taller es lúdico, basado en elecciones y sensible al trauma, combinando apre
 
 ## ¿Por qué realizarlo?
 
-El abuso digital es ahora parte común de la violencia de pareja—ya sea mediante rastreo de ubicación, bloqueo de cuentas, spyware o manipulación de hogares inteligentes. Las sobrevivientes a menudo:
+El abuso digital es ahora parte común de la violencia de pareja, ya sea mediante rastreo de ubicación, bloqueo de cuentas, spyware o manipulación de hogares inteligentes. Las sobrevivientes a menudo:
 
 * No saben por dónde empezar a recuperar control
 * No saben en quién confiar con su tecnología
@@ -105,7 +105,7 @@ Refugios y grupos de apoyo tienen varias opciones:
 
 Ejemplo:
 
-*Organizamos un taller "PowerOn" de un día para ayudar a sobrevivientes de violencia doméstica a recuperar seguridad y confianza digital. Combina ayuda práctica con dispositivos, consejos de privacidad y apoyo entre pares en un entorno sensible al trauma. Proveemos comida, materiales y orientación personalizada. La sesión es optativa, centrada en elecciones y diseñada para encontrarse con las sobrevivientes donde estén—sin asumir habilidades, historias o acceso tecnológico.*
+*Organizamos un taller "PowerOn" de un día para ayudar a sobrevivientes de violencia doméstica a recuperar seguridad y confianza digital. Combina ayuda práctica con dispositivos, consejos de privacidad y apoyo entre pares en un entorno sensible al trauma. Proveemos comida, materiales y orientación personalizada. La sesión es optativa, centrada en elecciones y diseñada para encontrarse con las sobrevivientes donde estén, sin asumir habilidades, historias o acceso tecnológico.*
 
 Más lenguaje útil en la [Plantilla de financiación](/docs/workshops/tech-safety/funding-template.md).
 

@@ -12,7 +12,7 @@ description: "Even if your apps are secure, your cloud and metadata might be tel
 
 ## How to disable Google location history and activity tracking
 
-Google doesn’t just remember where you’ve been—it remembers what you searched, which videos you watched, and sometimes where you parked your car. Fortunately, it can be told to forget. Or at least stop keeping notes.
+Google doesn’t just remember where you’ve been, it remembers what you searched, which videos you watched, and sometimes where you parked your car. Fortunately, it can be told to forget. Or at least stop keeping notes.
 
 1. Visit Google’s Activity Controls. Go to [myactivity.google.com/activitycontrols](https://myactivity.google.com/activitycontrols). Here, you’ll see switches for:
 
@@ -27,7 +27,7 @@ Disable all of them for a clean slate.
 
 * Open Google Maps
 * Tap your profile icon → Location sharing
-* Stop sharing with anyone listed—especially names you don’t recognise
+* Stop sharing with anyone listed, especially names you don’t recognise
 
 3. Delete location history
 
@@ -44,15 +44,15 @@ Disable all of them for a clean slate.
 5. Manage devices
 
 * Google Account → Security → Your Devices
-* Remove anything unfamiliar—or anything someone else could use
+* Remove anything unfamiliar, or anything someone else could use
 
-6. Be aware: deletion isn’t always instant. Even after disabling history, some logs linger for a while. It’s not perfect privacy—but it’s much better than leaving the taps wide open.
+6. Be aware: deletion isn’t always instant. Even after disabling history, some logs linger for a while. It’s not perfect privacy, but it’s much better than leaving the taps wide open.
 
 ---
 
 ## How to revoke cloud access from shared accounts
 
-Cloud storage is brilliant—until someone else is floating around inside your digital filing cabinet. Time to check who’s sharing what.
+Cloud storage is brilliant, until someone else is floating around inside your digital filing cabinet. Time to check who’s sharing what.
 
 1. Sign in on a safe device. As always, avoid using any devices you suspect might be compromised.
 
@@ -78,7 +78,7 @@ Cloud storage is brilliant—until someone else is floating around inside your d
 * Check connected apps under Account Settings → Connected Apps
 * Remove suspicious or legacy tools
 
-5. Change the passwords for all cloud services. Do this after you’ve removed their access—doing it first may tip someone off.
+5. Change the passwords for all cloud services. Do this after you’ve removed their access, doing it first may tip someone off.
 
 6. Rebuild your calendar if needed. If your calendar has been used for surveillance (e.g., tracking appointments), consider starting a fresh one, with limited sharing and notifications off.
 
@@ -86,13 +86,13 @@ Cloud storage is brilliant—until someone else is floating around inside your d
 
 ## How to preserve metadata and evidence when exporting logs or screenshots
 
-If you're documenting tech-based abuse for legal, housing, or support reasons, it's not just *what* you save—it’s *how* you save it.
+If you're documenting tech-based abuse for legal, housing, or support reasons, it's not just *what* you save, it’s *how* you save it.
 
 1. Preserve file timestamps. When saving screenshots or chat exports, don’t rename them unless you need to. The filename and creation date can help establish a timeline.
 
 2. Export logs as PDF or plain text. Apps like WhatsApp and Signal allow chat exports. Choose the format that shows timestamps, phone numbers, or email IDs clearly.
 
-3. Keep original files. Always save the unedited version—don't crop or annotate your only copy. Make duplicates if needed.
+3. Keep original files. Always save the unedited version, don't crop or annotate your only copy. Make duplicates if needed.
 
 4. Use metadata-aware tools. When exporting files (e.g. Google Takeout, Dropbox logs), keep the zipped folders intact. If you extract them, avoid editing them on shared or monitored devices.
 
@@ -109,4 +109,4 @@ If you're documenting tech-based abuse for legal, housing, or support reasons, i
 * Trusted friend
 * Private cloud folder (Proton Drive, Sync.com)
 
-7. Optional: include context. Attach a separate note or journal entry (plain text or PDF) describing what happened around each piece of evidence—dates, changes, odd behaviour, or conversations. This makes a stronger case if you ever need to explain the significance later.
+7. Optional: include context. Attach a separate note or journal entry (plain text or PDF) describing what happened around each piece of evidence, dates, changes, odd behaviour, or conversations. This makes a stronger case if you ever need to explain the significance later.

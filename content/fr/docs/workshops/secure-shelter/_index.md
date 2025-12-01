@@ -4,7 +4,7 @@ linkTitle: "Build-a-thon pour refuges sécurisés"
 weight: 2
 _build:
   render: always
-description: "Un atelier pratique et positif en technologie pour le personnel des refuges. Sans sermons, sans informations alarmistes—juste du travail d'équipe, des gadgets et un respect sain pour le chaos maîtrisé."
+description: "Un atelier pratique et positif en technologie pour le personnel des refuges. Sans sermons, sans informations alarmistes, juste du travail d'équipe, des gadgets et un respect sain pour le chaos maîtrisé."
 menu:
   sidebar:
     weight: 10
@@ -90,7 +90,7 @@ Moments d'apprentissage :
 
 ## Étape 3 : Brancher, démarrer, scanner (a.k.a. Pirogue & jouer)
 
-*"Maintenant, partons à la pêche—aux spywares."*
+*"Maintenant, partons à la pêche, aux spywares."*
 
 ### Objectifs :
 

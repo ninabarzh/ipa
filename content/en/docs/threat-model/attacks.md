@@ -7,7 +7,7 @@ _build:
 menu:
   sidebar:  # Adds to Docsy's auto-generated sidebar
     weight: 20
-description: "From stalkerware to impersonation, gaslighting via smart devices to using your own photos against you—this is the practical bit, where theory meets reality."
+description: "From stalkerware to impersonation, gaslighting via smart devices to using your own photos against you, this is the practical bit, where theory meets reality."
 ---
 
 This is where the theory turns practical. You’ve seen the access points. You’ve seen what’s at risk. So how does it all play out in real life?
@@ -18,7 +18,7 @@ Each of these has a technical method underneath it, but the goal is always the s
 
 ## Stalkerware
 
-These are apps designed to spy. They’re usually sold under the guise of “child safety” or “employee monitoring,” but let’s not kid ourselves—their real market is intimate partner surveillance.
+These are apps designed to spy. They’re usually sold under the guise of “child safety” or “employee monitoring,” but let’s not kid ourselves, their real market is intimate partner surveillance.
 
 Stalkerware can:
 
@@ -46,7 +46,7 @@ This goes well beyond “Find My iPhone.” With today’s tech, your movements 
 * Fitness apps with route tracking (e.g., Strava, Fitbit)
 
 The danger here isn’t just being watched. It’s being *anticipated*.
-Some survivors report turning up at appointments only to find the abuser already there—or conveniently “bumping into” them at the same café, repeatedly.
+Some survivors report turning up at appointments only to find the abuser already there, or conveniently “bumping into” them at the same café, repeatedly.
 
 And in 2025, even your smart car may be giving away your schedule.
 
@@ -58,7 +58,7 @@ Techniques include:
 
 * SIM swapping (convince your mobile provider to transfer your number)
 * Phishing (trick you into clicking a fake login page)
-* Password resets using known personal info (“What was your childhood pet’s name?”—they bought it)
+* Password resets using known personal info (“What was your childhood pet’s name?”, they bought it)
 * Guessing passwords (especially if they helped set them)
 * Using saved logins on devices or browsers they once had access to
 
@@ -69,13 +69,13 @@ Once they’re in, they might:
 * Send messages pretending to be you
 * Delete important content, or worse, make it look like *you* did it
 
-Alerts about new logins often go to the compromised inbox. So yes—it’s very possible to be taken over without knowing it at first.
+Alerts about new logins often go to the compromised inbox. So yes, it’s very possible to be taken over without knowing it at first.
 
 ## Image-based abuse / “revenge porn”
 
 The ugly term that doesn’t quite cover it.
 
-This is when private images—shared willingly or taken without consent—are used as weapons. It can involve:
+This is when private images, shared willingly or taken without consent, are used as weapons. It can involve:
 
 * Uploading images to websites or social media
 * Sending them to family, employers, or community groups
@@ -83,14 +83,14 @@ This is when private images—shared willingly or taken without consent—are us
 * Using them to isolate ("People won’t believe you after this")
 * Using AI to generate fake images and claim they’re real
 
-In 2025, AI makes this worse. Deepfakes—fake images or videos made using a few real photos—can look convincing enough to do damage, even when the original content never existed.
+In 2025, AI makes this worse. Deepfakes, fake images or videos made using a few real photos, can look convincing enough to do damage, even when the original content never existed.
 
-And even if platforms take the material down, the harm can linger. Reputation, trust, self-esteem—it all becomes collateral.
+And even if platforms take the material down, the harm can linger. Reputation, trust, self-esteem, it all becomes collateral.
 
 ## Gaslighting via smart tech
 
 This is where digital control turns truly insidious.
-Imagine your lights flickering every night at 2am. The thermostat resetting to freezing. Your door locking and unlocking on its own. No broken wires. No footprints. Just you—and the creeping feeling that you’re imagining it.
+Imagine your lights flickering every night at 2am. The thermostat resetting to freezing. Your door locking and unlocking on its own. No broken wires. No footprints. Just you, and the creeping feeling that you’re imagining it.
 
 This isn’t fiction. It’s modern domestic abuse, delivered through:
 
@@ -100,13 +100,13 @@ This isn’t fiction. It’s modern domestic abuse, delivered through:
 * Doorbells, locks, and cameras
 * TVs and Wi-Fi hubs
 
-Abusers can remotely trigger behaviours that feel random, spooky, or subtle enough to make you doubt your memory. Over time, this erodes confidence and credibility—especially if you try to explain it to someone else.
+Abusers can remotely trigger behaviours that feel random, spooky, or subtle enough to make you doubt your memory. Over time, this erodes confidence and credibility, especially if you try to explain it to someone else.
 
 It’s psychological abuse, modernised.
 
 ## Impersonation
 
-The abuser doesn’t need to break in—sometimes they just pretend to be you.
+The abuser doesn’t need to break in, sometimes they just pretend to be you.
 
 This might include:
 
@@ -116,7 +116,7 @@ This might include:
 * Signing you up for dating apps or inappropriate services
 * Making false reports to employers, schools, or social services
 
-If they still have access to your actual accounts, it becomes even harder to prove what’s real and what isn’t. Some will even stage conversations—talking to themselves from different accounts—just to produce screenshots.
+If they still have access to your actual accounts, it becomes even harder to prove what’s real and what isn’t. Some will even stage conversations, talking to themselves from different accounts, just to produce screenshots.
 
 The point isn’t just to cause trouble. It’s to isolate, confuse, and silence.
 
@@ -125,5 +125,5 @@ The point isn’t just to cause trouble. It’s to isolate, confuse, and silence
 Every one of these attacks is about more than just “using tech.”
 They’re methods of *power and control*, shaped to look like glitches, coincidences, or bad luck. But once you name the tactics, you can start untangling them.
 
-This section isn’t meant to scare—it’s here to say:
+This section isn’t meant to scare, it’s here to say:
 You’re not imagining it. You’re not alone. And there *are* ways forward.

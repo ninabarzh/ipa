@@ -12,7 +12,7 @@ description: "Si las cosas se sienten comprometidas o te preparas para un cambio
 
 ## Cómo prepararse para un reinicio digital completo
 
-A veces las cosas están demasiado enredadas para desenredarlas. Cuando las cuentas están comprometidas, los dispositivos son sospechosos o el acceso es inseguro, empezar de cero puede ser la mejor opción. Así se planifica un reinicio digital silencioso y controlado—sin botones dramáticos.
+A veces las cosas están demasiado enredadas para desenredarlas. Cuando las cuentas están comprometidas, los dispositivos son sospechosos o el acceso es inseguro, empezar de cero puede ser la mejor opción. Así se planifica un reinicio digital silencioso y controlado, sin botones dramáticos.
 
 1. Haz balance: ¿qué quieres conservar? Antes de borrar, reúne lo esencial:
 
@@ -27,16 +27,16 @@ A veces las cosas están demasiado enredadas para desenredarlas. Cuando las cuen
 * Almacenamiento en la nube privado (Proton Drive, Sync.com)
   Evita Google Drive o iCloud si son compartidos o monitoreados.
 
-3. Separa lo personal de lo compartido. No lleves equipaje viejo. Haz una lista de cuentas por recuperar—y otra de las que es mejor abandonar.
+3. Separa lo personal de lo compartido. No lleves equipaje viejo. Haz una lista de cuentas por recuperar, y otra de las que es mejor abandonar.
 
-4. Considera un dispositivo nuevo. Si sospechas que tu teléfono o portátil actual está comprometido, es más seguro empezar de cero. Un dispositivo básico, configurado desde cero, te da control. Prestado o reacondicionado está bien—si *tú* haces la configuración.
+4. Considera un dispositivo nuevo. Si sospechas que tu teléfono o portátil actual está comprometido, es más seguro empezar de cero. Un dispositivo básico, configurado desde cero, te da control. Prestado o reacondicionado está bien, si *tú* haces la configuración.
 
 5. Restablecimiento de fábrica, un dispositivo a la vez. Cuando estés listo:
 
 * Borra el dispositivo (restablecimiento)
 * Reinstala solo apps confiables
 * Configura cuentas nuevas con contraseñas únicas y 2FA por app
-  Evita restaurar copias—traen viejos problemas.
+  Evita restaurar copias, traen viejos problemas.
 
 6. Mantén silencio durante el proceso. No anuncies que "empiezas de nuevo". Simplemente... empieza. Despacio. En silencio. Prioriza seguridad sobre velocidad. Es una transición, no un gesto grandioso.
 
@@ -63,7 +63,7 @@ Llevar un diario es poderoso. Ayuda a procesar pensamientos, detectar patrones y
 
 5. Incluye contexto, pero mantén lenguaje neutral. Si llevas un diario con posible uso legal, sé factual: fechas, acciones y citas directas cuando sea posible.
 
-6. Exporta y respalda regularmente (en privado). Haz copias en un dispositivo seguro o USB, y guárdalas en lugar seguro—idealmente externo.
+6. Exporta y respalda regularmente (en privado). Haz copias en un dispositivo seguro o USB, y guárdalas en lugar seguro, idealmente externo.
 
 ---
 
@@ -76,7 +76,7 @@ A veces los primeros pasos hacia la seguridad comienzan leyendo. Pero si alguien
 * Chrome/Firefox: `Ctrl + Mayús + N` (o `Cmd + Mayús + N` en Mac)
 * Safari: Pestañas → Privado
 
-El modo privado no guarda historial, cookies ni datos—pero no oculta tu actividad del Wi-Fi o registros del router.
+El modo privado no guarda historial, cookies ni datos, pero no oculta tu actividad del Wi-Fi o registros del router.
 
 2. Usa un navegador enfocado en privacidad
 

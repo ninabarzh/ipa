@@ -12,7 +12,7 @@ description: "Incluso si tus apps son seguras, tu nube y metadatos podrían cont
 
 ## Cómo desactivar el historial de ubicación y seguimiento de actividad de Google
 
-Google no solo recuerda dónde estuviste—también qué buscaste, qué videos viste y a veces dónde estacionaste tu auto. Afortunadamente, puedes pedirle que olvide. O al menos que deje de tomar notas.
+Google no solo recuerda dónde estuviste, también qué buscaste, qué videos viste y a veces dónde estacionaste tu auto. Afortunadamente, puedes pedirle que olvide. O al menos que deje de tomar notas.
 
 1. Visita los controles de actividad de Google. Ve a [myactivity.google.com/activitycontrols](https://myactivity.google.com/activitycontrols). Aquí verás interruptores para:
 
@@ -27,7 +27,7 @@ Desactívalos todos para empezar de cero.
 
 * Abre Google Maps
 * Toca tu ícono de perfil → Compartir ubicación
-* Deja de compartir con cualquiera listado—especialmente nombres que no reconozcas
+* Deja de compartir con cualquiera listado, especialmente nombres que no reconozcas
 
 3. Borra historial de ubicaciones
 
@@ -44,15 +44,15 @@ Desactívalos todos para empezar de cero.
 5. Gestiona dispositivos
 
 * Cuenta de Google → Seguridad → Tus dispositivos
-* Elimina lo desconocido—o lo que otros podrían usar
+* Elimina lo desconocido, o lo que otros podrían usar
 
-6. Ten en cuenta: borrar no siempre es instantáneo. Incluso desactivando historiales, algunos registros permanecen. No es privacidad perfecta—pero es mejor que dejar todo abierto.
+6. Ten en cuenta: borrar no siempre es instantáneo. Incluso desactivando historiales, algunos registros permanecen. No es privacidad perfecta, pero es mejor que dejar todo abierto.
 
 ---
 
 ## Cómo revocar acceso en la nube de cuentas compartidas
 
-El almacenamiento en la nube es genial—hasta que alguien más husmea en tus archivos digitales. Es hora de revisar quién comparte qué.
+El almacenamiento en la nube es genial, hasta que alguien más husmea en tus archivos digitales. Es hora de revisar quién comparte qué.
 
 1. Inicia sesión desde un dispositivo seguro. Como siempre, evita dispositivos potencialmente comprometidos.
 
@@ -78,7 +78,7 @@ El almacenamiento en la nube es genial—hasta que alguien más husmea en tus ar
 * Revisa apps conectadas en Configuración → Aplicaciones conectadas
 * Elimina herramientas sospechosas o antiguas
 
-5. Cambia contraseñas de todos los servicios en la nube. Hazlo después de revocar accesos—hacerlo antes podría alertar a alguien.
+5. Cambia contraseñas de todos los servicios en la nube. Hazlo después de revocar accesos, hacerlo antes podría alertar a alguien.
 
 6. Reconstruye tu calendario si es necesario. Si se usó para vigilancia (ej. rastrear citas), considera uno nuevo con compartir limitado y notificaciones desactivadas.
 
@@ -86,13 +86,13 @@ El almacenamiento en la nube es genial—hasta que alguien más husmea en tus ar
 
 ## Cómo preservar metadatos y evidencia al exportar registros o capturas
 
-Si documentas abuso digital para fines legales o de apoyo, no solo importa *qué* guardas—sino *cómo*.
+Si documentas abuso digital para fines legales o de apoyo, no solo importa *qué* guardas, sino *cómo*.
 
 1. Preserva marcas de tiempo. Al guardar capturas o chats, no los renombres a menos que sea necesario. Nombre y fecha de creación ayudan a establecer una línea de tiempo.
 
 2. Exporta registros como PDF o texto plano. Apps como WhatsApp y Signal permiten exportar chats. Elige formatos que muestren marcas de tiempo, números o IDs claramente.
 
-3. Conserva archivos originales. Guarda versiones sin editar—no recortes ni anotes tu única copia. Haz duplicados si es necesario.
+3. Conserva archivos originales. Guarda versiones sin editar, no recortes ni anotes tu única copia. Haz duplicados si es necesario.
 
 4. Usa herramientas conscientes de metadatos. Al exportar (ej. Google Takeout), mantén archivos comprimidos intactos. Si los extraes, evita editarlos en dispositivos compartidos.
 
@@ -109,4 +109,4 @@ Si documentas abuso digital para fines legales o de apoyo, no solo importa *qué
 * Amigo de confianza
 * Carpeta privada en nube (Proton Drive, Sync.com)
 
-7. Opcional: incluye contexto. Adjunta una nota o entrada de diario (texto plano o PDF) describiendo lo ocurrido alrededor de cada evidencia—fechas, cambios, comportamientos extraños o conversaciones. Esto fortalece tu caso si necesitas explicar su importancia después.
+7. Opcional: incluye contexto. Adjunta una nota o entrada de diario (texto plano o PDF) describiendo lo ocurrido alrededor de cada evidencia, fechas, cambios, comportamientos extraños o conversaciones. Esto fortalece tu caso si necesitas explicar su importancia después.

@@ -7,7 +7,7 @@ _build:
 menu:
   sidebar:
     weight: 25
-description: "Modèle adaptable pour organiser un build-a-thon pratique—journée de création d'un lab de sécurité tech avec Pirogue et Wazuh. Destiné aux autorités locales, fondations ou programmes droits numériques, avec explications claires et accent sur l'autonomisation."
+description: "Modèle adaptable pour organiser un build-a-thon pratique, journée de création d'un lab de sécurité tech avec Pirogue et Wazuh. Destiné aux autorités locales, fondations ou programmes droits numériques, avec explications claires et accent sur l'autonomisation."
 ---
 
 ### 1. Titre
@@ -18,7 +18,7 @@ description: "Modèle adaptable pour organiser un build-a-thon pratique—journ�
 
 Nous organisons un *build-a-thon* d'1–2 jours où le personnel installera un lab de sécurité numérique avec Wazuh (surveillance) et Pirogue (détection de menaces). Le résultat: un système fonctionnel pour détecter spyware, surveiller les risques et soutenir les survivantes.
 
-Pas une formation—une journée collaborative aboutissant à une solution concrète.
+Pas une formation, une journée collaborative aboutissant à une solution concrète.
 
 ### 3. Objectifs
 

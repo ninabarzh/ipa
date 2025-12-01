@@ -7,7 +7,7 @@ _build:
 menu:
   sidebar:
     weight: 25
-description: "Sjabloon voor opvanghuizen om lokale/regionale fondsen aan te vragen voor deze dag. Aanpasbaar voor diverse subsidieprogramma's—helder, missiegericht en klaar voor subsidieportalen of Word-formulieren."
+description: "Sjabloon voor opvanghuizen om lokale/regionale fondsen aan te vragen voor deze dag. Aanpasbaar voor diverse subsidieprogramma's, helder, missiegericht en klaar voor subsidieportalen of Word-formulieren."
 ---
 
 ### 1. Projecttitel
@@ -18,7 +18,7 @@ PowerOn: Technologieveiligheid voor overlevenden – Kies-je-eigen-tempo-dag of 
 
 ### 2. Samenvatting
 
-*PowerOn* is een eendaagse, trauma-bewuste tech-workshop voor overlevenden van partnergeweld. Het biedt een veilige ruimte om digitale veiligheid op eigen tempo te verkennen—via praktische activiteiten, optionele apparaatchecks en privacy-tools.
+*PowerOn* is een eendaagse, trauma-bewuste tech-workshop voor overlevenden van partnergeweld. Het biedt een veilige ruimte om digitale veiligheid op eigen tempo te verkennen, via praktische activiteiten, optionele apparaatchecks en privacy-tools.
 
 Deelnemers leren verborgen surveillance (bv. stalkerware, locatietracking) herkennen, apparaten/accounts beveiligen en tech-vertrouwen opbouwen in een niet-technische omgeving.
 

@@ -18,7 +18,7 @@ description: "Aanpasbaar sjabloon voor een praktische build-a-thon om een tech-v
 
 Wij organiseren een 1–2 daagse *build-a-thon* waar medewerkers een veiligheidslab opzetten met open-source tools zoals Wazuh (monitoring) en Pirogue (threatdetectie). Resultaat: een werkend systeem om spyware te detecteren en digitale risico's te monitoren.
 
-Geen lezing—een samenwerkingsdag met een werkende oplossing.
+Geen lezing, een samenwerkingsdag met een werkende oplossing.
 
 ### 3. Doelen
 

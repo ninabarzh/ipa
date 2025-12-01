@@ -11,7 +11,7 @@ description: "Méthodes discrètes et sûres pour recueillir des preuves numéri
 ---
 
 Face aux abus technologiques, on ne peut pas toujours prouver sur-le-champ.  
-Mais les preuves, si collectées avec soin— deviennent un pouvoir. Elles aident pour la protection légale, le logement, les services d’aide, ou simplement *être cru·e*.
+Mais les preuves, si collectées avec soin,  deviennent un pouvoir. Elles aident pour la protection légale, le logement, les services d’aide, ou simplement *être cru·e*.
 
 Ce guide présente des méthodes calmes et à faible risque pour recueillir des preuves.
 

@@ -7,7 +7,7 @@ _build:
 menu:
   sidebar:
     weight: 40
-description: "Pour les proches et professionnels qui aident—conseils tech adaptés aux traumatismes, formulations à utiliser/éviter, et comment ne pas empirer la situation involontairement. Inclut quoi apporter à la police/justice, et comment expliquer les abus numériques pour être compris."
+description: "Pour les proches et professionnels qui aident, conseils tech adaptés aux traumatismes, formulations à utiliser/éviter, et comment ne pas empirer la situation involontairement. Inclut quoi apporter à la police/justice, et comment expliquer les abus numériques pour être compris."
 ---
 
 Aider ne nécessite ni d'être un geek ni un justicier. Que vous soyez la "personne tech" ou simplement quelqu'un de confiance, voici comment soutenir utilement sans franchir de limites ou déclencher d'alarmes.
@@ -21,14 +21,14 @@ L'aide technique peut vite virer au contrôle. Voici comment l'éviter tout en r
 * "Tu veux qu'on regarde ça maintenant ou plus tard ?"
 * Vérifiez toujours ce que la personne souhaite savoir, faire ou déléguer.
 
-2. À faire : expliquez étape par étape. Même pour une réparation rapide, détaillez vos actions. Le savoir est pouvoir—elle devra peut-être refaire seule plus tard.
+2. À faire : expliquez étape par étape. Même pour une réparation rapide, détaillez vos actions. Le savoir est pouvoir, elle devra peut-être refaire seule plus tard.
 
 3. À faire : validez ses inquiétudes. Ce qui vous semble improbable peut être réel. Dites :
 
 * "On peut tout à fait vérifier ça."
 * Pas : "Ça paraît un peu parano."
 
-4. À faire : documentez les changements. Notez (sur papier ou app sécurisée) les modifications—surtout mots de passe, réinitialisations et changements d'appareils. La survivante doit avoir une copie.
+4. À faire : documentez les changements. Notez (sur papier ou app sécurisée) les modifications, surtout mots de passe, réinitialisations et changements d'appareils. La survivante doit avoir une copie.
 
 5. 🚫 À éviter : utiliser vos coordonnées. Même temporairement. Cela crée une dépendance et peut compliquer les démarches légales ou de récupération.
 
@@ -40,7 +40,7 @@ L'aide technique peut vite virer au contrôle. Voici comment l'éviter tout en r
 
 ## Comment parler d'abus numériques à la police ou en justice
 
-Malheureusement, tous les professionnels ne comprennent pas ces violences. Voici comment rendre vos mots—et son vécu—concrets.
+Malheureusement, tous les professionnels ne comprennent pas ces violences. Voici comment rendre vos mots, et son vécu, concrets.
 
 1. Concentrez-vous sur les comportements, pas juste la "tech". Au lieu de :
 

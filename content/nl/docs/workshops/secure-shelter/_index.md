@@ -4,7 +4,7 @@ linkTitle: "Beveilig het opvanghuis build-a-thon"
 weight: 2
 _build:
   render: always
-description: "Een vrolijke, techniek-positieve, handen-uit-de-mouwen build-a-thon voor opvangmedewerkers. Geen preken, geen doemscrollen—gewoon teamwork, gadgets en gezond respect voor getemd gedoe."
+description: "Een vrolijke, techniek-positieve, handen-uit-de-mouwen build-a-thon voor opvangmedewerkers. Geen preken, geen doemscrollen, gewoon teamwork, gadgets en gezond respect voor getemd gedoe."
 menu:
   sidebar:
     weight: 10
@@ -90,7 +90,7 @@ Leermomenten:
 
 ## Fase 3: Aansluiten, opstarten, scannen (a.k.a. Pirogue & spelen)
 
-*"Nu gaan we vissen—naar spyware."*
+*"Nu gaan we vissen, naar spyware."*
 
 ### Doelen:
 

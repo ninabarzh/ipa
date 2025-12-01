@@ -7,10 +7,10 @@ _build:
 menu:
   sidebar:
     weight: 45
-description: "Messagerie sécurisée, gestionnaires de mots de passe—des applis discrètes qui protègent votre vie privée sans crier « je cache quelque chose ». Choisissez ce qui vous convient—sans jargon ni complexité, juste des solutions efficaces."
+description: "Messagerie sécurisée, gestionnaires de mots de passe, des applis discrètes qui protègent votre vie privée sans crier « je cache quelque chose ». Choisissez ce qui vous convient, sans jargon ni complexité, juste des solutions efficaces."
 ---
 
-Ces outils ne nécessitent pas d'être un hacker ou de vivre déconnecté. Ils permettent de reprendre le contrôle de sa vie numérique—pour laisser moins de traces, communiquer en privé, ou simplement se sentir moins surveillé. Utilisez ce qui vous aide, ignorez le reste.
+Ces outils ne nécessitent pas d'être un hacker ou de vivre déconnecté. Ils permettent de reprendre le contrôle de sa vie numérique, pour laisser moins de traces, communiquer en privé, ou simplement se sentir moins surveillé. Utilisez ce qui vous aide, ignorez le reste.
 
 ## Messagerie & email privés
 
@@ -53,7 +53,7 @@ Joplin
 Tella
 
 * Conçue pour documenter les violations des droits humains
-* Stocke photos, vidéos, notes vocales et texte—chiffrés
+* Stocke photos, vidéos, notes vocales et texte, chiffrés
 * Fonction effacement d'urgence
 * Peut se camoufler en autre application
 
@@ -65,7 +65,7 @@ Navigateur DuckDuckGo
 
 * Bloque les traqueurs et ne sauvegarde pas l'historique
 * Bouton "brûler" efface tous les onglets instantanément
-* Interface classique—prise en main immédiate
+* Interface classique, prise en main immédiate
 
 Brave Browser
 

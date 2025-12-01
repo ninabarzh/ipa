@@ -7,14 +7,14 @@ _build:
 menu:
   sidebar:
     weight: 25
-description: "Toezicht. Isolatie. Reputatieschade. Financiële sabotage. Het is niet alleen een gehackte telefoon—het is je onafhankelijkheid die wordt uitgehold."
+description: "Toezicht. Isolatie. Reputatieschade. Financiële sabotage. Het is niet alleen een gehackte telefoon, het is je onafhankelijkheid die wordt uitgehold."
 ---
 
-Dit zijn de gevolgen—de reden waarom dit alles ertoe doet.
+Dit zijn de gevolgen, de reden waarom dit alles ertoe doet.
 
-Zodra toegang is verkregen en tools geïnstalleerd, volgt er niets willekeurigs. Het is vaak opzettelijk, strategisch en zeer persoonlijk. Het doel is niet alleen "gluren"—maar je autonomie, relaties, financiën en realiteitsbesef ondermijnen.
+Zodra toegang is verkregen en tools geïnstalleerd, volgt er niets willekeurigs. Het is vaak opzettelijk, strategisch en zeer persoonlijk. Het doel is niet alleen "gluren", maar je autonomie, relaties, financiën en realiteitsbesef ondermijnen.
 
-Deze dreigingen zijn niet theoretisch. Het zijn ervaringen van velen. Ze herkennen helpt de schade te benoemen—en terrein terug te winnen.
+Deze dreigingen zijn niet theoretisch. Het zijn ervaringen van velen. Ze herkennen helpt de schade te benoemen, en terrein terug te winnen.
 
 ## Toezicht
 
@@ -28,7 +28,7 @@ Denk aan:
 * Browseractiviteit en app-gebruik checken
 * Gewoonten observeren (slaap, eetpatroon, contacten)
 
-Vaak 24/7. Het creëert een verlammend effect: je gaat jezelf censureren, twijfelt aan keuzes en voelt je constant bekeken—zelfs alleen.
+Vaak 24/7. Het creëert een verlammend effect: je gaat jezelf censureren, twijfelt aan keuzes en voelt je constant bekeken, zelfs alleen.
 
 Het doel? Niet alleen weten wat je doet. Beïnvloeden wat je *zult* doen.
 
@@ -44,13 +44,13 @@ Voorbeelden:
 * Smart-home-tech gebruiken om je omgeving te reguleren (licht, temperatuur, geluid)
 * Gedragsverandering afdwingen via "bezorgdheid" over routine, uitgaven of contacten
 
-Het doel is geen chaos—maar voorspelbaarheid. Dat je je gedrag aanpast om de volgende verstoring te voorkomen.
+Het doel is geen chaos, maar voorspelbaarheid. Dat je je gedrag aanpast om de volgende verstoring te voorkomen.
 
-Omdat het subtiel of als "zorg" (*"Ik wil je veiligheid"*) wordt gepresenteerd, is het moeilijk uit te leggen—laat staan te bewijzen.
+Omdat het subtiel of als "zorg" (*"Ik wil je veiligheid"*) wordt gepresenteerd, is het moeilijk uit te leggen, laat staan te bewijzen.
 
 ## Isolatie
 
-Een van de oudste tactieken—nu gedigitaliseerd.
+Een van de oudste tactieken, nu gedigitaliseerd.
 
 Ze isoleren door:
 
@@ -78,7 +78,7 @@ Gangbare methodes:
 
 Er is weinig voor nodig. Een paar goed getimede leugens kunnen geloofwaardigheid schaden, professionele relaties vernietigen en verwarring stichten.
 
-Veel slachtoffers moeten uitleggen wat ze nooit deden—terwijl de dader zogenaamd bezorgd vanaf de zijlijn staat.
+Veel slachtoffers moeten uitleggen wat ze nooit deden, terwijl de dader zogenaamd bezorgd vanaf de zijlijn staat.
 
 ## Klemzetten
 
@@ -94,12 +94,12 @@ Hier gebruikt de dader het systeem *tegen* het slachtoffer:
 
 Het draait niet om winnen. Maar om afmatten.
 
-Deze manipulatie is lastig te bestrijden omdat het systeem oppervlakkig "werkt". Maar het krijgt verkeerde data—en de bewijslast komt bij het slachtoffer te liggen.
+Deze manipulatie is lastig te bestrijden omdat het systeem oppervlakkig "werkt". Maar het krijgt verkeerde data, en de bewijslast komt bij het slachtoffer te liggen.
 
 ## Een noot
 
 Deze dreigingen zijn niet technisch. Ze zijn menselijk.
-Ze bestaan omdat iemand toegang misbruikt—niet door een fout van jou.
+Ze bestaan omdat iemand toegang misbruikt, niet door een fout van jou.
 
 Het cruciale punt: zodra je patronen *herkent*, kun je tegenstrategieën bedenken.
 Je verbeeldt het je niet. Je overdrijft niet. En je bent niet alleen.

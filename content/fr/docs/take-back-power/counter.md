@@ -12,7 +12,7 @@ description: "Moyens pratiques de tout verrouiller sans éveiller les soupçons.
 
 Parfois, vous *ne pouvez pas* échapper à l'abus par la technologie. Mais une hygiène numérique intelligente et des interventions discrètes peuvent rétablir l'équilibre en votre faveur.
 
-Ce guide est pour ceux qui sont prêts à tout verrouiller—sans alarmer ni susciter de soupçons. Vous n'avez pas à tout faire. Commencez par ce qui semble possible.
+Ce guide est pour ceux qui sont prêts à tout verrouiller, sans alarmer ni susciter de soupçons. Vous n'avez pas à tout faire. Commencez par ce qui semble possible.
 
 ## Audits des appareils (sans déclencher d'alarmes)
 
@@ -28,7 +28,7 @@ Que faire :
 - Conseils pour un audit sûr :
   - Utilisez un deuxième appareil (téléphone d'un ami, ordinateur public) pour *rechercher des applications suspectes*  
   - Conservez les logs et captures d'écran *hors ligne ou hors de l'appareil*  
-  - Ne désinstallez rien encore—certains logiciels espions alertent lorsqu'ils sont supprimés
+  - Ne désinstallez rien encore, certains logiciels espions alertent lorsqu'ils sont supprimés
 
 Besoin d'un nouveau départ ? Voir ci-dessous : [Stratégies de table rase →](#stratégies-de-table-rase--quand-recommencer)
 
@@ -60,14 +60,14 @@ Clouds partagés = regards partagés. Même les fichiers ou photos "supprimés" 
 
 Que faire :
 
-- Vérifiez la synchronisation : Google Drive, iCloud, Dropbox, OneDrive—allez dans les paramètres pour voir *appareils liés* et *dossiers partagés*
+- Vérifiez la synchronisation : Google Drive, iCloud, Dropbox, OneDrive, allez dans les paramètres pour voir *appareils liés* et *dossiers partagés*
 - Désactivez les téléchargements automatiques : Galerie photo, sauvegardes WhatsApp, apps de notes synchronisent souvent en silence
-- Révoquez l'accès des autres appareils : Si doute, changez d'abord le mot de passe—puis déconnectez les sessions à distance
+- Révoquez l'accès des autres appareils : Si doute, changez d'abord le mot de passe, puis déconnectez les sessions à distance
 - Calendriers et albums partagés : Souvent utilisés pour suivre les routines. Supprimez les collaborateurs discrètement.
 
 ## Détection des traqueurs : AirTags, activité Google, apps malveillantes
 
-Si quelqu'un sait où vous êtes, vous pourriez fuiter votre localisation—même si vous pensez l'avoir désactivée.
+Si quelqu'un sait où vous êtes, vous pourriez fuiter votre localisation, même si vous pensez l'avoir désactivée.
 
 Cherchez les traqueurs :
 
@@ -106,7 +106,7 @@ Checklist pour un nouveau départ :
    - Installez uniquement depuis les magasins officiels
 
 4. Nouveau numéro de téléphone (si possible) :  
-   - Utilisez-le uniquement pour vérification—ne le partagez pas  
+   - Utilisez-le uniquement pour vérification, ne le partagez pas  
    - Gardez l'ancien numéro pour les apparences si besoin
 
 5. Évitez de lier aux appareils/comptes compromis : Ne vous connectez pas aux anciens comptes Google/Apple juste pour "vérifier"
@@ -115,7 +115,7 @@ C'est un grand pas. Pas toujours possible. Mais quand c'est le cas, cela peut ê
 
 ## Un mot sur cette section
 
-Les solutions techniques sont des outils—pas un salut. Elles fonctionnent mieux avec du soutien, des limites et une sécurité émotionnelle.  
+Les solutions techniques sont des outils, pas un salut. Elles fonctionnent mieux avec du soutien, des limites et une sécurité émotionnelle.  
 Vous n'avez pas à devenir expert en IT. Cherchez clarté, calme et contrôle.
 
 À suivre : [Par où commencer →](/docs/take-back-power/what) ou [À qui parler (et quand) →](/docs/take-back-power/who)

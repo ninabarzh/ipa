@@ -10,15 +10,15 @@ menu:
 description: "Matching common effects of digital abuse with realistic strategies for taking back control."
 ---
 
-When technology is used as a tool of control, the impacts can feel overwhelming—psychological, physical, financial, legal, and deeply personal.  
+When technology is used as a tool of control, the impacts can feel overwhelming, psychological, physical, financial, legal, and deeply personal.  
 But every form of harm has a possible counter-strategy. This isn’t a silver bullet list. It’s a map. Something to help you find a starting point.
 
-This guide walks through each major type of impact and offers ways to respond—whether you’re still in the situation or already out.  
+This guide walks through each major type of impact and offers ways to respond, whether you’re still in the situation or already out.  
 Links to how-to guides and tools will follow in the next section. For now, focus on regaining space, clarity, and confidence.
 
 ## Psychological harm → digital detox & trauma-aware support
 
-What’s going on: Surveillance—even the *threat* of it—leads to anxiety, hypervigilance, and burnout. Constant second-guessing of your tech, surroundings, and choices.
+What’s going on: Surveillance, even the *threat* of it, leads to anxiety, hypervigilance, and burnout. Constant second-guessing of your tech, surroundings, and choices.
 
 Response strategies:
 
@@ -30,7 +30,7 @@ Response strategies:
 - Trauma-aware support:
   - Look for domestic abuse services that *understand tech abuse*  
   - Consider trauma-informed therapists (especially those familiar with coercive control)
-  - Avoid “just change your password” advice-givers—they’re not the target audience
+  - Avoid “just change your password” advice-givers, they’re not the target audience
 
 - Clarity tools:
   - Keep a log (digital or paper) of strange tech behaviours
@@ -74,7 +74,7 @@ Response strategies:
 
 - Rebuild support:
   - If safe, speak to your employer about suspicious activity or impersonation
-  - Keep a log of anything that affects your financial situation—it may help in legal or housing cases
+  - Keep a log of anything that affects your financial situation, it may help in legal or housing cases
 
 ## Legal danger → evidence capture & tactical calm
 
@@ -94,15 +94,15 @@ Response strategies:
 - Know what *not* to delete:
   - Even if messages feel distressing or incriminating, keep them.  
     Fabricated evidence is easier to challenge when real records still exist.  
-  - If in doubt, back up first—delete later, safely.
+  - If in doubt, back up first, delete later, safely.
 
 - Expert allies:
   - Contact legal clinics, privacy organisations, or DV services with tech experience  
-  - Don’t assume police or courts will understand app-level abuse—come armed with *explanations*
+  - Don’t assume police or courts will understand app-level abuse, come armed with *explanations*
 
 ## Loss of autonomy → boundary-setting & digital reset
 
-What’s going on: Abuse through tech chips away at independence. Even after separation, routines are shaped by past manipulation—where you go, what apps you use, what you avoid.
+What’s going on: Abuse through tech chips away at independence. Even after separation, routines are shaped by past manipulation, where you go, what apps you use, what you avoid.
 
 Response strategies:
 
@@ -119,11 +119,11 @@ Response strategies:
 - Remove passive monitoring:
   - Audit smart devices and cloud-connected home gear  
   - Factory-reset or remove logins to previously used devices  
-  - Cut unnecessary permissions from apps—especially those with camera, mic, or GPS access
+  - Cut unnecessary permissions from apps, especially those with camera, mic, or GPS access
 
 ## A word on this section
 
-These strategies are meant to give breathing room—not add to the overwhelm.
+These strategies are meant to give breathing room, not add to the overwhelm.
 
 Start where it’s easiest. Work toward what’s hardest. And don’t go it alone if you don’t have to.
 

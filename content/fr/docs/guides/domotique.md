@@ -7,12 +7,12 @@ _build:
 menu:
   sidebar:
     weight: 25
-description: "Thermostats, serrures, caméras—même les ampoules—peuvent devenir des outils de contrôle. Cette section vous montre comment reprendre les appareils connectés, supprimer d'autres utilisateurs et réinitialiser votre espace discrètement."
+description: "Thermostats, serrures, caméras, même les ampoules, peuvent devenir des outils de contrôle. Cette section vous montre comment reprendre les appareils connectés, supprimer d'autres utilisateurs et réinitialiser votre espace discrètement."
 ---
 
 ## Comment reprendre le contrôle d'un appareil domotique
 
-Une maison intelligente devrait vous servir—pas vous surveiller. Voici comment vérifier qui tire vraiment les ficelles.
+Une maison intelligente devrait vous servir, pas vous surveiller. Voici comment vérifier qui tire vraiment les ficelles.
 
 1. Identifiez les appareils concernés. Tout ce qui se connecte au Wi-Fi peut communiquer. Commencez par :
 
@@ -108,7 +108,7 @@ Consultez les instructions du fabricant.
 * Coupez leur accès aux services liés (Spotify, etc.)
 * Désactivez "drop-in" (Alexa) ou "voice match" (Google)
 
-6. Changez les mots de passe et déliez les comptes. Ne faites pas que les supprimer—verrouillez-les.
+6. Changez les mots de passe et déliez les comptes. Ne faites pas que les supprimer, verrouillez-les.
 
 * Nouveau mot de passe Wi-Fi
 * Reconnectez les appareils vous-même

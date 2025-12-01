@@ -18,7 +18,7 @@ description: "Pirogue ve Wazuh ile özel bir teknoloji güvenlik laboratuvarı k
 
 1–2 günlük pratik bir *inşa maratonu* düzenliyoruz. Personel, Wazuh (izleme) ve Pirogue (tehdit algılama) gibi açık kaynaklı araçlarla dijital güvenlik laboratuvarı kuracak. Sonuç: casus yazılım tespiti, risk izleme ve dijital istismar mağdurlarına destek için çalışan bir sistem.
 
-Teorik değil—somut çözümle biten işbirlikçi bir gün.
+Teorik değil, somut çözümle biten işbirlikçi bir gün.
 
 ### 3. Amaçlar
 

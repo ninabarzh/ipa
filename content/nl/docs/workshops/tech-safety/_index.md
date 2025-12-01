@@ -4,7 +4,7 @@ linkTitle: "Technologieveiligheid voor overlevenden – Kies-je-eigen-tempo-dag"
 weight: 1
 _build:
   render: always
-description: "Dit is geen technologietraining. Het is een vriendelijke, kies-je-eigen-tempo-dag waar overlevenden tools kunnen ontdekken, vaardigheden leren en digitaal vertrouwen herstellen—op hun eigen voorwaarden. Of iemand nu zijn apparaat wil scannen, een stille vraag stellen of een strip tekenen over zijn minst favoriete app—deze dag biedt ruimte voor alles."
+description: "Dit is geen technologietraining. Het is een vriendelijke, kies-je-eigen-tempo-dag waar overlevenden tools kunnen ontdekken, vaardigheden leren en digitaal vertrouwen herstellen, op hun eigen voorwaarden. Of iemand nu zijn apparaat wil scannen, een stille vraag stellen of een strip tekenen over zijn minst favoriete app, deze dag biedt ruimte voor alles."
 menu:
   sidebar:
     weight: 5
@@ -63,7 +63,7 @@ Stations zijn de hele dag open tenzij anders vermeld. Overlevenden kunnen ze in 
 * Gebruik een demo-apparaat of je eigen  
 * Met Pirogue (als het shelter er een heeft of we nemen er een mee)  
 * Scan, bespreek resultaten  
-* Geen angstzaaierij—alleen kalme uitleg  
+* Geen angstzaaierij, alleen kalme uitleg  
 
 Meenemen: Een geprint of gemaild scanrapport, een vervolgplan (optioneel)  
 
@@ -81,7 +81,7 @@ Live of geprinte scenario's om aan mee te doen of te observeren:
 
 * “Aardige man die alleen je GPS-wachtwoord nodig heeft”  
 * “Die e-mail is toch niet echt van Apple?”  
-* “Oeps—iemand heeft een apparaat aan je account toegevoegd”  
+* “Oeps, iemand heeft een apparaat aan je account toegevoegd”  
 
 Activiteit: Herken de val, schrijf een nieuw einde  
 
@@ -105,7 +105,7 @@ Optie: Neem een versleutelde kopie van je notities mee
 
 * Probeer DuckDuckGo, Tor Browser, Firefox Focus  
 * Leer over incognitomodi (en wat ze niet verbergen)  
-* Wegwerpaccounts en geheime inboxen—hoe ze werken, wanneer ze helpen  
+* Wegwerpaccounts en geheime inboxen, hoe ze werken, wanneer ze helpen  
 
 Optioneel: Neem een “privé-browsingkit”-USB mee  
 
@@ -115,7 +115,7 @@ Optioneel: Neem een “privé-browsingkit”-USB mee
 * Geen druk, geen notities tenzij gevraagd  
 * Gewoon menselijke ondersteuning  
 
-Vragen of angsten—geen tech-kennis nodig  
+Vragen of angsten, geen tech-kennis nodig  
 
 ### Creatieve ruimte – *"Ik wil geen tech, ik wil kleur"*  
 
@@ -131,14 +131,14 @@ Kunst kan mee naar huis of anoniem op de “Power Wall” blijven
   * Veilige dagboektools  
   * Privébrowser  
   * Zines en bladwijzers  
-* Zine: “Eerste stappen—Technologie terugkrijgen”  
+* Zine: “Eerste stappen, Technologie terugkrijgen”  
 * Contactenlijst van digitale hulporganisaties  
 * Grappige sticker: “App-detective” / “Ik heb een trackingcookie verslagen”  
 * Printbare badges ook beschikbaar voor shelters met printers  
 
 ## Eindfeest (16:30–17:00)  
 
-* Taart en muziek (of chocolademelk en stilte—kies zelf)  
+* Taart en muziek (of chocolademelk en stilte, kies zelf)  
 * DIY-badgestation (“App-detective”, “Incognito-koningin”)  
   * Maak badges  
   * Reflecteer met staff of anderen  
@@ -150,7 +150,7 @@ Kunst kan mee naar huis of anoniem op de “Power Wall” blijven
 ## Trauma-informeerde principes  
 
 * Niemand hoeft zijn verhaal te delen  
-* Niemand wordt verondersteld tech te kennen—of niet  
+* Niemand wordt verondersteld tech te kennen, of niet  
 * Overlevenden bepalen wat “veilig” betekent  
 * Alle helpers zijn getraind om met compassie te ondersteunen, niet controle  
 * Alles is optioneel. Niets wordt opgedrongen.  

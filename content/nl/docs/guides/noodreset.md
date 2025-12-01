@@ -12,7 +12,7 @@ description: "Als dingen gekaapt voelen of je je voorbereidt op een grote verand
 
 ## Hoe je je voorbereidt op een volledige digitale reset
 
-Soms zijn dingen te verward om te ontwarren. Wanneer accounts gekaapt zijn, apparaten verdacht of toegang onveilig, kan een schone lei de beste optie zijn. Zo plan je een stille, gecontroleerde digitale reset—zonder drama.
+Soms zijn dingen te verward om te ontwarren. Wanneer accounts gekaapt zijn, apparaten verdacht of toegang onveilig, kan een schone lei de beste optie zijn. Zo plan je een stille, gecontroleerde digitale reset, zonder drama.
 
 1. Inventariseer: wat wil je behouden? Voordat je iets wist, verzamel je rustig de essentie:
 
@@ -27,16 +27,16 @@ Soms zijn dingen te verward om te ontwarren. Wanneer accounts gekaapt zijn, appa
 * Privacygerichte cloudopslag (Proton Drive, Sync.com)
   Vermijd Google Drive of iCloud als ze gedeeld of gemonitord zijn.
 
-3. Scheid persoonlijk van gedeeld. Neem geen oude bagage mee. Maak een lijst van accounts die het waard zijn—en een van accounts om achter te laten.
+3. Scheid persoonlijk van gedeeld. Neem geen oude bagage mee. Maak een lijst van accounts die het waard zijn, en een van accounts om achter te laten.
 
-4. Overweeg een nieuw apparaat. Als je huidige telefoon of laptop verdacht is, is vers beginnen veiliger. Een basisapparaat, helemaal zelf ingesteld, geeft je controle. Geleend of refurbished is oké—zolang *jij* de setup doet.
+4. Overweeg een nieuw apparaat. Als je huidige telefoon of laptop verdacht is, is vers beginnen veiliger. Een basisapparaat, helemaal zelf ingesteld, geeft je controle. Geleend of refurbished is oké, zolang *jij* de setup doet.
 
 5. Fabrieksreset, één apparaat per keer. Wanneer klaar:
 
 * Wis het apparaat (fabrieksreset)
 * Installeer alleen vertrouwde apps
 * Maak nieuwe accounts met unieke wachtwoorden en app-gebaseerde 2FA
-  Vermijd back-upherstel—dat brengt oude problemen mee.
+  Vermijd back-upherstel, dat brengt oude problemen mee.
 
 6. Blijf stil tijdens het proces. Kondig niet aan dat je "opnieuw begint." Begin... gewoon. Langzaam. Stil. Veiligheid boven snelheid. Het is een overgang, geen gebaar.
 
@@ -76,7 +76,7 @@ Soms beginnen veilige stappen met lezen. Maar als iemand je apparaat of browser 
 * Chrome/Firefox: `Ctrl + Shift + N` (of `Cmd + Shift + N` op Mac)
 * Safari: Tabbladen → Privé
 
-Privémodus bewaart geen geschiedenis, cookies of site-data—maar verbergt je activiteit niet voor Wi-Fi of routerlogs.
+Privémodus bewaart geen geschiedenis, cookies of site-data, maar verbergt je activiteit niet voor Wi-Fi of routerlogs.
 
 2. Gebruik een privacygerichte browser
 

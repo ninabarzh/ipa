@@ -7,14 +7,14 @@ _build:
 menu:
   sidebar:
     weight: 25
-description: "Überwachung. Isolation. Rufschädigung. Finanzielle Sabotage. Es geht nicht nur um ein gehacktes Handy—sondern um den systematischen Angriff auf Ihre Unabhängigkeit."
+description: "Überwachung. Isolation. Rufschädigung. Finanzielle Sabotage. Es geht nicht nur um ein gehacktes Handy, sondern um den systematischen Angriff auf Ihre Unabhängigkeit."
 ---
 
-Das sind die Folgen—der Grund, warum all dies wichtig ist.
+Das sind die Folgen, der Grund, warum all dies wichtig ist.
 
-Sobald Zugang besteht und Werkzeuge installiert sind, folgt nichts Zufälliges. Es ist oft absichtlich, strategisch und höchst persönlich. Es geht nicht nur um "Schnüffeln"—sondern darum, Ihre Autonomie, Beziehungen, Finanzen und Realitätswahrnehmung zu untergraben.
+Sobald Zugang besteht und Werkzeuge installiert sind, folgt nichts Zufälliges. Es ist oft absichtlich, strategisch und höchst persönlich. Es geht nicht nur um "Schnüffeln", sondern darum, Ihre Autonomie, Beziehungen, Finanzen und Realitätswahrnehmung zu untergraben.
 
-Diese Bedrohungen sind nicht theoretisch. Sie sind gelebte Erfahrungen vieler. Sie zu erkennen, hilft, den Schaden zu benennen—und langsam Boden zurückzugewinnen.
+Diese Bedrohungen sind nicht theoretisch. Sie sind gelebte Erfahrungen vieler. Sie zu erkennen, hilft, den Schaden zu benennen, und langsam Boden zurückzugewinnen.
 
 ## Überwachung
 
@@ -28,7 +28,7 @@ Gemeint ist:
 * Browseraktivität und App-Nutzung kontrollieren
 * Gewohnheiten beobachten (Schlafzeiten, Essgewohnheiten, Kontakte)
 
-Oft rund um die Uhr. Das erzeugt einen Selbstzensur-Effekt: Sie hinterfragen Ihre Entscheidungen und fühlen sich ständig beobachtet—selbst wenn Sie allein sind.
+Oft rund um die Uhr. Das erzeugt einen Selbstzensur-Effekt: Sie hinterfragen Ihre Entscheidungen und fühlen sich ständig beobachtet, selbst wenn Sie allein sind.
 
 Das Ziel? Nicht nur zu wissen, was Sie tun. Sondern zu beeinflussen, was Sie *tun werden*.
 
@@ -44,13 +44,13 @@ Beispiele:
 * Smart-Home-Technik nutzen, um Ihre Umgebung zu regulieren (Licht, Temperatur, Geräusche)
 * Verhaltensänderungen durch "Besorgnis" über Routine, Ausgaben oder Kontakte erzwingen
 
-Ziel ist nicht Chaos—sondern Vorhersehbarkeit. Dass Sie Ihr Verhalten anpassen, um die nächste Störung zu vermeiden.
+Ziel ist nicht Chaos, sondern Vorhersehbarkeit. Dass Sie Ihr Verhalten anpassen, um die nächste Störung zu vermeiden.
 
-Weil es subtil oder als "Fürsorge" (*"Ich will nur deine Sicherheit"*) getarnt ist, fällt es schwer, dies anderen zu erklären—geschweige denn zu beweisen.
+Weil es subtil oder als "Fürsorge" (*"Ich will nur deine Sicherheit"*) getarnt ist, fällt es schwer, dies anderen zu erklären, geschweige denn zu beweisen.
 
 ## Isolation
 
-Eine der ältesten Taktiken—jetzt digital aufgerüstet.
+Eine der ältesten Taktiken, jetzt digital aufgerüstet.
 
 Täter isolieren durch:
 
@@ -78,7 +78,7 @@ Häufige Methoden:
 
 Es braucht nicht viel. Ein paar gezielte Lügen können Glaubwürdigkeit ruinieren, berufliche Beziehungen zerstören und Verwirrung unter Freunden stiften.
 
-Viele Opfer sehen sich gezwungen, Dinge zu erklären, die sie nie taten—während der Täter sich besorgt in den Hintergrund stellt.
+Viele Opfer sehen sich gezwungen, Dinge zu erklären, die sie nie taten, während der Täter sich besorgt in den Hintergrund stellt.
 
 ## Falle stellen
 
@@ -94,12 +94,12 @@ Hier wird das System *gegen* das Opfer instrumentalisiert:
 
 Es geht nicht ums Gewinnen. Sondern ums Zermürben.
 
-Diese Manipulation ist schwer zu bekämpfen, weil das System scheinbar "funktioniert". Doch es wird mit falschen Daten gefüttert—und die Beweislast liegt beim Opfer.
+Diese Manipulation ist schwer zu bekämpfen, weil das System scheinbar "funktioniert". Doch es wird mit falschen Daten gefüttert, und die Beweislast liegt beim Opfer.
 
 ## Ein Hinweis
 
 Diese Bedrohungen sind nicht technisch. Sie sind menschlich.
-Sie existieren, weil jemand Zugang nutzt, um Ihre Sicherheit zu untergraben—nicht wegen eines Fehlers Ihrerseits.
+Sie existieren, weil jemand Zugang nutzt, um Ihre Sicherheit zu untergraben, nicht wegen eines Fehlers Ihrerseits.
 
 Das Entscheidende ist: Sobald Sie die Muster *erkennen*, können Sie Gegenstrategien entwickeln.
 Sie bilden sich nichts ein. Sie reagieren nicht über. Und Sie sind nicht allein.

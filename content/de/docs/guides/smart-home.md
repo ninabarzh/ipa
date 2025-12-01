@@ -7,14 +7,14 @@ _build:
 menu:
   sidebar:
     weight: 25
-description: "Thermostate, Türschlösser, Kameras—sogar Glühbirnen—können zu Kontrollwerkzeugen werden. Dieser Abschnitt zeigt dir, wie du Smart-Home-Geräte zurückeroberst, andere Nutzer entfernst und deinen Raum zurücksetzt, ohne Aufmerksamkeit zu erregen."
+description: "Thermostate, Türschlösser, Kameras, sogar Glühbirnen, können zu Kontrollwerkzeugen werden. Dieser Abschnitt zeigt dir, wie du Smart-Home-Geräte zurückeroberst, andere Nutzer entfernst und deinen Raum zurücksetzt, ohne Aufmerksamkeit zu erregen."
 ---
 
 ## Wie du die Kontrolle über ein Smart-Home-Gerät übernimmst
 
-Smart Homes sollten *für* dich arbeiten—nicht als Überwachungssysteme oder Kontrollhebel dienen. So prüfst du, wer wirklich die Knöpfe drückt.
+Smart Homes sollten *für* dich arbeiten, nicht als Überwachungssysteme oder Kontrollhebel dienen. So prüfst du, wer wirklich die Knöpfe drückt.
 
-1. Identifiziere, welche Geräte im Spiel sind. Schau dich um—alles, was mit Wi-Fi verbunden ist, könnte kommunizieren. Beginne mit:
+1. Identifiziere, welche Geräte im Spiel sind. Schau dich um, alles, was mit Wi-Fi verbunden ist, könnte kommunizieren. Beginne mit:
 
 * Thermostaten (z.B. Nest, Honeywell)
 * Kameras (innen/außen, Türklingeln wie Ring)
@@ -31,7 +31,7 @@ Smart Homes sollten *für* dich arbeiten—nicht als Überwachungssysteme oder K
 
 Das sind keine bloßen Störungen. Es sind Warnsignale.
 
-3. Greife von deinem eigenen Handy aus auf die Geräte-App zu. Jedes Gerät wird über eine App gesteuert—normalerweise die, mit der es eingerichtet wurde. Wenn die App nicht auf deinem Handy ist oder du ausgesperrt bist, wurde sie vielleicht mit dem Konto einer anderen Person registriert.
+3. Greife von deinem eigenen Handy aus auf die Geräte-App zu. Jedes Gerät wird über eine App gesteuert, normalerweise die, mit der es eingerichtet wurde. Wenn die App nicht auf deinem Handy ist oder du ausgesperrt bist, wurde sie vielleicht mit dem Konto einer anderen Person registriert.
 
 4. Setze das Gerät auf Werkseinstellungen zurück. Suche online nach den genauen Reset-Schritten. Die meisten Geräte haben einen kleinen Knopf oder ein verstecktes Loch. Zurücksetzen wird:
 
@@ -58,7 +58,7 @@ Das sind keine bloßen Störungen. Es sind Warnsignale.
 
 ## Wie du jemanden sicher aus einem geteilten Smart-Home-Ökosystem entfernst
 
-Die meisten Smart Homes sind für Familien konzipiert—Familien, die einander vertrauen. In Missbrauchssituationen wird „geteilte Kontrolle“ zur Waffe. Lass uns die Zügel zurücknehmen.
+Die meisten Smart Homes sind für Familien konzipiert, Familien, die einander vertrauen. In Missbrauchssituationen wird „geteilte Kontrolle“ zur Waffe. Lass uns die Zügel zurücknehmen.
 
 1. Wisse, mit welchem Ökosystem du es zu tun hast. Jede Firma hat ihre eigene Version von „Familienfreigabe“:
 
@@ -67,7 +67,7 @@ Die meisten Smart Homes sind für Familien konzipiert—Familien, die einander v
 * Apple Family Sharing / HomeKit
 * Samsung SmartThings
 
-Wenn sie dich jemals hinzugefügt haben—oder du sie—habt ihr vielleicht beide Admin-Zugriff.
+Wenn sie dich jemals hinzugefügt haben, oder du sie, habt ihr vielleicht beide Admin-Zugriff.
 
 2. Überprüfe Haushalts- oder Familienmitglieder
 
@@ -100,7 +100,7 @@ Google Home:
 * Türschlösser
 * Smart Kameras
 
-Reset-Anweisungen sind spezifisch—prüfe die Herstellerwebsite oder das Handbuch.
+Reset-Anweisungen sind spezifisch, prüfe die Herstellerwebsite oder das Handbuch.
 
 5. Prüfe auf Routinen, Automatisierungen oder Alarme
 
@@ -108,7 +108,7 @@ Reset-Anweisungen sind spezifisch—prüfe die Herstellerwebsite oder das Handbu
 * Entferne Gerätezugriff von verbundenen Diensten (z.B. IFTTT, Spotify, YouTube)
 * Schalte Funktionen wie „Drop-in“ bei Alexa oder „Voice Match“ bei Google aus
 
-6. Ändere Passwörter und trenne geteilte Konten. Entferne sie nicht nur—sperre sie aus.
+6. Ändere Passwörter und trenne geteilte Konten. Entferne sie nicht nur, sperre sie aus.
 
 * Ändere das Wi-Fi-Passwort
 * Verbinde Geräte selbst neu

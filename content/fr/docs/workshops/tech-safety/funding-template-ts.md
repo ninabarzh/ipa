@@ -7,7 +7,7 @@ _build:
 menu:
   sidebar:
     weight: 25
-description: "Modèle pour demandes de financement locales/régionales permettant aux refuges d'organiser cette journée. Adaptable à divers programmes—claire, alignée sur la mission et prête pour les portails de subventions ou formulaires Word."
+description: "Modèle pour demandes de financement locales/régionales permettant aux refuges d'organiser cette journée. Adaptable à divers programmes, claire, alignée sur la mission et prête pour les portails de subventions ou formulaires Word."
 ---
 
 ### 1. Titre du projet
@@ -18,7 +18,7 @@ PowerOn : Journée sécurité tech pour survivantes à son rythme ou ... titre p
 
 ### 2. Résumé
 
-*PowerOn* est un atelier d'empowerment technologique d'une journée, trauma-informé, pour survivantes de violences conjugales. Il offre un espace sécurisé pour explorer la sécurité numérique à son rythme—via activités pratiques, support technique optionnel et outils de confidentialité.
+*PowerOn* est un atelier d'empowerment technologique d'une journée, trauma-informé, pour survivantes de violences conjugales. Il offre un espace sécurisé pour explorer la sécurité numérique à son rythme, via activités pratiques, support technique optionnel et outils de confidentialité.
 
 Les participantes apprennent à détecter la surveillance (ex. stalkerware, géolocalisation), sécuriser appareils/comptes et reprendre confiance avec la tech dans un environnement non-technique.
 

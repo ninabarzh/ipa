@@ -11,7 +11,7 @@ description: "Quiet, safe ways to capture and preserve digital evidence on your 
 ---
 
 If you’re facing tech-based abuse, you don’t always get to prove it in the moment.  
-But evidence—if collected carefully—can become power. It can help with legal protection, housing, support services, or simply *being believed*.
+But evidence, if collected carefully, can become power. It can help with legal protection, housing, support services, or simply *being believed*.
 
 This guide walks you through calm, low-risk ways to gather and store digital evidence.
 
@@ -22,7 +22,7 @@ Good screenshots tell a story. Capture them *in context*:
 - Include:
   - Time and date (e.g. top bar of the phone or computer)
   - The sender or source (who did what)
-  - The action or message in full—*no cropping*
+  - The action or message in full, *no cropping*
 
 - Best times to screenshot:
   - When messages are edited or deleted
@@ -35,7 +35,7 @@ Good screenshots tell a story. Capture them *in context*:
 
 ## Metadata logs, browser history, and app data
 
-The digital trail you don’t see—until you need it.
+The digital trail you don’t see, until you need it.
 
 - Browser history:
   - Shows access patterns, visited links, login attempts
@@ -57,7 +57,7 @@ Save logs as PDF, CSV, or HTML when possible. Emailing yourself the files helps 
 
 ## Voice recordings and journaling patterns
 
-Sometimes the abuse isn’t digital—it just *uses* tech. Your own words can become a reliable record.
+Sometimes the abuse isn’t digital, it just *uses* tech. Your own words can become a reliable record.
 
 - Voice memos:
   - Record your observations after something happens (“Today I found…”)
@@ -75,7 +75,7 @@ Don’t worry about making it sound official. Just make it real.
 
 ## Third-party verification (email headers, IP addresses, others)
 
-If someone claims you did something online—you’ll want more than your word.
+If someone claims you did something online, you’ll want more than your word.
 
 - Email headers:
   - Show *who* really sent a message, from *where*, using *what service*
@@ -110,6 +110,6 @@ Avoid using shared devices to store sensitive evidence unless you *know* it’s 
 
 ## A word on this section
 
-You don’t need to prove everything, all at once. You just need to start creating a record—quietly, calmly, and in a way that helps *you*.
+You don’t need to prove everything, all at once. You just need to start creating a record, quietly, calmly, and in a way that helps *you*.
 
 Next up: [Technical countermeasures →](/docs/take-back-power/counter) or return to [Mapping impacts to responses →](/docs/take-back-power/mapping)

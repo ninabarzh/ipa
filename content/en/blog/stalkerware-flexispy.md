@@ -137,7 +137,7 @@ event zeek_notice::Weird {
 }
 ```
 
-*FlexiSPY polls location very frequently—every few minutes. Normal apps throttle. Spyware rarely does.*
+*FlexiSPY polls location very frequently, every few minutes. Normal apps throttle. Spyware rarely does.*
 
 ### Root privilege escalation or tampering (Android or Sysmon)
 

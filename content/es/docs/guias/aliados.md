@@ -21,14 +21,14 @@ La ayuda técnica puede convertirse fácilmente en control técnico. Así puedes
 * "¿Quieres ayuda con esto ahora o hacemos un plan para después?"
 * Siempre pregunta cuánto quiere saber, hacer o delegar la persona.
 
-2. Haz: explica paso a paso. Aunque puedas solucionarlo en 2 minutos, explícale qué haces y por qué. El conocimiento es poder—quizá deba hacerlo sola más tarde.
+2. Haz: explica paso a paso. Aunque puedas solucionarlo en 2 minutos, explícale qué haces y por qué. El conocimiento es poder, quizá deba hacerlo sola más tarde.
 
 3. Haz: normaliza sus preocupaciones. Lo que te suene exagerado podría ser exactamente lo que pasa. Di:
 
 * "Eso es algo que definitivamente podemos verificar."
 * No: "Eso suena un poco paranoico."
 
-4. Haz: documenta lo que hiciste. Anota (en papel o app segura) los cambios—especialmente contraseñas, resets y cambios de dispositivo. La sobreviviente debe tener una copia.
+4. Haz: documenta lo que hiciste. Anota (en papel o app segura) los cambios, especialmente contraseñas, resets y cambios de dispositivo. La sobreviviente debe tener una copia.
 
 5. 🚫 No: uses tu propio email o teléfono. Por muy temporal que parezca. Crea dependencia y puede complicar recuperaciones legales o de cuentas.
 
@@ -40,7 +40,7 @@ La ayuda técnica puede convertirse fácilmente en control técnico. Así puedes
 
 ## Cómo hablar con policías o tribunales sobre abuso digital
 
-Lamentablemente, no todos los funcionarios entienden el abuso tecnológico. Así harás que tus palabras—y su experiencia—cuenten.
+Lamentablemente, no todos los funcionarios entienden el abuso tecnológico. Así harás que tus palabras, y su experiencia, cuenten.
 
 1. Enfócate en conductas e intención, no solo "tecnología". En vez de:
 

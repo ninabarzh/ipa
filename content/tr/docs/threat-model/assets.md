@@ -7,12 +7,12 @@ _build:
 menu:
   sidebar:
     weight: 10
-description: "Düşünün: cihazlarınız, mesajlarınız, paranız, konumunuz—hatta kimliğiniz. Görülebilen, çalınabilen veya sabote edilebilen her şey burada."
+description: "Düşünün: cihazlarınız, mesajlarınız, paranız, konumunuz, hatta kimliğiniz. Görülebilen, çalınabilen veya sabote edilebilen her şey burada."
 ---
 
 Teknoloji destekli bir istismar vakasında gerçekte neler tehlikede?
 
-Sadece cihazlarınız değil, kesinlikle sadece şifreleriniz de değil. Risk altındaki "varlıklar", dijital hayatınızın birçok parçası—her gün kullandıklarınız ve size karşı kullanılana kadar unuttuklarınız.
+Sadece cihazlarınız değil, kesinlikle sadece şifreleriniz de değil. Risk altındaki "varlıklar", dijital hayatınızın birçok parçası, her gün kullandıklarınız ve size karşı kullanılana kadar unuttuklarınız.
 
 Birisi erişim kazandığında sadece bilgi görmüyor. Kontrol kazanıyor. Nereye gittiğiniz, kiminle konuştuğunuz ve bunları yaparken ne kadar güvende hissettiğiniz üzerinde.
 
@@ -28,26 +28,26 @@ Telefonlar, laptoplar, tabletler, akıllı saatler ve "akıllı" etiketi yapış
 * 'Yardım için' kurulan ("Merak etme, ben hallederim")
 * Geride bırakılan ("Eski ama çalışıyor. Kullanmaya devam et")
 
-Birçoğu "kontrol", "izleme" veya "takip" için tasarlanmış önceden yüklenmiş uygulamalara sahip—masum görünen ancak hızla tehditkâr hale gelen özellikler.
+Birçoğu "kontrol", "izleme" veya "takip" için tasarlanmış önceden yüklenmiş uygulamalara sahip, masum görünen ancak hızla tehditkâr hale gelen özellikler.
 
 Akıllı ev ekipmanları özel olarak anılmayı hak ediyor. Termostatınız sadece sıcaklığı bilmiyor. Evde olduğunuz zamanı da biliyor. Akıllı su ısıtıcınız ne zaman uyandığınızı biliyor. Bunlar başkaları da görene kadar tehdit gibi görünmüyor.
 
 ## Hesaplar
 
-Hesap diyarında yaşıyoruz. E-posta, bankacılık, sosyal medya, alışveriş, takvimler, bulut depolama, sağlık uygulamaları, fatura ödemeleri, yayın hizmetleri—adını siz koyun, muhtemelen bir giriş gerektiriyor.
+Hesap diyarında yaşıyoruz. E-posta, bankacılık, sosyal medya, alışveriş, takvimler, bulut depolama, sağlık uygulamaları, fatura ödemeleri, yayın hizmetleri, adını siz koyun, muhtemelen bir giriş gerektiriyor.
 
 Bazı hesaplar daha kritik:
 
 * **E-posta**: Anahtar. Birisi gelen kutunuza erişirse neredeyse her şeyi sıfırlayabilir.
-* **Banka & finans**: Sadece para çalmak için değil—harcamaları izlemek, erişimi engellemek veya finansal bağımlılık yaratmak için de kullanılır.
-* **Bulut depolama**: Fotoğraflar, notlar, belgeler—genellikle sessizce cihazlar arasında senkronize olur.
+* **Banka & finans**: Sadece para çalmak için değil, harcamaları izlemek, erişimi engellemek veya finansal bağımlılık yaratmak için de kullanılır.
+* **Bulut depolama**: Fotoğraflar, notlar, belgeler, genellikle sessizce cihazlar arasında senkronize olur.
 * **Sosyal medya**: Gözetim, kimlik taklidi veya izolasyon için kullanılabilir.
 
 Çoğu zaman bu hesaplar birlikte oluşturulmuştur veya başlangıçta "her şeyi paylaşmanız" için teşvik edilmişsinizdir. Sonradan erişim bir tuzağa dönüşür: değiştirmesi zor, iptal etmesi daha zor ve "aile planları" gibi paylaşılan kimliklere bağlı.
 
 ## Veriler
 
-Sadece söyledikleriniz veya yaptıklarınız değil—cihazlarınızın *hatırladıkları*.
+Sadece söyledikleriniz veya yaptıklarınız değil, cihazlarınızın *hatırladıkları*.
 
 Bunlar:
 
@@ -60,7 +60,7 @@ Bunlar:
 * Notlar ve yapılacaklar listeleri
 * Takvim etkinlikleri (kiminle/ne zaman)
 
-Tek başına bir fotoğraf veya takvim etkinliği masum görünebilir. Bir araya geldiklerinde bir örüntü oluştururlar—istismarcılar bunu sadece izlemek için değil, tahmin etmek ve manipüle etmek için kullanır.
+Tek başına bir fotoğraf veya takvim etkinliği masum görünebilir. Bir araya geldiklerinde bir örüntü oluştururlar, istismarcılar bunu sadece izlemek için değil, tahmin etmek ve manipüle etmek için kullanır.
 
 Hatta "son kapatılan sekmeler" veya otomatik düzeltme önerileri bile düşündüğünüzden fazlasını ele verebilir.
 
@@ -79,11 +79,11 @@ Risk alanları:
 
 Birisi bunlara erişirse *siz* olabilir: sizin adınıza giriş yapabilir, alışveriş yapabilir, kararlar alabilir.
 
-Daha kötüsü: bir cihazı silseniz bile, kimliğinizin kalıntıları yedek dosyalarda veya bağlantılı üçüncü taraf hizmetlerde kalabilir—yani *onlar* hala erişime sahip olabilir, siz yolunuza devam ettiğinizi sansanız bile.
+Daha kötüsü: bir cihazı silseniz bile, kimliğinizin kalıntıları yedek dosyalarda veya bağlantılı üçüncü taraf hizmetlerde kalabilir, yani *onlar* hala erişime sahip olabilir, siz yolunuza devam ettiğinizi sansanız bile.
 
 ## Dijital ayak izi
 
-Bunlar kasıtsız olarak bıraktığınız izler. Mesajın içeriği değil, *üst veri*—karda bırakılan ayak izlerinin dijital eşdeğeri.
+Bunlar kasıtsız olarak bıraktığınız izler. Mesajın içeriği değil, *üst veri*, karda bırakılan ayak izlerinin dijital eşdeğeri.
 
 Örnekler:
 
@@ -99,7 +99,7 @@ Bu parçalar tek başına önemsiz görünebilir. Ama niyetle bir araya getirild
 
 ## Bir not
 
-Dijital bir hayatınız olması sizin suçunuz değil. Sorun teknoloji değil—size *karşı* kullanılma şekli.
+Dijital bir hayatınız olması sizin suçunuz değil. Sorun teknoloji değil, size *karşı* kullanılma şekli.
 
 Riskleri tanımak paranoyak olmanız için değil, seçim gücü kazanmanız içindir. Bu varlıklar *sizin*. Ve onları ne kadar iyi anlarsanız, o kadar iyi koruyabilirsiniz.
 

@@ -7,19 +7,19 @@ _build:
 menu:
   sidebar:
     weight: 15
-description: "Telefoons en laptops bevatten vaak meer van je leven dan je beseft. Dit hoofdstuk helpt je verborgen risico's te spotten, controleert op tracking en helpt je veilig de controle terug te nemen—vooral als het apparaat cadeau is gedaan of ‘als gunst’ is ingesteld."
+description: "Telefoons en laptops bevatten vaak meer van je leven dan je beseft. Dit hoofdstuk helpt je verborgen risico's te spotten, controleert op tracking en helpt je veilig de controle terug te nemen, vooral als het apparaat cadeau is gedaan of ‘als gunst’ is ingesteld."
 ---
 
 ## Hoe je een telefoon controleert op stalkerware of verdachte apps
 
-Als je telefoon aanvoelt alsof er een extra paar ogen meekijkt, zou dat best kunnen. Het is geen paranoia als iemand iets heeft geïnstalleerd zonder dat je het zag. Hier is de rustige manier om te controleren—zonder op te vallen.
+Als je telefoon aanvoelt alsof er een extra paar ogen meekijkt, zou dat best kunnen. Het is geen paranoia als iemand iets heeft geïnstalleerd zonder dat je het zag. Hier is de rustige manier om te controleren, zonder op te vallen.
 
 1. Subtiele tekenen dat er iets mis is
 
 * Batterij die snel leegloopt zonder reden
 * Vreemd gedrag (scherm flikkert, oververhitting, traagheid)
 * Apps die je niet herinnert te hebben geïnstalleerd
-* Onverklaarbaar dataverbruik—vooral met mobiele data uit
+* Onverklaarbaar dataverbruik, vooral met mobiele data uit
 
 Geen enkel bewijst iets, maar samen? Het is een nadere inspectie waard.
 
@@ -54,20 +54,20 @@ Onbekende apps? Noteer ze, maar verwijder nog niet.
 
 Soms kun je beter niet vechten tegen oude spoken. Als je apparaat te gecompromitteerd voelt, geeft een schone start vrijheid om opnieuw op te bouwen.
 
-1. Kies een apparaat dat je vanaf de setup controleert. Vermijd cadeaus, refurbished zonder garantie of door anderen ‘als gunst’ ingesteld. Nieuw is niet altijd nodig—alleen schoon, geüpdatet en volledig onder jouw controle.
+1. Kies een apparaat dat je vanaf de setup controleert. Vermijd cadeaus, refurbished zonder garantie of door anderen ‘als gunst’ ingesteld. Nieuw is niet altijd nodig, alleen schoon, geüpdatet en volledig onder jouw controle.
 
 2. Herstel niet vanuit cloudback-ups. Hoe verleidelijk ook, dit kan problemen importeren. Stel helemaal opnieuw in.
 
 * Kopieer essentiële data handmatig (foto's, contacten etc.)
 * Laat oude apps, instellingen en opgeslagen wachtwoorden achter
 
-3. Installeer minimale apps. Houd het bij essentie—berichten, e-mail, maps. Log niet in op oude accounts tot je zeker weet dat ze veilig zijn.
+3. Installeer minimale apps. Houd het bij essentie, berichten, e-mail, maps. Log niet in op oude accounts tot je zeker weet dat ze veilig zijn.
 
 4. Gebruik waar mogelijk nieuwe inloggegevens
 
 * Nieuw e-mailadres
 * Nieuwe app-accounts
-* Hergebruik geen oude gebruikersnamen of wachtwoorden—die kunnen bekend zijn
+* Hergebruik geen oude gebruikersnamen of wachtwoorden, die kunnen bekend zijn
 
 5. Stel synchronisatie tussen apparaten uit. Houd apparaten onafhankelijk tot je zeker bent van je nieuwe setup. Vermijd inloggen op gedeelde laptops of berichtensync tussen platforms.
 
@@ -108,7 +108,7 @@ Als je je niet herinnert toestemming te hebben gegeven, voel je vrij om "Nee" te
 * Android: **Instellingen → Privacy → Advertenties → Advertentie-ID resetten**
 * iPhone: **Instellingen → Privacy → Apple-advertenties → Gepersonaliseerde advertenties uitschakelen**
 
-Stopt niet alles—maar vermindert gerichte tracking.
+Stopt niet alles, maar vermindert gerichte tracking.
 
 5. Let op batterijgebruik-aanwijzingen. Als een onbekende app veel stroom verbruikt op de achtergrond, is dat onderzoek waard.
 
@@ -122,7 +122,7 @@ Als iets obscuurs hoog staat, duik erin.
 
 ## Hoe je veilig een back-up maakt voor reset
 
-Als je een factory reset plant—of een schone start—is het cruciaal te bedenken wat je wilt bewaren. Sommige data is onvervangbaar. Andere kan helpen bewijzen wat er gebeurde.
+Als je een factory reset plant, of een schone start, is het cruciaal te bedenken wat je wilt bewaren. Sommige data is onvervangbaar. Andere kan helpen bewijzen wat er gebeurde.
 
 1. Beslis wat je wilt behouden
 
@@ -143,4 +143,4 @@ Als je een factory reset plant—of een schone start—is het cruciaal te bedenk
 
 5. Maak screenshots van machtigingen en instellingen. Vooral bij spyware-verdenking. Zelfs als je nu niet handelt, kan het later helpen.
 
-6. Bewaar bewijskopieën veilig. Maak twee kopieën: één voor gebruik, één op slot. Laat een vertrouwd persoon een kopie bewaren—of gebruik beveiligde cloudopslag met two-factor-authenticatie.
+6. Bewaar bewijskopieën veilig. Maak twee kopieën: één voor gebruik, één op slot. Laat een vertrouwd persoon een kopie bewaren, of gebruik beveiligde cloudopslag met two-factor-authenticatie.

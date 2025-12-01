@@ -13,9 +13,9 @@ Si mSpy es el gato furtivo de la vigilancia digital, FlexiSPY es el Rottweiler c
 
 ## Lo que hace (spoiler: todo)
 
-FlexiSPY se autodenomina "el software de monitoreo más poderoso del mundo". Lamentablemente, puede que no mienta. Permite al abusador, perdón, al "usuario autorizado"— interceptar llamadas en tiempo real, grabar audio ambiental, activar micrófono y cámara remotamente, leer apps de mensajería cifrada y rastrear desde hábitos de navegación hasta pulsaciones de teclas.
+FlexiSPY se autodenomina "el software de monitoreo más poderoso del mundo". Lamentablemente, puede que no mienta. Permite al abusador, perdón, al "usuario autorizado",  interceptar llamadas en tiempo real, grabar audio ambiental, activar micrófono y cámara remotamente, leer apps de mensajería cifrada y rastrear desde hábitos de navegación hasta pulsaciones de teclas.
 
-Todo esto se hace en silencio, invisiblemente y sin el consentimiento, a menudo incluso sin el conocimiento— del usuario del dispositivo.
+Todo esto se hace en silencio, invisiblemente y sin el consentimiento, a menudo incluso sin el conocimiento,  del usuario del dispositivo.
 
 La app está diseñada para instalación profunda. En Android suele requerir root; en iOS, jailbreak. La empresa incluso vende teléfonos pre-pirateados con FlexiSPY preinstalado. Vigilancia con un clic, lista para regalar.
 
@@ -55,7 +55,7 @@ FlexiSPY no es sobre protección. Es sobre dominación. Es el punto final de una
 
 Para los apoyos, esta spyware no es solo un problema técnico. Es existencial. Socava confianza, erosiona autonomía y retraumatiza.
 
-En capacitaciones y planes de respuesta debemos asumir que el peor escenario, vigilancia total— no es raro. Se vende online con soporte 24/7 y suscripción mensual.
+En capacitaciones y planes de respuesta debemos asumir que el peor escenario, vigilancia total,  no es raro. Se vende online con soporte 24/7 y suscripción mensual.
 
 Uno se pregunta qué tipo de persona instala FlexiSPY en dispositivos ajenos. La respuesta es simple: quien cree que controlar es un derecho y la privacidad un privilegio. Quien no debería ser habilitado por empresas de spyware.
 

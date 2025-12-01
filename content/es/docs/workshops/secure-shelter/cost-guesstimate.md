@@ -7,7 +7,7 @@ _build:
 menu:
   sidebar:
     weight: 15
-description: "Estimación detallada para el 'Construye un refugio seguro'—taller práctico donde el personal configura su propio laboratorio de seguridad digital (Wazuh + Pirogue) con ayuda de facilitadores."
+description: "Estimación detallada para el 'Construye un refugio seguro', taller práctico donde el personal configura su propio laboratorio de seguridad digital (Wazuh + Pirogue) con ayuda de facilitadores."
 ---
 
 ## Tablas resumen

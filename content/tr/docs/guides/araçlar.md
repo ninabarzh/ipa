@@ -7,10 +7,10 @@ _build:
 menu:
   sidebar:
     weight: 45
-description: "Güvenli mesajlaşmadan şifre yöneticilerine—bu bölüm, 'bir şey gizliyorum' havası çıkarmadan mahremiyeti destekleyen sakin, gösterişsiz uygulamaları listeler. Size uyanı seçin—jargonsuz, karmaşasız, sadece işe yarayan şeyler."
+description: "Güvenli mesajlaşmadan şifre yöneticilerine, bu bölüm, 'bir şey gizliyorum' havası çıkarmadan mahremiyeti destekleyen sakin, gösterişsiz uygulamaları listeler. Size uyanı seçin, jargonsuz, karmaşasız, sadece işe yarayan şeyler."
 ---
 
-Buradaki araçlar hacker olmak veya teknolojisiz yaşamakla ilgili değil. Dijital hayatınızda sessizce kontrol sağlamakla ilgili—iz bırakmamak, özel iletişim veya daha az izleniyor hissetmek için. Hepsini kullanmanız gerekmez. İşe yarayanı seçin, gerisini bırakın.
+Buradaki araçlar hacker olmak veya teknolojisiz yaşamakla ilgili değil. Dijital hayatınızda sessizce kontrol sağlamakla ilgili, iz bırakmamak, özel iletişim veya daha az izleniyor hissetmek için. Hepsini kullanmanız gerekmez. İşe yarayanı seçin, gerisini bırakın.
 
 ## Özel mesajlaşma & e-posta
 
@@ -53,7 +53,7 @@ Joplin
 Tella
 
 * İnsan hakları ihlallerini belgelemek için tasarlandı
-* Fotoğraf, video, ses notu ve metin saklar—şifreli
+* Fotoğraf, video, ses notu ve metin saklar, şifreli
 * Panik silme özelliği
 * Başka bir uygulama gibi görünebilir
 
@@ -65,7 +65,7 @@ DuckDuckGo Tarayıcı
 
 * Takipçileri engeller, geçmiş saklamaz
 * "Yakala" butonu tüm sekmeleri anında siler
-* Normal tarayıcı gibi—öğrenme eğrisi yok
+* Normal tarayıcı gibi, öğrenme eğrisi yok
 
 Brave Tarayıcı
 

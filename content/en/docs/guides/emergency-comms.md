@@ -7,7 +7,7 @@ _build:
 menu:
   sidebar:  # Adds to Docsy's auto-generated sidebar
     weight: 35
-description: "When your usual number or email isn’t safe, these tools offer alternative ways to call for help, get advice, or reach trusted contacts—without tipping off anyone watching. Includes secure apps, burner numbers, and cautious planning."
+description: "When your usual number or email isn’t safe, these tools offer alternative ways to call for help, get advice, or reach trusted contacts, without tipping off anyone watching. Includes secure apps, burner numbers, and cautious planning."
 ---
 
 ## How to create a backup communications plan
@@ -43,7 +43,7 @@ description: "When your usual number or email isn’t safe, these tools offer al
 
 Sometimes the main phone isn't safe. A quiet backup can be the difference between isolation and connection.
 
-1. Choose a simple device. A basic smartphone, or even a classic “dumb” phone, works. Buy it outright—used is fine, so long as you factory reset it yourself.
+1. Choose a simple device. A basic smartphone, or even a classic “dumb” phone, works. Buy it outright, used is fine, so long as you factory reset it yourself.
 
 2. Register it with new credentials. Use a fresh email account and password. Don’t log into old cloud accounts unless you’re confident they’re clean.
 
@@ -57,7 +57,7 @@ Sometimes the main phone isn't safe. A quiet backup can be the difference betwee
 
 4. Get a prepaid SIM (if needed). In some countries, SIMs can be bought without ID. If not, consider using Wi-Fi only and keeping the phone offline unless needed.
 
-5. Store it securely. Keep it off and hidden. Charge occasionally. Turn it on in safe locations only. This is your silent escape hatch—not a daily driver.
+5. Store it securely. Keep it off and hidden. Charge occasionally. Turn it on in safe locations only. This is your silent escape hatch, not a daily driver.
 
 ---
 

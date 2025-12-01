@@ -7,10 +7,10 @@ _build:
 menu:
   sidebar:  # Adds to Docsy's auto-generated sidebar
     weight: 45
-description: "From secure messaging to password managers, this section collects calm, discreet apps that support privacy without screaming “I’m hiding something”. Pick and choose what fits—no jargon, no overwhelm, just things that work."
+description: "From secure messaging to password managers, this section collects calm, discreet apps that support privacy without screaming “I’m hiding something”. Pick and choose what fits, no jargon, no overwhelm, just things that work."
 ---
 
-The tools listed here aren’t about being a hacker or living off-grid. They’re about taking quiet control of your digital life—whether you want to leave no trace, communicate privately, or just feel a little less watched. You don’t need to use everything. Pick what helps, leave the rest.
+The tools listed here aren’t about being a hacker or living off-grid. They’re about taking quiet control of your digital life, whether you want to leave no trace, communicate privately, or just feel a little less watched. You don’t need to use everything. Pick what helps, leave the rest.
 
 ## Private messaging & email
 
@@ -53,7 +53,7 @@ Joplin
 Tella
 
 * Designed for documenting human rights abuses
-* Stores photos, videos, voice notes, and text—encrypted
+* Stores photos, videos, voice notes, and text, encrypted
 * Panic delete feature
 * Can disguise itself as another app
 
@@ -65,7 +65,7 @@ DuckDuckGo Browser
 
 * Blocks trackers and doesn’t store search history
 * Includes a “fire” button to wipe all tabs instantly
-* Looks like a normal browser—no learning curve
+* Looks like a normal browser, no learning curve
 
 Brave Browser
 

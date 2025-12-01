@@ -7,24 +7,24 @@ _build:
 menu:
   sidebar:  # Adds to Docsy's auto-generated sidebar
     weight: 10
-description: "From passwords and 2FA to removing unwanted access, this section walks through how to make your accounts yours again—quietly, calmly, and without tipping anyone off. Whether it’s email, social media, or banking, control starts here."
+description: "From passwords and 2FA to removing unwanted access, this section walks through how to make your accounts yours again, quietly, calmly, and without tipping anyone off. Whether it’s email, social media, or banking, control starts here."
 ---
 
 ## How to change your password safely
 
 Changing your password is one of the simplest ways to stop someone poking around in your digital life. But if you suspect your accounts are being watched, it pays to be strategic, not sudden.
 
-1. Use a device they can’t access: If you think your regular phone or computer might be watched, try using a different one—like a trusted friend’s, or a public library machine. Quietly, of course.
+1. Use a device they can’t access: If you think your regular phone or computer might be watched, try using a different one, like a trusted friend’s, or a public library machine. Quietly, of course.
 
-2. Start with the email account: Most other accounts—banking, social media, storage—are linked to your email. If someone has access to your inbox, they can often reset everything else.
+2. Start with the email account: Most other accounts, banking, social media, storage, are linked to your email. If someone has access to your inbox, they can often reset everything else.
 
 3. Use a long, unique password: Make it something no one could guess, even if they know your birthday, your pet's name, or the name of your secondary school. Example: `RainyTeacups!MarchingOtters2025`
 
-4. Keep it somewhere safe—but not obvious: If you must write it down, hide it well. Not taped under your laptop, not in a notes app titled “Passwords”.
+4. Keep it somewhere safe, but not obvious: If you must write it down, hide it well. Not taped under your laptop, not in a notes app titled “Passwords”.
 
 5. Don’t do everything at once: If you're worried someone might notice changes, take your time. Prioritise the most important accounts and space out the rest. It’s a marathon, not a password sprint.
 
-6. Check for alerts: Some accounts notify users when passwords are changed. If you think this could cause trouble, consider timing the change carefully—or doing it alongside other changes to reduce suspicion.
+6. Check for alerts: Some accounts notify users when passwords are changed. If you think this could cause trouble, consider timing the change carefully, or doing it alongside other changes to reduce suspicion.
 
 ---
 
@@ -42,7 +42,7 @@ Two-factor authentication (2FA) is like adding a second lock to your digital fro
 
 3. Enable 2FA on key accounts. Usually under “Settings” → “Security” → “Two-factor authentication”. You’ll scan a QR code using your chosen app.
 
-4. Store backup codes offline. These are one-time emergency codes in case you lose your phone. Print them, or write them down and hide them securely—taped inside a novel works well.
+4. Store backup codes offline. These are one-time emergency codes in case you lose your phone. Print them, or write them down and hide them securely, taped inside a novel works well.
 
 5. Disable SMS fallback (if possible). Once app-based 2FA is working, many platforms let you remove phone number recovery. This helps prevent sneaky password resets via intercepted texts.
 
@@ -52,7 +52,7 @@ Two-factor authentication (2FA) is like adding a second lock to your digital fro
 
 ## How to remove an abuser’s access from your email or cloud account
 
-They might still be logged in—on a shared device, a forgotten tablet, or through app permissions you don’t remember setting. It’s time to check the locks.
+They might still be logged in, on a shared device, a forgotten tablet, or through app permissions you don’t remember setting. It’s time to check the locks.
 
 1. Sign in on a safe device. Avoid using your usual laptop or phone if you think it might be watched. Public computers or newly set-up devices are ideal.
 
@@ -61,11 +61,11 @@ They might still be logged in—on a shared device, a forgotten tablet, or throu
 * Google: [Security Checkup](https://myaccount.google.com/security-checkup)
 * Apple: Settings → Your Name → Devices
 
-Remove any devices you don’t recognise—or that are still listed but no longer in your possession.
+Remove any devices you don’t recognise, or that are still listed but no longer in your possession.
 
 3. Revoke connected apps. In account settings, you’ll often find a list of third-party apps or tools with access. Remove anything suspicious or unnecessary.
 
-4. Change your recovery email and phone. Check whether their email or number is still listed under “recovery” or “backup” settings. Replace it with one only you control—perhaps a new ProtonMail address (see below).
+4. Change your recovery email and phone. Check whether their email or number is still listed under “recovery” or “backup” settings. Replace it with one only you control, perhaps a new ProtonMail address (see below).
 
 5. Enable 2FA with an app. Once they’re out, keep them out. Add app-based 2FA and remove any SMS recovery options.
 
@@ -75,7 +75,7 @@ Remove any devices you don’t recognise—or that are still listed but no longe
 
 ## How to use a secure email for sensitive communication
 
-If someone else has access to your regular email, it’s wise to set up a fresh one—just for things that matter.
+If someone else has access to your regular email, it’s wise to set up a fresh one, just for things that matter.
 
 1. Choose a privacy-focused provider
 The big free email companies are... friendly with advertisers. Try these instead:
@@ -89,7 +89,7 @@ Both let you sign up anonymously, and both have apps.
 
 3. Avoid syncing to unsafe devices. Don’t add this account to a device that might be compromised. Stick to browser access, in incognito mode if possible.
 
-4. Turn off link previews and image loading. These can leak data or act as subtle trackers. Most secure email services disable them by default—but it’s worth double-checking.
+4. Turn off link previews and image loading. These can leak data or act as subtle trackers. Most secure email services disable them by default, but it’s worth double-checking.
 
 5. Be mindful of who you share it with. This account is for communication you want to keep private. Don't link it to your usual accounts or use it to sign up for services that might raise flags.
 

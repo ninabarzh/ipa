@@ -80,6 +80,6 @@ description: "A cost guesstimate for running the Tech safety for survivors choos
 
 ## Possible cost savers
 
-* Max impact, minimal budget: This workshop works well even with DIY, volunteers, and second-hand tech—the atmosphere and approach matter more than the gear.
+* Max impact, minimal budget: This workshop works well even with DIY, volunteers, and second-hand tech, the atmosphere and approach matter more than the gear.
 * If you plan to run more than one, the startup costs (e.g., tech kit, signage) drop significantly per workshop.
 * A donated venue and local food sponsors (e.g., bakery, co-op) can cut some costs.

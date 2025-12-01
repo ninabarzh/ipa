@@ -12,7 +12,7 @@ description: "Auch wenn deine Apps sicher sind, könnten deine Cloud und Metadat
 
 ## Wie du Google-Standortverlauf und Aktivitäten-Tracking deaktivierst
 
-Google merkt sich nicht nur, wo du warst—es merkt sich auch, was du gesucht hast, welche Videos du gesehen hast und manchmal, wo du dein Auto geparkt hast. Zum Glück kannst du es dazu bringen, zu vergessen. Oder zumindest keine Notizen mehr zu machen.
+Google merkt sich nicht nur, wo du warst, es merkt sich auch, was du gesucht hast, welche Videos du gesehen hast und manchmal, wo du dein Auto geparkt hast. Zum Glück kannst du es dazu bringen, zu vergessen. Oder zumindest keine Notizen mehr zu machen.
 
 1. Besuche die Aktivitätskontrollen von Google. Gehe zu [myactivity.google.com/activitycontrols](https://myactivity.google.com/activitycontrols). Hier findest du Schalter für:
 
@@ -27,7 +27,7 @@ Deaktiviere alle für einen sauberen Zustand.
 
 * Öffne Google Maps
 * Tippe auf dein Profilbild → Standortfreigabe
-* Beende die Freigabe für alle gelisteten Personen—besonders Namen, die du nicht kennst
+* Beende die Freigabe für alle gelisteten Personen, besonders Namen, die du nicht kennst
 
 3. Standortverlauf löschen
 
@@ -44,15 +44,15 @@ Deaktiviere alle für einen sauberen Zustand.
 5. Geräte verwalten
 
 * Google-Konto → Sicherheit → Deine Geräte
-* Entferne alles Unbekannte—oder alles, was jemand anderes nutzen könnte
+* Entferne alles Unbekannte, oder alles, was jemand anderes nutzen könnte
 
-6. Sei dir bewusst: Löschung ist nicht immer sofort. Selbst nach Deaktivierung des Verlaufs bleiben einige Protokolle eine Weile erhalten. Es ist kein perfekter Datenschutz—aber viel besser, als die Schleusen weit offen zu lassen.
+6. Sei dir bewusst: Löschung ist nicht immer sofort. Selbst nach Deaktivierung des Verlaufs bleiben einige Protokolle eine Weile erhalten. Es ist kein perfekter Datenschutz, aber viel besser, als die Schleusen weit offen zu lassen.
 
 ---
 
 ## Wie du Cloud-Zugriff von geteilten Konten widerrufst
 
-Cloud-Speicher ist großartig—bis jemand anderes in deinem digitalen Aktenschrank herumschnüffelt. Zeit zu prüfen, wer was teilt.
+Cloud-Speicher ist großartig, bis jemand anderes in deinem digitalen Aktenschrank herumschnüffelt. Zeit zu prüfen, wer was teilt.
 
 1. Melde dich auf einem sicheren Gerät an. Wie immer, vermeide Geräte, die möglicherweise kompromittiert sind.
 
@@ -78,7 +78,7 @@ Cloud-Speicher ist großartig—bis jemand anderes in deinem digitalen Aktenschr
 * Prüfe verbundene Apps unter Kontoeinstellungen → Verbundene Apps
 * Entferne verdächtige oder alte Tools
 
-5. Ändere die Passwörter für alle Cloud-Dienste. Tu dies, nachdem du ihren Zugriff entfernt hast—es zuerst zu tun, könnte jemanden warnen.
+5. Ändere die Passwörter für alle Cloud-Dienste. Tu dies, nachdem du ihren Zugriff entfernt hast, es zuerst zu tun, könnte jemanden warnen.
 
 6. Baue deinen Kalender bei Bedarf neu auf. Wenn dein Kalender zur Überwachung genutzt wurde (z.B. um Termine zu verfolgen), erwäge einen neuen Kalender mit begrenzter Freigabe und ausgeschalteten Benachrichtigungen.
 
@@ -86,13 +86,13 @@ Cloud-Speicher ist großartig—bis jemand anderes in deinem digitalen Aktenschr
 
 ## Wie du Metadaten und Beweise beim Export von Protokollen oder Screenshots erhältst
 
-Wenn du technikbasierte Misshandlung aus rechtlichen, wohnungsbezogenen oder unterstützenden Gründen dokumentierst, zählt nicht nur *was* du speicherst—sondern *wie* du es speicherst.
+Wenn du technikbasierte Misshandlung aus rechtlichen, wohnungsbezogenen oder unterstützenden Gründen dokumentierst, zählt nicht nur *was* du speicherst, sondern *wie* du es speicherst.
 
 1. Erhalte Dateizeitstempel. Wenn du Screenshots oder Chat-Exporte speicherst, benenne sie nicht um, es sei denn, es ist nötig. Dateiname und Erstellungsdatum helfen, eine Zeitleiste zu erstellen.
 
 2. Exportiere Protokolle als PDF oder Klartext. Apps wie WhatsApp und Signal erlauben Chat-Exporte. Wähle das Format, das Zeitstempel, Telefonnummern oder E-Mail-IDs klar anzeigt.
 
-3. Bewahre Originaldateien auf. Speichere immer die unveränderte Version—beschneide oder kommentiere nicht deine einzige Kopie. Mache bei Bedarf Duplikate.
+3. Bewahre Originaldateien auf. Speichere immer die unveränderte Version, beschneide oder kommentiere nicht deine einzige Kopie. Mache bei Bedarf Duplikate.
 
 4. Nutze Metadaten-bewusste Tools. Beim Export von Dateien (z.B. Google Takeout, Dropbox-Protokolle) behalte die gezippten Ordner intakt. Wenn du sie entpackst, vermeide Bearbeitung auf geteilten oder überwachten Geräten.
 
@@ -109,4 +109,4 @@ Wenn du technikbasierte Misshandlung aus rechtlichen, wohnungsbezogenen oder unt
 * Vertrauenswürdiger Freund
 * Privater Cloud-Ordner (Proton Drive, Sync.com)
 
-7. Optional: Füge Kontext hinzu. Füge eine separate Notiz oder Tagebucheintrag (Klartext oder PDF) bei, der beschreibt, was um jedes Beweisstück herum passiert ist—Daten, Änderungen, seltsames Verhalten oder Gespräche. Dies stärkt deinen Fall, falls du später die Bedeutung erklären musst.
+7. Optional: Füge Kontext hinzu. Füge eine separate Notiz oder Tagebucheintrag (Klartext oder PDF) bei, der beschreibt, was um jedes Beweisstück herum passiert ist, Daten, Änderungen, seltsames Verhalten oder Gespräche. Dies stärkt deinen Fall, falls du später die Bedeutung erklären musst.

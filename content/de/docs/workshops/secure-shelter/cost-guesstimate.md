@@ -7,7 +7,7 @@ _build:
 menu:
   sidebar:
     weight: 15
-description: "Detaillierte Kostenschätzung für den 'Sicheres Frauenhaus Build-a-thon'—ein praktischer Tagesworkshop, bei dem Mitarbeitende ein eigenes digitales Sicherheitslabor (Wazuh + Pirogue) mit Hilfe von Moderator:innen einrichten."
+description: "Detaillierte Kostenschätzung für den 'Sicheres Frauenhaus Build-a-thon', ein praktischer Tagesworkshop, bei dem Mitarbeitende ein eigenes digitales Sicherheitslabor (Wazuh + Pirogue) mit Hilfe von Moderator:innen einrichten."
 ---
 
 ## Übersichtstabellen

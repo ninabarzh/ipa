@@ -7,7 +7,7 @@ _build:
 menu:
   sidebar:
     weight: 20
-description: "Du stalkerware à l'usurpation, en passant par le gaslighting via objets connectés ou l'utilisation de vos photos contre vous—passage de la théorie à la pratique."
+description: "Du stalkerware à l'usurpation, en passant par le gaslighting via objets connectés ou l'utilisation de vos photos contre vous, passage de la théorie à la pratique."
 ---
 
 Passons à la pratique. Vous connaissez les points d'accès. Vous savez ce qui est menacé. Mais comment cela se manifeste-t-il réellement ?
@@ -18,7 +18,7 @@ Chacune a une méthode technique sous-jacente, mais le but est toujours le même
 
 ## Stalkerware
 
-Des applications conçues pour espionner. Vendues comme « contrôle parental » ou « surveillance d'employés », mais soyons clairs—leur vrai marché est la surveillance conjugale.
+Des applications conçues pour espionner. Vendues comme « contrôle parental » ou « surveillance d'employés », mais soyons clairs, leur vrai marché est la surveillance conjugale.
 
 Elles peuvent :
 
@@ -28,7 +28,7 @@ Elles peuvent :
 * Activer micros et caméras
 * Enregistrer saisies et mots de passe
 
-L'installation nécessite un accès physique—facile dans un contexte relationnel. Une fois installées, elles se cachent. Beaucoup n'apparaissent pas dans la liste d'apps et contournent les antivirus.
+L'installation nécessite un accès physique, facile dans un contexte relationnel. Une fois installées, elles se cachent. Beaucoup n'apparaissent pas dans la liste d'apps et contournent les antivirus.
 
 Certains agresseurs créent des versions maison avec des apps comme Tasker, ou détournent des outils comme Qustodio, Life360 ou Google Family Link.
 
@@ -46,7 +46,7 @@ Bien au-delà de « Localiser mon iPhone ». Aujourd'hui, vos déplacements peuv
 * Apps de sport enregistrant vos parcours (Strava, Fitbit)
 
 Le danger ? Être *anticipé*.
-Certaines victimes trouvent l'agresseur déjà sur place—ou le « croisent » toujours au même café.
+Certaines victimes trouvent l'agresseur déjà sur place, ou le « croisent » toujours au même café.
 
 En 2025, votre voiture connectée pourrait révéler votre emploi du temps.
 
@@ -58,7 +58,7 @@ Méthodes :
 
 * SIM swapping (détournement de numéro de téléphone)
 * Hameçonnage (faux sites de connexion)
-* Réinitialisation via questions secrètes (« Quel était votre premier animal de compagnie ? »—ils savent)
+* Réinitialisation via questions secrètes (« Quel était votre premier animal de compagnie ? », ils savent)
 * Deviner les mots de passe (surtout s'ils les ont aidé à les créer)
 * Utiliser les connexions enregistrées sur d'anciens appareils
 
@@ -67,7 +67,7 @@ Une fois à l'intérieur, ils peuvent :
 * Modifier les paramètres de récupération (vous bloquant)
 * Surveiller vos emails sensibles
 * Envoyer des messages en votre nom
-* Supprimer des contenus—ou faire croire que *vous* l'avez fait
+* Supprimer des contenus, ou faire croire que *vous* l'avez fait
 
 Les alertes de connexion vont souvent à la boîe compromise. Oui, vous pouvez être piraté sans le savoir.
 
@@ -75,7 +75,7 @@ Les alertes de connexion vont souvent à la boîe compromise. Oui, vous pouvez �
 
 Un terme laid qui ne suffit pas.
 
-Des images privées—partagées consciemment ou volées—utilisées comme armes :
+Des images privées, partagées consciemment ou volées, utilisées comme armes :
 
 * Publication sur des sites ou réseaux
 * Envoi à la famille, employeurs ou communautés
@@ -83,14 +83,14 @@ Des images privées—partagées consciemment ou volées—utilisées comme arme
 * Isolement (« Personne ne te croira »)
 * Génération de faux crédibles via IA
 
-En 2025, l'IA empire la situation. Les deepfakes—images/vidéos générées à partir de quelques photos—peuvent suffire à nuire, même sans original.
+En 2025, l'IA empire la situation. Les deepfakes, images/vidéos générées à partir de quelques photos, peuvent suffire à nuire, même sans original.
 
-Et même si les plateformes suppriment, le mal est fait. Réputation, confiance, estime de soi—tout est endommagé.
+Et même si les plateformes suppriment, le mal est fait. Réputation, confiance, estime de soi, tout est endommagé.
 
 ## Gaslighting technologique
 
 Le contrôle numérique à son plus insidieux.
-Lumières qui clignotent à 2h du matin. Thermostat réglé au minimum. Porte qui se verrouille seule. Pas de fil coupé. Pas d'empreintes. Juste vous—et ce doute : et si j'imaginais tout ?
+Lumières qui clignotent à 2h du matin. Thermostat réglé au minimum. Porte qui se verrouille seule. Pas de fil coupé. Pas d'empreintes. Juste vous, et ce doute : et si j'imaginais tout ?
 
 Ce n'est pas de la fiction. C'est de la violence conjugale moderne, via :
 
@@ -100,13 +100,13 @@ Ce n'est pas de la fiction. C'est de la violence conjugale moderne, via :
 * Sonnettes, serrures et caméras
 * Télés et routeurs
 
-Ils déclenchent des comportements semblant aléatoires, effrayants ou assez subtils pour vous faire douter. À terme, cela détruit votre confiance—surtout si vous essayez d'en parler.
+Ils déclenchent des comportements semblant aléatoires, effrayants ou assez subtils pour vous faire douter. À terme, cela détruit votre confiance, surtout si vous essayez d'en parler.
 
 Violence psychologique 2.0.
 
 ## Usurpation d'identité
 
-Pas besoin de pirater—il suffit de se faire passer pour vous.
+Pas besoin de pirater, il suffit de se faire passer pour vous.
 
 Ça peut inclure :
 
@@ -116,7 +116,7 @@ Pas besoin de pirater—il suffit de se faire passer pour vous.
 * Vous inscrire sur des sites de rencontre ou services inappropriés
 * Faux signalements à votre employeur ou aux services sociaux
 
-Avec accès à vos vrais comptes, c'est encore plus dur à prouver. Certains montent même de fausses conversations entre plusieurs comptes—juste pour fabriquer des « preuves ».
+Avec accès à vos vrais comptes, c'est encore plus dur à prouver. Certains montent même de fausses conversations entre plusieurs comptes, juste pour fabriquer des « preuves ».
 
 Le but ? Vous isoler, vous embrouiller, vous réduire au silence.
 
@@ -125,5 +125,5 @@ Le but ? Vous isoler, vous embrouiller, vous réduire au silence.
 Ces attaques dépassent la simple « utilisation de la technologie ». 
 Ce sont des *méthodes de pouvoir*, déguisées en pannes, coïncidences ou malchance. Mais une fois nommées, vous pouvez les démêler.
 
-Cette section ne vise pas à effrayer—mais à dire : 
+Cette section ne vise pas à effrayer, mais à dire : 
 Vous n'imaginez rien. Vous n'êtes pas seul. Il y a *des solutions*.

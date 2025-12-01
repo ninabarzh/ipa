@@ -12,7 +12,7 @@ description: "Conçu spécialement pour les refuges ou organisations de premièr
 
 ## Qu'est-ce que la "Journée sécurité tech pour survivantes à son rythme" ?
 
-PowerOn : Journée sécurité tech pour survivantes à son rythme est un atelier d'une journée conçu pour les survivantes de violences conjugales. Il aide les participantes à explorer et reconquérir leur sécurité numérique de manière autonome, bienveillante et non technique. Les survivantes apprennent à repérer la surveillance, reprendre le contrôle de leurs appareils/comptes et retrouver confiance en la tech—à leur rythme, sans obligation de partage.
+PowerOn : Journée sécurité tech pour survivantes à son rythme est un atelier d'une journée conçu pour les survivantes de violences conjugales. Il aide les participantes à explorer et reconquérir leur sécurité numérique de manière autonome, bienveillante et non technique. Les survivantes apprennent à repérer la surveillance, reprendre le contrôle de leurs appareils/comptes et retrouver confiance en la tech, à leur rythme, sans obligation de partage.
 
 L'atelier est ludique, basé sur le choix et trauma-informé, mêlant apprentissage en espace ouvert, support tech pratique, jeux de rôle et zones créatives.
 
@@ -20,7 +20,7 @@ L'atelier est ludique, basé sur le choix et trauma-informé, mêlant apprentiss
 
 ## Pourquoi organiser cet atelier ?
 
-Les violences numériques font désormais partie des violences conjugales—géolocalisation, verrouillage de comptes, logiciels espions ou manipulation domotique. Les survivantes :
+Les violences numériques font désormais partie des violences conjugales, géolocalisation, verrouillage de comptes, logiciels espions ou manipulation domotique. Les survivantes :
 
 * Ignorent souvent par où commencer
 * Ne savent à qui faire confiance pour la tech
@@ -105,7 +105,7 @@ Plusieurs options pour les refuges :
 
 Modèle :
 
-*Nous organisons une journée "PowerOn" pour aider les survivantes de violences conjugales à reconquérir sécurité et confiance numériques. L'atelier combine aide technique, conseils vie privée et soutien par les pairs dans un cadre trauma-informé. Nous fournissons repas, matériel et accompagnement individuel. La session est facultative, centrée sur le choix et conçue pour rencontrer les survivantes où elles en sont—sans présupposer compétences, récits ou accès tech.*
+*Nous organisons une journée "PowerOn" pour aider les survivantes de violences conjugales à reconquérir sécurité et confiance numériques. L'atelier combine aide technique, conseils vie privée et soutien par les pairs dans un cadre trauma-informé. Nous fournissons repas, matériel et accompagnement individuel. La session est facultative, centrée sur le choix et conçue pour rencontrer les survivantes où elles en sont, sans présupposer compétences, récits ou accès tech.*
 
 Plus de modèles dans le [Template financement](/docs/workshops/tech-safety/funding-template.md).
 

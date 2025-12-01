@@ -12,7 +12,7 @@ description: "Şüphe çekmeden işleri kilitlemenin pratik yolları."
 
 Bazen istismarı teknolojiyle *çözemezsiniz*. Ama akıllı dijital hijyen ve sessiz müdahaleler dengeleri lehinize çevirebilir.
 
-Bu rehber, işleri kilitlemeye hazır olanlar için—alarm vermeden veya şüphe uyandırmadan. Hepsini yapmak zorunda değilsiniz. Mümkün olanla başlayın.
+Bu rehber, işleri kilitlemeye hazır olanlar için, alarm vermeden veya şüphe uyandırmadan. Hepsini yapmak zorunda değilsiniz. Mümkün olanla başlayın.
 
 ## Cihaz denetimleri (alarm vermeden)
 
@@ -28,7 +28,7 @@ Yapılacaklar:
 - Güvenli denetim ipuçları:
   - Şüpheli uygulamaları *araştırmak* için ikinci bir cihaz (arkadaş telefonu, halka açık bilgisayar) kullanın  
   - Kayıtları ve ekran görüntülerini *çevrimdışı veya cihaz dışında* saklayın  
-  - Henüz hiçbir şeyi kaldırmayın—bazı casus yazılımlar kaldırıldığında uyarı tetikler
+  - Henüz hiçbir şeyi kaldırmayın, bazı casus yazılımlar kaldırıldığında uyarı tetikler
 
 Temiz bir başlangıç mı lazım? Aşağıya bakın: [Temiz sayfa stratejileri →](#temiz-sayfa-stratejileri-ne-zaman-yeniden-başlamalı)
 
@@ -60,14 +60,14 @@ Paylaşılan bulutlar = paylaşılan gözler. "Silinmiş" dosya veya fotoğrafla
 
 Yapılacaklar:
 
-- Bulut senkronizasyonunu kontrol edin: Google Drive, iCloud, Dropbox, OneDrive—*bağlı cihazlar* ve *paylaşılan klasörler*'e bakın
+- Bulut senkronizasyonunu kontrol edin: Google Drive, iCloud, Dropbox, OneDrive, *bağlı cihazlar* ve *paylaşılan klasörler*'e bakın
 - Otomatik yüklemeyi kapatın: Kamera rolleri, WhatsApp yedekleri, not uygulamaları sessizce senkronize olabilir
-- Diğer cihazların erişimini iptal edin: Emin değilseniz, önce şifreyi *değiştirin*—sonra oturumları uzaktan kapatın
+- Diğer cihazların erişimini iptal edin: Emin değilseniz, önce şifreyi *değiştirin*, sonra oturumları uzaktan kapatın
 - Paylaşılan takvimler ve albümler: Rutinleri takip etmek için sık kullanılır. İşbirlikçileri sessizce kaldırın.
 
 ## İzleyicileri tespit etme: AirTags, Google etkinliği, kötü amaçlı uygulamalar
 
-Biri nerede olduğunuzu biliyorsa, konumunuzu sızdırıyor olabilirsiniz—kapalı sandığınız halde bile.
+Biri nerede olduğunuzu biliyorsa, konumunuzu sızdırıyor olabilirsiniz, kapalı sandığınız halde bile.
 
 İzleyicileri kontrol edin:
 
@@ -106,7 +106,7 @@ Temiz başlangıç kontrol listesi:
    - Yalnızca resmi mağazalardan yükleyin
 
 4. Yeni telefon numarası (mümkünse):  
-   - Yalnızca doğrulama için kullanın—geniş çapta paylaşmayın  
+   - Yalnızca doğrulama için kullanın, geniş çapta paylaşmayın  
    - Gerekirse eski numaranızı görünürlük için tutun
 
 5. Ele geçirilmiş cihaz/hesaplara bağlanmayın: Sadece "kontrol etmek" için eski Google/Apple hesaplarına giriş yapmayın
@@ -115,7 +115,7 @@ Bu büyük bir adım. Her zaman mümkün değil. Ama mümkün olduğunda özgür
 
 ## Bu bölüm hakkında bir not
 
-Teknik düzeltmeler araçtır—kurtarıcı değil. Destek, sınırlar ve duygusal güvenlikle en iyi çalışırlar.  
+Teknik düzeltmeler araçtır, kurtarıcı değil. Destek, sınırlar ve duygusal güvenlikle en iyi çalışırlar.  
 BT uzmanı olmanız gerekmez. Netlik, sakinlik ve kontrol hedefleyin.
 
 Sonraki: [Önce neyi kontrol etmeli →](/docs/take-back-power/what) veya [Kiminle konuşmalı (ve ne zaman) →](/docs/take-back-power/who)

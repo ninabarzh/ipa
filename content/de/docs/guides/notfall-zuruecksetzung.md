@@ -12,7 +12,7 @@ description: "Wenn sich Dinge kompromittiert anfühlen oder du dich auf einen gr
 
 ## Wie du dich auf einen vollständigen digitalen Reset vorbereitest
 
-Manchmal sind Dinge zu verworren, um sie zu entwirren. Wenn Konten kompromittiert sind, Geräte verdächtig sind oder der Zugang unsicher ist, kann ein Neuanfang die beste Option sein. So planst du einen ruhigen, kontrollierten digitalen Reset—ohne dramatische Aktionen.
+Manchmal sind Dinge zu verworren, um sie zu entwirren. Wenn Konten kompromittiert sind, Geräte verdächtig sind oder der Zugang unsicher ist, kann ein Neuanfang die beste Option sein. So planst du einen ruhigen, kontrollierten digitalen Reset, ohne dramatische Aktionen.
 
 1. Bestandsaufnahme: Was möchtest du behalten? Bevor du etwas löschst, sammle ruhig die wichtigsten Dinge:
 
@@ -27,16 +27,16 @@ Manchmal sind Dinge zu verworren, um sie zu entwirren. Wenn Konten kompromittier
 * Datenschutzfreundliche Cloud-Speicher (Proton Drive, Sync.com)
   Vermeide Google Drive oder iCloud, wenn sie geteilt oder überwacht werden.
 
-3. Trenne Persönliches von Geteiltem. Nimm keinen alten Ballast mit. Erstelle eine Liste der Konten, die es wert sind, zurückerobert zu werden—und eine andere derer, die besser aufgegeben werden.
+3. Trenne Persönliches von Geteiltem. Nimm keinen alten Ballast mit. Erstelle eine Liste der Konten, die es wert sind, zurückerobert zu werden, und eine andere derer, die besser aufgegeben werden.
 
-4. Erwäge ein neues Gerät. Wenn du vermutest, dass dein aktuelles Telefon oder Laptop kompromittiert ist, ist es sicherer, neu anzufangen. Ein einfaches Gerät, von Grund auf neu eingerichtet, gibt dir Kontrolle. Geliehen oder generalüberholt ist okay—solange *du* die Einrichtung machst.
+4. Erwäge ein neues Gerät. Wenn du vermutest, dass dein aktuelles Telefon oder Laptop kompromittiert ist, ist es sicherer, neu anzufangen. Ein einfaches Gerät, von Grund auf neu eingerichtet, gibt dir Kontrolle. Geliehen oder generalüberholt ist okay, solange *du* die Einrichtung machst.
 
 5. Setze Geräte einzeln auf Werkseinstellungen zurück. Wenn du bereit bist:
 
 * Lösche das Gerät (Werksreset)
 * Installiere nur vertrauenswürdige Apps neu
 * Richte frische Konten mit einzigartigen Passwörtern und App-basierter 2FA ein
-  Vermeide Backup-Wiederherstellungen—sie bringen alte Probleme mit.
+  Vermeide Backup-Wiederherstellungen, sie bringen alte Probleme mit.
 
 6. Bleibe während des Prozesses ruhig. Kündige nicht an, dass du "neu anfängst." Fang einfach... an. Langsam. Leise. Priorisiere Sicherheit über Geschwindigkeit. Es ist ein Übergang, keine große Geste.
 
@@ -63,7 +63,7 @@ Journaling ist kraftvoll. Es kann helfen, Gedanken zu verarbeiten, Muster zu erk
 
 5. Füge Kontext hinzu, aber bleibe neutral in der Sprache. Wenn du mit möglicher späterer rechtlicher Nutzung journalst, halte Einträge sachlich: Daten, Handlungen und direkte Zitate, wenn möglich.
 
-6. Exportiere und sichere regelmäßig (privat). Erstelle regelmäßige Backups auf einem sicheren Gerät oder USB-Stick und lagere sie sicher—idealerweise extern.
+6. Exportiere und sichere regelmäßig (privat). Erstelle regelmäßige Backups auf einem sicheren Gerät oder USB-Stick und lagere sie sicher, idealerweise extern.
 
 ---
 
@@ -76,7 +76,7 @@ Manchmal beginnen die ersten Schritte zur Sicherheit mit Lesen. Aber wenn jemand
 * Chrome/Firefox: `Strg + Umschalt + N` (oder `Cmd + Umschalt + N` auf Mac)
 * Safari: Tabs → Privat
 
-Privater Modus speichert deinen Verlauf, Cookies oder Seiten-Daten nicht—verbirgt deine Aktivität aber nicht vor Wi-Fi oder Router-Protokollen.
+Privater Modus speichert deinen Verlauf, Cookies oder Seiten-Daten nicht, verbirgt deine Aktivität aber nicht vor Wi-Fi oder Router-Protokollen.
 
 2. Nutze einen datenschutzfreundlichen Browser
 

@@ -4,7 +4,7 @@ linkTitle: "Sécurité technologique pour les survivantes – Journée à votre 
 weight: 1
 _build:
   render: always
-description: "Ce n'est pas une formation technique. C'est une journée conviviale, à votre rythme, où les survivantes peuvent explorer des outils, acquérir des compétences et retrouver confiance en elles numériquement—à leurs propres conditions. Que quelqu'un veuille scanner son appareil, poser une question discrète ou dessiner une BD sur son application la moins préférée—cette journée offre un espace pour tout cela."
+description: "Ce n'est pas une formation technique. C'est une journée conviviale, à votre rythme, où les survivantes peuvent explorer des outils, acquérir des compétences et retrouver confiance en elles numériquement, à leurs propres conditions. Que quelqu'un veuille scanner son appareil, poser une question discrète ou dessiner une BD sur son application la moins préférée, cette journée offre un espace pour tout cela."
 menu:
   sidebar:
     weight: 5
@@ -63,7 +63,7 @@ Les stations sont ouvertes toute la journée sauf indication contraire. Les surv
 * Utiliser un appareil démo ou le sien  
 * Avec Pirogue (si le refuge en a un ou nous en apportons un)  
 * Scanner, examiner les résultats, en discuter  
-* Pas de tactiques effrayantes—juste des explications calmes  
+* Pas de tactiques effrayantes, juste des explications calmes  
 
 À emporter : Un rapport de scan imprimé ou envoyé par email, un plan de suivi (optionnel)  
 
@@ -81,7 +81,7 @@ Scénarios en live ou imprimés pour participer ou observer :
 
 * “Gentil garçon qui a juste besoin de ton mot de passe GPS”  
 * “Cet email ne vient pas d'Apple, si ?”  
-* “Oups—quelqu'un a ajouté un appareil à ton compte”  
+* “Oups, quelqu'un a ajouté un appareil à ton compte”  
 
 Activité : Repérer le piège, réécrire la fin  
 
@@ -105,7 +105,7 @@ Option : Emporter une copie chiffrée de ses notes
 
 * Essayer DuckDuckGo, Tor Browser, Firefox Focus  
 * Apprendre les modes navigation privée (et ce qu'ils ne cachent pas)  
-* Comptes jetables et boîtes secrètes—comment ça marche, quand ça aide  
+* Comptes jetables et boîtes secrètes, comment ça marche, quand ça aide  
 
 Optionnel : Emporter un kit USB “navigation privée”  
 
@@ -115,7 +115,7 @@ Optionnel : Emporter un kit USB “navigation privée”
 * Pas de pression, pas de notes sauf demande  
 * Juste un soutien humain  
 
-Questions ou peurs—aucune expertise tech requise  
+Questions ou peurs, aucune expertise tech requise  
 
 ### Espace créatif – *"Je ne veux pas de tech, je veux de la couleur"*  
 
@@ -131,14 +131,14 @@ L'art peut être emporté ou rester anonyme sur le “Mur du pouvoir”
   * Outils de journalisation sécurisée  
   * Navigateur privé  
   * Zines et marque-pages  
-* Zine : “Premiers pas—Reprendre le contrôle technologique”  
+* Zine : “Premiers pas, Reprendre le contrôle technologique”  
 * Liste de contacts d'organisations de soutien numérique  
 * Autocollant rigolo : “Détective d'apps” / “J'ai piégé un cookie de traçage”  
 * Badges imprimables aussi disponibles pour les refuges avec imprimantes  
 
 ## Fête finale (16:30–17:00)  
 
-* Gâteau et musique (ou chocolat chaud et silence—à vous de choisir)  
+* Gâteau et musique (ou chocolat chaud et silence, à vous de choisir)  
 * Station badges DIY (“Détective d'apps”, “Reine incognito”)  
   * Fabriquer des badges  
   * Réfléchir avec le personnel ou d'autres survivantes  
@@ -150,7 +150,7 @@ L'art peut être emporté ou rester anonyme sur le “Mur du pouvoir”
 ## Principes informés par le trauma  
 
 * Personne n'est obligé de partager son histoire  
-* Personne n'est supposé savoir la tech—ou ne pas savoir  
+* Personne n'est supposé savoir la tech, ou ne pas savoir  
 * Les survivantes définissent ce que “sécurité” signifie  
 * Tous les aidants sont formés pour soutenir avec compassion, pas contrôle  
 * Tout est optionnel. Rien n'est imposé.  

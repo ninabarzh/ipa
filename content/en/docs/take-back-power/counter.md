@@ -12,7 +12,7 @@ description: "Practical ways to lock things down without tipping anyone off."
 
 Sometimes you *can’t* out-tech your way out of abuse. But smart digital hygiene and quiet interventions can tip the balance back in your favour.
 
-This guide is for anyone ready to start locking things down—without flashing red lights or provoking suspicion. You don’t have to do it all. Just start with what feels possible.
+This guide is for anyone ready to start locking things down, without flashing red lights or provoking suspicion. You don’t have to do it all. Just start with what feels possible.
 
 ## Device audits (without tripping alarms)
 
@@ -28,7 +28,7 @@ What to do:
 - Safe audit tips:
   - Use a second device (friend’s phone, public computer) to *research suspicious apps*  
   - Keep logs and screenshots *offline or off-device*  
-  - Don’t uninstall anything yet—some spyware triggers alerts when removed
+  - Don’t uninstall anything yet, some spyware triggers alerts when removed
 
 Need a clean start? See below: [Clean-slate strategies →](#clean-slate-strategies-when-to-start-again)
 
@@ -60,14 +60,14 @@ Shared clouds = shared eyes. Even “deleted” files or photos may still sync.
 
 What to do:
 
-- Check if cloud is syncing: Google Drive, iCloud, Dropbox, OneDrive—go into settings and look at *linked devices* and *shared folders*
+- Check if cloud is syncing: Google Drive, iCloud, Dropbox, OneDrive, go into settings and look at *linked devices* and *shared folders*
 - Turn off auto-upload: Camera roll, WhatsApp backups, Notes apps often sync silently
-- Revoke access from other devices: If unsure, change password *first*—then sign out sessions remotely
+- Revoke access from other devices: If unsure, change password *first*, then sign out sessions remotely
 - Shared calendars and albums: These are frequently used to track routines. Remove collaborators quietly.
 
 ## Tracking trackers: AirTags, Google activity, rogue apps
 
-If someone knows where you’ve been, you may be leaking your location—even if you think you’ve turned it off.
+If someone knows where you’ve been, you may be leaking your location, even if you think you’ve turned it off.
 
 Check for trackers:
 
@@ -106,7 +106,7 @@ Clean start checklist:
    - Only install from official stores
 
 4. New phone number (if possible):  
-   - Use for verification only—don’t share widely  
+   - Use for verification only, don’t share widely  
    - Keep your old number for appearances if needed
 
 5. Avoid linking to compromised devices/accounts: Don’t sign into old Google/Apple accounts just to “check something”
@@ -115,7 +115,7 @@ This is a big step. It’s not always possible. But when it is, it can be libera
 
 ## A word on this section
 
-Technical fixes are tools—not salvation. They work best when paired with support, boundaries, and emotional safety.  
+Technical fixes are tools, not salvation. They work best when paired with support, boundaries, and emotional safety.  
 You don’t have to become an IT expert. Just aim for clarity, calm, and control.
 
 Next up: [What to check first →](/docs/take-back-power/what) or [Who to talk to (and when) →](/docs/take-back-power/who)

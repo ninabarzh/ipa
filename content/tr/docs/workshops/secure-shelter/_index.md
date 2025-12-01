@@ -4,7 +4,7 @@ linkTitle: "Güvenli sığınak inşa maratonu"
 weight: 2
 _build:
   render: always
-description: "Sığınak personeli için neşeli, teknoloji dostu, pratik bir etkinlik. Vaaz yok, karamsarlık yok—sadece takım çalışması, cihazlar ve baş edilen sorunlara saygı."
+description: "Sığınak personeli için neşeli, teknoloji dostu, pratik bir etkinlik. Vaaz yok, karamsarlık yok, sadece takım çalışması, cihazlar ve baş edilen sorunlara saygı."
 menu:
   sidebar:
     weight: 10

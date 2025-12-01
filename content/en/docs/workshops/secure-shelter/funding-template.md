@@ -7,7 +7,7 @@ _build:
 menu:
   sidebar:  # Adds to Docsy's auto-generated sidebar
     weight: 25
-description: "A ready-to-adapt funding template for organising a Secure the Shelter Build-a-thon—a practical, staff-focused day to deploy your own private tech safety lab using Pirogue and Wazuh. It’s pitched for local authorities, foundations, or digital rights grant schemes, with plain-language explanations and a focus on empowerment and survivor safety."
+description: "A ready-to-adapt funding template for organising a Secure the Shelter Build-a-thon, a practical, staff-focused day to deploy your own private tech safety lab using Pirogue and Wazuh. It’s pitched for local authorities, foundations, or digital rights grant schemes, with plain-language explanations and a focus on empowerment and survivor safety."
 ---
 
 ### 1. Project Title
@@ -18,7 +18,7 @@ description: "A ready-to-adapt funding template for organising a Secure the Shel
 
 We are organising a one or two-day hands-on *build-a-thon* where shelter staff will set up and test a dedicated digital safety lab. Using open-source tools like Wazuh (a security monitoring platform) and Pirogue (a network threat detector), the session will result in a fully functioning system to detect spyware, monitor risks, and safely support survivors experiencing tech-based abuse.
 
-This is not a training or a lecture—it’s a collaborative, team-powered day or days that end with a working solution we can use in-house.
+This is not a training or a lecture, it’s a collaborative, team-powered day or days that end with a working solution we can use in-house.
 
 ### 3. Objectives
 
@@ -75,7 +75,7 @@ All tools used (Wazuh, Pirogue) are open source and free to maintain. After the 
 
 ### 9. Why it matters
 
-Digital abuse is a daily reality for many survivors—but shelters are rarely given the tools to help. This project flips the script. Instead of outsourcing or relying on vague “cybersecurity advice,” this hands-on day gives staff their own tools, on their own terms. It's practical, empowering, and built for real-world mess.
+Digital abuse is a daily reality for many survivors, but shelters are rarely given the tools to help. This project flips the script. Instead of outsourcing or relying on vague “cybersecurity advice,” this hands-on day gives staff their own tools, on their own terms. It's practical, empowering, and built for real-world mess.
 
 ---
 

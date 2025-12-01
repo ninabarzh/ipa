@@ -18,7 +18,7 @@ Los enlaces a guías y herramientas aparecerán en la siguiente sección. Por ah
 
 ## Daño psicológico → desintoxicación digital y apoyo sensible al trauma
 
-**Qué ocurre:** La vigilancia, incluso la *amenaza* de ella— genera ansiedad, hipervigilancia y agotamiento. Dudas constantes sobre tu tecnología, entorno y decisiones.
+**Qué ocurre:** La vigilancia, incluso la *amenaza* de ella,  genera ansiedad, hipervigilancia y agotamiento. Dudas constantes sobre tu tecnología, entorno y decisiones.
 
 **Estrategias:**
 

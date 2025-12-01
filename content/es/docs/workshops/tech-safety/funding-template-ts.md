@@ -7,7 +7,7 @@ _build:
 menu:
   sidebar:
     weight: 25
-description: "Plantilla para que refugios soliciten fondos locales, regionales o de pequeñas fundaciones para organizar el día. Adaptable a varios esquemas de financiación—clara, alineada con la misión y lista para copiar/pegar en portales de subvenciones o formularios Word."
+description: "Plantilla para que refugios soliciten fondos locales, regionales o de pequeñas fundaciones para organizar el día. Adaptable a varios esquemas de financiación, clara, alineada con la misión y lista para copiar/pegar en portales de subvenciones o formularios Word."
 ---
 
 ### 1. Título del proyecto
@@ -18,7 +18,7 @@ PowerOn: Un día de seguridad tecnológica para sobrevivientes a su ritmo o ... 
 
 ### 2. Resumen
 
-*PowerOn* es un taller de empoderamiento tecnológico de un día, sensible al trauma, para sobrevivientes de violencia de pareja. Crea un espacio seguro donde explorar seguridad digital a su propio ritmo—mediante actividades prácticas, soporte opcional para dispositivos y herramientas de privacidad.
+*PowerOn* es un taller de empoderamiento tecnológico de un día, sensible al trauma, para sobrevivientes de violencia de pareja. Crea un espacio seguro donde explorar seguridad digital a su propio ritmo, mediante actividades prácticas, soporte opcional para dispositivos y herramientas de privacidad.
 
 Participantes aprenden a detectar vigilancia oculta (ej. stalkerware o geolocalización), proteger dispositivos/cuentas y reconstruir confianza con la tecnología en un entorno no técnico y empoderador.
 

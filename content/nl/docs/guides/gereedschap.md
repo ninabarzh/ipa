@@ -7,10 +7,10 @@ _build:
 menu:
   sidebar:
     weight: 45
-description: "Van veilige berichten tot wachtwoordmanagers—deze sectie verzamelt discrete apps die privacy ondersteunen zonder te schreeuwen 'ik verberg iets'. Kies wat past—geen jargon, geen overload, gewoon dingen die werken."
+description: "Van veilige berichten tot wachtwoordmanagers, deze sectie verzamelt discrete apps die privacy ondersteunen zonder te schreeuwen 'ik verberg iets'. Kies wat past, geen jargon, geen overload, gewoon dingen die werken."
 ---
 
-Deze tools draaien niet om hackers of off-grid leven. Ze helpen je stille controle over je digitale leven—of je nu spoorloos wilt blijven, privé communiceren of gewoon minder bekeken voelen. Gebruik wat helpt, laat de rest liggen.
+Deze tools draaien niet om hackers of off-grid leven. Ze helpen je stille controle over je digitale leven, of je nu spoorloos wilt blijven, privé communiceren of gewoon minder bekeken voelen. Gebruik wat helpt, laat de rest liggen.
 
 ## Privéberichten & email
 
@@ -53,7 +53,7 @@ Joplin
 Tella
 
 * Ontworpen voor documenteren mensenrechtenschendingen
-* Slaat foto's, video's, spraaknotities en tekst op—versleuteld
+* Slaat foto's, video's, spraaknotities en tekst op, versleuteld
 * Noodverwijderingsfunctie
 * Kan zich als andere app vermommen
 
@@ -65,7 +65,7 @@ DuckDuckGo Browser
 
 * Blokkeert trackers en bewaart geen zoekgeschiedenis
 * "Brand"-knop wist alle tabs direct
-* Ziet er normaal uit—geen leercurve
+* Ziet er normaal uit, geen leercurve
 
 Brave Browser
 

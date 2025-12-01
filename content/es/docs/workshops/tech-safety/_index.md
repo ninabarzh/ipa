@@ -4,7 +4,7 @@ linkTitle: "Seguridad tecnológica para sobrevivientes – Día a tu propio ritm
 weight: 1
 _build:
   render: always
-description: "No es un entrenamiento técnico. Es un día amigable, a tu propio ritmo, donde lxs sobrevivientes pueden explorar herramientas, aprender habilidades y recuperar confianza digital—en sus propios términos. Ya sea que alguien quiera escanear su dispositivo, hacer una pregunta en privado o dibujar un cómic sobre su aplicación menos favorita—este día tiene espacio para todo."
+description: "No es un entrenamiento técnico. Es un día amigable, a tu propio ritmo, donde lxs sobrevivientes pueden explorar herramientas, aprender habilidades y recuperar confianza digital, en sus propios términos. Ya sea que alguien quiera escanear su dispositivo, hacer una pregunta en privado o dibujar un cómic sobre su aplicación menos favorita, este día tiene espacio para todo."
 menu:
   sidebar:
     weight: 5
@@ -63,7 +63,7 @@ Las estaciones están abiertas todo el día a menos que se indique lo contrario.
 * Usar un dispositivo demo o el propio  
 * Con Pirogue (si el refugio tiene uno o lo llevamos)  
 * Escanear, revisar resultados, conversarlo  
-* Sin tácticas de miedo—solo explicaciones calmadas  
+* Sin tácticas de miedo, solo explicaciones calmadas  
 
 Para llevar: Informe de escaneo impreso o por correo, plan de seguimiento (opcional)  
 
@@ -81,7 +81,7 @@ Escenarios en vivo o impresos para participar u observar:
 
 * “Chico simpático que solo necesita tu contraseña de GPS”  
 * “Ese correo no es de Apple, ¿verdad?”  
-* “Ups—alguien añadió un dispositivo a tu cuenta”  
+* “Ups, alguien añadió un dispositivo a tu cuenta”  
 
 Actividad: Identificar la trampa, reescribir el final  
 
@@ -105,7 +105,7 @@ Opción: Llevar copia de notas cifrada para después
 
 * Probar DuckDuckGo, Tor Browser, Firefox Focus  
 * Aprender sobre modos incógnito (y qué no ocultan)  
-* Cuentas desechables y buzones secretos—cómo funcionan, cuándo ayudan  
+* Cuentas desechables y buzones secretos, cómo funcionan, cuándo ayudan  
 
 Opcional: Llevar un USB “kit de navegación privada”  
 
@@ -115,7 +115,7 @@ Opcional: Llevar un USB “kit de navegación privada”
 * Sin presión, sin notas a menos que se pida  
 * Solo apoyo humano  
 
-Preguntas o miedos—no se necesita experiencia técnica  
+Preguntas o miedos, no se necesita experiencia técnica  
 
 ### Espacio creativo – *"No quiero tecnología, quiero color"*  
 
@@ -131,14 +131,14 @@ El arte puede llevarse o quedarse anónimo en el “Muro de poder”
   * Herramientas de diario seguro  
   * Navegador privado  
   * Fanzines y marcadores  
-* Fanzine: “Primeros pasos—Recuperando tu tecnología”  
+* Fanzine: “Primeros pasos, Recuperando tu tecnología”  
 * Hoja de contactos de organizaciones de apoyo digital  
 * Calcomanía divertida: “Detective de apps” / “Engañé a una cookie de rastreo”  
 * Insignias imprimibles también disponibles para refugios con impresoras  
 
 ## Fiesta final (16:30–17:00)  
 
-* Pastel y música (o chocolate caliente y silencio—tú eliges)  
+* Pastel y música (o chocolate caliente y silencio, tú eliges)  
 * Estación de insignias DIY (“Detective de apps”, “Reina incógnita”)  
   * Hacer insignias  
   * Reflexionar con personal o compañerxs  
@@ -150,7 +150,7 @@ El arte puede llevarse o quedarse anónimo en el “Muro de poder”
 ## Principios informados por trauma  
 
 * Nadie está obligadx a compartir su historia  
-* Nadie asume que sabes de tecnología—o que no  
+* Nadie asume que sabes de tecnología, o que no  
 * Lxs sobrevivientes deciden qué significa “seguro”  
 * Todo el personal está entrenado para apoyar con compasión, no control  
 * Todo es opcional. Nada es forzado.  

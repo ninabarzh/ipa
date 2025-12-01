@@ -4,7 +4,7 @@ linkTitle: "Build-a-thon para refugios seguros"
 weight: 2
 _build:
   render: always
-description: "Un taller práctico y positivo sobre tecnología para personal de refugios. Sin sermones, sin noticias alarmantes—solo trabajo en equipo, dispositivos y un saludable respeto por el caos controlado."
+description: "Un taller práctico y positivo sobre tecnología para personal de refugios. Sin sermones, sin noticias alarmantes, solo trabajo en equipo, dispositivos y un saludable respeto por el caos controlado."
 menu:
   sidebar:
     weight: 10
@@ -90,7 +90,7 @@ Momentos de aprendizaje:
 
 ## Etapa 3: Conectar, bootear, escanear (a.k.a. Pirogue y jugar)
 
-*"Ahora vamos de pesca—de spyware."*
+*"Ahora vamos de pesca, de spyware."*
 
 ### Objetivos:
 

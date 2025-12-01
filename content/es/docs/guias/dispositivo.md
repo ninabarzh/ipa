@@ -7,19 +7,19 @@ _build:
 menu:
   sidebar:
     weight: 15
-description: "Los teléfonos y portátiles suelen contener más de tu vida de lo que crees. Esta sección te ayuda a detectar riesgos ocultos, buscar rastreo y recuperar el control de forma segura—especialmente si el dispositivo fue un regalo o lo configuraron \"como favor\"."
+description: "Los teléfonos y portátiles suelen contener más de tu vida de lo que crees. Esta sección te ayuda a detectar riesgos ocultos, buscar rastreo y recuperar el control de forma segura, especialmente si el dispositivo fue un regalo o lo configuraron \"como favor\"."
 ---
 
 ## Cómo revisar un teléfono en busca de stalkerware o apps sospechosas
 
-Si sientes que tu teléfono tiene ojos extra, podrías estar en lo cierto. No es paranoia si alguien instaló algo sin que lo vieras. Veamos cómo comprobarlo con calma—sin hacer ruido.
+Si sientes que tu teléfono tiene ojos extra, podrías estar en lo cierto. No es paranoia si alguien instaló algo sin que lo vieras. Veamos cómo comprobarlo con calma, sin hacer ruido.
 
 1. Señales sutiles de problemas
 
 * Batería que se agota sin motivo
 * Comportamiento extraño (pantalla que parpadea, sobrecalentamiento, lentitud)
 * Apps que no recuerdas instalar
-* Uso inexplicable de datos—especialmente con datos móviles apagados
+* Uso inexplicable de datos, especialmente con datos móviles apagados
 
 Ninguna sola prueba algo, pero juntas? Merece una revisión.
 
@@ -54,20 +54,20 @@ Si una calculadora tiene acceso al micrófono, es una alerta roja.
 
 A veces, es mejor no luchar contra fantasmas del pasado. Si tu dispositivo parece muy comprometido, empezar de nuevo te da libertad para reconstruir.
 
-1. Elige un dispositivo bajo tu control desde el inicio. Evita regalos, reacondicionados sin garantía o configurados por otros "para ayudar". Nuevo no siempre es esencial—solo limpio, actualizado y bajo tu control.
+1. Elige un dispositivo bajo tu control desde el inicio. Evita regalos, reacondicionados sin garantía o configurados por otros "para ayudar". Nuevo no siempre es esencial, solo limpio, actualizado y bajo tu control.
 
 2. No restaures desde copias en la nube. Por tentador que sea, podría traer problemas. Configúralo como nuevo.
 
 * Copia manualmente datos esenciales (fotos, contactos, etc.)
 * Deja atrás apps viejas, ajustes y contraseñas guardadas
 
-3. Instala pocas apps. Solo lo esencial—mensajes, email, mapas. Evita iniciar sesión en cuentas viejas hasta estar seguro de que son seguras.
+3. Instala pocas apps. Solo lo esencial, mensajes, email, mapas. Evita iniciar sesión en cuentas viejas hasta estar seguro de que son seguras.
 
 4. Usa credenciales nuevas cuando sea posible
 
 * Nueva dirección de email
 * Cuentas de apps nuevas
-* No reutilices nombres de usuario o contraseñas—podrían ser conocidos
+* No reutilices nombres de usuario o contraseñas, podrían ser conocidos
 
 5. Retrasa la sincronización entre dispositivos. Hasta estar seguro de tu nueva configuración, mantén tus dispositivos independientes. Evita iniciar sesión en portátiles compartidos o sincronizar mensajes entre plataformas.
 
@@ -108,7 +108,7 @@ Si no recuerdas haber dicho que sí, siéntete libre de decir no.
 * Android: **Ajustes → Privacidad → Anuncios → Reiniciar ID de publicidad**
 * iPhone: **Ajustes → Privacidad → Publicidad de Apple → Desactivar Publicidad Personalizada**
 
-No lo detiene todo—pero reduce el rastreo dirigido.
+No lo detiene todo, pero reduce el rastreo dirigido.
 
 5. Observa pistas de uso de batería. Si una app desconocida consume mucha energía en segundo plano, merece investigación.
 
@@ -122,7 +122,7 @@ Si algo desconocido está alto en la lista, investiga.
 
 ## Cómo respaldar un dispositivo de forma segura antes de reiniciarlo
 
-Si planeas un reinicio de fábrica—o un nuevo comienzo—es vital decidir qué guardar. Algunos datos son irremplazables. Otros podrían ayudar a probar lo ocurrido.
+Si planeas un reinicio de fábrica, o un nuevo comienzo, es vital decidir qué guardar. Algunos datos son irremplazables. Otros podrían ayudar a probar lo ocurrido.
 
 1. Decide qué conservar
 
@@ -143,4 +143,4 @@ Si planeas un reinicio de fábrica—o un nuevo comienzo—es vital decidir qué
 
 5. Toma capturas de permisos y ajustes. Especialmente si sospechas spyware. Incluso si no actúas ahora, podría ayudar después.
 
-6. Almacena copias de evidencia de forma segura. Haz dos copias: una para uso, otra bajo llave. Si es necesario, pide a alguien de confianza que guarde una copia—o usa almacenamiento en la nube seguro con autenticación de dos factores.
+6. Almacena copias de evidencia de forma segura. Haz dos copias: una para uso, otra bajo llave. Si es necesario, pide a alguien de confianza que guarde una copia, o usa almacenamiento en la nube seguro con autenticación de dos factores.

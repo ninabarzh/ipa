@@ -12,7 +12,7 @@ description: "A tailored specifically for shelters or frontline organisations wh
 
 ## What is tech safety for survivors choose-your-own-pace-day?
 
-PowerOn: tech safety for survivors choose-your-own-pace-day is a full-day, hands-on workshop designed for survivors of intimate partner abuse. It helps participants explore and reclaim digital safety in an empowering, supportive, and non-technical way. Survivors can learn to spot surveillance, regain control of devices and accounts, and rebuild confidence in using technology—at their own pace, with no pressure to share or perform.
+PowerOn: tech safety for survivors choose-your-own-pace-day is a full-day, hands-on workshop designed for survivors of intimate partner abuse. It helps participants explore and reclaim digital safety in an empowering, supportive, and non-technical way. Survivors can learn to spot surveillance, regain control of devices and accounts, and rebuild confidence in using technology, at their own pace, with no pressure to share or perform.
 
 The workshop is fun, choice-based, and trauma-aware, blending open-space learning with hands-on tech support, roleplays, and creative zones.
 
@@ -20,7 +20,7 @@ The workshop is fun, choice-based, and trauma-aware, blending open-space learnin
 
 ## Why run this?
 
-Digital abuse is now a common part of intimate partner violence—whether through location tracking, account lockouts, spyware, or smart home manipulation. Survivors often:
+Digital abuse is now a common part of intimate partner violence, whether through location tracking, account lockouts, spyware, or smart home manipulation. Survivors often:
 
 * Feel unsure where to start reclaiming control
 * Don’t know who to trust with their tech
@@ -105,7 +105,7 @@ Shelters and advocacy groups have several options for local support:
 
 Here’s a sample blurb:
 
-*We are organising a one-day “PowerOn” workshop to support survivors of domestic abuse in reclaiming digital safety and confidence. The workshop blends hands-on device help, privacy tips, and peer support in a trauma-aware, welcoming setting. We will provide food, materials, and one-on-one guidance. The session is optional, choice-led, and designed to meet survivors where they are—with no assumptions about skills, stories, or tech access.*
+*We are organising a one-day “PowerOn” workshop to support survivors of domestic abuse in reclaiming digital safety and confidence. The workshop blends hands-on device help, privacy tips, and peer support in a trauma-aware, welcoming setting. We will provide food, materials, and one-on-one guidance. The session is optional, choice-led, and designed to meet survivors where they are, with no assumptions about skills, stories, or tech access.*
 
 See the [Funding template for the tech safety for survivors choose-your-own-pace-day](/docs/workshops/tech-safety/funding-template.md) for more language for getting funding.
 

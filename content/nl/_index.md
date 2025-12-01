@@ -22,7 +22,7 @@ Open-source. Meertalig. Door de gemeenschap gebouwd.
         <i class="fas fa-book"></i>
     </div>
     <h3>Handleidingen</h3>
-    <p>Stap-voor-stap ondersteuning om digitale controle terug te nemen—kalm, gefocust, één actie tegelijk.</p>
+    <p>Stap-voor-stap ondersteuning om digitale controle terug te nemen, kalm, gefocust, één actie tegelijk.</p>
     <a href="docs/guides/" class="btn btn-lg btn-primary">Aan de slag</a>
 </div>
 {{% /blocks/feature %}}

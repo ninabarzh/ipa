@@ -7,14 +7,14 @@ _build:
 menu:
   sidebar:
     weight: 25
-description: "Termostatos, cerraduras, cámaras—incluso bombillas—pueden convertirse en herramientas de control. Esta sección te muestra cómo recuperar dispositivos del hogar inteligente, eliminar otros usuarios y restablecer tu espacio sin llamar la atención."
+description: "Termostatos, cerraduras, cámaras, incluso bombillas, pueden convertirse en herramientas de control. Esta sección te muestra cómo recuperar dispositivos del hogar inteligente, eliminar otros usuarios y restablecer tu espacio sin llamar la atención."
 ---
 
 ## Cómo tomar el control de un dispositivo de hogar inteligente
 
-Los hogares inteligentes deberían trabajar *para* ti—no servir como sistemas de vigilancia. Así verificas quién realmente está al mando.
+Los hogares inteligentes deberían trabajar *para* ti, no servir como sistemas de vigilancia. Así verificas quién realmente está al mando.
 
-1. Identifica qué dispositivos están en juego. Mira alrededor—cualquier cosa conectada a Wi-Fi podría estar comunicándose. Comienza con:
+1. Identifica qué dispositivos están en juego. Mira alrededor, cualquier cosa conectada a Wi-Fi podría estar comunicándose. Comienza con:
 
 * Termostatos (ej. Nest, Honeywell)
 * Cámaras (interior/exterior, timbres como Ring)
@@ -31,7 +31,7 @@ Los hogares inteligentes deberían trabajar *para* ti—no servir como sistemas 
 
 No son simples fallos. Son banderas rojas.
 
-3. Accede a la app del dispositivo desde tu teléfono. Cada dispositivo se controla mediante una app—usualmente la usada para configurarlo. Si no está en tu teléfono o no puedes acceder, puede estar registrado a otra cuenta.
+3. Accede a la app del dispositivo desde tu teléfono. Cada dispositivo se controla mediante una app, usualmente la usada para configurarlo. Si no está en tu teléfono o no puedes acceder, puede estar registrado a otra cuenta.
 
 4. Restablece el dispositivo de fábrica. Busca instrucciones exactas en línea. La mayoría tienen un botón pequeño o agujero. Esto:
 
@@ -58,7 +58,7 @@ No son simples fallos. Son banderas rojas.
 
 ## Cómo eliminar a alguien de un ecosistema de hogar inteligente compartido
 
-La mayoría de hogares inteligentes están diseñados para familias—familias que se confían. En situaciones de abuso, el "control compartido" se convierte en arma. Tomemos las riendas.
+La mayoría de hogares inteligentes están diseñados para familias, familias que se confían. En situaciones de abuso, el "control compartido" se convierte en arma. Tomemos las riendas.
 
 1. Identifica el ecosistema en cuestión. Cada compañía tiene su versión de "compartir en familia":
 
@@ -67,7 +67,7 @@ La mayoría de hogares inteligentes están diseñados para familias—familias q
 * Apple Family Sharing / HomeKit
 * Samsung SmartThings
 
-Si alguna vez te agregaron—o los agregaste—ambos podrían tener acceso de administrador.
+Si alguna vez te agregaron, o los agregaste, ambos podrían tener acceso de administrador.
 
 2. Revisa miembros del hogar/familia
 
@@ -100,7 +100,7 @@ Google Home:
 * Cerraduras
 * Cámaras
 
-Las instrucciones varían—consulta el sitio del fabricante.
+Las instrucciones varían, consulta el sitio del fabricante.
 
 5. Revisa rutinas, automatizaciones o alertas
 
@@ -108,7 +108,7 @@ Las instrucciones varían—consulta el sitio del fabricante.
 * Elimina su acceso desde servicios vinculados (ej. IFTTT, Spotify)
 * Desactiva funciones como "drop-in" en Alexa o "voice match" en Google
 
-6. Cambia contraseñas y desvincula cuentas. No solo los elimines—bloquéalos.
+6. Cambia contraseñas y desvincula cuentas. No solo los elimines, bloquéalos.
 
 * Cambia la contraseña del Wi-Fi
 * Reconecta dispositivos tú mismo

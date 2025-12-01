@@ -7,14 +7,14 @@ _build:
 menu:
   sidebar:
     weight: 25
-description: "Thermostaten, deursloten, camera's—zelfs lampen—kunnen controle-instrumenten worden. Deze sectie laat zien hoe je smart home-apparaten terugwint, andere gebruikers verwijdert en je ruimte reset zonder op te vallen."
+description: "Thermostaten, deursloten, camera's, zelfs lampen, kunnen controle-instrumenten worden. Deze sectie laat zien hoe je smart home-apparaten terugwint, andere gebruikers verwijdert en je ruimte reset zonder op te vallen."
 ---
 
 ## Hoe je controle over een smart home-apparaat overneemt
 
-Een slim huis zou *voor* je moeten werken—niet als surveillancesysteem. Zo check je wie echt aan de knoppen draait.
+Een slim huis zou *voor* je moeten werken, niet als surveillancesysteem. Zo check je wie echt aan de knoppen draait.
 
-1. Identificeer welke apparaten meespelen. Kijk rond—alles met WiFi-verbinding kan communiceren. Begin met:
+1. Identificeer welke apparaten meespelen. Kijk rond, alles met WiFi-verbinding kan communiceren. Begin met:
 
 * Thermostaten (bv. Nest, Honeywell)
 * Camera's (binnen/buiten, deurbellen zoals Ring)
@@ -31,7 +31,7 @@ Een slim huis zou *voor* je moeten werken—niet als surveillancesysteem. Zo che
 
 Dit zijn geen storingen. Het zijn rode vlaggen.
 
-3. Open de apparaat-app vanaf je eigen telefoon. Elk apparaat heeft een controle-app—meestal degene waarmee het werd ingesteld. Als de app er niet is of je bent uitgesloten, staat het mogelijk op een ander account.
+3. Open de apparaat-app vanaf je eigen telefoon. Elk apparaat heeft een controle-app, meestal degene waarmee het werd ingesteld. Als de app er niet is of je bent uitgesloten, staat het mogelijk op een ander account.
 
 4. Voer een fabrieksreset uit. Zoek online naar specifieke instructies. Meestal is er een resetknop of gaatje. Dit zal:
 
@@ -58,7 +58,7 @@ Dit zijn geen storingen. Het zijn rode vlaggen.
 
 ## Iemand veilig uit een gedeeld smart home-systeem verwijderen
 
-Slimme huizen zijn gemaakt voor gezinnen—gezinnen die elkaar vertrouwen. Bij misbruik wordt "gedeelde controle" een wapen. Laten we het stuur terugpakken.
+Slimme huizen zijn gemaakt voor gezinnen, gezinnen die elkaar vertrouwen. Bij misbruik wordt "gedeelde controle" een wapen. Laten we het stuur terugpakken.
 
 1. Bepaal welk ecosysteem je gebruikt. Elk bedrijf heeft zijn eigen "gezinsdeling":
 
@@ -67,7 +67,7 @@ Slimme huizen zijn gemaakt voor gezinnen—gezinnen die elkaar vertrouwen. Bij m
 * Apple Family Sharing / HomeKit
 * Samsung SmartThings
 
-Als zij jou ooit hebben toegevoegd—of jij hen—hebben jullie mogelijk beide adminrechten.
+Als zij jou ooit hebben toegevoegd, of jij hen, hebben jullie mogelijk beide adminrechten.
 
 2. Controleer gezins-/huishoudleden
 
@@ -100,7 +100,7 @@ Google Home:
 * Deursloten
 * Slimme camera's
 
-Resetinstructies verschillen—raadpleeg de fabrikant.
+Resetinstructies verschillen, raadpleeg de fabrikant.
 
 5. Controleer routines, automatiseringen of alerts
 
@@ -108,7 +108,7 @@ Resetinstructies verschillen—raadpleeg de fabrikant.
 * Ontkoppel hun toegang tot verbonden diensten (IFTTT, Spotify, etc.)
 * Schakel "drop-in" (Alexa) of "voice match" (Google) uit
 
-6. Wijzig wachtwoorden en ontkoppel gedeelde accounts. Verwijder ze niet alleen—sluit ze buiten.
+6. Wijzig wachtwoorden en ontkoppel gedeelde accounts. Verwijder ze niet alleen, sluit ze buiten.
 
 * Verander het WiFi-wachtwoord
 * Verbind apparaten zelf opnieuw
